@@ -1,0 +1,748 @@
+{
+  "resource_metadata": {
+    "aquifer_type": "Guide",
+    "resource_type": "Bible Translation Manual",
+    "title": "Translation Manual (unfoldingWord)",
+    "aquifer_name": "翻譯手冊 (unfoldingWord)",
+    "collection_title": "Translation Manual (unfoldingWord)",
+    "short_name": "UWTM",
+    "license_info": {
+      "title": "unfoldingWord® Translation Academy",
+      "copyright": {
+        "dates": "2022",
+        "holder": {
+          "name": "unfoldingWord",
+          "url": "https://unfoldingword.org/utw"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    },
+    "adaptation_notice": "",
+    "resource_code": "UWTranslationManual",
+    "date_created": "2025-10-21",
+    "language": "zht",
+    "localizations": [
+      "eng",
+      "arb",
+      "hin",
+      "ind",
+      "por",
+      "spa",
+      "nep"
+    ],
+    "order": "monograph",
+    "content_type": "Html"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2025-10-21T15:19:41.125962"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "UWTranslationManual": {
+            "timestamp": "2025-10-21T15:19:41.125962"
+          }
+        }
+      },
+      "name": {
+        "zh": "unfoldingWord® Translation Academy"
+      },
+      "abbreviation": {
+        "zh": "UWTM"
+      }
+    },
+    "languages": [
+      {
+        "tag": "zh",
+        "name": {
+          "zh": "Chinese (Traditional)"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "peripheral",
+        "flavor": {
+          "name": "textAquiferMonograph",
+          "audience": "common"
+        },
+        "currentScope": {}
+      }
+    },
+    "ingredients": {
+      "json/000001.content.json": {
+        "mimeType": "text/json",
+        "size": 164137
+      },
+      "json/000002.content.json": {
+        "mimeType": "text/json",
+        "size": 267809
+      },
+      "json/000003.content.json": {
+        "mimeType": "text/json",
+        "size": 4730
+      },
+      "json/000004.content.json": {
+        "mimeType": "text/json",
+        "size": 3828
+      },
+      "json/000005.content.json": {
+        "mimeType": "text/json",
+        "size": 599266
+      },
+      "json/000006.content.json": {
+        "mimeType": "text/json",
+        "size": 3886
+      },
+      "json/000007.content.json": {
+        "mimeType": "text/json",
+        "size": 6895
+      },
+      "json/000008.content.json": {
+        "mimeType": "text/json",
+        "size": 1586
+      },
+      "json/000009.content.json": {
+        "mimeType": "text/json",
+        "size": 8781
+      },
+      "json/000010.content.json": {
+        "mimeType": "text/json",
+        "size": 1432
+      },
+      "json/000011.content.json": {
+        "mimeType": "text/json",
+        "size": 3074
+      },
+      "json/000012.content.json": {
+        "mimeType": "text/json",
+        "size": 1385
+      },
+      "json/000013.content.json": {
+        "mimeType": "text/json",
+        "size": 1129
+      },
+      "md/000001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 41557
+      },
+      "md/000002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 65551
+      },
+      "md/000003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3332
+      },
+      "md/000004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3459
+      },
+      "md/000005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 144361
+      },
+      "md/000006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3935
+      },
+      "md/000007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7205
+      },
+      "md/000008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1649
+      },
+      "md/000009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7852
+      },
+      "md/000010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1509
+      },
+      "md/000011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2095
+      },
+      "md/000012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1236
+      },
+      "md/000013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1268
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>unfoldingWord® Translation Academy © 2022 unfoldingWord.</p>",
+          "mimetype": "text/html",
+          "lang": "zh"
+        }
+      ]
+    }
+  },
+  "article_metadata": {
+    "806680": {
+      "content_id": 806680,
+      "reference_id": 26671,
+      "index_reference": "抽象名詞",
+      "localizations": {
+        "eng": {
+          "content_id": 33257,
+          "language": "eng",
+          "title": "Abstract Nouns"
+        },
+        "arb": {
+          "content_id": 781596,
+          "language": "arb",
+          "title": "الأسماء المجردة"
+        },
+        "hin": {
+          "content_id": 727303,
+          "language": "hin",
+          "title": "भाववाचक संज्ञा"
+        },
+        "ind": {
+          "content_id": 727510,
+          "language": "ind",
+          "title": "Kata Benda Abstrak"
+        },
+        "por": {
+          "content_id": 800036,
+          "language": "por",
+          "title": "Substantivos abstratos"
+        },
+        "spa": {
+          "content_id": 727901,
+          "language": "spa",
+          "title": "Sustantivos abstractos"
+        },
+        "nep": {
+          "content_id": 727672,
+          "language": "nep",
+          "title": "भाववाचक नाम"
+        }
+      }
+    },
+    "806681": {
+      "content_id": 806681,
+      "reference_id": 26672,
+      "index_reference": "主動或被動",
+      "localizations": {
+        "eng": {
+          "content_id": 33258,
+          "language": "eng",
+          "title": "Active or Passive"
+        },
+        "arb": {
+          "content_id": 781597,
+          "language": "arb",
+          "title": "المبني للمعلوم أو المبني للمجهول"
+        },
+        "hin": {
+          "content_id": 727304,
+          "language": "hin",
+          "title": "कर्तृवाच्य एवं कर्मवाच्य"
+        },
+        "ind": {
+          "content_id": 727511,
+          "language": "ind",
+          "title": "Aktif atau Pasif"
+        },
+        "por": {
+          "content_id": 800037,
+          "language": "por",
+          "title": "Ativo ou passivo"
+        },
+        "spa": {
+          "content_id": 727902,
+          "language": "spa",
+          "title": "Activo o pasivo"
+        },
+        "nep": {
+          "content_id": 727673,
+          "language": "nep",
+          "title": "कर्तृवाच्य र कर्मवाच्य"
+        }
+      }
+    },
+    "806682": {
+      "content_id": 806682,
+      "reference_id": 26673,
+      "index_reference": "頓呼法",
+      "localizations": {
+        "eng": {
+          "content_id": 33259,
+          "language": "eng",
+          "title": "Apostrophe"
+        },
+        "arb": {
+          "content_id": 781598,
+          "language": "arb",
+          "title": "الفاصلة العلوية أو (في الإطار البلاغي \"الاستغاثة أو النداء\")"
+        },
+        "hin": {
+          "content_id": 727305,
+          "language": "hin",
+          "title": "संबोधक चिन्ह"
+        },
+        "por": {
+          "content_id": 800038,
+          "language": "por",
+          "title": "Apóstrofe"
+        },
+        "spa": {
+          "content_id": 727903,
+          "language": "spa",
+          "title": "Apóstrofe"
+        },
+        "nep": {
+          "content_id": 727674,
+          "language": "nep",
+          "title": "सम्बोधन चिन्ह"
+        }
+      }
+    },
+    "806683": {
+      "content_id": 806683,
+      "reference_id": 26674,
+      "index_reference": "獨白",
+      "localizations": {
+        "eng": {
+          "content_id": 33260,
+          "language": "eng",
+          "title": "Aside"
+        },
+        "arb": {
+          "content_id": 781599,
+          "language": "arb",
+          "title": "حديث جانبي"
+        },
+        "hin": {
+          "content_id": 727306,
+          "language": "hin",
+          "title": "परोक्ष टिपण्णी"
+        },
+        "por": {
+          "content_id": 800039,
+          "language": "por",
+          "title": "Aparte"
+        },
+        "spa": {
+          "content_id": 727904,
+          "language": "spa",
+          "title": "Aside"
+        },
+        "nep": {
+          "content_id": 727675,
+          "language": "nep",
+          "title": "असाइड"
+        }
+      }
+    },
+    "806686": {
+      "content_id": 806686,
+      "reference_id": 26687,
+      "index_reference": "預設的知識和隱含的資訊",
+      "localizations": {
+        "eng": {
+          "content_id": 33273,
+          "language": "eng",
+          "title": "Assumed Knowledge and Implicit Information"
+        },
+        "arb": {
+          "content_id": 781612,
+          "language": "arb",
+          "title": "المعرفة المفترضة والمعلومات الضمنية"
+        },
+        "hin": {
+          "content_id": 727317,
+          "language": "hin",
+          "title": "अनुमानित ज्ञान एवं अंतर्निहित सूचना"
+        },
+        "ind": {
+          "content_id": 727522,
+          "language": "ind",
+          "title": "Asumsi Pengetahuan dan Informasi Tersirat"
+        },
+        "por": {
+          "content_id": 800052,
+          "language": "por",
+          "title": "Conhecimento presumido e informações implícitas"
+        },
+        "spa": {
+          "content_id": 727916,
+          "language": "spa",
+          "title": "Conocimiento asumido e información implícita"
+        },
+        "nep": {
+          "content_id": 727686,
+          "language": "nep",
+          "title": "ग्रहण गरिएको ज्ञान र अन्तर्निहित जानकारी"
+        }
+      }
+    },
+    "806700": {
+      "content_id": 806700,
+      "reference_id": 26781,
+      "index_reference": "字母/拼寫法",
+      "localizations": {
+        "eng": {
+          "content_id": 33367,
+          "language": "eng",
+          "title": "Alphabet/Orthography"
+        },
+        "arb": {
+          "content_id": 781706,
+          "language": "arb",
+          "title": "الأبجدية/قواعد الكتابة"
+        },
+        "hin": {
+          "content_id": 727418,
+          "language": "hin",
+          "title": "अक्षरमाला/वर्तनी"
+        },
+        "ind": {
+          "content_id": 727603,
+          "language": "ind",
+          "title": "Alfabet/Ortografi"
+        },
+        "por": {
+          "content_id": 800146,
+          "language": "por",
+          "title": "Alfabeto/Ortografia"
+        },
+        "spa": {
+          "content_id": 728043,
+          "language": "spa",
+          "title": "Alphabet/Orthography"
+        },
+        "nep": {
+          "content_id": 727806,
+          "language": "nep",
+          "title": "वर्णमाला र हिज्जे सम्बन्धी नियम"
+        }
+      }
+    },
+    "806701": {
+      "content_id": 806701,
+      "reference_id": 26782,
+      "index_reference": "字母發展",
+      "localizations": {
+        "eng": {
+          "content_id": 33368,
+          "language": "eng",
+          "title": "Alphabet Development"
+        },
+        "arb": {
+          "content_id": 781707,
+          "language": "arb",
+          "title": "تطوير الأبجدية"
+        },
+        "hin": {
+          "content_id": 727419,
+          "language": "hin",
+          "title": "अक्षरमाला विकास"
+        },
+        "ind": {
+          "content_id": 727604,
+          "language": "ind",
+          "title": "Perkembangan Alfabet"
+        },
+        "por": {
+          "content_id": 800147,
+          "language": "por",
+          "title": "Desenvolvimento do alfabeto"
+        },
+        "spa": {
+          "content_id": 728044,
+          "language": "spa",
+          "title": "Alphabet Development"
+        },
+        "nep": {
+          "content_id": 727807,
+          "language": "nep",
+          "title": "वर्णमालाको विकास"
+        }
+      }
+    },
+    "806711": {
+      "content_id": 806711,
+      "reference_id": 209448,
+      "index_reference": "可接受的風格",
+      "localizations": {
+        "eng": {
+          "content_id": 689628,
+          "language": "eng",
+          "title": "Acceptable Style"
+        },
+        "arb": {
+          "content_id": 781767,
+          "language": "arb",
+          "title": "الأسلوب المقبول"
+        },
+        "hin": {
+          "content_id": 727246,
+          "language": "hin",
+          "title": "स्वीकार्य शैली"
+        },
+        "ind": {
+          "content_id": 727489,
+          "language": "ind",
+          "title": "Bentuk yang Dapat Diterima"
+        },
+        "por": {
+          "content_id": 800207,
+          "language": "por",
+          "title": "Estilo aceitável"
+        },
+        "spa": {
+          "content_id": 727878,
+          "language": "spa",
+          "title": "Acceptable Style"
+        },
+        "nep": {
+          "content_id": 727647,
+          "language": "nep",
+          "title": "स्वीकार्य शैली"
+        }
+      }
+    },
+    "806713": {
+      "content_id": 806713,
+      "reference_id": 209450,
+      "index_reference": "對齊檢查",
+      "localizations": {
+        "eng": {
+          "content_id": 689630,
+          "language": "eng",
+          "title": "Alignment Checking"
+        },
+        "arb": {
+          "content_id": 781769,
+          "language": "arb",
+          "title": "التحقق من التوافق"
+        },
+        "hin": {
+          "content_id": 799953,
+          "language": "hin",
+          "title": "संरेखण जांच"
+        },
+        "ind": {
+          "content_id": 727491,
+          "language": "ind",
+          "title": "Pemeriksaan Keselarasan"
+        },
+        "por": {
+          "content_id": 800209,
+          "language": "por",
+          "title": "Verificação de Alinhamento"
+        },
+        "spa": {
+          "content_id": 727880,
+          "language": "spa",
+          "title": "Alignment Checking"
+        }
+      }
+    },
+    "806714": {
+      "content_id": 806714,
+      "reference_id": 209451,
+      "index_reference": "適合的字母/文字系統",
+      "localizations": {
+        "eng": {
+          "content_id": 689631,
+          "language": "eng",
+          "title": "Appropriate Alphabet"
+        },
+        "arb": {
+          "content_id": 781770,
+          "language": "arb",
+          "title": "الأبجدية المناسبة"
+        },
+        "hin": {
+          "content_id": 727248,
+          "language": "hin",
+          "title": "उचित अक्षरमाला"
+        },
+        "ind": {
+          "content_id": 727492,
+          "language": "ind",
+          "title": "Abjad yang Sesuai"
+        },
+        "por": {
+          "content_id": 800210,
+          "language": "por",
+          "title": "Alfabeto apropriado"
+        },
+        "spa": {
+          "content_id": 727881,
+          "language": "spa",
+          "title": "Appropriate Alphabet"
+        },
+        "nep": {
+          "content_id": 727650,
+          "language": "nep",
+          "title": "उपयुक्त वर्णमाला"
+        }
+      }
+    },
+    "806716": {
+      "content_id": 806716,
+      "reference_id": 209453,
+      "index_reference": "由教會領袖進行的準確性審查",
+      "localizations": {
+        "eng": {
+          "content_id": 689633,
+          "language": "eng",
+          "title": "Accuracy Checking by Church Leaders"
+        },
+        "arb": {
+          "content_id": 781772,
+          "language": "arb",
+          "title": "التحقق من الدقة من قِبَل قادة الكنيسة"
+        },
+        "hin": {
+          "content_id": 727250,
+          "language": "hin",
+          "title": "कलीसियाई अगुवों की जाँच"
+        },
+        "ind": {
+          "content_id": 727505,
+          "language": "ind",
+          "title": "Pemeriksaan Keakuratan oleh Pemimpin Gereja"
+        },
+        "por": {
+          "content_id": 800212,
+          "language": "por",
+          "title": "Verificação de Precisão por líderes de igreja"
+        },
+        "spa": {
+          "content_id": 727896,
+          "language": "spa",
+          "title": "Church Leader Check"
+        },
+        "nep": {
+          "content_id": 727667,
+          "language": "nep",
+          "title": "मण्डली नेतृत्वद्वारा गरिने जाँच"
+        }
+      }
+    },
+    "806719": {
+      "content_id": 806719,
+      "reference_id": 209461,
+      "index_reference": "準確性及社群審核確認文件",
+      "localizations": {
+        "eng": {
+          "content_id": 689641,
+          "language": "eng",
+          "title": "Affirmation of Accuracy and Community Acceptance"
+        },
+        "arb": {
+          "content_id": 781780,
+          "language": "arb",
+          "title": "تأكيد الدقة وقبول المجتمع"
+        },
+        "hin": {
+          "content_id": 727256,
+          "language": "hin",
+          "title": "स्तर 2 पुष्टिकरण"
+        },
+        "ind": {
+          "content_id": 727559,
+          "language": "ind",
+          "title": "Penegasan Keakuratan dan Penerimaan Komunitas"
+        },
+        "por": {
+          "content_id": 800220,
+          "language": "por",
+          "title": "Afirmação de precisão e aceitação pela comunidade"
+        },
+        "spa": {
+          "content_id": 727972,
+          "language": "spa",
+          "title": "Affirmation of Accuracy and Community Acceptance"
+        },
+        "nep": {
+          "content_id": 727739,
+          "language": "nep",
+          "title": "तह २ पुष्टि"
+        }
+      }
+    },
+    "806725": {
+      "content_id": 806725,
+      "reference_id": 209496,
+      "index_reference": "回譯",
+      "localizations": {
+        "eng": {
+          "content_id": 689676,
+          "language": "eng",
+          "title": "Back Translation"
+        },
+        "arb": {
+          "content_id": 781815,
+          "language": "arb",
+          "title": "الترجمة العكسية"
+        },
+        "hin": {
+          "content_id": 727271,
+          "language": "hin",
+          "title": "पिछला अनुवाद"
+        },
+        "ind": {
+          "content_id": 727620,
+          "language": "ind",
+          "title": "Terjemahan Balik"
+        },
+        "por": {
+          "content_id": 800255,
+          "language": "por",
+          "title": "Tradução Reversa"
+        },
+        "spa": {
+          "content_id": 728091,
+          "language": "spa",
+          "title": "Back Translation"
+        },
+        "nep": {
+          "content_id": 727854,
+          "language": "nep",
+          "title": "वापस अनुवाद"
+        }
+      }
+    }
+  }
+}
