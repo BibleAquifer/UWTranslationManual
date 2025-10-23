@@ -28,7 +28,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "UWTranslationManual",
-    "date_created": "2025-10-21",
+    "date_created": "2025-10-22",
     "language": "zht",
     "localizations": [
       "eng",
@@ -48,7 +48,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-21T15:19:41.125962"
+      "dateCreated": "2025-10-22T15:06:11.597116"
     },
     "idAuthorities": {
       "aquifer": {
@@ -62,7 +62,7 @@
       "primary": {
         "aquifer": {
           "UWTranslationManual": {
-            "timestamp": "2025-10-21T15:19:41.125962"
+            "timestamp": "2025-10-22T15:06:11.597116"
           }
         }
       },
