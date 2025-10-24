@@ -28,7 +28,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "UWTranslationManual",
-    "date_created": "2025-10-22",
+    "date_created": "2025-10-24",
     "language": "zht",
     "localizations": [
       "eng",
@@ -48,7 +48,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-22T15:06:11.597116"
+      "dateCreated": "2025-10-24T06:29:37.548473"
     },
     "idAuthorities": {
       "aquifer": {
@@ -62,7 +62,7 @@
       "primary": {
         "aquifer": {
           "UWTranslationManual": {
-            "timestamp": "2025-10-22T15:06:11.597116"
+            "timestamp": "2025-10-24T06:29:37.548473"
           }
         }
       },
@@ -118,7 +118,7 @@
       },
       "json/000007.content.json": {
         "mimeType": "text/json",
-        "size": 6895
+        "size": 8723
       },
       "json/000008.content.json": {
         "mimeType": "text/json",
@@ -170,7 +170,7 @@
       },
       "md/000007.content.md": {
         "mimeType": "text/markdown",
-        "size": 7205
+        "size": 7221
       },
       "md/000008.content.md": {
         "mimeType": "text/markdown",

@@ -28,7 +28,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "UWTranslationManual",
-    "date_created": "2025-10-22",
+    "date_created": "2025-10-24",
     "language": "por",
     "localizations": [
       "eng",
@@ -48,7 +48,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-22T15:06:10.095889"
+      "dateCreated": "2025-10-24T06:29:36.776013"
     },
     "idAuthorities": {
       "aquifer": {
@@ -62,7 +62,7 @@
       "primary": {
         "aquifer": {
           "UWTranslationManual": {
-            "timestamp": "2025-10-22T15:06:10.095889"
+            "timestamp": "2025-10-24T06:29:36.776013"
           }
         }
       },
@@ -594,11 +594,11 @@
       },
       "json/000126.content.json": {
         "mimeType": "text/json",
-        "size": 7369
+        "size": 8871
       },
       "json/000127.content.json": {
         "mimeType": "text/json",
-        "size": 13683
+        "size": 13869
       },
       "json/000128.content.json": {
         "mimeType": "text/json",
@@ -610,15 +610,15 @@
       },
       "json/000130.content.json": {
         "mimeType": "text/json",
-        "size": 14673
+        "size": 15095
       },
       "json/000131.content.json": {
         "mimeType": "text/json",
-        "size": 11186
+        "size": 11614
       },
       "json/000132.content.json": {
         "mimeType": "text/json",
-        "size": 9725
+        "size": 10062
       },
       "json/000133.content.json": {
         "mimeType": "text/json",
@@ -1558,11 +1558,11 @@
       },
       "md/000126.content.md": {
         "mimeType": "text/markdown",
-        "size": 7632
+        "size": 7647
       },
       "md/000127.content.md": {
         "mimeType": "text/markdown",
-        "size": 8288
+        "size": 8291
       },
       "md/000128.content.md": {
         "mimeType": "text/markdown",
@@ -1574,15 +1574,15 @@
       },
       "md/000130.content.md": {
         "mimeType": "text/markdown",
-        "size": 6369
+        "size": 6379
       },
       "md/000131.content.md": {
         "mimeType": "text/markdown",
-        "size": 8662
+        "size": 8646
       },
       "md/000132.content.md": {
         "mimeType": "text/markdown",
-        "size": 6397
+        "size": 6402
       },
       "md/000133.content.md": {
         "mimeType": "text/markdown",
