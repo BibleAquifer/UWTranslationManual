@@ -1,0 +1,44 @@
+[
+  {
+    "content_id": 781807,
+    "reference_id": 209488,
+    "title": "مقدمة إلى أكاديمية الترجمة unfoldingWord®",
+    "media_type": "Text",
+    "index_reference": "مقدمة إلى أكاديمية الترجمة unfoldingword®",
+    "language": "arb",
+    "content": "<h3>مرحبًا بك في أكاديمية الترجمة من unfoldingWord®</h3><p>أكاديمية الترجمة من unfoldingWord® هي مجموعة من المعلومات والإرشادات حول موضوع ترجمة الكتاب المقدس. المستخدمون الأساسيون الذين نستهدفهم هم المُترجمون المحليون داخل الكنائس، الذين يترجمون إلى لغتهم الأم. وقد كُتبت هذه الأكاديمية بلغة بسيطة كلما أمكن ذلك، وتهدف إلى تمكين أي شخص، في أي مكان، من تأهيل نفسه ليكون قادرًا على إنتاج ترجمات عالية الجودة للمحتوى الكتابي بلغته الخاصة.</p><p>تم تصميم أكاديمية الترجمة من unfoldingWord® لتكون مرنة للغاية. فهي مبنية بطريقة وحدات مستقلة، مما يسمح بوجود مسارات متعددة داخل المحتوى بحسب احتياجات واهتمامات المستخدم. ورغم أنها توصي بخطوات وإجراءات معينة، إلا أنها تسعى لأن تكون محايدة من حيث النماذج والأساليب، بحيث يمكن استخدامها في مجموعة متنوعة من السياقات والعمليات. يمكن استخدامها ضمن نهج منظّم ومسبق التخطيط، أو ضمن تعلُّم فوري عند الحاجة — أو كليهما حسب الحاجة والموقف.</p><p>تنقسم أكاديمية الترجمة unfoldingWord® إلى الأقسام التالية:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209488\" data-resourceType=\"UWTranslationManual\">المقدمة</span> — تقدّم هذه الموارد واستراتيجية لغات البوابة ومجال الترجمة</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209478\" data-resourceType=\"UWTranslationManual\">دليل العملية</span> — يجيب عن سؤال &quot;ما هي الخطوة التالية؟&quot;</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">دليل الترجمة</span> — يشرح أساسيات نظرية الترجمة ويقدّم مساعدات عملية لترجمة الكتاب المقدس</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209465\" data-resourceType=\"UWTranslationManual\">دليل المراجعة</span> — يشرح أساسيات نظرية التدقيق وأفضل الممارسات لمراجعة الترجمات والتحقق من جودتها</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26802,
+          "content_id": 781727,
+          "resource_code": "UWTranslationManual",
+          "label": "مقدمة دليل الترجمة",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209465,
+          "content_id": 781784,
+          "resource_code": "UWTranslationManual",
+          "label": "مقدمة التحقق من الترجمة",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209478,
+          "content_id": 781797,
+          "resource_code": "UWTranslationManual",
+          "label": "مقدمة إلى دليل العمليات",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209488,
+          "content_id": 781807,
+          "resource_code": "UWTranslationManual",
+          "label": "مقدمة إلى أكاديمية الترجمة unfoldingWord®",
+          "language": "arb"
+        }
+      ]
+    }
+  }
+]

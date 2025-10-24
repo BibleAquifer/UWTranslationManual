@@ -1,0 +1,15 @@
+[
+  {
+    "content_id": 728004,
+    "reference_id": 209469,
+    "title": "Translation Evaluation Form",
+    "media_type": "Text",
+    "index_reference": "translation evaluation form",
+    "language": "spa",
+    "content": "<h3>Quality Checker Evaluation</h3><p>I, as a Quality Checker for the * <u>fill in name of church network or other organization</u> * Church Network or Organization serving the * <u>fill in the name of the language community</u> * language community, affirm that I have checked the translation of * <u>fill in name of the part of the Bible checked</u> * with members of the Translation Team, and also affirm the following:</p><ol><li><p>The translation conforms to the Statement of Faith and Translation Guidelines.</p></li><li><p>The translation is accurate and clear in the target language.</p></li><li><p>The translation uses an acceptable style of the language.</p></li><li><p>The community approves of the translation.</p></li></ol><p>If any problems remain unresolved after meeting with the Translation Team a second time, please make note of them here.</p><p>Signed: <u>sign here</u></p><p>Position: <u>fill in your position here</u></p><p>For Gateway Languages, you will need to follow the <span data-bnType=\"resourceReference\" data-resourceId=\"209705\" data-resourceType=\"UWTranslationManual\">Source Text Process</span> so that your translation can become a source text.</p>",
+    "associations": {
+      "passage": [],
+      "resource": []
+    }
+  }
+]

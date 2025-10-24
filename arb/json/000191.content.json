@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 781772,
+    "reference_id": 209453,
+    "title": "التحقق من الدقة من قِبَل قادة الكنيسة",
+    "media_type": "Text",
+    "index_reference": "التحقق من الدقة من قِبَل قادة الكنيسة",
+    "language": "arb",
+    "content": "<h3>التحقق من الدقة من قِبَل قادة الكنيسة</h3><p>بعد التحقق من الترجمة من قِبَل أعضاء المجتمع من حيث الوضوح وكوْنها مناسبة، سيتم فحصها من قِبَل قادة الكنيسة للتحقق من دقتها. وهذه هي الإرشادات لهؤلاء القادة الذين يقومون بالتحقق من الدقة: يجب أن يكونوا متحدثين أصليين للغة المستهدفة ولديهم فهم جيد لإحدى اللغات التي يتوفر بها النص الأصلي. يجب ألا يكونوا نفس الأشخاص الذين قاموا بالترجمة. كما ينبغي أن يكونوا من قادة الكنيسة الذين لديهم معرفة جيدة بالكتاب المُقَدَّس. عادةً ما يكون هؤلاء المراجعون قساوسة. ويجب أن يمثل قادة الكنيسة هؤلاء أكبر عدد ممكن من مختلف شبكات الكنائس في مجتمع هذه اللغة.</p><p>ينبغي لهؤلاء المراجعين اتِّبَاع الخطوات التالية:</p><ol><li><p>يرجى قراءة <span data-bnType=\"resourceReference\" data-resourceId=\"209492\" data-resourceType=\"UWTranslationManual\">إرشادات الترجمة</span> للتأكد من أن الترجمة تتوافق مع هذه الإرشادات بينما يقومون بمراجعتها.</p></li><li><p>الإجابة عن الأسئلة المتعلقة بالمترجم أو فريق الترجمة الموجودة في <span data-bnType=\"resourceReference\" data-resourceId=\"26764\" data-resourceType=\"UWTranslationManual\">مؤهلات المترجم</span>.</p></li><li><p>التأكد من أن الترجمة تمت بأسلوب مقبول لدى الجمهور المستهدف بواسطة طرح الأسئلة الموجودة في <span data-bnType=\"resourceReference\" data-resourceId=\"209448\" data-resourceType=\"UWTranslationManual\">الأسلوب المقبول</span>.</p></li><li><p>التأكد من أن الترجمة تنقل بدقة معنى النص الأصلي باتِّبَاع الإرشادات في <span data-bnType=\"resourceReference\" data-resourceId=\"209449\" data-resourceType=\"UWTranslationManual\">التحقق من الدقة</span>.</p></li><li><p>تيقن من أن الترجمة مكتملة باتِّبَاع الإرشادات في <span data-bnType=\"resourceReference\" data-resourceId=\"209456\" data-resourceType=\"UWTranslationManual\">الترجمة الكاملة</span>.</p></li><li><p>بعد أن تقوم، بصفتك المتحقق من الدقة، بمراجعة عدة أصحاحات أو سفر واحد من الكتاب المُقَدَّس، اجتمع مع فريق الترجمة وناقش كل مشكلة قد اكتشفتها. تباحث مع فريق الترجمة حول كيفية تعديل الترجمة لإصلاح كل مشكلة. ضع خططًا للاجتماع مرة أخرى مع فريق الترجمة في وقت لاحق، بعد أن يكون لديهم الوقت لتعديل الترجمة واختبارها مع المجتمع.</p></li><li><p>الاجتماع مرة أخرى مع فريق الترجمة للتأكد من أنهم قد أصلحوا المشاكل.</p></li><li><p>تأكيد أن الترجمة جيدة على صفحة <span data-bnType=\"resourceReference\" data-resourceId=\"209461\" data-resourceType=\"UWTranslationManual\">تأكيد الدقة</span>.</p></li></ol>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26764,
+          "content_id": 781689,
+          "resource_code": "UWTranslationManual",
+          "label": "مؤهلات المترجم",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209448,
+          "content_id": 781767,
+          "resource_code": "UWTranslationManual",
+          "label": "الأسلوب المقبول",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209449,
+          "content_id": 781768,
+          "resource_code": "UWTranslationManual",
+          "label": "التحقق من الترجمة من حيث الدقة",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209456,
+          "content_id": 781775,
+          "resource_code": "UWTranslationManual",
+          "label": "ترجمة كاملة",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209461,
+          "content_id": 781780,
+          "resource_code": "UWTranslationManual",
+          "label": "تأكيد الدقة وقبول المجتمع",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 781811,
+          "resource_code": "UWTranslationManual",
+          "label": "إرشادات الترجمة",
+          "language": "arb"
+        }
+      ]
+    }
+  }
+]

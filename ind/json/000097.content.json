@@ -1,0 +1,23 @@
+[
+  {
+    "content_id": 727506,
+    "reference_id": 209454,
+    "title": "Terjemahan yang Jelas",
+    "media_type": "Text",
+    "index_reference": "terjemahan yang jelas",
+    "language": "ind",
+    "content": "<h3>Terjemahan yang Jelas</h3><p>Terjemahan harus jelas. Artinya, orang yang membaca atau mendengarnya dapat dengan mudah memahami apa yang ingin disampaikan. Anda dapat mengetahui apakah suatu terjemahan sudah jelas dengan membacanya sendiri. Namun, akan lebih baik lagi jika Anda membacanya dengan suara keras di hadapan orang lain dari komunitas bahasa yang sama. Ketika Anda membaca terjemahan, tanyakan pada diri Anda sendiri (atau orang yang Anda bacakan) pertanyaan-pertanyaan seperti yang tercantum di bawah ini untuk mengetahui apakah pesan yang diterjemahkan sudah jelas. Untuk bagian pengujian ini, jangan bandingkan hasil terjemahan baru dengan hasil terjemahan bahasa sumber. Jika ada masalah di bagian mana pun, catatlah agar Anda dapat mendiskusikan masalah tersebut dengan tim penerjemah di lain waktu.</p><ol><li><p>Apakah kata-kata dan frasa dalam terjemahan membuat pesan yang disampaikan dapat dimengerti? (Apakah kata-katanya membingungkan, atau apakah kata-kata tersebut memberi tahu Anda dengan jelas apa yang dimaksud oleh penerjemah?)</p></li><li><p>Apakah anggota komunitas Anda menggunakan kata-kata dan ungkapan yang terdapat dalam terjemahan, atau apakah penerjemah meminjam banyak kata dari bahasa nasional? (Apakah ini cara masyarakat Anda berbicara ketika mereka ingin mengatakan hal-hal penting dalam bahasa Anda?)</p></li><li><p>Apakah terjemahan tersebut dapat berbicara dengan baik kepada audiens yang menjadi sasaran penerjemahan Anda? (Ingatlah bahwa orang tua dan orang muda dapat memilih kata dan ungkapan yang berbeda).</p></li><li><p>Dapatkah Anda membaca teks dengan mudah dan memahami apa yang akan disampaikan oleh penulis selanjutnya? (Apakah penerjemah menggunakan gaya yang baik dalam menyampaikan cerita? Apakah dia menceritakan sesuatu dengan cara yang masuk akal, sehingga setiap bagian sesuai dengan bagian sebelumnya dan bagian sesudahnya? Apakah Anda harus berhenti dan membaca sebagian lagi untuk memahaminya?)</p></li></ol><p>Bantuan tambahan:</p><ul><li><p>Salah satu cara untuk menentukan apakah teksnya jelas adalah dengan membaca beberapa ayat sekaligus dengan suara keras dan meminta seseorang yang mendengarkan untuk menceritakan kembali kisahnya setelah setiap bagian. Jika orang tersebut dapat dengan mudah mengungkapkan kembali pesan Anda, maka tulisannya jelas. Untuk metode lain dalam menguji terjemahan, lihat <span data-bnType=\"resourceReference\" data-resourceId=\"209473\" data-resourceType=\"UWTranslationManual\">Metode Lain</span>.).</p></li><li><p>Jika ada bagian yang kurang jelas, catatlah agar Anda dapat mendiskusikannya dengan tim penerjemah.</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209473,
+          "content_id": 727584,
+          "resource_code": "UWTranslationManual",
+          "label": "Metode-metode yang lain",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "content_id": 727577,
+    "reference_id": 209466,
+    "title": "Pengantar Penerbitan",
+    "media_type": "Text",
+    "index_reference": "pengantar penerbitan",
+    "language": "ind",
+    "content": "<h3>Tinjauan Penerbitan</h3><p>Setelah sebuah karya diunggah ke Door43, karya tersebut secara otomatis tersedia secara online di bawah akun pengguna Anda. Hal ini disebut sebagai penerbitan mandiri. Anda akan memiliki akses ke versi web proyek Anda di https://door43.org/u/user_name/project_name (di mana nama_pengguna adalah nama pengguna Anda dan nama_proyek adalah proyek terjemahan Anda). Baik translationStudio maupun translationCore akan memberikan Anda tautan yang benar saat Anda mengunggah. Anda juga dapat menelusuri semua karya di https://door43.org.</p><p>Dari halaman proyek Door43 Anda, Anda bisa:</p><ul><li><p>Melihat versi web proyek Anda dengan format default</p></li><li><p>Mengunduh dokumen proyek Anda (seperti PDF)</p></li><li><p>Dapatkan tautan ke file sumber (USFM atau Markdown) untuk proyek Anda</p></li><li><p>Berinteraksi dengan orang lain tentang proyek Anda</p></li><li><p>Lanjutkan mengedit dan meningkatkan proyek Anda dan melacak semua perubahan</p></li></ul><p>Untuk informasi lebih lanjut mengenai mendistribusikan proyek Anda kepada orang lain, lihat <span data-bnType=\"resourceReference\" data-resourceId=\"209467\" data-resourceType=\"UWTranslationManual\">Distribusi</span>.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209467,
+          "content_id": 727578,
+          "resource_code": "UWTranslationManual",
+          "label": "Pengantar Distribusi",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]

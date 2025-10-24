@@ -1,0 +1,23 @@
+[
+  {
+    "content_id": 727589,
+    "reference_id": 209478,
+    "title": "Pengantar ke Panduan Proses",
+    "media_type": "Text",
+    "index_reference": "pengantar ke panduan proses",
+    "language": "ind",
+    "content": "<h3>Selamat datang</h3><p>Selamat datang di penerjemahan Alkitab! Kami senang bahwa Anda ingin menerjemahkan pesan Tuhan ke dalam bahasa suku Anda, baik itu melalui penerjemahan kisah-kisah Alkitab maupun buku-buku Alkitab. Panduan Proses ini adalah panduan langkah demi langkah untuk membantu tim penerjemah mengetahui apa yang perlu mereka lakukan dari awal proyek hingga selesai. Panduan ini akan membantu tim penerjemah mulai dari persiapan awal hingga penerbitan akhir konten yang telah diterjemahkan dan diperiksa.</p><h3>Memulai</h3><p>Penerjemahan adalah tugas yang sangat kompleks yang membutuhkan komitmen, organisasi, dan perencanaan. Ada banyak langkah yang diperlukan untuk menerjemahkan dari sebuah ide menjadi terjemahan yang telah selesai, diperiksa, didistribusikan, dan digunakan. Informasi dalam Panduan Proses ini akan membantu Anda mengetahui semua langkah yang diperlukan dalam proses penerjemahan.</p><p>Menerjemahkan Alkitab membutuhkan banyak keahlian, jadi salah satu hal pertama yang perlu Anda pikirkan adalah bagaimana <span data-bnType=\"resourceReference\" data-resourceId=\"209483\" data-resourceType=\"UWTranslationManual\">memilih tim</span> yang dapat melakukan pekerjaan ini.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209483,
+          "content_id": 727594,
+          "resource_code": "UWTranslationManual",
+          "label": "Membentuk Tim Penerjemah",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]

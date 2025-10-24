@@ -1,0 +1,44 @@
+[
+  {
+    "content_id": 727555,
+    "reference_id": 209457,
+    "title": "Menemukan Jawaban",
+    "media_type": "Text",
+    "index_reference": "menemukan jawaban",
+    "language": "ind",
+    "content": "<h3>Cara Mendapatkan Jawaban</h3><p>Ada beberapa sumber daya yang tersedia untuk menemukan jawaban atas pertanyaan:</p><ul><li><p><strong>Translation Academy UnfoldingWord®</strong> - Panduan pelatihan ini tersedia di https://ufw.io/ta dan memiliki banyak informasi, termasuk:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209488\" data-resourceType=\"UWTranslationManual\">Pendahuluan</span> - memperkenalkan sumber daya ini, yaitu strategi Gateway Languages, dan penerjemahan</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209478\" data-resourceType=\"UWTranslationManual\">Pedoman Proses</span> - menjawab pertanyaan “apa selanjutnya?”</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">Pedoman Penerjemahan</span> - menjelaskan dasar-dasar teori penerjemahan dan memberikan bantuan penerjemahan praktis</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209464\" data-resourceType=\"UWTranslationManual\">Pedoman Pemeriksaan</span> - menjelaskan dasar-dasar teori pemeriksaan dan praktik-praktik terbaik</p></li></ul></li><li><p><strong>Forum Door43</strong> - Tempat untuk mengajukan pertanyaan dan mendapatkan jawaban atas masalah teknis, strategis, penerjemahan, dan pengecekan, https://forum.door43.org/</p></li><li><p><strong>Pusat Bantuan</strong> - kirimkan pertanyaan Anda melalui email <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:help@door43.org\">help@door43.org</a></p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26802,
+          "content_id": 727607,
+          "resource_code": "UWTranslationManual",
+          "label": "Pengantar ke Manual Penerjemahan",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209464,
+          "content_id": 727575,
+          "resource_code": "UWTranslationManual",
+          "label": "Introduksi kepada Manual Pemeriksaan",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209478,
+          "content_id": 727589,
+          "resource_code": "UWTranslationManual",
+          "label": "Pengantar ke Panduan Proses",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209488,
+          "content_id": 727599,
+          "resource_code": "UWTranslationManual",
+          "label": "Pendahuluan untuk Translation Academy dari unfoldingWord®",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]

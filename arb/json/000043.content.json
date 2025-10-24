@@ -1,0 +1,779 @@
+[
+  {
+    "content_id": 781624,
+    "reference_id": 26699,
+    "title": "صيغ الأمر للغائب",
+    "media_type": "Text",
+    "index_reference": "صيغ الأمر للغائب",
+    "language": "arb",
+    "content": "<h3>الوصف</h3><p>هذا المقال هو تمهيد لموضوع &quot;صيغ الأمر للغائب&quot; في الأدب الكتابي، ولا يزال قيد التطوير.</p><h1>أسباب كون هذا الأمر يمثل إشكالية في الترجمة:</h1><p>النص</p><h3>أمثلة من الكتاب المقدس</h3><p>النص</p><h3>استراتيجيات الترجمة</h3><p>النص</p><h3>أمثلة على استراتيجيات الترجمة المستخدمة</h3><p>النص</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 116221,
+          "content_id": 197182,
+          "resource_code": "Unknown",
+          "label": "مرقس 4: 9 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 116847,
+          "content_id": 197716,
+          "resource_code": "Unknown",
+          "label": "مرقس 7: 10 (#5)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 117121,
+          "content_id": 197990,
+          "resource_code": "Unknown",
+          "label": "مرقس 8: 34 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 117432,
+          "content_id": 198301,
+          "resource_code": "Unknown",
+          "label": "مرقس 10: 9 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 118143,
+          "content_id": 198975,
+          "resource_code": "Unknown",
+          "label": "مرقس 13: 14 (#8)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 118144,
+          "content_id": 198976,
+          "resource_code": "Unknown",
+          "label": "مرقس 13: 14 (#9)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 118150,
+          "content_id": 198982,
+          "resource_code": "Unknown",
+          "label": "مرقس 13: 15 (#5)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 118155,
+          "content_id": 198987,
+          "resource_code": "Unknown",
+          "label": "مرقس 13: 16 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 118718,
+          "content_id": 199550,
+          "resource_code": "Unknown",
+          "label": "مرقس 15: 32 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 136746,
+          "content_id": 327975,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 1: 20 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 136752,
+          "content_id": 327981,
+          "resource_code": "Unknown",
+          "label": "أعمال 1: 20 (#10)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 136842,
+          "content_id": 328071,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 2: 14 (#8)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 136973,
+          "content_id": 328202,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل ٢: ٣٦ (#٢)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 137169,
+          "content_id": 328398,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 4: 10 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 147660,
+          "content_id": 316027,
+          "resource_code": "Unknown",
+          "label": "متى 5: 16 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 147773,
+          "content_id": 316140,
+          "resource_code": "Unknown",
+          "label": "متى 5: 31 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 147804,
+          "content_id": 316171,
+          "resource_code": "Unknown",
+          "label": "متى 5: 37 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 147912,
+          "content_id": 316279,
+          "resource_code": "Unknown",
+          "label": "متى 6: 9 (#5)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 147916,
+          "content_id": 316283,
+          "resource_code": "Unknown",
+          "label": "متى 6: 10 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 148262,
+          "content_id": 316629,
+          "resource_code": "Unknown",
+          "label": "متى ٨: ١٣ (#٣)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 148519,
+          "content_id": 316886,
+          "resource_code": "Unknown",
+          "label": "متى 9: 29 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 148622,
+          "content_id": 316989,
+          "resource_code": "Unknown",
+          "label": "متى 10: 13 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 148850,
+          "content_id": 317217,
+          "resource_code": "Unknown",
+          "label": "متى 11: 15 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 138575,
+          "content_id": 329804,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 13: 38 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 138968,
+          "content_id": 330197,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 16: 37 (#8)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 139306,
+          "content_id": 330535,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 19: 38 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 139482,
+          "content_id": 330711,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 21: 14 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 139777,
+          "content_id": 331006,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 24: 20 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 139807,
+          "content_id": 331036,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 25: 5 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 140129,
+          "content_id": 331358,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 28: 28 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 149685,
+          "content_id": 318052,
+          "resource_code": "Unknown",
+          "label": "متى 15: 4 (#6)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 149813,
+          "content_id": 318180,
+          "resource_code": "Unknown",
+          "label": "متى 15: 28 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 149981,
+          "content_id": 318348,
+          "resource_code": "Unknown",
+          "label": "متى 16: 24 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 150267,
+          "content_id": 318634,
+          "resource_code": "Unknown",
+          "label": "متى 18: 17 (#8)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 150385,
+          "content_id": 318752,
+          "resource_code": "Unknown",
+          "label": "متى 19: 6 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 150420,
+          "content_id": 318787,
+          "resource_code": "Unknown",
+          "label": "متى 19: 12 (#8)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 151374,
+          "content_id": 319741,
+          "resource_code": "Unknown",
+          "label": "متى 24: 15 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 151375,
+          "content_id": 319742,
+          "resource_code": "Unknown",
+          "label": "متى 24: 16 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 151379,
+          "content_id": 319746,
+          "resource_code": "Unknown",
+          "label": "متى 24: 17 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 151384,
+          "content_id": 319751,
+          "resource_code": "Unknown",
+          "label": "متى 24: 18 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 151914,
+          "content_id": 320281,
+          "resource_code": "Unknown",
+          "label": "متى 26: 39 (#5)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 151937,
+          "content_id": 320304,
+          "resource_code": "Unknown",
+          "label": "متى 26: 42 (#8)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 152182,
+          "content_id": 320549,
+          "resource_code": "Unknown",
+          "label": "متى ٢٧: ٢٢ (#٣)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 152259,
+          "content_id": 320626,
+          "resource_code": "Unknown",
+          "label": "متى 27: 42 (#5)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 152263,
+          "content_id": 320630,
+          "resource_code": "Unknown",
+          "label": "متى 27: 43 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 155375,
+          "content_id": 663314,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ١: ٣١ (#٦)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 155546,
+          "content_id": 663485,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٣: ١٠ (#٦)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 155586,
+          "content_id": 663525,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٣: ١٨ (#١)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 155606,
+          "content_id": 663545,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٣: ٢١ (#١)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 155618,
+          "content_id": 663557,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٤: ١ (#٢)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 155963,
+          "content_id": 663902,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٧: ٢ (#٤)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 155966,
+          "content_id": 663905,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٧: ٣ (#٢)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 155999,
+          "content_id": 663938,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٧: ٩ (#٣)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156011,
+          "content_id": 663950,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٧: ١١ (#٦)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156018,
+          "content_id": 663957,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٧: ١٢ (#٥)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156021,
+          "content_id": 663960,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٧: ١٣ (#٣)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156035,
+          "content_id": 663974,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٧: ١٥ (#٥)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156051,
+          "content_id": 663990,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٧: ١٧ (#٥)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156059,
+          "content_id": 663998,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٧: ١٨ (#٦)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156073,
+          "content_id": 664012,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٧: ٢٠ (#٥)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156078,
+          "content_id": 664017,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٧: ٢١ (#٤)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156095,
+          "content_id": 664034,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٧: ٢٤ (#٦)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 164465,
+          "content_id": 504011,
+          "resource_code": "Unknown",
+          "label": "العبرانيين 1: 6 (#7)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 166033,
+          "content_id": 505579,
+          "resource_code": "Unknown",
+          "label": "العبرانيين 13: 1 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 161402,
+          "content_id": 607679,
+          "resource_code": "Unknown",
+          "label": "١ تيموثاوس ٢: ١١ (#١)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 161478,
+          "content_id": 607755,
+          "resource_code": "Unknown",
+          "label": "١ تيموثاوس ٣: ١٠ (#٢)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 161483,
+          "content_id": 607760,
+          "resource_code": "Unknown",
+          "label": "١ تيموثاوس ٣: ١٢ (#١)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 161585,
+          "content_id": 607862,
+          "resource_code": "Unknown",
+          "label": "١ تيموثاوس ٤: ١٢ (#١)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 161621,
+          "content_id": 607898,
+          "resource_code": "Unknown",
+          "label": "١ تيموثاوس ٥: ٤ (#٣)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 161647,
+          "content_id": 607924,
+          "resource_code": "Unknown",
+          "label": "١ تيموثاوس ٥: ٩ (#١)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 161681,
+          "content_id": 607958,
+          "resource_code": "Unknown",
+          "label": "١ تيموثاوس ٥: ١٦ (#٣)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 161685,
+          "content_id": 607962,
+          "resource_code": "Unknown",
+          "label": "١ تيموثاوس ٥: ١٦ (#٧)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 161687,
+          "content_id": 607964,
+          "resource_code": "Unknown",
+          "label": "١ تيموثاوس ٥: ١٧ (#١)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 161728,
+          "content_id": 608005,
+          "resource_code": "Unknown",
+          "label": "١ تيموثاوس ٦: ١ (#٢)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 161735,
+          "content_id": 608012,
+          "resource_code": "Unknown",
+          "label": "١ تيموثاوس ٦: ٢ (#٣)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 167691,
+          "content_id": 638938,
+          "resource_code": "Unknown",
+          "label": "رؤيا 13: 9 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 167718,
+          "content_id": 638965,
+          "resource_code": "Unknown",
+          "label": "رؤيا 13: 18 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 168257,
+          "content_id": 639504,
+          "resource_code": "Unknown",
+          "label": "رؤيا 22: 11 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 168281,
+          "content_id": 639528,
+          "resource_code": "Unknown",
+          "label": "رؤيا 22: 17 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156182,
+          "content_id": 664121,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٧: ٣٦ (#١١)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156183,
+          "content_id": 664122,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ٧: ٣٦ (#١٢)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156511,
+          "content_id": 664450,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ١٠: ١٢ (#٢)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156565,
+          "content_id": 664504,
+          "resource_code": "Unknown",
+          "label": "١ كورنثوس ١٠: ٢٤ (#١)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156643,
+          "content_id": 664582,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 11: 6 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156648,
+          "content_id": 664587,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 11: 6 (#8)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156762,
+          "content_id": 664701,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 11: 28 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 156785,
+          "content_id": 664724,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 11: 34 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157076,
+          "content_id": 665015,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 14: 13 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157155,
+          "content_id": 665094,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 14: 26 (#9)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157162,
+          "content_id": 665101,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 14: 27 (#5)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157169,
+          "content_id": 665108,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 14: 28 (#5)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157176,
+          "content_id": 665115,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 14: 29 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157182,
+          "content_id": 665121,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 14: 30 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157199,
+          "content_id": 665138,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 14: 34 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157202,
+          "content_id": 665141,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 14: 34 (#6)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157207,
+          "content_id": 665146,
+          "resource_code": "Unknown",
+          "label": "1كورنثوس 14: 35 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157219,
+          "content_id": 665158,
+          "resource_code": "Unknown",
+          "label": "1كورنثوس 14: 37 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157226,
+          "content_id": 665165,
+          "resource_code": "Unknown",
+          "label": "1كورنثوس 14: 38 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157234,
+          "content_id": 665173,
+          "resource_code": "Unknown",
+          "label": "1كورنثوس 14: 40 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157601,
+          "content_id": 665540,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 16: 2 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157638,
+          "content_id": 665577,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 16: 11 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157664,
+          "content_id": 665603,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 16: 14 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157701,
+          "content_id": 665640,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 16: 22 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 158816,
+          "content_id": 666755,
+          "resource_code": "Unknown",
+          "label": "2 كورنثوس 10: 7 (#7)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 158834,
+          "content_id": 666773,
+          "resource_code": "Unknown",
+          "label": "2 كورنثوس 10: 11 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 158866,
+          "content_id": 666805,
+          "resource_code": "Unknown",
+          "label": "2 كورنثوس 10: 17 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 159466,
+          "content_id": 725691,
+          "resource_code": "Unknown",
+          "label": "كولوسي 2: 16 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 159474,
+          "content_id": 725699,
+          "resource_code": "Unknown",
+          "label": "كولوسي 2: 18 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 162257,
+          "content_id": 770069,
+          "resource_code": "Unknown",
+          "label": "2 تيموثاوس 2: 19 (#7)",
+          "language": "arb"
+        }
+      ]
+    }
+  }
+]

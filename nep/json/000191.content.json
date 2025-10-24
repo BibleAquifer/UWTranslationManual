@@ -1,0 +1,23 @@
+[
+  {
+    "content_id": 727778,
+    "reference_id": 209475,
+    "title": "मंच (platform) को छनौट",
+    "media_type": "Text",
+    "index_reference": "मंच (platform) को छनौट",
+    "language": "nep",
+    "content": "<h3>सिफारिस गरिएको मंच (Platform)</h3><p>डोर४३ मा अनुवाद गर्नको लागि सिफारिस गरिएको मंच अनुवाद स्टुडियो (translationStudio) हो (http://ufw.io/ts/)। अनुवाद र जाँच गर्ने व्यक्तिहरूले यहाँ काम गर्ने छन् । अनुवाद स्टुडियोलाई एन्ड्रोइड, विन्डोज, म्याक वा लिनक्स डिभाइसहरूमा सेट अप गर्न सकिन्छ । (अधिक जानकारीको लागि <span data-bnType=\"resourceReference\" data-resourceId=\"209484\" data-resourceType=\"UWTranslationManual\">अनुवाद स्टुडियोको सेट अप</span> हेर्नुहोस् ।</p><h3>अन्य विकल्पहरू</h3><p>यदि तपाईंको समूहमा अनुवाद स्टुडियोलाई विकल्पको रूपमा राख्‍नु भएको छैन भने, अन्य अनलाइन र अफलाइन साधनहरूको प्रयोग गर्न सक्‍नुहुन्छ । यदि तपाईंले अनुवाद स्टुडियो प्रयोग गर्नुभएन भने उक्त सामाग्रीलाई यूएसएफएम वा मार्कडाउन (USFM or Markdown) ढाँचामा राख्‍ने जिम्मा तपाईंको हो । (अधिक जानकारीको लागि <span data-bnType=\"resourceReference\" data-resourceId=\"26736\" data-resourceType=\"UWTranslationManual\">File Formats</span> हेर्नुहोस्) ।</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26736,
+          "content_id": 727733,
+          "resource_code": "UWTranslationManual",
+          "label": "फाइल ढाँचाहरू",
+          "language": "nep"
+        }
+      ]
+    }
+  }
+]

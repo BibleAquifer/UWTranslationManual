@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 781675,
+    "reference_id": 26750,
+    "title": "ألقاب الاحترام",
+    "media_type": "Text",
+    "index_reference": "ألقاب الاحترام",
+    "language": "arb",
+    "content": "<h3>الوصف</h3><p>هذا نص تمهيدي لمقال يتناول ألقاب الاحترام في الأدب الكتابي. لا يزال هذا المقال قيد التطوير.</p><h1>أسباب تجعل هذا الأمر قضية في الترجمة:</h1><p>نص</p><h3>أمثلة من الكتاب المقدس</h3><p>نص</p><h3>استراتيجيات الترجمة</h3><p>نص</p><h3><strong>أمثلة على تطبيق استراتيجيات الترجمة:</strong></h3><p>نص</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 139461,
+          "content_id": 330690,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 21: 8 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 170686,
+          "content_id": 423679,
+          "resource_code": "Unknown",
+          "label": "تكوين 12: 17 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 171214,
+          "content_id": 424207,
+          "resource_code": "Unknown",
+          "label": "التكوين 18: 3 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 171578,
+          "content_id": 424571,
+          "resource_code": "Unknown",
+          "label": "التكوين 20: 3 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 171656,
+          "content_id": 424649,
+          "resource_code": "Unknown",
+          "label": "التكوين 20: 18 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 171910,
+          "content_id": 424903,
+          "resource_code": "Unknown",
+          "label": "التكوين 23: 6 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 171950,
+          "content_id": 424943,
+          "resource_code": "Unknown",
+          "label": "التكوين 23: 15 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 172062,
+          "content_id": 425055,
+          "resource_code": "Unknown",
+          "label": "التكوين 24: 18 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 173335,
+          "content_id": 426328,
+          "resource_code": "Unknown",
+          "label": "تكوين 32: 24 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 173354,
+          "content_id": 426347,
+          "resource_code": "Unknown",
+          "label": "التكوين 32: 29 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 174112,
+          "content_id": 427105,
+          "resource_code": "Unknown",
+          "label": "تكوين 40: 13 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 174119,
+          "content_id": 427112,
+          "resource_code": "Unknown",
+          "label": "تكوين 40: 14 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 174132,
+          "content_id": 427125,
+          "resource_code": "Unknown",
+          "label": "التكوين 40: 17 (#2)",
+          "language": "arb"
+        }
+      ]
+    }
+  }
+]

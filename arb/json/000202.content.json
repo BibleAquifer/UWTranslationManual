@@ -1,0 +1,86 @@
+[
+  {
+    "content_id": 781783,
+    "reference_id": 209464,
+    "title": "مقدمة إلى دليل التحقق والفحص اللغوي",
+    "media_type": "Text",
+    "index_reference": "مقدمة إلى دليل التحقق والفحص اللغوي",
+    "language": "arb",
+    "content": "<h3>دليل التحقق من الترجمة وفحصها</h3><p>يشرح هذا الدليل كيفية التحقق من ترجمات الكتاب المقدس باللغات الأخرى (OLs) من حيث الدقة والوضوح والطبيعية. (للاطلاع على عملية التحقق من لغات البوابة (GLs)، يرجى الرجوع إلى <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://gl-manual.readthedocs.io/en/latest/\">دليل لغة البوابة</a>). كما يناقش هذا الدليل أهمية الحصول على موافقة قادة الكنيسة في منطقة اللغة المستهدفة، سواء على الترجمة نفسها أو على عملية الترجمة ككل.</p><p>يبدأ الدليل بتعليمات لفحص الترجمة، وهي التي سيستخدمها فريق الترجمة لمراجعة أعمال بعضهم البعض. وتشمل هذه الفحوصات <span data-bnType=\"resourceReference\" data-resourceId=\"209474\" data-resourceType=\"UWTranslationManual\">فحص الشريك الشفهي</span> و<span data-bnType=\"resourceReference\" data-resourceId=\"209489\" data-resourceType=\"UWTranslationManual\">فحص شفهي جماعي للفريق</span>. ثم بعد ذلك، توجد تعليمات لفريق الترجمة لاستخدامها في فحص الترجمة باستخدام برنامج الترجمة Core (<strong>translationCore)</strong>. وتشمل: <span data-bnType=\"resourceReference\" data-resourceId=\"209463\" data-resourceType=\"UWTranslationManual\">فحص كلمات الترجمة</span> و<span data-bnType=\"resourceReference\" data-resourceId=\"209490\" data-resourceType=\"UWTranslationManual\">فحص ملاحظات الترجمة</span>.</p><p>بعد ذلك، يحتاج فريق الترجمة إلى فحص الترجمة والتحقق منها مع <span data-bnType=\"resourceReference\" data-resourceId=\"209468\" data-resourceType=\"UWTranslationManual\">مجتمع اللغة</span> للتأكّد من الوضوح والطبيعية. ويُعد هذا ضروريًا لأن المتحدثين الآخرين لتلك اللغة كثيرًا ما يستطيعون اقتراح طرق أفضل للتعبير عن الأفكار، وهي طرق قد لا تخطر في بال فريق الترجمة. أحيانًا يجعل فريق الترجمة النص المُترجم يبدو غريبًا لأنهم يلتزمون كثيرًا بكلمات اللغة المصدر. وهنا يمكن للمتحدثين الآخرين للغة أن يساعدوا في تصحيح ذلك. هناك فحص آخر يمكن لفريق الترجمة القيام به في هذه المرحلة هو <span data-bnType=\"resourceReference\" data-resourceId=\"209449\" data-resourceType=\"UWTranslationManual\">فحص قائد الكنيسة</span> (أو فحص قسوس اللغة الأخرى – OL Pastor Check). وبما أن قادة الكنيسة من متحدثي اللغة الأخرى غالبًا ما يكونون على دراية بالكتاب المقدس بلغة البوابة (GL)، فيمكنهم فحص الترجمة من حيث مدى دقتها مقارنة بنص الكتاب المقدس بلغة البوابة. كما يمكنهم اكتشاف أخطاء لم ينتبه لها فريق الترجمة بسبب قربهم وتعمّقهم في عملهم. بالإضافة إلى ذلك، فقد يكون لدى هؤلاء القادة (الذين هم ليسوا جزء من فريق الترجمة) من المعرفة الكتابية أو الخلفية اللاهوتية وهو ما قد يفتقر إليه بعض أعضاء الفريق. وبهذه الطريقة، يمكن لمجتمع اللغة بأكمله أن يتعاون معًا لضمان أن تكون ترجمة الكتاب المقدس دقيقة وواضحة وسلسة في اللغة المستهدفة.</p><p>هناك فحص إضافي لدقة ترجمة الكتاب المقدس يتمثّل في محاذاة الترجمة مع اللغات الأصلية للكتاب المقدس باستخدام أداة <span data-bnType=\"resourceReference\" data-resourceId=\"209450\" data-resourceType=\"UWTranslationManual\">محاذاة الكلمات</span> في برنامج Translation Core. وبعد الانتهاء من جميع هذه الفحوصات، وبعد إتمام المحاذاة، سيرغب قادة شبكات الكنائس في اللغة الأخرى (OL) في <span data-bnType=\"resourceReference\" data-resourceId=\"209502\" data-resourceType=\"UWTranslationManual\">مراجعة</span> الترجمة وتقديم <span data-bnType=\"resourceReference\" data-resourceId=\"209469\" data-resourceType=\"UWTranslationManual\">تأييدهم</span>. ونظرًا لأن العديد من قادة شبكات الكنائس لا يتحدثون لغة الترجمة، توجد أيضًا تعليمات لإنشاء <span data-bnType=\"resourceReference\" data-resourceId=\"209496\" data-resourceType=\"UWTranslationManual\">ترجمة رجعية</span>، وهي ترجمة تُستخدم لتمكينهم من فحص الترجمة بلغة لا يتحدثونها.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209449,
+          "content_id": 781768,
+          "resource_code": "UWTranslationManual",
+          "label": "التحقق من الترجمة من حيث الدقة",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209450,
+          "content_id": 781769,
+          "resource_code": "UWTranslationManual",
+          "label": "التحقق من التوافق",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209463,
+          "content_id": 781782,
+          "resource_code": "UWTranslationManual",
+          "label": "التحقق من الكلمات المترجمة في tC",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209468,
+          "content_id": 781787,
+          "resource_code": "UWTranslationManual",
+          "label": "التحقق من الترجمة من حيث الوضوح والطبيعية",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209469,
+          "content_id": 781788,
+          "resource_code": "UWTranslationManual",
+          "label": "نموذج تقييم فحص الجودة",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209474,
+          "content_id": 781793,
+          "resource_code": "UWTranslationManual",
+          "label": "التدقيق الشفهي مع شريك العمل",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209489,
+          "content_id": 781808,
+          "resource_code": "UWTranslationManual",
+          "label": "المراجعة الجماعية الشفوية للمقاطع",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209490,
+          "content_id": 781809,
+          "resource_code": "UWTranslationManual",
+          "label": "ملاحظات الترجمة في برنامج tC",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209496,
+          "content_id": 781815,
+          "resource_code": "UWTranslationManual",
+          "label": "الترجمة العكسية",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209502,
+          "content_id": 781821,
+          "resource_code": "UWTranslationManual",
+          "label": "خطوات لفاحصي الأمانة النصية",
+          "language": "arb"
+        }
+      ]
+    }
+  }
+]

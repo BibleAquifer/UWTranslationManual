@@ -1,0 +1,23 @@
+[
+  {
+    "content_id": 727508,
+    "reference_id": 209456,
+    "title": "Terjemahan Lengkap",
+    "media_type": "Text",
+    "index_reference": "terjemahan lengkap",
+    "language": "ind",
+    "content": "<h3>Terjemahan yang Lengkap</h3><p>Tujuan dari bagian ini adalah untuk memastikan bahwa terjemahan sudah lengkap. Pada bagian ini, hasil terjemahan yang baru harus dibandingkan dengan hasil terjemahan sumbernya. Ketika Anda (penerjemah atau pemeriksa) membandingkan kedua terjemahan ini, tanyakan pada diri Anda sendiri pertanyaan-pertanyaan berikut ini:</p><ol><li><p>Apakah terjemahan tersebut kehilangan salah satu bagiannya? Dengan kata lain, apakah terjemahannya mencakup semua peristiwa dalam buku yang diterjemahkan?</p></li><li><p>Apakah terjemahannya mencakup semua ayat dari kitab yang diterjemahkan? (Ketika Anda melihat penomoran ayat dari terjemahan bahasa sumber, apakah semua ayat sudah tercakup dalam terjemahan bahasa sasaran?) Kadang-kadang ada perbedaan dalam penomoran ayat di antara terjemahan-terjemahan. Sebagai contoh, dalam beberapa terjemahan, beberapa ayat dikelompokkan menjadi satu atau terkadang ayat-ayat tertentu dimasukkan ke dalam catatan kaki. Meskipun ada perbedaan seperti ini antara terjemahan sumber dan terjemahan sasaran, terjemahan sasaran tetap dianggap lengkap. Untuk informasi lebih lanjut, lihat <span data-bnType=\"resourceReference\" data-resourceId=\"209495\" data-resourceType=\"UWTranslationManual\">Terjemahan Lengkap</span>.</p></li><li><p>Apakah ada bagian dalam terjemahan yang sepertinya ada yang terlewatkan, atau ada pesan yang berbeda dari yang ada dalam terjemahan bahasa sumber? (Kata-kata dan urutannya bisa saja berbeda, tetapi bahasa yang digunakan penerjemah harus memberikan pesan yang sama dengan terjemahan bahasa sumber).</p></li></ol><p>Jika ada bagian di mana terjemahannya belum lengkap, catatlah agar Anda dapat mendiskusikannya dengan tim penerjemah.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209495,
+          "content_id": 727619,
+          "resource_code": "UWTranslationManual",
+          "label": "Verifikasi Lengkap",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]

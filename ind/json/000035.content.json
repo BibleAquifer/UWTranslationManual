@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 727532,
+    "reference_id": 26699,
+    "title": "Kalimat Perintah Orang Ketiga",
+    "media_type": "Text",
+    "index_reference": "kalimat perintah orang ketiga",
+    "language": "ind",
+    "content": "<h3>Deskripsi</h3><p>Ini adalah penampung untuk artikel tentang perintah orang ketiga dalam literatur Alkitab. Artikel ini masih terus dikembangkan.</p><h4>Alasan Mengapa Ini Merupakan Masalah Penerjemahan:</h4><p>Teks</p><h3>Beberapa Contoh dari Alkitab</h3><p>Teks</p><h3>Strategi Penerjemahan</h3><p>Teks</p><h3>Contoh Penerapan Strategi Penerjemahan</h3><p>Teks</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 116221,
+          "content_id": 382434,
+          "resource_code": "Unknown",
+          "label": "Markus 4:9 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 149813,
+          "content_id": 387669,
+          "resource_code": "Unknown",
+          "label": "Matius 15:28 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159466,
+          "content_id": 671924,
+          "resource_code": "Unknown",
+          "label": "Kolose 2:16 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159474,
+          "content_id": 671932,
+          "resource_code": "Unknown",
+          "label": "Kolose 2:18 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162257,
+          "content_id": 673639,
+          "resource_code": "Unknown",
+          "label": "2 Timotius 2:19 (#7)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161585,
+          "content_id": 675374,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 4:12 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161728,
+          "content_id": 675476,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 6:1 (#2)",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,429 @@
+[
+  {
+    "content_id": 728082,
+    "reference_id": 26824,
+    "title": "Puentes de versículos",
+    "media_type": "Text",
+    "index_reference": "puentes de versículos",
+    "language": "spa",
+    "content": "<h3>Descripción</h3><p>En algunos casos, verá en el Texto Puente Simplificado (TPS) que se combinan dos o más números de versículos, como el 17–18. Esto se denomina <em>puente de versículos</em>. Esto significa que la información de los versículos se ha reordenado para que la historia o el mensaje puedan entenderse más fácilmente.</p><blockquote><p><sup>29</sup> Estos eran los clanes de los horeos: Lotán, Sobal, Zibeón y Aná, <sup>30</sup> Disón, Ezer y Disán: estos son clanes de los horeos, según sus listas de clanes en la tierra de Seír. (Génesis 36:29–30 TPL).</p></blockquote><blockquote><p><sup>29–30</sup> Los grupos de personas que eran descendientes de Hor vivían en la tierra de Seir. Los nombres de los grupos de personas son Lotán, Sobal, Zibeón, Aná, Disón, Ezer y Disán. (Génesis 36:29–30 TPS).</p></blockquote><p>En el pasaje del Texto Puente Literal (TPL), los versículos 29 y 30 están separados, y la información sobre el pueblo que vive en Seir está al final del versículo 30. En el texto del TPS, los versículos están unidos y la información sobre los habitantes de Seir está al principio. Para muchos idiomas, este es un orden de información más lógico.</p><h3>Ejemplos de la Biblia</h3><p>Donde el TPS tiene un <em>puente de versículos</em>, el TPL tendrá versículos separados.</p><blockquote><p><sup>4–5</sup> Jehová nuestro Dios te bendecirá en la tierra que te está dando. Si obedecéis a Jehová nuestro Dios y cumplís todos los mandamientos que hoy os doy, no habrá pobres entre vosotros. (Deuteronomio 15:4–5 TPS).</p></blockquote><blockquote><p><sup>4</sup> Sin embargo, no debe haber pobres entre ustedes (porque Jehová ciertamente los bendecirá en la tierra que les da en herencia para que la posean), <sup>5</sup> si solo escuchan diligentemente la voz de Jehová su Dios, para guardar todos estos mandamientos que hoy les estoy ordenando. (Deuteronomio 15:4–5 TPL).</p></blockquote><blockquote><p><sup>16–17</sup> Pero Jehová le dijo: “No debes comer el fruto del árbol que te permitirá saber qué acciones está mal hacer y qué acciones está bien realizar. Si comes algún fruto de ese árbol, ese día terminará tu relación conmigo. Pero te permitiré comer el fruto de cualquiera de los otros árboles del jardín”. (Génesis 2:16–17 TPS).</p></blockquote><blockquote><p><sup>16</sup> Jehová Dios ordenó al hombre, diciendo: “De todos los árboles del jardín puedes comer libremente. <sup>17</sup> Pero del árbol del conocimiento del bien y del mal no puedes comer, porque el día que comas de él, ciertamente morirás”. (Génesis 2:16–17 TPL).</p></blockquote><h3>Estrategias de traducción</h3><p>Ordene la información de forma que resulte clara para sus lectores. Si el orden de la información es claro como lo es en la TPL, entonces use ese orden. Pero si el orden es confuso o da un significado equivocado, entonces cambie el orden para que sea más claro.</p><ol><li><p>Si pone la información de un versículo antes de la información de un versículo anterior, entonces combine los versículos y ponga un guión entre los dos números de versículo.</p></li></ol><p>Vea cómo marcar los versículos en <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://help.door43.org/en/knowledgebase/13-translationstudio-android/docs/24-marking-verses-in-translationstudio\">translationStudio</a>.</p><h3>Ejemplos de estrategias de traducción aplicadas</h3><p>(1) Si la información de un versículo se antepone a la de un versículo anterior, combine los versículos y ponga los números de los versículos antes del primer versículo con un guión entre ellos.</p><blockquote><p><sup>2</sup> debes elegir tres ciudades para ti en medio de tu tierra que Jehová tu Dios te da para que la poseas. <sup>3</sup> Debes construir un camino y dividir en tres partes los límites de tu tierra, la tierra que Jehová tu Dios te hace heredar, para que todo el que mate a otra persona pueda huir allí. (Deuteronomio 19:2–3).</p><p><sup>2–3</sup> debes dividir en tres partes la tierra que él te está dando. Luego elige una ciudad en cada parte. Debes hacer buenos caminos para que la gente pueda llegar fácilmente a esas ciudades. Si alguien mata a otra persona, puede escapar a una de esas ciudades para ponerse a salvo. (Deuteronomio 19:2–3 TPS).</p></blockquote>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 116071,
+          "content_id": 341650,
+          "resource_code": "Unknown",
+          "label": "Marcos 3:9-10 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116378,
+          "content_id": 341957,
+          "resource_code": "Unknown",
+          "label": "Marcos 5:3-4 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116390,
+          "content_id": 341969,
+          "resource_code": "Unknown",
+          "label": "Marcos 5:7-8 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116465,
+          "content_id": 342044,
+          "resource_code": "Unknown",
+          "label": "Marcos 5:27-28 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116573,
+          "content_id": 342152,
+          "resource_code": "Unknown",
+          "label": "Marcos 6:8-9 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116616,
+          "content_id": 342195,
+          "resource_code": "Unknown",
+          "label": "Marcos 6:17-18 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116629,
+          "content_id": 342208,
+          "resource_code": "Unknown",
+          "label": "Marcos 6:19-20 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116749,
+          "content_id": 342328,
+          "resource_code": "Unknown",
+          "label": "Marcos 6:49-50 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116916,
+          "content_id": 342495,
+          "resource_code": "Unknown",
+          "label": "Marcos 7:25-26 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 117322,
+          "content_id": 342901,
+          "resource_code": "Unknown",
+          "label": "Marcos 9:39-40 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 118044,
+          "content_id": 343623,
+          "resource_code": "Unknown",
+          "label": "Marcos 12:43-44 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 118162,
+          "content_id": 343741,
+          "resource_code": "Unknown",
+          "label": "Marcos 13:18-19 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 118180,
+          "content_id": 343759,
+          "resource_code": "Unknown",
+          "label": "Marcos 13:21-22 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 118760,
+          "content_id": 344339,
+          "resource_code": "Unknown",
+          "label": "Marcos 15:42-43 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142963,
+          "content_id": 349880,
+          "resource_code": "Unknown",
+          "label": "Lucas 1:54 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144071,
+          "content_id": 350988,
+          "resource_code": "Unknown",
+          "label": "Lucas 8:29 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146380,
+          "content_id": 353297,
+          "resource_code": "Unknown",
+          "label": "Lucas 21:15 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146534,
+          "content_id": 353451,
+          "resource_code": "Unknown",
+          "label": "Lucas 22:16 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146541,
+          "content_id": 353458,
+          "resource_code": "Unknown",
+          "label": "Lucas 22:18 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146561,
+          "content_id": 353478,
+          "resource_code": "Unknown",
+          "label": "Lucas 22:22 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146623,
+          "content_id": 353540,
+          "resource_code": "Unknown",
+          "label": "Lucas 22:37 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139535,
+          "content_id": 515808,
+          "resource_code": "Unknown",
+          "label": "Hechos 21:29 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 136755,
+          "content_id": 500802,
+          "resource_code": "Unknown",
+          "label": "Hechos 1:21 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 136771,
+          "content_id": 500818,
+          "resource_code": "Unknown",
+          "label": "Hechos 1:24 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137283,
+          "content_id": 501336,
+          "resource_code": "Unknown",
+          "label": "Hechos 4:34 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137803,
+          "content_id": 509146,
+          "resource_code": "Unknown",
+          "label": "Hechos 8:1-2 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138545,
+          "content_id": 513693,
+          "resource_code": "Unknown",
+          "label": "Hechos 13:33 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138790,
+          "content_id": 514247,
+          "resource_code": "Unknown",
+          "label": "Hechos 15:20 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139301,
+          "content_id": 515312,
+          "resource_code": "Unknown",
+          "label": "Hechos 19:37 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139398,
+          "content_id": 515641,
+          "resource_code": "Unknown",
+          "label": "Hechos 20:27 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 148134,
+          "content_id": 345357,
+          "resource_code": "Unknown",
+          "label": "Mateo 7:13-14 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 148469,
+          "content_id": 345692,
+          "resource_code": "Unknown",
+          "label": "Mateo 9:20-21 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 149519,
+          "content_id": 346742,
+          "resource_code": "Unknown",
+          "label": "Mateo 14:3-4 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 151406,
+          "content_id": 348629,
+          "resource_code": "Unknown",
+          "label": "Mateo 24:23-24 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 151491,
+          "content_id": 348714,
+          "resource_code": "Unknown",
+          "label": "Mateo 24:38-39 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146839,
+          "content_id": 353756,
+          "resource_code": "Unknown",
+          "label": "Lucas 23:29 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 160839,
+          "content_id": 529398,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonicenses 2:14-15 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 162877,
+          "content_id": 531305,
+          "resource_code": "Unknown",
+          "label": "1 Juan 2:5-6 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 162952,
+          "content_id": 531320,
+          "resource_code": "Unknown",
+          "label": "1 Juan 2:16 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163303,
+          "content_id": 531520,
+          "resource_code": "Unknown",
+          "label": "1 Juan 5:4 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163134,
+          "content_id": 531527,
+          "resource_code": "Unknown",
+          "label": "1 Juan 3:19 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 164650,
+          "content_id": 533023,
+          "resource_code": "Unknown",
+          "label": "Hebreos 3:3 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 165104,
+          "content_id": 533499,
+          "resource_code": "Unknown",
+          "label": "Hebreos 7:20 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 166723,
+          "content_id": 534911,
+          "resource_code": "Unknown",
+          "label": "Santiago 5:2 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 166959,
+          "content_id": 535142,
+          "resource_code": "Unknown",
+          "label": "Judas 1:21 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 167011,
+          "content_id": 535194,
+          "resource_code": "Unknown",
+          "label": "Revelación 1:5 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 169663,
+          "content_id": 537775,
+          "resource_code": "Unknown",
+          "label": "Génesis 3:3 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 171658,
+          "content_id": 540084,
+          "resource_code": "Unknown",
+          "label": "Génesis 20:18 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 172105,
+          "content_id": 540622,
+          "resource_code": "Unknown",
+          "label": "Génesis 24:30 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 173663,
+          "content_id": 541723,
+          "resource_code": "Unknown",
+          "label": "Génesis 36:7 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 174076,
+          "content_id": 542518,
+          "resource_code": "Unknown",
+          "label": "Génesis 40:2 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176003,
+          "content_id": 544083,
+          "resource_code": "Unknown",
+          "label": "Job 6:16 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176432,
+          "content_id": 544896,
+          "resource_code": "Unknown",
+          "label": "Job 12:7-8 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176588,
+          "content_id": 545052,
+          "resource_code": "Unknown",
+          "label": "Job 14:11 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176612,
+          "content_id": 545077,
+          "resource_code": "Unknown",
+          "label": "Job 14:18 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177338,
+          "content_id": 545717,
+          "resource_code": "Unknown",
+          "label": "Job 23:8 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177875,
+          "content_id": 545955,
+          "resource_code": "Unknown",
+          "label": "Job 31:6 (#1) - Que Dios me pese en balanzas justas, y él conocerá mi integridad.",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184187,
+          "content_id": 552190,
+          "resource_code": "Unknown",
+          "label": "Proverbios 26:18-19 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 190054,
+          "content_id": 557512,
+          "resource_code": "Unknown",
+          "label": "Éxodo 33:4 (#3)",
+          "language": "spa"
+        }
+      ]
+    }
+  }
+]

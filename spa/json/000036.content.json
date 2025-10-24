@@ -1,0 +1,79 @@
+[
+  {
+    "content_id": 727922,
+    "reference_id": 26693,
+    "title": "Grammar Topics",
+    "media_type": "Text",
+    "index_reference": "grammar topics",
+    "language": "spa",
+    "content": "<p>Grammar has two main parts: words and structure. Structure involves how we put words together to form phrases, clauses, and sentences.</p><p><strong>Parts of Speech</strong> - Every word in a language belongs to a category called a part of speech. (See <span data-bnType=\"resourceReference\" data-resourceId=\"26714\" data-resourceType=\"UWTranslationManual\">Parts of Speech</span>).</p><p><strong>Sentences</strong> - When we speak, we organize our thoughts in sentences. A sentence usually has a complete thought about an event or a situation or state of being. (See <span data-bnType=\"resourceReference\" data-resourceId=\"26725\" data-resourceType=\"UWTranslationManual\">Sentence Structure</span>).</p><ul><li><p>Sentences can be statements, questions, commands, or exclamations. (See <span data-bnType=\"resourceReference\" data-resourceId=\"26726\" data-resourceType=\"UWTranslationManual\">Exclamations</span>).</p></li><li><p>Sentences can have more than one clause. (See <span data-bnType=\"resourceReference\" data-resourceId=\"26725\" data-resourceType=\"UWTranslationManual\">Sentence Structure</span>).</p></li><li><p>Some languages have both active and passive sentences. (See <span data-bnType=\"resourceReference\" data-resourceId=\"26672\" data-resourceType=\"UWTranslationManual\">Active or Passive</span>).</p></li></ul><p><strong>Possession</strong> - This shows that there is a relationship between two nouns. In English it is marked with “of” as in “the love of God,” or with “&apos;s” as in “God&apos;s love,” or with a possessive pronoun as in “his love”. (See <span data-bnType=\"resourceReference\" data-resourceId=\"26717\" data-resourceType=\"UWTranslationManual\">Possession</span>).</p><p><strong>Quotations</strong> - A quotation is a report of what someone else has said.</p><ul><li><p>Quotations normally have two parts: Information about who said something and what the person said. (See <span data-bnType=\"resourceReference\" data-resourceId=\"26840\" data-resourceType=\"UWTranslationManual\">Quotations and Quote Margins</span>).</p></li><li><p>Quotations can be either direct quotes or indirect quotes. (See <span data-bnType=\"resourceReference\" data-resourceId=\"26719\" data-resourceType=\"UWTranslationManual\">Direct and Indirect Quotations</span>).</p></li><li><p>Quotes can have quotes within them. (See <span data-bnType=\"resourceReference\" data-resourceId=\"26721\" data-resourceType=\"UWTranslationManual\">Quotes within Quotes</span>).</p></li><li><p>Quotes can be marked to make it easy for readers to understand who said what. (See <span data-bnType=\"resourceReference\" data-resourceId=\"26720\" data-resourceType=\"UWTranslationManual\">Quote Markings</span>).</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26672,
+          "content_id": 727902,
+          "resource_code": "UWTranslationManual",
+          "label": "Activo o pasivo",
+          "language": "spa"
+        },
+        {
+          "reference_id": 26714,
+          "content_id": 727944,
+          "resource_code": "UWTranslationManual",
+          "label": "Parts of Speech",
+          "language": "spa"
+        },
+        {
+          "reference_id": 26717,
+          "content_id": 727947,
+          "resource_code": "UWTranslationManual",
+          "label": "Posesión",
+          "language": "spa"
+        },
+        {
+          "reference_id": 26719,
+          "content_id": 727949,
+          "resource_code": "UWTranslationManual",
+          "label": "Citas directas e indirectas",
+          "language": "spa"
+        },
+        {
+          "reference_id": 26720,
+          "content_id": 727950,
+          "resource_code": "UWTranslationManual",
+          "label": "Quote Markings",
+          "language": "spa"
+        },
+        {
+          "reference_id": 26721,
+          "content_id": 727951,
+          "resource_code": "UWTranslationManual",
+          "label": "Citas dentro de Citas",
+          "language": "spa"
+        },
+        {
+          "reference_id": 26725,
+          "content_id": 727954,
+          "resource_code": "UWTranslationManual",
+          "label": "Sentence Structure",
+          "language": "spa"
+        },
+        {
+          "reference_id": 26726,
+          "content_id": 727955,
+          "resource_code": "UWTranslationManual",
+          "label": "Sentence Types",
+          "language": "spa"
+        },
+        {
+          "reference_id": 26840,
+          "content_id": 728109,
+          "resource_code": "UWTranslationManual",
+          "label": "Quotations and Quote Margins",
+          "language": "spa"
+        }
+      ]
+    }
+  }
+]

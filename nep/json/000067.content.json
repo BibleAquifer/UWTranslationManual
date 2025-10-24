@@ -1,0 +1,30 @@
+[
+  {
+    "content_id": 727728,
+    "reference_id": 26731,
+    "title": "तिमीका रूपहरू",
+    "media_type": "Text",
+    "index_reference": "तिमीका रूपहरू",
+    "language": "nep",
+    "content": "<h3>एकवचन, दुई जनालाई जनाउने र बहुवचन</h3><p>केही भाषाहरूमा &quot;तिमी&quot; ले कति जना मानिसहरूलाई जनाउँछ भन्‍ने कुराको आधारमा &quot;तिमी&quot; को निम्ति एउटाभन्दा बढी शब्दको प्रयोग गरिन्छ। <strong>एकवचन</strong>ले एक जना मानिसलाई जनाउँछ भने <strong>बहुवचन</strong>ले एकभन्दा धेरै व्यक्तिहरूलाई जनाउँछ। कुनै भाषामा <strong>दुई जनालाई जनाउने</strong> रूप का साथै तिन वा चार जनालाई जनाउने रूप पनि हुन्छ।</p><p>यसको निम्ति http://ufw.io/figs_younum मा रहेको भिडियो पनि हेर्न सक्नुहुन्छ।</p><p>कहिलेकाहिँ बाइबलमा कुनै वक्ताले भिडलाई सम्बोधन गरेको भएता पनि &quot;तिमी&quot; को एकवचन नै प्रयोग गरेको पाउँछौँ।</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26732\" data-resourceType=\"UWTranslationManual\">समूहहरूलाई जनाउने एकवचन सर्वनाम</span></p></li></ul><h3>औपचारिक र अनौपचारिक</h3><p>केही भाषाहरूमा वक्ता र श्रोता बिचको सम्बन्धको आधारमा &quot;तिमी&quot; का एकभन्दा धेरै रूपहरूको प्रयोग गरिन्छ। आफूभन्दा ठूला वा नचिनेका व्यक्तिहरूलाई जनाउनको निम्ति &quot;तिमी&quot; को <strong>औपचारिक</strong> रूप &quot;तपाईं&quot; वा &quot;हजुर&quot; को प्रयोग गरिन्छ भने नजिकको साथी वा परिवारको मानिस वा आफूभन्दा सानो व्यक्तिलाई सम्बोधन गर्नको लागि <strong>अनौपचारिक</strong> रूप &quot;तिमी&quot; वा &quot;तँ&quot; को प्रयोग गरिन्छ।</p><p>यसको निम्ति http://ufw.io/figs_youform मा रहेको भिडियो पनि हेर्न सक्नुहुन्छ।</p><p>यसलाई अनुवाद गर्ने कार्यमा मदतको निम्ति तल दिइएको जानकारी पढ्नुहोस्।</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26734\" data-resourceType=\"UWTranslationManual\">&quot;तिमी&quot; का रूपहरू - औपचारिक वा अनौपचारिक</span></p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26732,
+          "content_id": 727729,
+          "resource_code": "UWTranslationManual",
+          "label": "समूहलाई जनाउने एकवचन सर्वनामहरू",
+          "language": "nep"
+        },
+        {
+          "reference_id": 26734,
+          "content_id": 727731,
+          "resource_code": "UWTranslationManual",
+          "label": "\"तिमी\" का रूपहरू - औपचारिक वा अनौपचारिक",
+          "language": "nep"
+        }
+      ]
+    }
+  }
+]

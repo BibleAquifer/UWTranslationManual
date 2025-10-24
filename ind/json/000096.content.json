@@ -1,0 +1,51 @@
+[
+  {
+    "content_id": 727505,
+    "reference_id": 209453,
+    "title": "Pemeriksaan Keakuratan oleh Pemimpin Gereja",
+    "media_type": "Text",
+    "index_reference": "pemeriksaan keakuratan oleh pemimpin gereja",
+    "language": "ind",
+    "content": "<h3>Pemeriksaan Keakuratan oleh Pemimpin Gereja</h3><p>Setelah terjemahan diperiksa oleh anggota komunitas untuk kejelasan dan kealamiannya, maka akan diperiksa keakuratannya oleh para pemimpin gereja. Ini adalah pedoman bagi para pemimpin gereja yang melakukan pemeriksaan keakuratan. Mereka harus menjadi penutur bahasa ibu dari bahasa target dan juga memahami dengan baik salah satu bahasa yang tersedia dalam teks sumber. Mereka tidak boleh menjadi orang yang sama yang melakukan penerjemahan. Mereka haruslah pemimpin gereja yang memahami Alkitab dengan baik. Biasanya peninjau ini adalah para pendeta. Para pemimpin gereja ini harus mewakili sebanyak mungkin jaringan gereja yang berbeda dalam komunitas bahasa.</p><p>Para peninjau ini harus mengikuti langkah-langkah berikut:</p><ol><li><p>Baca <span data-bnType=\"resourceReference\" data-resourceId=\"209492\" data-resourceType=\"UWTranslationManual\">Pedoman Terjemahan</span> untuk memastikan bahwa terjemahannya sesuai dengan pedoman ini saat mereka meninjau terjemahannya.</p></li><li><p>Jawab pertanyaan tentang penerjemah atau tim penerjemah yang berada di <span data-bnType=\"resourceReference\" data-resourceId=\"26764\" data-resourceType=\"UWTranslationManual\">Kualifikasi Penerjemah</span>.</p></li><li><p>Pastikan bahwa terjemahan telah dilakukan dalam gaya yang dapat diterima oleh audiens yang dituju dengan mengajukan pertanyaan di <span data-bnType=\"resourceReference\" data-resourceId=\"209448\" data-resourceType=\"UWTranslationManual\">Gaya yang Dapat Diterima</span>.</p></li><li><p>Pastikanbahwa terjemahan tersebut secara akurat menyampaikan makna teks sumber dengan mengikuti pedoman di <span data-bnType=\"resourceReference\" data-resourceId=\"209449\" data-resourceType=\"UWTranslationManual\">Pemeriksaan Akurasi</span>.</p></li><li><p>Pastikan bahwa terjemahan telah selesai dengan mengikuti panduan di <span data-bnType=\"resourceReference\" data-resourceId=\"209456\" data-resourceType=\"UWTranslationManual\">Terjemahan Lengkap</span>.</p></li><li><p>Setelah Anda (pemeriksa keakuratan) meninjau beberapa pasal atau satu kitab dalam Alkitab, temui tim penerjemah dan tanyakan tentang setiap masalah yang Anda temukan. Diskusikan dengan tim penerjemah bagaimana mereka dapat menyesuaikan terjemahan untuk memperbaiki setiap masalah. Buatlah rencana untuk bertemu kembali dengan tim penerjemah di lain waktu, setelah mereka mempunyai waktu untuk menyesuaikan terjemahan dan mengujinya dengan komunitas.</p></li><li><p>Bertemu kembali dengan tim penerjemah untuk memverifikasi bahwa mereka telah memperbaiki masalahnya.</p></li><li><p>Tegaskan bahwa terjemahannya bagus pada halaman <span data-bnType=\"resourceReference\" data-resourceId=\"209461\" data-resourceType=\"UWTranslationManual\">Afirmasi Akurasi</span>.</p></li></ol>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209448,
+          "content_id": 727489,
+          "resource_code": "UWTranslationManual",
+          "label": "Bentuk yang Dapat Diterima",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209449,
+          "content_id": 727490,
+          "resource_code": "UWTranslationManual",
+          "label": "Memeriksa Keakuratan Terjemahan",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209456,
+          "content_id": 727508,
+          "resource_code": "UWTranslationManual",
+          "label": "Terjemahan Lengkap",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209461,
+          "content_id": 727559,
+          "resource_code": "UWTranslationManual",
+          "label": "Penegasan Keakuratan dan Penerimaan Komunitas",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 727616,
+          "resource_code": "UWTranslationManual",
+          "label": "Pedoman Penerjemahan",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]

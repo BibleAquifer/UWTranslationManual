@@ -1,0 +1,513 @@
+[
+  {
+    "content_id": 727515,
+    "reference_id": 26680,
+    "title": "Doublet (Jamak)",
+    "media_type": "Text",
+    "index_reference": "doublet (jamak)",
+    "language": "ind",
+    "content": "<h3>Deskripsi</h3><p>Kami menggunakan kata &quot;doublet&quot; untuk merujuk pada dua kata atau frasa yang digunakan bersama dan memiliki arti yang sama atau hampir sama. Sering kali keduanya digabungkan dengan kata &quot;dan&quot;. Tidak seperti <span data-bnType=\"resourceReference\" data-resourceId=\"26694\" data-resourceType=\"UWTranslationManual\">Hendiadys</span>, di mana salah satu kata memodifikasi kata yang lain, dalam doublet, dua kata atau frasa sama dan digunakan untuk menekankan atau mengintensifkan satu ide yang diungkapkan oleh dua kata atau frasa.</p><p>Masalah yang sangat mirip adalah pengulangan kata atau frasa yang sama untuk penekanan, biasanya tanpa kata lain di antaranya. Karena kiasan ini sangat mirip dan memiliki efek yang sama, kami akan membahasnya di sini bersama-sama.</p><h4>Alasan Mengapa Ini Merupakan Masalah Penerjemahan</h4><p>Dalam beberapa bahasa, orang tidak menggunakan doublet. Atau mereka mungkin menggunakan doublet, tetapi hanya dalam situasi tertentu, sehingga doublet mungkin tidak masuk akal dalam bahasa mereka dalam beberapa ayat. Orang mungkin berpikir bahwa ayat tersebut menggambarkan dua ide atau tindakan, padahal hanya menggambarkan satu ide. Dalam hal ini, penerjemah mungkin perlu mencari cara lain untuk mengungkapkan makna yang diungkapkan oleh doublet.</p><h3>Contoh-contoh dari Alkitab</h3><blockquote><p>Dia memiliki satu umat yang <strong>tercerai-berai</strong> dan <strong>terserak</strong> di antara bangsa-bangsa (Ester 3:8)</p></blockquote><p>Kata-kata yang dicetak tebal memiliki arti yang sama. Bersama-sama, keduanya berarti orang-orang yang tersebar.</p><p>Dia menyerang dua orang yang <strong>lebih benar</strong> dan <strong>lebih baik</strong> daripada dirinya. (1 Raja-raja 2:32b)</p><p>Ini berarti bahwa mereka &quot;jauh lebih benar&quot; daripada dia.</p><blockquote><p>Engkau telah memutuskan untuk menyiapkan kata-kata yang <strong>palsu</strong> dan <strong>menyesatkan</strong>. (Daniel 2:9b)</p></blockquote><p>Ini berarti mereka telah memutuskan untuk berbohong, yang merupakan cara lain untuk mengatakan bahwa mereka berniat untuk menipu orang..</p><blockquote><p>... seperti anak domba yang <strong>tak bercacat</strong> dan <strong>tak bernoda</strong>. (1 Petrus 1:19b)</p></blockquote><p>Ini berarti bahwa Dia seperti anak domba yang tidak memiliki cacat apa pun-tidak satu pun.</p><blockquote><p>Kemudian mereka mendekat dan membangunkan Dia sambil berkata, <strong>&quot;Guru! Guru!&quot;</strong> &quot;Kami akan binasa!&quot; (Lukas 8:24)</p></blockquote><p>Pengulangan kata &quot;Guru&quot; berarti para murid memanggil Yesus dengan segera dan terus-menerus.</p><h3>Strategi Penerjemahan</h3><p>Jika doublet akan terasa alami dan memberikan makna yang tepat dalam bahasa Anda, pertimbangkan untuk menggunakannya. Jika tidak, pertimbangkan strategi berikut ini.</p><p>(1) Terjemahkan hanya salah satu kata atau frasa.</p><p>(2) Jika doublet digunakan untuk mengintensifkan makna, terjemahkan salah satu kata atau frasa dan tambahkan kata yang mengintensifkan makna tersebut, misalnya &quot;sangat&quot; atau &quot;hebat&quot; atau &quot;banyak&quot;.</p><p>(3) Jika doublet digunakan untuk mengintensifkan atau menekankan makna, gunakan salah satu cara dari bahasa Anda untuk melakukannya.</p><h3>Strategi Penerjemahan yang Diterapkan</h3><p>(1) Terjemahkan hanya salah satu kata saja.</p><blockquote><p>Engkau telah memutuskan untuk menyiapkan kata-kata yang <strong>palsu</strong> dan <strong>menyesatkan</strong>. (Daniel 2:9b) &quot;Engkau telah memutuskan untuk menyiapkan perkataan yang <strong>palsu</strong> untuk dikatakan.&quot;</p></blockquote><p>(2) Jika doublet digunakan untuk mengintensifkan makna, terjemahkan salah satu kata dan tambahkan kata yang mengintensifkan makna tersebut, misalnya &quot;sangat&quot; atau &quot;hebat&quot; atau &quot;banyak&quot;.</p><blockquote><p>Dia memiliki satu umat yang sangat <strong>tercerai-berai</strong> dan <strong>terserak</strong> di antara bangsa-bangsa (Ester 3:8) &quot;Ia mempunyai satu umat yang <strong>sangat tersebar</strong> di antara bangsa-bangsa.&quot;</p></blockquote><p>(3) Jika doublet digunakan untuk mengintensifkan atau menekankan makna, gunakan salah satu cara bahasa Anda untuk melakukannya.</p><blockquote><p>... seperti anak domba yang <strong>tak bercacat</strong> dan <strong>tak bernoda</strong>. (1 Petrus 1:19b)</p><ul><li><p>Bahasa Inggris dapat menekankan hal ini dengan &quot;any&quot; dan &quot;at all.&quot; Bahasa Indonesia: &quot;sama sekali.&quot;</p></li></ul><blockquote><p>&quot;... sama seperti anak domba yang <strong>sama sekali tak bercacat</strong>.&quot;</p></blockquote></blockquote><blockquote><p>Kemudian mereka mendekat dan membangunkan Dia sambil berkata, <strong>&quot;Guru! Guru!&quot;</strong> &quot;Kami akan binasa!&quot; (Lukas 8:24)</p><blockquote><p>Kemudian mereka mendekati dan membangunkan-Nya <strong>sambil berseru, &quot;Guru!</strong> Kita akan binasa!&quot;</p></blockquote></blockquote>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26694,
+          "content_id": 727528,
+          "resource_code": "UWTranslationManual",
+          "label": "Hendiadis",
+          "language": "ind"
+        },
+        {
+          "reference_id": 115559,
+          "content_id": 674060,
+          "resource_code": "Unknown",
+          "label": "Titus 1:8 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 115560,
+          "content_id": 674061,
+          "resource_code": "Unknown",
+          "label": "Titus 1:8 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 115593,
+          "content_id": 674094,
+          "resource_code": "Unknown",
+          "label": "Titus 2:2 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 115662,
+          "content_id": 674163,
+          "resource_code": "Unknown",
+          "label": "Titus 3:1 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 115663,
+          "content_id": 674164,
+          "resource_code": "Unknown",
+          "label": "Titus 3:1 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116214,
+          "content_id": 382427,
+          "resource_code": "Unknown",
+          "label": "Markus 4:8 (#6)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116362,
+          "content_id": 382575,
+          "resource_code": "Unknown",
+          "label": "Markus 4:39 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116518,
+          "content_id": 382731,
+          "resource_code": "Unknown",
+          "label": "Markus 5:38 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116560,
+          "content_id": 382773,
+          "resource_code": "Unknown",
+          "label": "Markus 6:4 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 149880,
+          "content_id": 387736,
+          "resource_code": "Unknown",
+          "label": "Matius 16:6 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 142795,
+          "content_id": 597649,
+          "resource_code": "Unknown",
+          "label": "Lukas 1:6 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 142822,
+          "content_id": 597676,
+          "resource_code": "Unknown",
+          "label": "Lukas 1:14 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 142833,
+          "content_id": 597687,
+          "resource_code": "Unknown",
+          "label": "Lukas 1:17 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 142850,
+          "content_id": 597704,
+          "resource_code": "Unknown",
+          "label": "Lukas 1:20 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 143017,
+          "content_id": 597871,
+          "resource_code": "Unknown",
+          "label": "Lukas 1:71 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 143046,
+          "content_id": 597900,
+          "resource_code": "Unknown",
+          "label": "Lukas 1:79 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159220,
+          "content_id": 671678,
+          "resource_code": "Unknown",
+          "label": "Kolose 1:2 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159252,
+          "content_id": 671710,
+          "resource_code": "Unknown",
+          "label": "Kolose 1:9 (#11)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159324,
+          "content_id": 671782,
+          "resource_code": "Unknown",
+          "label": "Kolose 1:22 (#9)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159327,
+          "content_id": 671785,
+          "resource_code": "Unknown",
+          "label": "Kolose 1:23 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159367,
+          "content_id": 671825,
+          "resource_code": "Unknown",
+          "label": "Kolose 1:29 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159368,
+          "content_id": 671826,
+          "resource_code": "Unknown",
+          "label": "Kolose 1:29 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159385,
+          "content_id": 671843,
+          "resource_code": "Unknown",
+          "label": "Kolose 2:2 (#8)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159392,
+          "content_id": 671850,
+          "resource_code": "Unknown",
+          "label": "Kolose 2:3 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159435,
+          "content_id": 671893,
+          "resource_code": "Unknown",
+          "label": "Kolose 2:10 (#6)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159459,
+          "content_id": 671917,
+          "resource_code": "Unknown",
+          "label": "Kolose 2:14 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159488,
+          "content_id": 671946,
+          "resource_code": "Unknown",
+          "label": "Kolose 2:19 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159562,
+          "content_id": 672020,
+          "resource_code": "Unknown",
+          "label": "Kolose 3:7 (#6)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159566,
+          "content_id": 672024,
+          "resource_code": "Unknown",
+          "label": "Kolose 3:8 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159631,
+          "content_id": 672089,
+          "resource_code": "Unknown",
+          "label": "Kolose 3:16 (#8)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159688,
+          "content_id": 672146,
+          "resource_code": "Unknown",
+          "label": "Kolose 4:1 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159699,
+          "content_id": 672157,
+          "resource_code": "Unknown",
+          "label": "Kolose 4:3 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159730,
+          "content_id": 672188,
+          "resource_code": "Unknown",
+          "label": "Kolose 4:8 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 160780,
+          "content_id": 672329,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 2:2 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 160816,
+          "content_id": 672365,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 2:9 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 160821,
+          "content_id": 672370,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 2:10 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 160825,
+          "content_id": 672374,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 2:12 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 160867,
+          "content_id": 672416,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 2:17 (#6)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 160936,
+          "content_id": 672485,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 3:7 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 160951,
+          "content_id": 672500,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 3:9 (#7)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 160966,
+          "content_id": 672515,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 3:12 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 160981,
+          "content_id": 672530,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 4:1 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161016,
+          "content_id": 672565,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 4:6 (#9)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161101,
+          "content_id": 672650,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 5:1 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161127,
+          "content_id": 672676,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 5:5 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161167,
+          "content_id": 672716,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 5:11 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 164026,
+          "content_id": 672846,
+          "resource_code": "Unknown",
+          "label": "2 Petrus 1:8 (#6)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 164039,
+          "content_id": 672859,
+          "resource_code": "Unknown",
+          "label": "2 Petrus 1:10 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 164210,
+          "content_id": 673030,
+          "resource_code": "Unknown",
+          "label": "2 Petrus 2:11 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 164231,
+          "content_id": 673051,
+          "resource_code": "Unknown",
+          "label": "2 Petrus 2:13 (#7)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 164263,
+          "content_id": 673083,
+          "resource_code": "Unknown",
+          "label": "2 Petrus 2:17 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 164360,
+          "content_id": 673180,
+          "resource_code": "Unknown",
+          "label": "2 Petrus 3:8 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 164396,
+          "content_id": 673216,
+          "resource_code": "Unknown",
+          "label": "2 Petrus 3:14 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161883,
+          "content_id": 673265,
+          "resource_code": "Unknown",
+          "label": "2 Tesalonika 1:4 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161962,
+          "content_id": 673344,
+          "resource_code": "Unknown",
+          "label": "2 Tesalonika 2:9 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161994,
+          "content_id": 673376,
+          "resource_code": "Unknown",
+          "label": "2 Tesalonika 2:15 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162014,
+          "content_id": 673396,
+          "resource_code": "Unknown",
+          "label": "2 Tesalonika 3:2 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162036,
+          "content_id": 673418,
+          "resource_code": "Unknown",
+          "label": "2 Tesalonika 3:8 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162284,
+          "content_id": 673666,
+          "resource_code": "Unknown",
+          "label": "2 Timotius 2:23 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162384,
+          "content_id": 673766,
+          "resource_code": "Unknown",
+          "label": "2 Timotius 3:17 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161353,
+          "content_id": 675230,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 2:2 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161356,
+          "content_id": 675232,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 2:3 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161442,
+          "content_id": 675281,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 3:2 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161507,
+          "content_id": 675318,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 3:15 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161579,
+          "content_id": 675370,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 4:10 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161633,
+          "content_id": 675408,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 5:5 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161672,
+          "content_id": 675433,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 5:13 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161713,
+          "content_id": 675462,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 5:21 (#6)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161788,
+          "content_id": 675513,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 6:9 (#7)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161823,
+          "content_id": 675534,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 6:14 (#1)",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]
