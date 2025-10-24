@@ -1,0 +1,72 @@
+[
+  {
+    "content_id": 727780,
+    "reference_id": 209477,
+    "title": "अनुवाद सुरु गर्नुअघिको तालिम",
+    "media_type": "Text",
+    "index_reference": "अनुवाद सुरु गर्नुअघिको तालिम",
+    "language": "nep",
+    "content": "<h3>अनुवाद गर्नुअघि के थाहा पाउने</h3><p>अनुवाद गर्ने क्रममा <span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">अनुवाद नियमावली</span> लाई बारम्बार प्रयोग गर्ने सिफारिस गर्दछौँ । अनुवाद सुरु गर्नुअघि शाब्दिक अनुवाद र अर्थमा आधारित अनुवाद बिचको भिन्‍नता थाहा पाउनको लागि नियमावली अध्ययन गर्न सुरु गर्नहोस् । नियमावलीका अन्य कुराहरू &quot;चाहिएको बेला&quot; मात्र अध्ययन गरे हुन्छ ।</p><p>अनुवाद परियोजना सुरु गर्नुअघि जान्‍नुपर्ने केही महत्त्वपूर्ण विषयहरूः</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26759\" data-resourceType=\"UWTranslationManual\">असल अनुवादका गुणहरू</span> - असल अनुवादको परिभाषा</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26811\" data-resourceType=\"UWTranslationManual\">अनुवाद प्रक्रिया</span> - अनुवादलाई असल कसरी बनाउने</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26792\" data-resourceType=\"UWTranslationManual\">ढाँचा र अर्थ</span> - ढाँचा र अर्थ बिचको भिन्‍नता</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26791\" data-resourceType=\"UWTranslationManual\">अर्थमा आधारित अनुवाद</span> - अर्थमा आधारित अनुवाद कसरी गर्ने</p></li></ul></li></ul><p>सुरु गर्दा थाहा गर्नुपर्ने अन्य महत्त्वपूर्ण शीर्षकहरूः</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">अनुवाद गर्ने सामाग्रीको छनौट</span> - अनुवाद कहाँबाट सुरु गर्ने</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26737\" data-resourceType=\"UWTranslationManual\">पहिलो खेस्रा</span> - पहिलो खेस्रा कसरी बनाउने</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26797\" data-resourceType=\"UWTranslationManual\">अनवुादसँग सम्बन्धित सल्लाह</span> - अनुवाद सहायताको प्रयोग</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26737,
+          "content_id": 727735,
+          "resource_code": "UWTranslationManual",
+          "label": "पहिलो खेस्रा बनाउने",
+          "language": "nep"
+        },
+        {
+          "reference_id": 26759,
+          "content_id": 727755,
+          "resource_code": "UWTranslationManual",
+          "label": "असल अनुवादका विशेषताहरू",
+          "language": "nep"
+        },
+        {
+          "reference_id": 26791,
+          "content_id": 727816,
+          "resource_code": "UWTranslationManual",
+          "label": "अर्थमा आधारित अनुवाद",
+          "language": "nep"
+        },
+        {
+          "reference_id": 26792,
+          "content_id": 727817,
+          "resource_code": "UWTranslationManual",
+          "label": "संरचना र अर्थ",
+          "language": "nep"
+        },
+        {
+          "reference_id": 26797,
+          "content_id": 727822,
+          "resource_code": "UWTranslationManual",
+          "label": "अनुवादको लागि सहयोग",
+          "language": "nep"
+        },
+        {
+          "reference_id": 26802,
+          "content_id": 727826,
+          "resource_code": "UWTranslationManual",
+          "label": "अनुवादको निर्देशन पुस्तिकाको परिचय",
+          "language": "nep"
+        },
+        {
+          "reference_id": 26811,
+          "content_id": 727834,
+          "resource_code": "UWTranslationManual",
+          "label": "अनुवादको प्रक्रिया",
+          "language": "nep"
+        },
+        {
+          "reference_id": 26827,
+          "content_id": 727850,
+          "resource_code": "UWTranslationManual",
+          "label": "पहिला के को अनुवाद गर्ने भनेर छान्‍ने",
+          "language": "nep"
+        }
+      ]
+    }
+  }
+]

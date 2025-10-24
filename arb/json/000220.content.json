@@ -1,0 +1,44 @@
+[
+  {
+    "content_id": 781801,
+    "reference_id": 209482,
+    "title": "إعداد برنامج translationCore®",
+    "media_type": "Text",
+    "index_reference": "إعداد برنامج translationcore®",
+    "language": "arb",
+    "content": "<h3>كيفية الحصول على translationCore®</h3><p>ببرنامج translationCore® هو برنامج مفتوح المصدر ومرخّص ترخيصًا حرًّا، صُمِّم خصيصًا لفحص ترجمات الكتاب المقدّس. يمكن تنزيل أحدث إصدار من البرنامج لأجهزة الحاسوب المكتبي أو المحمول (سواءً بنظام Windows أو Mac أو Linux) من خلال الموقع الرسمي: https://translationcore.com/. لتثبيت البرنامج، انقر على &quot;تنزيل&quot; للحصول على أحدث إصدار. لاحظ أنه يمكنك أيضًا نسخ ملف التثبيت إلى أجهزة كمبيوتر أخرى لمشاركة translationCore مع الآخرين دون الحاجة إلى استخدام الإنترنت.</p><h3>كيفية إعداد translationCore®</h3><p>للاطّلاع على دليل الاستخدام المفصَّل، يُرجى زيارة https://tc-documentation.readthedocs.io/. وفيما يلي نظرة عامة.</p><h4>تسجيل الدخول</h4><p>عند تشغيل البرنامج، سيُطلَب منك تسجيل الدخول باسم مستخدم. إذا كانت ترجمتك موجودة على موقع Door43، فاستخدم اسم المستخدم الخاص بك على Door43. وإذا لم ترغب في استخدام الإنترنت، يمكنك إدخال أي اسم تختاره، سواءً كان اسمك الحقيقي أو اسمًا مستعارًا.</p><h4>اختيار مشروع</h4><p>إذا سجّلت الدخول باسم المستخدم الخاص بك على Door43، فسيقوم برنامج translationCore® بالتعرّف تلقائيًا على الترجمات التي تخصّك، ويجعلها متاحة للتنزيل داخل البرنامج. بعد ذلك، يمكنك الاختيار من قائمة مشاريعك الموجودة على Door43 لتحديد مشروع الترجمة الذي ترغب في مراجعته. كما يمكنك أيضًا تحميل الترجمات المحفوظة مسبقًا على جهازك المحلي، دون الحاجة إلى الاتصال بالإنترنت.</p><h4>اختر الأداة</h4><p>يحتوي translationCore حاليًا على ثلاث أدوات للتحقق:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209463\" data-resourceType=\"UWTranslationManual\">معجم كلمات الترجمة</span></p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209490\" data-resourceType=\"UWTranslationManual\">شروح الترجمة</span></p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209450\" data-resourceType=\"UWTranslationManual\">تنسيق الكلمات</span></p></li></ul><p>يمكنك العثور على التعليمات الخاصة باستخدام كل أداة من خلال النقر على اسم الأداة في القائمة أعلاه داخل البرنامج.</p><h3>بعد استخدام translationCore®</h3><p>في أي وقت، يمكنك رفع عملك إلى <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://git.door43.org\">Door43</a> مبالعودة إلى قائمة المشاريع، ثم النقر على القائمة ذات الثلاث نقاط بجانب المشروع الذي تريد رفعه، واختيار: &quot;Upload to Door43&quot;. بعد رفع المشروع، سيقوم Door43 بالاحتفاظ بعملك في مستودع (Repository) تحت اسم المستخدم الخاص بك، ويمكنك الوصول إليه من هناك (انظر <span data-bnType=\"resourceReference\" data-resourceId=\"209466\" data-resourceType=\"UWTranslationManual\">النشر</span>).</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209450,
+          "content_id": 781769,
+          "resource_code": "UWTranslationManual",
+          "label": "التحقق من التوافق",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209463,
+          "content_id": 781782,
+          "resource_code": "UWTranslationManual",
+          "label": "التحقق من الكلمات المترجمة في tC",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209466,
+          "content_id": 781785,
+          "resource_code": "UWTranslationManual",
+          "label": "مقدمة في النشر",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209490,
+          "content_id": 781809,
+          "resource_code": "UWTranslationManual",
+          "label": "ملاحظات الترجمة في برنامج tC",
+          "language": "arb"
+        }
+      ]
+    }
+  }
+]

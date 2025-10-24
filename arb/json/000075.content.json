@@ -1,0 +1,898 @@
+[
+  {
+    "content_id": 781656,
+    "reference_id": 26731,
+    "title": "أشكال الضمير \"أنت\"",
+    "media_type": "Text",
+    "index_reference": "أشكال الضمير \"أنت\"",
+    "language": "arb",
+    "content": "<h3>المفرد، المثنّى، والجمع</h3><p>بعض اللغات تحتوي على أكثر من كلمة لـ &quot;أنت&quot; حسب عدد الأشخاص الذين تشير إليهم الكلمة.  <strong>الصيغة المفردة</strong> تشير إلى شخص واحد، و<strong>الصيغة الجمع</strong> تشير إلى أكثر من شخص، و<strong>الصيغة المثنّى</strong> (في بعض اللغات) تُستخدم عندما يكون الخطاب موجَّهًا إلى شخصين تحديدًا. وهناك لغات تحتوي على صيغ إضافية تشير إلى ثلاثة أو أربعة أشخاص.</p><p>يمكنك أيضًا مشاهدة هذا الفيديو للمزيد من التوضيح: https://ufw.io/figs_younum.<br></p><p>وفي بعض الأحيان في الكتاب المقدس، يستخدم المتكلّم صيغة المفرد من &quot;أنت&quot; حتى عندما يكون يخاطب جمهورًا. ولمساعدتك في ترجمة مثل هذه الحالات، ننصحك بقراءة:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26732\" data-resourceType=\"UWTranslationManual\">الضمائر المفردة التي تشير إلى مجموعات</span></p></li></ul><h3>الرسمي وغير الرسمي</h3><p>بعض اللغات تحتوي على أكثر من صيغة لكلمة &quot;أنت&quot; بناءً على العلاقة بين المتكلّم والمخاطَب. تُستخدم <strong>الصيغة الرسمية</strong> عند التحدّث إلى شخص أكبر سنًا، أو ذو سلطة أعلى، أو شخص لا يعرفه المتكلّم جيدًا. أما <strong>الصيغة غير الرسمية</strong> فتُستخدم مع شخص أصغر سنًا، أو ليس له سلطة أعلى، أو أحد أفراد العائلة أو صديق مقرّب.</p><p>يمكنك أيضًا مشاهدة هذا الفيديو لمزيد من التوضيح: https://ufw.io/figs_youform.</p><p>ولمساعدتك في ترجمة هذه الحالات، ننصحك بقراءة:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26734\" data-resourceType=\"UWTranslationManual\">أشكال الضمير &quot;أنت&quot; — الرسمي أو غير الرسمي</span></p></li></ul><h3>المذكر والمؤنث</h3><p>بعض اللغات تحتوي على <strong>صيغة مذكرة</strong> و<strong>صيغة مؤنثة</strong> لكلمة &quot;أنت&quot;. تُستخدم <strong>الصيغة المذكرة</strong> عند مخاطبة رجل أو صبي، وتُستخدم <strong>الصيغة المؤنثة</strong> عند مخاطبة امرأة أو فتاة.</p><p>أما اللغة الإنجليزية، فلا تُميّز بين هذه الصيغ، ولهذا فإن ترجمة ULT لا تحتوي على هذه الفروقات.<br>يرجى الانتباه إلى ذلك واستخدام الصيغة المناسبة لكلمة &quot;أنت&quot; في لغتك، إذا كانت تُميّز بين أي من هذه الفروقات.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26732,
+          "content_id": 781657,
+          "resource_code": "UWTranslationManual",
+          "label": "الضمائر المفردة التي تشير إلى مجموعات",
+          "language": "arb"
+        },
+        {
+          "reference_id": 26734,
+          "content_id": 781659,
+          "resource_code": "UWTranslationManual",
+          "label": "أشكال الضمير \"أنت\" — الرسمي أو غير الرسمي",
+          "language": "arb"
+        },
+        {
+          "reference_id": 136667,
+          "content_id": 327896,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 1: 4 (#6)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 136983,
+          "content_id": 328212,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 2: 38 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 137339,
+          "content_id": 328568,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 5: 9 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 137402,
+          "content_id": 328631,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 5: 25 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 140331,
+          "content_id": 325435,
+          "resource_code": "Unknown",
+          "label": "يوحنا 1: 51 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 140430,
+          "content_id": 325534,
+          "resource_code": "Unknown",
+          "label": "يوحنا 3: 10 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 140435,
+          "content_id": 325539,
+          "resource_code": "Unknown",
+          "label": "يوحنا 3: 11 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 140437,
+          "content_id": 325541,
+          "resource_code": "Unknown",
+          "label": "يوحنا 3: 12 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 140504,
+          "content_id": 325608,
+          "resource_code": "Unknown",
+          "label": "يوحنا 3: 28 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 137407,
+          "content_id": 328636,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 5: 28 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 137421,
+          "content_id": 328650,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 5: 30 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 137547,
+          "content_id": 328776,
+          "resource_code": "Unknown",
+          "label": "أعمال الرسل 7: 4 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 140589,
+          "content_id": 325693,
+          "resource_code": "Unknown",
+          "label": "يوحنا 4: 20 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 140596,
+          "content_id": 325700,
+          "resource_code": "Unknown",
+          "label": "يوحنا 4: 22 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 140640,
+          "content_id": 325744,
+          "resource_code": "Unknown",
+          "label": "يوحنا 4: 38 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 140669,
+          "content_id": 325773,
+          "resource_code": "Unknown",
+          "label": "يوحنا 4: 48 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 140734,
+          "content_id": 325838,
+          "resource_code": "Unknown",
+          "label": "يوحنا 5: 19 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 140755,
+          "content_id": 325859,
+          "resource_code": "Unknown",
+          "label": "يوحنا 5: 24 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 140762,
+          "content_id": 325866,
+          "resource_code": "Unknown",
+          "label": "يوحنا 5: 25 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 140788,
+          "content_id": 325892,
+          "resource_code": "Unknown",
+          "label": "يوحنا 5: 33 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 141023,
+          "content_id": 326127,
+          "resource_code": "Unknown",
+          "label": "يوحنا 6: 61 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 141214,
+          "content_id": 326318,
+          "resource_code": "Unknown",
+          "label": "يوحنا 8: 14 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 141242,
+          "content_id": 326346,
+          "resource_code": "Unknown",
+          "label": "يوحنا 8: 23 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 141270,
+          "content_id": 326374,
+          "resource_code": "Unknown",
+          "label": "يوحنا 8: 31 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 141748,
+          "content_id": 326852,
+          "resource_code": "Unknown",
+          "label": "يوحنا 12: 8 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 141993,
+          "content_id": 327097,
+          "resource_code": "Unknown",
+          "label": "يوحنا 14: 1 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 142014,
+          "content_id": 327118,
+          "resource_code": "Unknown",
+          "label": "يوحنا 14: 9 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 142020,
+          "content_id": 327124,
+          "resource_code": "Unknown",
+          "label": "يوحنا 14: 10 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 143570,
+          "content_id": 321631,
+          "resource_code": "Unknown",
+          "label": "لوقا 5: 30 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 143607,
+          "content_id": 321668,
+          "resource_code": "Unknown",
+          "label": "لوقا 6: 2 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 143697,
+          "content_id": 321758,
+          "resource_code": "Unknown",
+          "label": "لوقا 6 :31 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 143837,
+          "content_id": 321898,
+          "resource_code": "Unknown",
+          "label": "لوقا ٧: ١٩ (#٣)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 143841,
+          "content_id": 321902,
+          "resource_code": "Unknown",
+          "label": "لوقا 7: 20 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 143870,
+          "content_id": 321931,
+          "resource_code": "Unknown",
+          "label": "لوقا 7: 27 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 143984,
+          "content_id": 322045,
+          "resource_code": "Unknown",
+          "label": "لوقا ٨:٨ (#٤)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 144030,
+          "content_id": 322091,
+          "resource_code": "Unknown",
+          "label": "لوقا ٨: ٢٠ (#٢)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 144076,
+          "content_id": 322137,
+          "resource_code": "Unknown",
+          "label": "لوقا 8 :30 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 144294,
+          "content_id": 322355,
+          "resource_code": "Unknown",
+          "label": "لوقا 9: 41 (#5)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 144295,
+          "content_id": 322356,
+          "resource_code": "Unknown",
+          "label": "لوقا 9: 41 (#6)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 144372,
+          "content_id": 322433,
+          "resource_code": "Unknown",
+          "label": "لوقا 10: 3 (#5)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 144408,
+          "content_id": 322469,
+          "resource_code": "Unknown",
+          "label": "لوقا 10: 13 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 144425,
+          "content_id": 322486,
+          "resource_code": "Unknown",
+          "label": "لوقا 10: 15 (#6)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 144576,
+          "content_id": 322637,
+          "resource_code": "Unknown",
+          "label": "لوقا 11: 8 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 144579,
+          "content_id": 322640,
+          "resource_code": "Unknown",
+          "label": "لوقا 11: 9 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 144807,
+          "content_id": 322868,
+          "resource_code": "Unknown",
+          "label": "لوقا ١٢: ٧ (#٣)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 144912,
+          "content_id": 322973,
+          "resource_code": "Unknown",
+          "label": "لوقا 12: 34 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 144917,
+          "content_id": 322978,
+          "resource_code": "Unknown",
+          "label": "لوقا 12: 35 (#5)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 145110,
+          "content_id": 323171,
+          "resource_code": "Unknown",
+          "label": "لوقا 13: 24 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 145113,
+          "content_id": 323174,
+          "resource_code": "Unknown",
+          "label": "لوقا 13: 25 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 145124,
+          "content_id": 323185,
+          "resource_code": "Unknown",
+          "label": "لوقا 13: 26 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 145128,
+          "content_id": 323189,
+          "resource_code": "Unknown",
+          "label": "لوقا 13: 27 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 145171,
+          "content_id": 323232,
+          "resource_code": "Unknown",
+          "label": "لوقا 13: 34 (#10)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 145180,
+          "content_id": 323241,
+          "resource_code": "Unknown",
+          "label": "لوقا 13: 35 (#6)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 145232,
+          "content_id": 323293,
+          "resource_code": "Unknown",
+          "label": "لوقا 14: 12 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 145283,
+          "content_id": 323344,
+          "resource_code": "Unknown",
+          "label": "لوقا 14: 24 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 145327,
+          "content_id": 323388,
+          "resource_code": "Unknown",
+          "label": "لوقا 14: 35 (#5)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 145402,
+          "content_id": 323463,
+          "resource_code": "Unknown",
+          "label": "لوقا 15: 22 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 145408,
+          "content_id": 323469,
+          "resource_code": "Unknown",
+          "label": "لوقا 15: 23 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 142105,
+          "content_id": 327209,
+          "resource_code": "Unknown",
+          "label": "يوحنا 15: 3 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 142684,
+          "content_id": 327788,
+          "resource_code": "Unknown",
+          "label": "يوحنا 20: 31 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 147884,
+          "content_id": 316251,
+          "resource_code": "Unknown",
+          "label": "متى 6: 5 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 150846,
+          "content_id": 319213,
+          "resource_code": "Unknown",
+          "label": "متى 21: 32 (#5)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 145508,
+          "content_id": 323569,
+          "resource_code": "Unknown",
+          "label": "لوقا 16: 13 (#6)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 145576,
+          "content_id": 323637,
+          "resource_code": "Unknown",
+          "label": "لوقا 16: 26 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 145612,
+          "content_id": 323673,
+          "resource_code": "Unknown",
+          "label": "لوقا 17: 3 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 145630,
+          "content_id": 323691,
+          "resource_code": "Unknown",
+          "label": "لوقا 17: 6 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 145699,
+          "content_id": 323760,
+          "resource_code": "Unknown",
+          "label": "لوقا 17: 21 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 146040,
+          "content_id": 324101,
+          "resource_code": "Unknown",
+          "label": "لوقا 19: 26 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 146103,
+          "content_id": 324164,
+          "resource_code": "Unknown",
+          "label": "لوقا 19: 42 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 146111,
+          "content_id": 324172,
+          "resource_code": "Unknown",
+          "label": "لوقا 19: 43 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 146117,
+          "content_id": 324178,
+          "resource_code": "Unknown",
+          "label": "لوقا 19: 44 (#5)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 146600,
+          "content_id": 324661,
+          "resource_code": "Unknown",
+          "label": "لوقا 22: 31 (#7)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 146602,
+          "content_id": 324663,
+          "resource_code": "Unknown",
+          "label": "لوقا 22: 32 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 146994,
+          "content_id": 325055,
+          "resource_code": "Unknown",
+          "label": "لوقا 24: 6 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 189887,
+          "content_id": 421764,
+          "resource_code": "Unknown",
+          "label": "الخروج 30: 12 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 189918,
+          "content_id": 421795,
+          "resource_code": "Unknown",
+          "label": "الخروج 30: 26 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 189930,
+          "content_id": 421807,
+          "resource_code": "Unknown",
+          "label": "الخروج 30: 36 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 181265,
+          "content_id": 608529,
+          "resource_code": "Unknown",
+          "label": "الأمثال 4: 2 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 181889,
+          "content_id": 609153,
+          "resource_code": "Unknown",
+          "label": "الأمثال 9: 5 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 181891,
+          "content_id": 609155,
+          "resource_code": "Unknown",
+          "label": "الأمثال 9: 6 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 168275,
+          "content_id": 639522,
+          "resource_code": "Unknown",
+          "label": "رؤيا 22: 16 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 157576,
+          "content_id": 665515,
+          "resource_code": "Unknown",
+          "label": "1 كورنثوس 15: 55 (#7)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 187146,
+          "content_id": 705956,
+          "resource_code": "Unknown",
+          "label": "غلاطية 1: 3 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 187486,
+          "content_id": 706296,
+          "resource_code": "Unknown",
+          "label": "غلاطية 3: 16 (#6)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 187630,
+          "content_id": 706440,
+          "resource_code": "Unknown",
+          "label": "غلاطية 4: 7 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 159797,
+          "content_id": 706780,
+          "resource_code": "Unknown",
+          "label": "أفسس 1:1 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 160142,
+          "content_id": 707125,
+          "resource_code": "Unknown",
+          "label": "أفسس 5: 14 (#5)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 160190,
+          "content_id": 707173,
+          "resource_code": "Unknown",
+          "label": "أفسس 6: 1-3 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 162045,
+          "content_id": 708391,
+          "resource_code": "Unknown",
+          "label": "٢ تسالونيكي ٣: ١٣ (#٢)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 185176,
+          "content_id": 726161,
+          "resource_code": "Unknown",
+          "label": "نشيد الأنشاد 1: 4 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 162575,
+          "content_id": 726789,
+          "resource_code": "Unknown",
+          "label": "فليمون 1: 22 (#7)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 162583,
+          "content_id": 726797,
+          "resource_code": "Unknown",
+          "label": "فليمون 1: 25 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 198907,
+          "content_id": 762214,
+          "resource_code": "Unknown",
+          "label": "عزرا 7: 13 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 198931,
+          "content_id": 762238,
+          "resource_code": "Unknown",
+          "label": "عزرا 7: 17 (#5)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 198932,
+          "content_id": 762239,
+          "resource_code": "Unknown",
+          "label": "عزرا 7: 17 (#6)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 198933,
+          "content_id": 762240,
+          "resource_code": "Unknown",
+          "label": "عزرا 7: 17 (#7)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 198935,
+          "content_id": 762242,
+          "resource_code": "Unknown",
+          "label": "عزرا  7: 18 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 198936,
+          "content_id": 762243,
+          "resource_code": "Unknown",
+          "label": "عزرا 7: 18 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 198937,
+          "content_id": 762244,
+          "resource_code": "Unknown",
+          "label": "عزرا 7: 18 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 198940,
+          "content_id": 762247,
+          "resource_code": "Unknown",
+          "label": "عزرا 7: 19 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 198947,
+          "content_id": 762254,
+          "resource_code": "Unknown",
+          "label": "عزرا 7: 20 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 198953,
+          "content_id": 762260,
+          "resource_code": "Unknown",
+          "label": "عزرا 7: 21 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 198978,
+          "content_id": 762285,
+          "resource_code": "Unknown",
+          "label": "عزرا 7: 25 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 198983,
+          "content_id": 762290,
+          "resource_code": "Unknown",
+          "label": "عزرا 7: 25 (#6)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 178889,
+          "content_id": 763100,
+          "resource_code": "Unknown",
+          "label": "نحميا ١: ٥ (#٤)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 178912,
+          "content_id": 763123,
+          "resource_code": "Unknown",
+          "label": "نحميا 1: 8 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 178915,
+          "content_id": 763126,
+          "resource_code": "Unknown",
+          "label": "نحميا 1: 9 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 179060,
+          "content_id": 763271,
+          "resource_code": "Unknown",
+          "label": "نحميا 2: 17 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 162490,
+          "content_id": 770302,
+          "resource_code": "Unknown",
+          "label": "2 تيموثاوس 4: 22 (#6)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 162779,
+          "content_id": 770321,
+          "resource_code": "Unknown",
+          "label": "١ يوحنا ١: ٢ (#٤)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 162794,
+          "content_id": 770336,
+          "resource_code": "Unknown",
+          "label": "١ يوحنا ١: ٤ (#٤)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 163909,
+          "content_id": 771451,
+          "resource_code": "Unknown",
+          "label": "٢ يوحنا ١: ٤ (#٣)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 163915,
+          "content_id": 771457,
+          "resource_code": "Unknown",
+          "label": "٢ يوحنا ١: ٥ (#٢)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 163920,
+          "content_id": 771462,
+          "resource_code": "Unknown",
+          "label": "٢ يوحنا ١: ٦ (#٢)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 163957,
+          "content_id": 771499,
+          "resource_code": "Unknown",
+          "label": "٢ يوحنا ١: ١٣ (#٤)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 163971,
+          "content_id": 771513,
+          "resource_code": "Unknown",
+          "label": "٢ بطرس ١: ٢ (#٥)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 164006,
+          "content_id": 771548,
+          "resource_code": "Unknown",
+          "label": "٢ بطرس ١: ٥ (#٥)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 166209,
+          "content_id": 771982,
+          "resource_code": "Unknown",
+          "label": "يعقوب 1: 2 (#6)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 166366,
+          "content_id": 772139,
+          "resource_code": "Unknown",
+          "label": "يعقوب 2: 3 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 166374,
+          "content_id": 772147,
+          "resource_code": "Unknown",
+          "label": "يعقوب 2: 3 (#10)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 166422,
+          "content_id": 772195,
+          "resource_code": "Unknown",
+          "label": "يعقوب 2: 12 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 166497,
+          "content_id": 772270,
+          "resource_code": "Unknown",
+          "label": "يعقوب 2: 24 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 166836,
+          "content_id": 772609,
+          "resource_code": "Unknown",
+          "label": "يهوذا 1: 2 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 180821,
+          "content_id": 794125,
+          "resource_code": "Unknown",
+          "label": "عوبديا 1: 13 (#5)",
+          "language": "arb"
+        }
+      ]
+    }
+  }
+]

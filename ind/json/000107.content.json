@@ -1,0 +1,86 @@
+[
+  {
+    "content_id": 727575,
+    "reference_id": 209464,
+    "title": "Introduksi kepada Manual Pemeriksaan",
+    "media_type": "Text",
+    "index_reference": "introduksi kepada manual pemeriksaan",
+    "language": "ind",
+    "content": "<h3>Panduan Pemeriksaan Terjemahan</h3><p>Manual ini menjelaskan cara memeriksa terjemahan Alkitab dalam Bahasa Lain (OL) untuk keakuratan, kejelasan, dan kealamian. (Untuk proses pemeriksaan Bahasa Gateway (GL), lihat [Manual Bahasa Gateway] (https://gl-manual.readthedocs.io/en/latest/)). Panduan Pemeriksaan Terjemahan ini juga membahas pentingnya mendapatkan persetujuan untuk terjemahan dan proses penerjemahan dari para pemimpin gereja di lokasi bahasa tersebut.</p><p>Buku panduan ini dimulai dengan instruksi untuk memeriksa terjemahan yang akan digunakan oleh tim penerjemah untuk memeriksa pekerjaan masing-masing. Pemeriksaan ini meliputi <span data-bnType=\"resourceReference\" data-resourceId=\"209474\" data-resourceType=\"UWTranslationManual\">Pemeriksaan Lisan Rekan</span> dan <span data-bnType=\"resourceReference\" data-resourceId=\"209489\" data-resourceType=\"UWTranslationManual\">Pemeriksaan Penggalan Lisan Tim</span>. Kemudian ada instruksi untuk digunakan oleh tim penerjemah untuk memeriksa hasil terjemahan dengan perangkat lunak translationCore. Ini termasuk <span data-bnType=\"resourceReference\" data-resourceId=\"209463\" data-resourceType=\"UWTranslationManual\">Pemeriksaan Translation Words</span> dan <span data-bnType=\"resourceReference\" data-resourceId=\"209490\" data-resourceType=\"UWTranslationManual\">Pemeriksaan Translation Notes</span>.</p><p>Setelah itu, tim penerjemah perlu memeriksa hasil terjemahannya dengan <span data-bnType=\"resourceReference\" data-resourceId=\"209468\" data-resourceType=\"UWTranslationManual\">Komunitas Bahasa</span> untuk mengetahui kejelasan dan kealamiannya. Hal ini diperlukan karena penutur bahasa lain sering kali menyarankan cara yang lebih baik untuk mengatakan sesuatu yang mungkin tidak terpikirkan oleh tim penterjemah. Kadang-kadang tim penerjemah membuat terjemahannya terdengar aneh karena mereka terlalu mengikuti kata-kata dari bahasa sumber. Penutur bahasa yang lain dapat membantu mereka memperbaikinya. Pemeriksaan lain yang dapat dilakukan oleh tim penterjemah pada saat ini adalah [Pemeriksaan Pemimpin Gereja] (../accuracy-check/01.md) (atau OL pengecekan pendeta) Karena pendeta OL sudah kenal dengan Alkitab dalam Bahasa Gateway (GL), mereka dapat memeriksa keakuratan terjemahan Alkitab GL. Mereka juga dapat menemukan kesalahan yang tidak dilihat oleh tim penerjemah karena tim penerjemah sangat dekat dan terlibat dalam pekerjaan mereka. Selain itu, tim penerjemah mungkin kurang memiliki keahlian atau pengetahuan tentang Alkitab yang mungkin dimiliki oleh pendeta OL, yang bukan menjadi bagian dari tim penerjemahan. Dengan cara ini, seluruh komunitas bahasa dapat bekerja sama untuk memastikan bahwa terjemahan Alkitab akurat, jelas, dan natural dalam bahasa target.</p><p>Pemeriksaan lebih lanjut untuk keakuratan terjemahan Alkitab adalah dengan menyelaraskannya dengan bahasa asli Alkitab menggunakan alat <span data-bnType=\"resourceReference\" data-resourceId=\"209450\" data-resourceType=\"UWTranslationManual\">Penyelarasan Kata</span> di Translation Core. Setelah semua pemeriksaan ini dilakukan dan terjemahannya telah diselaraskan, para pemimpin jaringan gereja OL akan ingin <span data-bnType=\"resourceReference\" data-resourceId=\"209502\" data-resourceType=\"UWTranslationManual\">Ulasan</span> terjemahannya dan memberikan [Peresetujuan](. ./level3-approval/01.md). Karena banyak pemimpin jaringan gereja tidak menguasai bahasa terjemahan, ada juga instruksi untuk membuat <span data-bnType=\"resourceReference\" data-resourceId=\"209496\" data-resourceType=\"UWTranslationManual\">Terjemahan Kembali</span>, yang memungkinkan orang memeriksa terjemahan dalam bahasa yang mereka tidak pakai untuk berbicara.</p><h3>Translation Checking Manual</h3><h3>Panduan Pemeriksaan Terjemahan</h3><p>Manual ini menjelaskan cara memeriksa keakuratan, kejelasan, dan kealamian terjemahan Alkitab dalam Bahasa Lain (OL). (Untuk proses pengecekan Bahasa Gateway (GL), lihat <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://gl-manual.readthedocs.io/en/latest/\">Manual Bahasa Gateway</a>). Manual Pemeriksaan Terjemahan ini juga membahas tentang pentingnya memperoleh persetujuan penerjemahan dan proses penerjemahan dari pimpinan gereja wilayah bahasa.</p><p>Buku panduan ini dimulai dengan instruksi untuk memeriksa terjemahan yang akan digunakan oleh tim penerjemah untuk memeriksa pekerjaan masing-masing. Pemeriksaan ini meliputi <span data-bnType=\"resourceReference\" data-resourceId=\"209474\" data-resourceType=\"UWTranslationManual\">Pemeriksaan Lisan Rekan</span> dan <span data-bnType=\"resourceReference\" data-resourceId=\"209489\" data-resourceType=\"UWTranslationManual\">Pemeriksaan Penggalan Lisan Tim</span>. Kemudian ada instruksi untuk digunakan oleh tim penerjemah untuk memeriksa hasil terjemahan dengan perangkat lunak translationCore. Ini termasuk <span data-bnType=\"resourceReference\" data-resourceId=\"UW_TXManual_pemeriksaan-kata-penting\" data-resourceType=\"UWTranslationManual\">Pemeriksaan Translation Words</span> dan <span data-bnType=\"resourceReference\" data-resourceId=\"209490\" data-resourceType=\"UWTranslationManual\">Pemeriksaan Translation Notes</span>. After this, the translation team will need to check the translation with the <span data-bnType=\"resourceReference\" data-resourceId=\"209468\" data-resourceType=\"UWTranslationManual\">Language Community</span> for clarity and naturalness. This is necessary because other speakers of the language can often suggest better ways of saying things that the translation team may not have thought of. Sometimes the translation team makes the translation sound strange because they are following the words of the source language too closely. Other speakers of the language can help them fix that. Another check that the translation team can do at this point is <span data-bnType=\"resourceReference\" data-resourceId=\"209449\" data-resourceType=\"UWTranslationManual\">Church Leader Check</span> (atau pemeriksaan pendeta OL). Karena para pendeta OL sudah terbiasa dengan Alkitab dalam Bahasa Pengantar (GL), mereka dapat memeriksa keakuratan terjemahan dengan Alkitab GL. Mereka juga dapat menemukan kesalahan yang tidak dilihat oleh tim penerjemah karena tim penerjemah sangat dekat dan terlibat dalam pekerjaan mereka. Selain itu, tim penerjemah mungkin tidak memiliki keahlian atau pengetahuan tentang Alkitab yang mungkin dimiliki oleh pendeta OL lain yang bukan bagian dari tim penerjemah. Dengan cara ini, seluruh komunitas bahasa dapat bekerja sama untuk memastikan bahwa terjemahan Alkitab yang dihasilkan akurat, jelas, dan alami dalam bahasa target.</p><p>Pemeriksaan lebih lanjut untuk keakuratan terjemahan Alkitab adalah dengan menyelaraskannya dengan bahasa-bahasa asli Alkitab dengan menggunakan alat <span data-bnType=\"resourceReference\" data-resourceId=\"209450\" data-resourceType=\"UWTranslationManual\">Word Alignment</span> dalam Translation Core. Setelah semua pemeriksaan ini dilakukan dan terjemahan telah disejajarkan, para pemimpin jaringan gereja OL akan ingin <span data-bnType=\"resourceReference\" data-resourceId=\"UW_TXManual_vol2-langkah\" data-resourceType=\"UWTranslationManual\">Peninjauan</span> terjemahan tersebut dan memberikan [Pengesahan](../pengesahan level3/01.md). Karena banyak pemimpin jaringan gereja yang tidak berbicara dalam bahasa yang digunakan dalam terjemahan tersebut, maka ada juga instruksi untuk membuat <span data-bnType=\"resourceReference\" data-resourceId=\"UW_TXManual_vol2-terjemahan-balik\" data-resourceType=\"UWTranslationManual\">Terjemahan Balik</span>, yang memungkinkan orang untuk memeriksa terjemahan dalam bahasa yang tidak mereka kuasai.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209449,
+          "content_id": 727490,
+          "resource_code": "UWTranslationManual",
+          "label": "Memeriksa Keakuratan Terjemahan",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209450,
+          "content_id": 727491,
+          "resource_code": "UWTranslationManual",
+          "label": "Pemeriksaan Keselarasan",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209463,
+          "content_id": 727574,
+          "resource_code": "UWTranslationManual",
+          "label": "Pemeriksaan translationWords di tC",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209468,
+          "content_id": 727579,
+          "resource_code": "UWTranslationManual",
+          "label": "Pemeriksaan Kejelasan dan Kealamian Terjemahan",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209469,
+          "content_id": 727580,
+          "resource_code": "Unknown",
+          "label": "Formulir Evaluasi Pemeriksa Kualitas",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209474,
+          "content_id": 727585,
+          "resource_code": "UWTranslationManual",
+          "label": "Pmereiksaan Patner secara Lisan",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209489,
+          "content_id": 727600,
+          "resource_code": "UWTranslationManual",
+          "label": "Pemeriksaan Potongan Lisan secara Tim",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209490,
+          "content_id": 727601,
+          "resource_code": "UWTranslationManual",
+          "label": "Pemeriksaan TerjemahanCatatan  di tC",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209496,
+          "content_id": 727620,
+          "resource_code": "UWTranslationManual",
+          "label": "Terjemahan Balik",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209502,
+          "content_id": 727626,
+          "resource_code": "UWTranslationManual",
+          "label": "Langkah-langkah untuk Para Pemeriksa Kualitas Terjemahan",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]

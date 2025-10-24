@@ -1,0 +1,1010 @@
+[
+  {
+    "content_id": 727974,
+    "reference_id": 26740,
+    "title": "Conectar - Condiciones de hecho",
+    "media_type": "Text",
+    "index_reference": "conectar - condiciones de hecho",
+    "language": "spa",
+    "content": "<h2>Relaciones condicionales</h2><p>Los conectores condicionales conectan dos cláusulas para indicar que una de ellas sucederá cuando la otra suceda. En inglés, la forma más común de conectar cláusulas condicionales es con las palabras “si…entonces”. Sin embargo, a menudo no se indica la palabra “entonces”.</p><h3>Condiciones de hecho</h3><h3>Descripción.</h3><p>Una condición de hecho es una condición que parece hipotética pero que ya es cierta o verdadera en la mente del hablante. En inglés, las condiciones de hecho pueden utilizar las palabras “aún cuando”, “puesto que” o “siendo este el caso” para indicar que es una condición de hecho y no una condición hipotética.</p><h3>Razón por la que este es un problema de traducción</h3><p>En algunos idiomas no se dice que algo es una condición si es cierto o verdadero. Los traductores de estos idiomas pueden malinterpretar los idiomas originales y pensar que la condición es incierta. Esto puede llevar a errores en sus traducciones. Incluso si los traductores entienden que la condición es cierta o verdadera, los lectores la malinterpretarán. En este caso, lo mejor sería traducirlo como una declaración de hecho y no como una declaración condicional.</p><h3>Ejemplos de la OBS y de la Biblia</h3><blockquote><p>“<strong>Si</strong> Jehová es Dios, adórenlo”. (Historia 19 Cuadro 6 OBS).</p></blockquote><p>Elías se acercó a todo el pueblo y dijo: “¿Hasta cuándo vais a cambiar de opinión? <strong>Si Jehová es Dios</strong>, síganlo. Pero si Baal es Dios, síganlo a él”. Pero el pueblo no le respondió ni una palabra. (1 Reyes 18:21 TPL).</p><p>Esta frase tiene la misma construcción que una condición hipotética. La condición es “si Jehová es Dios”. Si eso es cierto, entonces los israelitas deben adorar a Jehová. Pero el profeta Elías no cuestiona si Jehová es Dios o no. De hecho, está tan seguro de que Jehová es Dios que más adelante en el pasaje derrama agua sobre su sacrificio. Está seguro de que Dios es real y de que quemará incluso una ofrenda que esté completamente mojada. Una y otra vez, los profetas enseñaron que Jehová es Dios, por lo que el pueblo debía adorarlo. Sin embargo, el pueblo no adoró a Jehová, a pesar de que Él es Dios. Al poner la declaración o instrucción en forma de condición de hecho, Elías está tratando de que los israelitas entiendan más claramente lo que deben hacer.</p><blockquote><p>“Un hijo honra a su padre, y un siervo honra a su amo. <strong>Si</strong> yo, entonces, soy un padre, ¿dónde está mi honor? <strong>Si</strong> soy un amo, ¿dónde está la reverencia hacia mí?” dice Jehová de los ejércitos a vosotros, sacerdotes, que despreciáis mi nombre. (Malaquías 1:6 TPL).</p></blockquote><p>Jehová ha dicho que es un padre y un maestro para Israel, así que aunque esto suena como una condición hipotética porque comienza con “si”, no lo es. Este versículo comienza con el proverbio de que un hijo honra a su padre. Todo el mundo sabe que eso es correcto. Pero los israelitas no están honrando a Jehová. El otro proverbio en el verso dice que un siervo honra a su amo. Todo el mundo sabe que eso es correcto. Pero los israelitas no honran a Jehová, por lo que parece que no es su amo. Pero Jehová es el amo. Jehová utiliza la forma de una condición hipotética para demostrar que los israelitas están equivocados. La segunda parte de la condición que debería ocurrir naturalmente no está ocurriendo, aunque la declaración condicional es verdadera.</p><h3>Estrategias de traducción</h3><p>Si el uso de la forma de una condición hipotética es confuso o hace pensar al lector que el hablante duda de lo que está diciendo en la primera parte, utilice en su lugar una afirmación. Palabras como “ya que” o “usted sabe que…” o “es cierto que…” pueden ser útiles para aclarar el significado.</p><h3>Ejemplos de estrategias de traducción aplicadas</h3><blockquote><p>“<strong>Si</strong> Jehová es Dios, adórenlo”. (Historia 19 Cuadro 6 OBS).</p></blockquote><blockquote><blockquote><p>“<strong>Es cierto que</strong> Jehová es Dios, ¡adórenlo!”.</p></blockquote></blockquote><blockquote><blockquote><p>“Un hijo honra a su padre, y un siervo honra a su amo. <strong>Si</strong> yo, entonces, soy un padre, ¿dónde está mi honor? <strong>Si</strong> soy un amo, ¿dónde está la reverencia hacia mí?” dice Jehová de los ejércitos a ustedes, sacerdotes, que desprecian mi nombre. (Malaquías 1:6 TPL).</p><p>“Un hijo honra a su padre, y un siervo honra a su amo. <strong>Siendo</strong> yo un padre, ¿dónde está mi honor? <strong>Puesto que</strong> soy un amo, ¿dónde está la reverencia hacia mí?”.</p></blockquote></blockquote>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 118181,
+          "content_id": 343760,
+          "resource_code": "Unknown",
+          "label": "Marcos 13:21 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 134067,
+          "content_id": 500672,
+          "resource_code": "Unknown",
+          "label": "3 Juan 1:10 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139691,
+          "content_id": 516111,
+          "resource_code": "Unknown",
+          "label": "Hechos 23:9 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139877,
+          "content_id": 516562,
+          "resource_code": "Unknown",
+          "label": "Hechos 26:8 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137878,
+          "content_id": 512884,
+          "resource_code": "Unknown",
+          "label": "Hechos 8:22 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139142,
+          "content_id": 515067,
+          "resource_code": "Unknown",
+          "label": "Hechos 18:15 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140436,
+          "content_id": 354396,
+          "resource_code": "Unknown",
+          "label": "Juan 3:12 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140823,
+          "content_id": 354783,
+          "resource_code": "Unknown",
+          "label": "Juan 5:47 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141067,
+          "content_id": 355027,
+          "resource_code": "Unknown",
+          "label": "Juan 7:4 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141117,
+          "content_id": 355077,
+          "resource_code": "Unknown",
+          "label": "Juan 7:23 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141313,
+          "content_id": 355273,
+          "resource_code": "Unknown",
+          "label": "Juan 8:46 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141569,
+          "content_id": 355529,
+          "resource_code": "Unknown",
+          "label": "Juan 10:35 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141582,
+          "content_id": 355542,
+          "resource_code": "Unknown",
+          "label": "Juan 10:38 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139914,
+          "content_id": 516757,
+          "resource_code": "Unknown",
+          "label": "Hechos 26:23 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 148023,
+          "content_id": 345246,
+          "resource_code": "Unknown",
+          "label": "Mateo 6:30 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 148122,
+          "content_id": 345345,
+          "resource_code": "Unknown",
+          "label": "Mateo 7:11 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 148347,
+          "content_id": 345570,
+          "resource_code": "Unknown",
+          "label": "Mateo 8:31 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 148687,
+          "content_id": 345910,
+          "resource_code": "Unknown",
+          "label": "Mateo 10:25 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 149078,
+          "content_id": 346301,
+          "resource_code": "Unknown",
+          "label": "Mateo 12:28 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144599,
+          "content_id": 351516,
+          "resource_code": "Unknown",
+          "label": "Lucas 11:13 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144626,
+          "content_id": 351543,
+          "resource_code": "Unknown",
+          "label": "Lucas 11:20 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144885,
+          "content_id": 351802,
+          "resource_code": "Unknown",
+          "label": "Lucas 12:28 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 145596,
+          "content_id": 352513,
+          "resource_code": "Unknown",
+          "label": "Lucas 16:31 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 145789,
+          "content_id": 352706,
+          "resource_code": "Unknown",
+          "label": "Lucas 18:4 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 145956,
+          "content_id": 352873,
+          "resource_code": "Unknown",
+          "label": "Lucas 19:8 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141927,
+          "content_id": 355887,
+          "resource_code": "Unknown",
+          "label": "Juan 13:14 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141934,
+          "content_id": 355894,
+          "resource_code": "Unknown",
+          "label": "Juan 13:17 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141999,
+          "content_id": 355959,
+          "resource_code": "Unknown",
+          "label": "Juan 14:3 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142009,
+          "content_id": 355969,
+          "resource_code": "Unknown",
+          "label": "Juan 14:7 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142143,
+          "content_id": 356103,
+          "resource_code": "Unknown",
+          "label": "Juan 15:18 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 150445,
+          "content_id": 347668,
+          "resource_code": "Unknown",
+          "label": "Mateo 19:17 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 150458,
+          "content_id": 347681,
+          "resource_code": "Unknown",
+          "label": "Mateo 19:21 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 151115,
+          "content_id": 348338,
+          "resource_code": "Unknown",
+          "label": "Mateo 22:45 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 151407,
+          "content_id": 348630,
+          "resource_code": "Unknown",
+          "label": "Mateo 24:23 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 152767,
+          "content_id": 517463,
+          "resource_code": "Unknown",
+          "label": "Romanos 2:17 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 153076,
+          "content_id": 517936,
+          "resource_code": "Unknown",
+          "label": "Romanos 4:2 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 153051,
+          "content_id": 517993,
+          "resource_code": "Unknown",
+          "label": "Romanos 3:30 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 153308,
+          "content_id": 518430,
+          "resource_code": "Unknown",
+          "label": "Romanos 5:10 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 153351,
+          "content_id": 518586,
+          "resource_code": "Unknown",
+          "label": "Romanos 5:15 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 153370,
+          "content_id": 518643,
+          "resource_code": "Unknown",
+          "label": "Romanos 5:17 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 153469,
+          "content_id": 518768,
+          "resource_code": "Unknown",
+          "label": "Romanos 6:8 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 153450,
+          "content_id": 518779,
+          "resource_code": "Unknown",
+          "label": "Romanos 6:5 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 153712,
+          "content_id": 519144,
+          "resource_code": "Unknown",
+          "label": "Romanos 7:20 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 153693,
+          "content_id": 519249,
+          "resource_code": "Unknown",
+          "label": "Romanos 7:16 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 153829,
+          "content_id": 519516,
+          "resource_code": "Unknown",
+          "label": "Romanos 8:11 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 153822,
+          "content_id": 519537,
+          "resource_code": "Unknown",
+          "label": "Romanos 8:10 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 153870,
+          "content_id": 519629,
+          "resource_code": "Unknown",
+          "label": "Romanos 8:17 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 153954,
+          "content_id": 519790,
+          "resource_code": "Unknown",
+          "label": "Romanos 8:31 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 154146,
+          "content_id": 520166,
+          "resource_code": "Unknown",
+          "label": "Romanos 9:22 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 154500,
+          "content_id": 520639,
+          "resource_code": "Unknown",
+          "label": "Romanos 11:16 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 154505,
+          "content_id": 520787,
+          "resource_code": "Unknown",
+          "label": "Romanos 11:17 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 154531,
+          "content_id": 520789,
+          "resource_code": "Unknown",
+          "label": "Romanos 11:21 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 154490,
+          "content_id": 520790,
+          "resource_code": "Unknown",
+          "label": "Romanos 11:15 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 154553,
+          "content_id": 520877,
+          "resource_code": "Unknown",
+          "label": "Romanos 11:24 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 154773,
+          "content_id": 521211,
+          "resource_code": "Unknown",
+          "label": "Romanos 13:9 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 155068,
+          "content_id": 521654,
+          "resource_code": "Unknown",
+          "label": "Romanos 15:27 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 155556,
+          "content_id": 522535,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 3:12 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 155661,
+          "content_id": 522779,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 4:7 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 155845,
+          "content_id": 523151,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 6:2 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 156258,
+          "content_id": 524053,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 8:10 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 154432,
+          "content_id": 520535,
+          "resource_code": "Unknown",
+          "label": "Romanos 11:6 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 154474,
+          "content_id": 520760,
+          "resource_code": "Unknown",
+          "label": "Romanos 11:12 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 156284,
+          "content_id": 523905,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 8:13 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 156351,
+          "content_id": 524158,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 9:11 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 156354,
+          "content_id": 524235,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 9:12 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 156382,
+          "content_id": 524292,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 9:16 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 156525,
+          "content_id": 524543,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 10:15 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 156609,
+          "content_id": 524716,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 10:31 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 156645,
+          "content_id": 524791,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 11:6 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 156975,
+          "content_id": 525423,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 13:8 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 157165,
+          "content_id": 525693,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 14:28 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 157158,
+          "content_id": 525724,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 14:27 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 157217,
+          "content_id": 525748,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 14:37 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 157223,
+          "content_id": 525759,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 14:38 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 157290,
+          "content_id": 525858,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 15:12 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 157424,
+          "content_id": 525906,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 15:32 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 157493,
+          "content_id": 526024,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 15:44 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 157633,
+          "content_id": 526170,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 16:10 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 157736,
+          "content_id": 526215,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 1:6 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 157699,
+          "content_id": 526231,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 16:22 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 157733,
+          "content_id": 526268,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 1:6 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 157860,
+          "content_id": 526341,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 2:5 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158003,
+          "content_id": 526529,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 3:7 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158023,
+          "content_id": 526548,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 3:9 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158039,
+          "content_id": 526565,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 3:11 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158122,
+          "content_id": 526677,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 4:3 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158204,
+          "content_id": 526686,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 4:16 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158239,
+          "content_id": 526779,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 5:3 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158226,
+          "content_id": 526782,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 5:1 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158301,
+          "content_id": 526832,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 5:13 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158326,
+          "content_id": 526882,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 5:16 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158509,
+          "content_id": 527043,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 7:8 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158503,
+          "content_id": 527050,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 7:8 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158547,
+          "content_id": 527094,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 7:14 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158820,
+          "content_id": 527303,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 10:8 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158886,
+          "content_id": 527439,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 11:4 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158894,
+          "content_id": 527447,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 11:6 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158941,
+          "content_id": 527473,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 11:15 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158963,
+          "content_id": 527510,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 11:20 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 159013,
+          "content_id": 527545,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 11:30 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 159124,
+          "content_id": 527606,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 12:15 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 159093,
+          "content_id": 527622,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 12:11 (#9)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 159167,
+          "content_id": 527715,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 13:2 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 159183,
+          "content_id": 527730,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 13:6 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 159325,
+          "content_id": 527855,
+          "resource_code": "Unknown",
+          "label": "Colosenses 1:23 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 159397,
+          "content_id": 527928,
+          "resource_code": "Unknown",
+          "label": "Colosenses 2:5 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 159520,
+          "content_id": 527996,
+          "resource_code": "Unknown",
+          "label": "Colosenses 3:1 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 159490,
+          "content_id": 528041,
+          "resource_code": "Unknown",
+          "label": "Colosenses 2:20 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 160942,
+          "content_id": 529499,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonicenses 3:8 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 161058,
+          "content_id": 529612,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonicenses 4:14 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 161436,
+          "content_id": 529897,
+          "resource_code": "Unknown",
+          "label": "1 Timoteo 3:1 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 161744,
+          "content_id": 530195,
+          "resource_code": "Unknown",
+          "label": "1 Timoteo 6:3 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 161888,
+          "content_id": 530329,
+          "resource_code": "Unknown",
+          "label": "2 Tesalonicenses 1:6 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 162214,
+          "content_id": 530798,
+          "resource_code": "Unknown",
+          "label": "2 Timoteo 2:11 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 162556,
+          "content_id": 530972,
+          "resource_code": "Unknown",
+          "label": "Filemón 1:18 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 162851,
+          "content_id": 531085,
+          "resource_code": "Unknown",
+          "label": "1 Juan 2:3 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 162553,
+          "content_id": 531095,
+          "resource_code": "Unknown",
+          "label": "Filemón 1:17 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163033,
+          "content_id": 531454,
+          "resource_code": "Unknown",
+          "label": "1 Juan 2:29 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163239,
+          "content_id": 531456,
+          "resource_code": "Unknown",
+          "label": "1 Juan 4:12 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163238,
+          "content_id": 531633,
+          "resource_code": "Unknown",
+          "label": "1 Juan 4:11 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163237,
+          "content_id": 531665,
+          "resource_code": "Unknown",
+          "label": "1 Juan 4:11 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163328,
+          "content_id": 531704,
+          "resource_code": "Unknown",
+          "label": "1 Juan 5:9 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163361,
+          "content_id": 531791,
+          "resource_code": "Unknown",
+          "label": "1 Juan 5:15 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163446,
+          "content_id": 531835,
+          "resource_code": "Unknown",
+          "label": "1 Pedro 1:6 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163492,
+          "content_id": 531872,
+          "resource_code": "Unknown",
+          "label": "1 Pedro 1:17 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163545,
+          "content_id": 531973,
+          "resource_code": "Unknown",
+          "label": "1 Pedro 2:3 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 164171,
+          "content_id": 532371,
+          "resource_code": "Unknown",
+          "label": "2 Pedro 2:7 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 164142,
+          "content_id": 532533,
+          "resource_code": "Unknown",
+          "label": "2 Pedro 2:4 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 164154,
+          "content_id": 532547,
+          "resource_code": "Unknown",
+          "label": "2 Pedro 2:5 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 164164,
+          "content_id": 532561,
+          "resource_code": "Unknown",
+          "label": "2 Pedro 2:6 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 164188,
+          "content_id": 532587,
+          "resource_code": "Unknown",
+          "label": "2 Pedro 2:9 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 164284,
+          "content_id": 532688,
+          "resource_code": "Unknown",
+          "label": "2 Pedro 2:20 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 164534,
+          "content_id": 532911,
+          "resource_code": "Unknown",
+          "label": "Hebreos 2:2 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 164676,
+          "content_id": 533078,
+          "resource_code": "Unknown",
+          "label": "Hebreos 3:7 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 165079,
+          "content_id": 533284,
+          "resource_code": "Unknown",
+          "label": "Hebreos 7:15 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 165327,
+          "content_id": 533536,
+          "resource_code": "Unknown",
+          "label": "Hebreos 9:13 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 165998,
+          "content_id": 534347,
+          "resource_code": "Unknown",
+          "label": "Hebreos 12:25 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 187344,
+          "content_id": 554219,
+          "resource_code": "Unknown",
+          "label": "Gálatas 2:17 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 185676,
+          "content_id": 554292,
+          "resource_code": "Unknown",
+          "label": "Cantar de los Cantares 8:7 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 187325,
+          "content_id": 554825,
+          "resource_code": "Unknown",
+          "label": "Gálatas 2:14 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 187634,
+          "content_id": 555049,
+          "resource_code": "Unknown",
+          "label": "Gálatas 4:7 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 187878,
+          "content_id": 555311,
+          "resource_code": "Unknown",
+          "label": "Gálatas 5:25 (#1)",
+          "language": "spa"
+        }
+      ]
+    }
+  }
+]

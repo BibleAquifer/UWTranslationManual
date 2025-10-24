@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 728012,
+    "reference_id": 209477,
+    "title": "Training Before Translation Begins",
+    "media_type": "Text",
+    "index_reference": "training before translation begins",
+    "language": "spa",
+    "content": "<h3>What to Know Before Translation</h3><p>It is recommended that you consult the <span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">Translation Manual</span> frequently as you translate. Before you start translating, we recommend that you start working your way through the Translation Manual at least until you know the difference between a literal translation and a meaning-based translation. Much of the rest of the Translation Manual can be used as a “just-in-time” learning resource.</p><p>Some important subjects that everyone on the translation team must learn before starting a translation project include:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26759\" data-resourceType=\"UWTranslationManual\">The Qualities of a Good Translation</span> - The definition of a good translation</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26811\" data-resourceType=\"UWTranslationManual\">The Translation Process</span> - How a good translation is made</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26792\" data-resourceType=\"UWTranslationManual\">Form and Meaning</span> - The difference between form and meaning</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26791\" data-resourceType=\"UWTranslationManual\">Meaning-Based Translations</span> - How to make a meaning-based translation</p></li></ul></li></ul><p>Some other important topics as you get started also include:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26668\" data-resourceType=\"UWTranslationManual\">Choose a Translation Style</span> - Important decisions that must be made that will guide the translation process</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">Choosing What to Translate</span> - Suggestions for where to start translating</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26737\" data-resourceType=\"UWTranslationManual\">First Draft</span> - How to make a first draft</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26797\" data-resourceType=\"UWTranslationManual\">Help with Translating</span> - Using translation helps</p></li></ul><p>When you have <span data-bnType=\"resourceReference\" data-resourceId=\"209483\" data-resourceType=\"UWTranslationManual\">Set Up a Translation Team</span> and want to make a <span data-bnType=\"resourceReference\" data-resourceId=\"26737\" data-resourceType=\"UWTranslationManual\">First Draft</span> of your translation, use <span data-bnType=\"resourceReference\" data-resourceId=\"209484\" data-resourceType=\"UWTranslationManual\">translationStudio</span>. We recommend that you follow this <span data-bnType=\"resourceReference\" data-resourceId=\"209493\" data-resourceType=\"UWTranslationManual\">Translation Process</span>.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26668,
+          "content_id": 727894,
+          "resource_code": "UWTranslationManual",
+          "label": "Choosing a Translation Style",
+          "language": "spa"
+        },
+        {
+          "reference_id": 26737,
+          "content_id": 727968,
+          "resource_code": "UWTranslationManual",
+          "label": "First Draft",
+          "language": "spa"
+        },
+        {
+          "reference_id": 26759,
+          "content_id": 727992,
+          "resource_code": "UWTranslationManual",
+          "label": "The Qualities of a Good Translation",
+          "language": "spa"
+        },
+        {
+          "reference_id": 26791,
+          "content_id": 728052,
+          "resource_code": "UWTranslationManual",
+          "label": "Meaning-Based Translations",
+          "language": "spa"
+        },
+        {
+          "reference_id": 26792,
+          "content_id": 728053,
+          "resource_code": "UWTranslationManual",
+          "label": "Form and Meaning",
+          "language": "spa"
+        },
+        {
+          "reference_id": 26797,
+          "content_id": 728058,
+          "resource_code": "UWTranslationManual",
+          "label": "Help with Translating",
+          "language": "spa"
+        },
+        {
+          "reference_id": 209483,
+          "content_id": 728034,
+          "resource_code": "UWTranslationManual",
+          "label": "Setting Up A Translation Team",
+          "language": "spa"
+        },
+        {
+          "reference_id": 209484,
+          "content_id": 728035,
+          "resource_code": "UWTranslationManual",
+          "label": "Setting Up translationStudio",
+          "language": "spa"
+        },
+        {
+          "reference_id": 26802,
+          "content_id": 728062,
+          "resource_code": "UWTranslationManual",
+          "label": "Introduction to the Translation Manual",
+          "language": "spa"
+        },
+        {
+          "reference_id": 26811,
+          "content_id": 728070,
+          "resource_code": "UWTranslationManual",
+          "label": "The Translation Process",
+          "language": "spa"
+        },
+        {
+          "reference_id": 26827,
+          "content_id": 728086,
+          "resource_code": "UWTranslationManual",
+          "label": "Choosing What to Translate",
+          "language": "spa"
+        },
+        {
+          "reference_id": 209493,
+          "content_id": 728088,
+          "resource_code": "UWTranslationManual",
+          "label": "Translation Overview",
+          "language": "spa"
+        }
+      ]
+    }
+  }
+]

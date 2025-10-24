@@ -1,0 +1,15 @@
+[
+  {
+    "content_id": 727607,
+    "reference_id": 26802,
+    "title": "Pengantar ke Manual Penerjemahan",
+    "media_type": "Text",
+    "index_reference": "pengantar ke manual penerjemahan",
+    "language": "ind",
+    "content": "<h3>Apa yang Diajarkan oleh Panduan Penerjemahan?</h3><p>Buku panduan ini mengajarkan teori penerjemahan dan cara membuat terjemahan yang baik untuk Bahasa Lain (OL). Beberapa prinsip penerjemahan dalam panduan ini juga berlaku untuk penerjemahan Bahasa Gateway. Namun, untuk petunjuk khusus tentang cara menerjemahkan seperangkat alat penerjemahan untuk Bahasa Gateway, silakan lihat [Panduan Bahasa Gateway]](https://gl-manual.readthedocs.io/). Akan sangat membantu jika Anda mempelajari modul-modul ini sebelum memulai proyek penerjemahan apa pun. Modul lainnya, seperti modul tentang tata bahasa, hanya diperlukan untuk pembelajaran &quot;tepat waktu&quot;.</p><p>Beberapa hal penting dalam Panduan Penerjemahan:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26759\" data-resourceType=\"UWTranslationManual\">Kualitas Terjemahan yang Baik</span> - mendefinisikan terjemahan yang baik</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26811\" data-resourceType=\"UWTranslationManual\">Proses Penerjemahan</span> - bagaimana mencapai terjemahan yang baik</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26669\" data-resourceType=\"UWTranslationManual\">Memilih Tim Penerjemah</span> - beberapa hal yang perlu dipertimbangkan sebelum memulai proyek penerjemahan</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">Memilih Apa yang Akan Diterjemahkan</span> - apa yang akan diterjemahkan</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": []
+    }
+  }
+]

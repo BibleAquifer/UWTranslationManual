@@ -1,0 +1,15 @@
+[
+  {
+    "content_id": 727596,
+    "reference_id": 209485,
+    "title": "Cara Membagikan Konten",
+    "media_type": "Text",
+    "index_reference": "cara membagikan konten",
+    "language": "ind",
+    "content": "<h3>Berbagi Konten dari tS dan tC</h3><p>Berbagi konten yang ada di translationStudio itu mudah. Untuk berbagi secara offline, gunakan fitur Cadangan dari menu tS. Untuk berbagi secara online, gunakan fitur Unggah dari menu tS. Di translationCore, gunakan menu tiga titik pada halaman Proyek. Untuk berbagi secara offline, gunakan Ekspor ke USFM atau Ekspor ke CSV. Untuk berbagi secara online, gunakan Unggah ke Door43.</p><h3>Berbagi Konten di Door43</h3><p>Jika Anda mengunggah karya Anda dari translationStudio atau translationCore, maka karya Anda akan secara otomatis muncul secara online di Door43. Semua konten yang Anda unggah akan muncul di bawah akun pengguna Anda. Sebagai contoh, jika nama pengguna Anda adalah <em>test_user</em>, maka Anda dapat menemukan semua pekerjaan Anda di https://git.door43.org/test_user/. Anda dapat membagikan pekerjaan Anda dengan orang lain secara online dengan memberikan tautan ke proyek yang telah Anda unggah.</p><h3>Berbagi Konten Secara Offline</h3><p>Anda juga bisa membuat dan mengunduh dokumen dari halaman proyek Anda di Door43. Setelah Anda mengunduhnya, Anda bisa mentransfernya ke orang lain sesuai keinginan Anda, termasuk mencetak dan mendistribusikan salinan kertas.</p>",
+    "associations": {
+      "passage": [],
+      "resource": []
+    }
+  }
+]

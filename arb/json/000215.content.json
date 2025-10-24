@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 781796,
+    "reference_id": 209477,
+    "title": "التدريب قبل بدء الترجمة",
+    "media_type": "Text",
+    "index_reference": "التدريب قبل بدء الترجمة",
+    "language": "arb",
+    "content": "<h3>ما ينبغي معرفته قبل الشروع في الترجمة</h3><p>يُنصح بالرجوع إلى <span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">دليل الترجمة</span> بشكل متكرر أثناء عملية الترجمة. وقبل أن تبدأ، من الأفضل أن تطالع الدليل حتى تتبيّن الفرق بين الترجمة الحرفية والترجمة المعنوية. أما بقية أجزاء الدليل، فيمكنك الرجوع إليها عند الحاجة، إذ تصلح كمصدر تعليمي عند كل موقف يتطلب ذلك.</p><p>بعض الموضوعات المهمة التي يجب على جميع أفراد فريق الترجمة أن يتعلموها قبل البدء في أي مشروع ترجمة تشمل ما يلي:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26759\" data-resourceType=\"UWTranslationManual\">خصائص الترجمة الجيدة</span> — وصف الترجمة الجيدة</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26811\" data-resourceType=\"UWTranslationManual\">عملية الترجمة </span>— كيف تتم الترجمة بشكل جيد</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26792\" data-resourceType=\"UWTranslationManual\"> الصيغة والمعنى </span>— الفرق بين الشكل الظاهري للنص والمعنى المقصود</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26791\" data-resourceType=\"UWTranslationManual\">الترجمة المعتمدة على المعنى </span>— كيفية إجراء ترجمة تعتمد على المعنى</p></li></ul></li></ul><p>بعض الموضوعات الأخرى المهمة عند البدء تشمل ما يلي:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26668\" data-resourceType=\"UWTranslationManual\">اختيار أسلوب الترجمة</span> — قرارات مهمة يجب اتخاذها لتوجيه عملية الترجمة</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">اختيار ما تترجمه</span> — اقتراحات حول كيفية البدء في الترجمة</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26737\" data-resourceType=\"UWTranslationManual\">المسودة الأولى</span> — كيفية إعداد المسودة الأولى</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26797\" data-resourceType=\"UWTranslationManual\">المساعدة في الترجمة</span> — استخدام أدوات ووسائل مساعدة في الترجمة</p></li></ul><p>عندما يكون لديك <span data-bnType=\"resourceReference\" data-resourceId=\"209483\" data-resourceType=\"UWTranslationManual\">فريق ترجمة جاهز</span> وترغب في إعداد <span data-bnType=\"resourceReference\" data-resourceId=\"26737\" data-resourceType=\"UWTranslationManual\">المسودة الأولى</span> لترجمتك، استخدم <span data-bnType=\"resourceReference\" data-resourceId=\"209484\" data-resourceType=\"UWTranslationManual\">translationStudio</span>. نوصي باتباع <span data-bnType=\"resourceReference\" data-resourceId=\"209493\" data-resourceType=\"UWTranslationManual\">عملية الترجمة</span> هذه.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26668,
+          "content_id": 781593,
+          "resource_code": "UWTranslationManual",
+          "label": "اختيار أسلوب الترجمة",
+          "language": "arb"
+        },
+        {
+          "reference_id": 26737,
+          "content_id": 781662,
+          "resource_code": "UWTranslationManual",
+          "label": "المسودة الأولى",
+          "language": "arb"
+        },
+        {
+          "reference_id": 26759,
+          "content_id": 781684,
+          "resource_code": "UWTranslationManual",
+          "label": "سمات الترجمة الجيدة",
+          "language": "arb"
+        },
+        {
+          "reference_id": 26791,
+          "content_id": 781716,
+          "resource_code": "UWTranslationManual",
+          "label": "الترجمات القائمة على المعنى",
+          "language": "arb"
+        },
+        {
+          "reference_id": 26792,
+          "content_id": 781717,
+          "resource_code": "UWTranslationManual",
+          "label": "الشكل والمعنى",
+          "language": "arb"
+        },
+        {
+          "reference_id": 26797,
+          "content_id": 781722,
+          "resource_code": "UWTranslationManual",
+          "label": "المساعدة في الترجمة",
+          "language": "arb"
+        },
+        {
+          "reference_id": 26802,
+          "content_id": 781727,
+          "resource_code": "UWTranslationManual",
+          "label": "مقدمة دليل الترجمة",
+          "language": "arb"
+        },
+        {
+          "reference_id": 26811,
+          "content_id": 781736,
+          "resource_code": "UWTranslationManual",
+          "label": "عملية الترجمة",
+          "language": "arb"
+        },
+        {
+          "reference_id": 26827,
+          "content_id": 781752,
+          "resource_code": "UWTranslationManual",
+          "label": "اختيار ما تترجمه",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209483,
+          "content_id": 781802,
+          "resource_code": "UWTranslationManual",
+          "label": "إعداد فريق ترجمة",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209484,
+          "content_id": 781803,
+          "resource_code": "UWTranslationManual",
+          "label": "إعداد ستوديو الترجمة (translationStudio)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209493,
+          "content_id": 781812,
+          "resource_code": "UWTranslationManual",
+          "label": "نظرة عامة على الترجمة",
+          "language": "arb"
+        }
+      ]
+    }
+  }
+]

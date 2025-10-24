@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 781739,
+    "reference_id": 26814,
+    "title": "اختيار نص مصدري",
+    "media_type": "Text",
+    "index_reference": "اختيار نص مصدري",
+    "language": "arb",
+    "content": "<h3>العوامل التي ينبغي أخذها في الاعتبار للنص المصدري</h3><p>سوف ترغب العديد من فرق الترجمة في استخدام ترجمة الكتاب المُقَدَّس في لغة وسيطة (لغة عبور Gateway Language) خاصة بهم كنص مصدري إضافي، إلى جانب النصوص الحرفية والمُبسطة من برنامج unfoldingWord. يمكن أن يكون هذا النص الثالث بمثابة نموذج أو مُرشد للطريقة التي يتم بها قول الأشياء بطريقة طبيعية في اللغة الوسيطة. هناك احتمال جيد آخر لهذا النص المصدري الثالث (أو الرابع) وهو اختيار ترجمة موجودة بلغة مرتبطة باللغة المستهدفة. يمكن أن يكون هذا مفيدًا بشكل خاص لمعرفة كيف عبَّر هؤلاء المترجمون عن المعنى بطريقة واضحة وطبيعية في هذه اللغة ذات الصلة. عند اختيار هذا النص المصدري، هناك عدد من العوامل التي يجب مراعاتها:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209487\" data-resourceType=\"UWTranslationManual\"><strong>إقرار الإيمان</strong></span> — هل يتوافق النص مع إقرار الإيمان؟</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209492\" data-resourceType=\"UWTranslationManual\"><strong>إرشادات الترجمة</strong></span> — هل يتوافق النص مع إرشادات الترجمة؟</p></li><li><p><strong>اللغة</strong> — هل النص مكتوب بلغة مناسبة يفهمها المترجمون والمدققون بشكل جيد؟</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26813\" data-resourceType=\"UWTranslationManual\"><strong>حقوق الطبع والنشر، والترخيص والنصوص المصدرية</strong></span> — هل تم إصدار النص بموجب ترخيص يمنح حرية قانونية كافية؟</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26815\" data-resourceType=\"UWTranslationManual\"><strong>نصوص المصدر وأرقام الإصدارات</strong></span> — هل النص هو الأحدث والأكثر تحديثًا؟</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26808\" data-resourceType=\"UWTranslationManual\"><strong>اللغات الأصلية واللغات المصدرية</strong></span> — هل يدرك فريق الترجمة الفرق بين اللغات المصدرية واللغات الأصلية؟</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26803\" data-resourceType=\"UWTranslationManual\"><strong>المخطوطات الأصلية</strong></span> — هل يفهم فريق الترجمة المخطوطات الأصلية و<span data-bnType=\"resourceReference\" data-resourceId=\"26819\" data-resourceType=\"UWTranslationManual\">المتغيرات النصية</span>؟</p></li></ul><p>من المهم أن يتفق قادة الكنائس في مجموعة اللغة على أن النص المصدري جيد. ويجب أن يتفقوا على أنه ترجمة دقيقة لنصوص اللغة الأصلية وينقل المعنى بطريقة واضحة وطبيعية لمتحدثي اللغة الوسيطة أو لمتحدثي اللغة ذات الصلة.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26803,
+          "content_id": 781728,
+          "resource_code": "UWTranslationManual",
+          "label": "المخطوطات الأصلية",
+          "language": "arb"
+        },
+        {
+          "reference_id": 26808,
+          "content_id": 781733,
+          "resource_code": "UWTranslationManual",
+          "label": "اللغات الأصلية واللغات المصدرية",
+          "language": "arb"
+        },
+        {
+          "reference_id": 26813,
+          "content_id": 781738,
+          "resource_code": "UWTranslationManual",
+          "label": "حقوق الطبع والنشر والترخيص والنصوص المصدرية",
+          "language": "arb"
+        },
+        {
+          "reference_id": 26815,
+          "content_id": 781740,
+          "resource_code": "UWTranslationManual",
+          "label": "النصوص الأصلية وأرقام الإصدارات",
+          "language": "arb"
+        },
+        {
+          "reference_id": 26819,
+          "content_id": 781744,
+          "resource_code": "UWTranslationManual",
+          "label": "المتغيرات النصية",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209487,
+          "content_id": 781806,
+          "resource_code": "UWTranslationManual",
+          "label": "إقرار الإيمان",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 781811,
+          "resource_code": "UWTranslationManual",
+          "label": "إرشادات الترجمة",
+          "language": "arb"
+        }
+      ]
+    }
+  }
+]

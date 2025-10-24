@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 727594,
+    "reference_id": 209483,
+    "title": "Membentuk Tim Penerjemah",
+    "media_type": "Text",
+    "index_reference": "membentuk tim penerjemah",
+    "language": "ind",
+    "content": "<h3>Memilih Tim</h3><p>Ketika Anda mulai memilih tim penerjemahan dan pemeriksaan, ada banyak jenis orang dan peran yang dibutuhkan. Ada juga kualifikasi khusus yang diperlukan untuk setiap tim.</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26669\" data-resourceType=\"UWTranslationManual\">Memilih Tim Penerjemah</span> — Menjelaskan beberapa peran yang dibutuhkan</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26764\" data-resourceType=\"UWTranslationManual\">Kualifikasi Penerjemah</span> — Menjelaskan beberapa keterampilan yang dibutuhkan oleh penerjemah</p></li><li><p>Ingatlah bahwa setiap orang dalam tim harus menandatangani pernyataan yang mereka setujui (formulir tersedia di https://ufw.io/forms)</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209487\" data-resourceType=\"UWTranslationManual\">Pernyataan Iman</span></p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209492\" data-resourceType=\"UWTranslationManual\">Pedoman Penerjemahan</span></p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209472\" data-resourceType=\"UWTranslationManual\">Lisensi Terbuka</span></p></li></ul></li><li><p>Setiap orang dalam tim juga perlu mengetahui kualitas terjemahan yang baik (lihat <span data-bnType=\"resourceReference\" data-resourceId=\"26759\" data-resourceType=\"UWTranslationManual\">Kualitas Terjemahan yang Baik</span>).</p></li><li><p>Tim juga perlu mengetahui di mana mereka dapat menemukan jawaban (lihat <span data-bnType=\"resourceReference\" data-resourceId=\"209457\" data-resourceType=\"UWTranslationManual\">Menemukan Jawaban</span>).</p></li></ul><h3>Keputusan Penerjemahan</h3><p>Ada banyak keputusan yang harus diambil oleh tim penerjemah, dan banyak di antaranya yang harus diambil di awal proyek. Di antaranya adalah sebagai berikut:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26814\" data-resourceType=\"UWTranslationManual\">Memilih Teks Sumber</span> — Memilih teks sumber yang baik sangat penting</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26813\" data-resourceType=\"UWTranslationManual\">Hak Cipta, Lisensi, dan Teks Sumber</span> — Masalah hak cipta harus dipertimbangkan ketika memilih teks sumber</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26815\" data-resourceType=\"UWTranslationManual\">Teks Sumber dan Nomor Versi</span> — Menerjemahkan dari versi terbaru dari teks sumber adalah yang terbaik</p></li></ul></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26781\" data-resourceType=\"UWTranslationManual\">Abjad/Orthografi</span> — Banyak bahasa memiliki keputusan abjad yang perlu dibuat</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26830\" data-resourceType=\"UWTranslationManual\">Keputusan Penulisan Bahasa Anda</span> — Gaya penulisan, tanda baca, penerjemahan nama, pengejaan, dan keputusan lainnya harus dibuat</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26668\" data-resourceType=\"UWTranslationManual\">Gaya Penerjemahan</span> — Komite penerjemahan perlu menyepakati gaya penerjemahan, dalam arti seberapa jauh mereka ingin terjemahan tersebut meniru bentuk bahasa sumber, seberapa banyak peminjaman kata yang diperbolehkan, dan topik-topik lainnya. Lihat juga bagian ini tentang membuat terjemahan <span data-bnType=\"resourceReference\" data-resourceId=\"209448\" data-resourceType=\"UWTranslationManual\">Dapat Diterima</span>.</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">Memilih Apa yang Akan Diterjemahkan</span> — Buku-buku harus dipilih berdasarkan kebutuhan gereja dan tingkat kesulitan penerjemahan</p></li></ul><p>Setelah tim penerjemah membuat keputusan-keputusan tersebut, ada baiknya untuk menuliskannya dalam sebuah dokumen yang dapat dibaca oleh semua orang yang terlibat dalam penerjemahan. Hal ini akan membantu semua orang untuk membuat keputusan penerjemahan yang sama dan menghindari perdebatan lebih lanjut mengenai hal-hal tersebut.</p><p>Setelah memilih tim penerjemah, sekarang saatnya untuk mulai memberikan mereka <span data-bnType=\"resourceReference\" data-resourceId=\"209477\" data-resourceType=\"UWTranslationManual\">Pelatihan Penerjemahan</span>.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26781,
+          "content_id": 727603,
+          "resource_code": "UWTranslationManual",
+          "label": "Alfabet/Ortografi",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209448,
+          "content_id": 727489,
+          "resource_code": "UWTranslationManual",
+          "label": "Bentuk yang Dapat Diterima",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209457,
+          "content_id": 727555,
+          "resource_code": "UWTranslationManual",
+          "label": "Menemukan Jawaban",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209472,
+          "content_id": 727583,
+          "resource_code": "UWTranslationManual",
+          "label": "Lisensi Terbuka",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209477,
+          "content_id": 727588,
+          "resource_code": "UWTranslationManual",
+          "label": "Pelatihan Sebelum Penerjemahan Dimulai",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209487,
+          "content_id": 727598,
+          "resource_code": "UWTranslationManual",
+          "label": "Pernyataan Iman",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 727616,
+          "resource_code": "UWTranslationManual",
+          "label": "Pedoman Penerjemahan",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]

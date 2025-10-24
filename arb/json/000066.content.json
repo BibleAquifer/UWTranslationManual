@@ -1,0 +1,198 @@
+[
+  {
+    "content_id": 781647,
+    "reference_id": 26722,
+    "title": "التكرار اللفظي (Reduplication)",
+    "media_type": "Text",
+    "index_reference": "التكرار اللفظي (reduplication)",
+    "language": "arb",
+    "content": "<p>هذا المقال هو تمهيد لموضوع &quot;التكرار اللفظي&quot; كما يرد في النصوص الكتابية، مثل اقتران صيغة المصدر المطلق (infinitive absolute) بالفعل المحدَّد (indicative), أو تكرار كلمات بعينها للتأكيد أو التكثيف البلاغي.</p><h3>الوصف</h3><h3>أسباب كون هذا الأمر يمثل إشكالية في الترجمة</h3><h3>أمثلة من الكتاب المقدس</h3><p><span>ابْتَدِئْ تَمَلَّكْ حَتَّى تَمْتَلِكَ أَرْضَهُ</span> (تثنية 2:31)</p><h3>استراتيجيات الترجمة</h3><h3>أمثلة على استراتيجيات الترجمة المستخدمة</h3>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 118731,
+          "content_id": 199563,
+          "resource_code": "Unknown",
+          "label": "مرقس 15: 34 (#6)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 144543,
+          "content_id": 322604,
+          "resource_code": "Unknown",
+          "label": "لوقا 10: 41 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 148166,
+          "content_id": 316533,
+          "resource_code": "Unknown",
+          "label": "متى 7: 21 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 148175,
+          "content_id": 316542,
+          "resource_code": "Unknown",
+          "label": "متى 7 :22 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 149258,
+          "content_id": 317625,
+          "resource_code": "Unknown",
+          "label": "متى 13: 14 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 167458,
+          "content_id": 638705,
+          "resource_code": "Unknown",
+          "label": "رؤيا 8: 13 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 175951,
+          "content_id": 506199,
+          "resource_code": "Unknown",
+          "label": "أيوب 6: 2 (#4)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 176504,
+          "content_id": 506752,
+          "resource_code": "Unknown",
+          "label": "أيوب 13: 5 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 176515,
+          "content_id": 506763,
+          "resource_code": "Unknown",
+          "label": "أيوب 13: 10 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 176532,
+          "content_id": 506780,
+          "resource_code": "Unknown",
+          "label": "أيوب 13: 17 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 176966,
+          "content_id": 507214,
+          "resource_code": "Unknown",
+          "label": "أيوب 19: 21 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 177092,
+          "content_id": 507340,
+          "resource_code": "Unknown",
+          "label": "أيوب 21: 2 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 177591,
+          "content_id": 507839,
+          "resource_code": "Unknown",
+          "label": "أيوب 27: 22 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 167969,
+          "content_id": 639216,
+          "resource_code": "Unknown",
+          "label": "رؤيا 18: 10 (#2)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 202819,
+          "content_id": 503612,
+          "resource_code": "Unknown",
+          "label": "يوئيل 1: 7 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 202986,
+          "content_id": 503779,
+          "resource_code": "Unknown",
+          "label": "يوئيل 2: 26 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 203065,
+          "content_id": 503858,
+          "resource_code": "Unknown",
+          "label": "يوئيل 3: 14 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 177718,
+          "content_id": 507966,
+          "resource_code": "Unknown",
+          "label": "أيوب 29: 14 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 178375,
+          "content_id": 508623,
+          "resource_code": "Unknown",
+          "label": "أيوب 37: 2 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 183717,
+          "content_id": 610981,
+          "resource_code": "Unknown",
+          "label": "الأمثال 23: 5 (#5)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 183796,
+          "content_id": 611060,
+          "resource_code": "Unknown",
+          "label": "الأمثال 23: 24 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 185719,
+          "content_id": 726804,
+          "resource_code": "Unknown",
+          "label": "صفنيا 1: 2 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 185794,
+          "content_id": 726879,
+          "resource_code": "Unknown",
+          "label": "صفنيا 1: 14 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 185819,
+          "content_id": 726904,
+          "resource_code": "Unknown",
+          "label": "صفنيا 2: 1 (#1)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 185920,
+          "content_id": 727005,
+          "resource_code": "Unknown",
+          "label": "صفنيا 3: 5 (#3)",
+          "language": "arb"
+        },
+        {
+          "reference_id": 184981,
+          "content_id": 762883,
+          "resource_code": "Unknown",
+          "label": "راعوث 2: 11 (#2)",
+          "language": "arb"
+        }
+      ]
+    }
+  }
+]

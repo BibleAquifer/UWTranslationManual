@@ -1,0 +1,5490 @@
+[
+  {
+    "content_id": 727958,
+    "reference_id": 26729,
+    "title": "Sinécdoque",
+    "media_type": "Text",
+    "index_reference": "sinécdoque",
+    "language": "spa",
+    "content": "<h3>Descripción</h3><p>La sinécdoque es una figura literaria en la que un hablante usa una parte de algo para referirse al todo, o usa el todo para referirse a una parte.</p><blockquote><p><strong>Mi alma</strong> exalta al Señor. (Lucas 1:46 TPL).</p></blockquote><p>María estaba muy feliz por lo que el Señor estaba haciendo, así que dijo “mi alma”, que significa la parte interior y emocional de sí misma, para referirse a todo su ser.</p><blockquote><p><strong>Los Fariseos</strong> le dijeron: “Mira, ¿por qué hacen lo que no es lícito…?” (Marcos 2:24a TPL).</p></blockquote><p>Los Fariseos que estaban allí no dijeron las mismas palabras al mismo tiempo. En cambio, es más probable que un solo hombre hubiera dicho esas palabras en representación del grupo.</p><h4>Razones por las que este es un problema para la traducción</h4><ul><li><p>Algunos lectores pueden no reconocer la sinécdoque y, por lo tanto, malinterpretar las palabras como si fueran una declaración literal.</p></li><li><p>Algunos lectores pueden darse cuenta de que no deben entender las palabras literalmente, pero es posible que no sepan cuál es el significado de estas.</p></li></ul><h3>Ejemplo de la Biblia</h3><blockquote><p>Entonces miré todas las obras que <strong>mis manos</strong> habían realizado (Eclesiastés 2:11 TPL).</p></blockquote><p>“Mis manos” es una sinécdoque para toda la persona, porque claramente los brazos y el resto del cuerpo y la mente también estaban involucrados en los logros de la persona. Las manos se eligen para representar a la persona porque son las partes del cuerpo más directamente involucradas en el trabajo.</p><h3>Estrategia de traducción</h3><p>Si el uso de la sinécdoque es natural y expresa el significado correcto en su idioma, considere usarla. Si no, aquí hay otra opción:</p><p>(1) Indique específicamente a qué se refiere la sinécdoque.</p><h3>Ejemplos de la estrategia de traducción aplicada</h3><p>(1) Indique específicamente a qué se refiere la sinécdoque.</p><blockquote><p>“<strong>Mi alma</strong> exalta al Señor”. (Lucas 1:46 TPL).</p><blockquote><p>“<strong>Yo</strong> exalto al Señor”.</p></blockquote><p><strong>los Fariseos</strong> le dijeron… (Marcos 2:24 TPL).</p><blockquote><p><strong>un representante de los Fariseos</strong> le dijo…</p></blockquote><p>Entonces miré todas las obras que <strong>mis manos</strong> habían realizado… (Eclesiastés 2:11a TPL).</p><blockquote><p>Entonces miré todas las obras que <strong>yo</strong> había realizado</p></blockquote></blockquote>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 115575,
+          "content_id": 336582,
+          "resource_code": "Unknown",
+          "label": "Tito 1:12 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 115739,
+          "content_id": 341318,
+          "resource_code": "Unknown",
+          "label": "Marcos 1:3 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 115753,
+          "content_id": 341332,
+          "resource_code": "Unknown",
+          "label": "Marcos 1:5 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 115784,
+          "content_id": 341363,
+          "resource_code": "Unknown",
+          "label": "Marcos 1:11 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 115893,
+          "content_id": 341472,
+          "resource_code": "Unknown",
+          "label": "Marcos 1:39 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116017,
+          "content_id": 341596,
+          "resource_code": "Unknown",
+          "label": "Marcos 2:23 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116104,
+          "content_id": 341683,
+          "resource_code": "Unknown",
+          "label": "Marcos 3:20 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116108,
+          "content_id": 341687,
+          "resource_code": "Unknown",
+          "label": "Marcos 3:20 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116124,
+          "content_id": 341703,
+          "resource_code": "Unknown",
+          "label": "Marcos 3:23 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116136,
+          "content_id": 341715,
+          "resource_code": "Unknown",
+          "label": "Marcos 3:26 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116444,
+          "content_id": 342023,
+          "resource_code": "Unknown",
+          "label": "Marcos 5:21 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116457,
+          "content_id": 342036,
+          "resource_code": "Unknown",
+          "label": "Marcos 5:24 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116549,
+          "content_id": 342128,
+          "resource_code": "Unknown",
+          "label": "Marcos 6:2 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116577,
+          "content_id": 342156,
+          "resource_code": "Unknown",
+          "label": "Marcos 6:8 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116731,
+          "content_id": 342310,
+          "resource_code": "Unknown",
+          "label": "Marcos 6:44 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116792,
+          "content_id": 342371,
+          "resource_code": "Unknown",
+          "label": "Marcos 7:2 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116816,
+          "content_id": 342395,
+          "resource_code": "Unknown",
+          "label": "Marcos 7:5 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116873,
+          "content_id": 342452,
+          "resource_code": "Unknown",
+          "label": "Marcos 7:17 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116912,
+          "content_id": 342491,
+          "resource_code": "Unknown",
+          "label": "Marcos 7:24 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116930,
+          "content_id": 342509,
+          "resource_code": "Unknown",
+          "label": "Marcos 7:27 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116949,
+          "content_id": 342528,
+          "resource_code": "Unknown",
+          "label": "Marcos 7:31 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 116986,
+          "content_id": 342565,
+          "resource_code": "Unknown",
+          "label": "Marcos 8:4 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 117022,
+          "content_id": 342601,
+          "resource_code": "Unknown",
+          "label": "Marcos 8:13 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 117278,
+          "content_id": 342857,
+          "resource_code": "Unknown",
+          "label": "Marcos 9:28 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 117398,
+          "content_id": 342977,
+          "resource_code": "Unknown",
+          "label": "Marcos 10:1 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 117460,
+          "content_id": 343039,
+          "resource_code": "Unknown",
+          "label": "Marcos 10:17 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 117671,
+          "content_id": 343250,
+          "resource_code": "Unknown",
+          "label": "Marcos 11:11 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 117692,
+          "content_id": 343271,
+          "resource_code": "Unknown",
+          "label": "Marcos 11:15 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 117698,
+          "content_id": 343277,
+          "resource_code": "Unknown",
+          "label": "Marcos 11:16 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 117750,
+          "content_id": 343329,
+          "resource_code": "Unknown",
+          "label": "Marcos 11:27 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 118003,
+          "content_id": 343582,
+          "resource_code": "Unknown",
+          "label": "Marcos 12:35 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 118057,
+          "content_id": 343636,
+          "resource_code": "Unknown",
+          "label": "Marcos 13:1 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 118059,
+          "content_id": 343638,
+          "resource_code": "Unknown",
+          "label": "Marcos 13:1 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 118069,
+          "content_id": 343648,
+          "resource_code": "Unknown",
+          "label": "Marcos 13:3 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 118350,
+          "content_id": 343929,
+          "resource_code": "Unknown",
+          "label": "Marcos 14:20 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 118366,
+          "content_id": 343945,
+          "resource_code": "Unknown",
+          "label": "Marcos 14:23 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 118416,
+          "content_id": 343995,
+          "resource_code": "Unknown",
+          "label": "Marcos 14:34 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 118489,
+          "content_id": 344068,
+          "resource_code": "Unknown",
+          "label": "Marcos 14:49 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 118518,
+          "content_id": 344097,
+          "resource_code": "Unknown",
+          "label": "Marcos 14:58 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 136725,
+          "content_id": 500772,
+          "resource_code": "Unknown",
+          "label": "Hechos 1:16 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 136773,
+          "content_id": 500820,
+          "resource_code": "Unknown",
+          "label": "Hechos 1:24 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 136897,
+          "content_id": 500944,
+          "resource_code": "Unknown",
+          "label": "Hechos 2:23 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 136929,
+          "content_id": 500976,
+          "resource_code": "Unknown",
+          "label": "Hechos 2:27 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 136948,
+          "content_id": 500995,
+          "resource_code": "Unknown",
+          "label": "Hechos 2:30 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137002,
+          "content_id": 501049,
+          "resource_code": "Unknown",
+          "label": "Hechos 2:41 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137005,
+          "content_id": 501052,
+          "resource_code": "Unknown",
+          "label": "Hechos 2:42 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137008,
+          "content_id": 501055,
+          "resource_code": "Unknown",
+          "label": "Hechos 2:43 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137019,
+          "content_id": 501066,
+          "resource_code": "Unknown",
+          "label": "Hechos 2:46 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137075,
+          "content_id": 501120,
+          "resource_code": "Unknown",
+          "label": "Hechos 3:15 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137115,
+          "content_id": 501160,
+          "resource_code": "Unknown",
+          "label": "Hechos 3:23 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137138,
+          "content_id": 501199,
+          "resource_code": "Unknown",
+          "label": "Hechos 4:1 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137174,
+          "content_id": 501236,
+          "resource_code": "Unknown",
+          "label": "Hechos 4:10 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137381,
+          "content_id": 501441,
+          "resource_code": "Unknown",
+          "label": "Hechos 5:18 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137422,
+          "content_id": 503421,
+          "resource_code": "Unknown",
+          "label": "Hechos 5:30 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137475,
+          "content_id": 503472,
+          "resource_code": "Unknown",
+          "label": "Hechos 5:40 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137511,
+          "content_id": 503506,
+          "resource_code": "Unknown",
+          "label": "Hechos 6:7 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137736,
+          "content_id": 505762,
+          "resource_code": "Unknown",
+          "label": "Hechos 7:48 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137748,
+          "content_id": 505773,
+          "resource_code": "Unknown",
+          "label": "Hechos 7:50 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137764,
+          "content_id": 505789,
+          "resource_code": "Unknown",
+          "label": "Hechos 7:53 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137755,
+          "content_id": 505823,
+          "resource_code": "Unknown",
+          "label": "Hechos 7:51 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137754,
+          "content_id": 505825,
+          "resource_code": "Unknown",
+          "label": "Hechos 7:51 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137955,
+          "content_id": 512958,
+          "resource_code": "Unknown",
+          "label": "Hechos 9:2 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139452,
+          "content_id": 515562,
+          "resource_code": "Unknown",
+          "label": "Hechos 21:4 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139449,
+          "content_id": 515635,
+          "resource_code": "Unknown",
+          "label": "Hechos 21:3 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139469,
+          "content_id": 515674,
+          "resource_code": "Unknown",
+          "label": "Hechos 21:11 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139471,
+          "content_id": 515695,
+          "resource_code": "Unknown",
+          "label": "Hechos 21:11 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139595,
+          "content_id": 515912,
+          "resource_code": "Unknown",
+          "label": "Hechos 22:7 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139656,
+          "content_id": 515947,
+          "resource_code": "Unknown",
+          "label": "Hechos 22:26 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139712,
+          "content_id": 516074,
+          "resource_code": "Unknown",
+          "label": "Hechos 23:20 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139699,
+          "content_id": 516136,
+          "resource_code": "Unknown",
+          "label": "Hechos 23:12 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139703,
+          "content_id": 516146,
+          "resource_code": "Unknown",
+          "label": "Hechos 23:14 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139727,
+          "content_id": 516203,
+          "resource_code": "Unknown",
+          "label": "Hechos 23:27 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139792,
+          "content_id": 516251,
+          "resource_code": "Unknown",
+          "label": "Hechos 24:27 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139796,
+          "content_id": 516258,
+          "resource_code": "Unknown",
+          "label": "Hechos 25:1 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139759,
+          "content_id": 516284,
+          "resource_code": "Unknown",
+          "label": "Hechos 24:9 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139820,
+          "content_id": 516310,
+          "resource_code": "Unknown",
+          "label": "Hechos 25:10 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139813,
+          "content_id": 516398,
+          "resource_code": "Unknown",
+          "label": "Hechos 25:8 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139794,
+          "content_id": 516452,
+          "resource_code": "Unknown",
+          "label": "Hechos 24:27 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139814,
+          "content_id": 516502,
+          "resource_code": "Unknown",
+          "label": "Hechos 25:9 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139857,
+          "content_id": 516509,
+          "resource_code": "Unknown",
+          "label": "Hechos 26:2 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139874,
+          "content_id": 516649,
+          "resource_code": "Unknown",
+          "label": "Hechos 26:7 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139882,
+          "content_id": 516670,
+          "resource_code": "Unknown",
+          "label": "Hechos 26:10 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137996,
+          "content_id": 512947,
+          "resource_code": "Unknown",
+          "label": "Hechos 9:15 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137986,
+          "content_id": 512991,
+          "resource_code": "Unknown",
+          "label": "Hechos 9:14 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138019,
+          "content_id": 513023,
+          "resource_code": "Unknown",
+          "label": "Hechos 9:21 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138023,
+          "content_id": 513027,
+          "resource_code": "Unknown",
+          "label": "Hechos 9:23 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138150,
+          "content_id": 513151,
+          "resource_code": "Unknown",
+          "label": "Hechos 10:22 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138224,
+          "content_id": 513198,
+          "resource_code": "Unknown",
+          "label": "Hechos 10:41 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138245,
+          "content_id": 513352,
+          "resource_code": "Unknown",
+          "label": "Hechos 10:47 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138269,
+          "content_id": 513404,
+          "resource_code": "Unknown",
+          "label": "Hechos 11:8 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138356,
+          "content_id": 513453,
+          "resource_code": "Unknown",
+          "label": "Hechos 12:3 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138349,
+          "content_id": 513494,
+          "resource_code": "Unknown",
+          "label": "Hechos 11:30 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138354,
+          "content_id": 513501,
+          "resource_code": "Unknown",
+          "label": "Hechos 12:1 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138355,
+          "content_id": 513504,
+          "resource_code": "Unknown",
+          "label": "Hechos 12:2 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138374,
+          "content_id": 513520,
+          "resource_code": "Unknown",
+          "label": "Hechos 12:11 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138383,
+          "content_id": 513534,
+          "resource_code": "Unknown",
+          "label": "Hechos 12:16 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138397,
+          "content_id": 513541,
+          "resource_code": "Unknown",
+          "label": "Hechos 12:20 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138391,
+          "content_id": 513543,
+          "resource_code": "Unknown",
+          "label": "Hechos 12:19 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138407,
+          "content_id": 513557,
+          "resource_code": "Unknown",
+          "label": "Hechos 12:22 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138604,
+          "content_id": 513690,
+          "resource_code": "Unknown",
+          "label": "Hechos 13:45 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138640,
+          "content_id": 513764,
+          "resource_code": "Unknown",
+          "label": "Hechos 14:2 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138625,
+          "content_id": 513862,
+          "resource_code": "Unknown",
+          "label": "Hechos 13:50 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138689,
+          "content_id": 513993,
+          "resource_code": "Unknown",
+          "label": "Hechos 14:17 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138694,
+          "content_id": 514015,
+          "resource_code": "Unknown",
+          "label": "Hechos 14:22 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138743,
+          "content_id": 514119,
+          "resource_code": "Unknown",
+          "label": "Hechos 15:7 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138813,
+          "content_id": 514264,
+          "resource_code": "Unknown",
+          "label": "Hechos 15:24 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138855,
+          "content_id": 514364,
+          "resource_code": "Unknown",
+          "label": "Hechos 15:41 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138858,
+          "content_id": 514412,
+          "resource_code": "Unknown",
+          "label": "Hechos 16:1 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138992,
+          "content_id": 514524,
+          "resource_code": "Unknown",
+          "label": "Hechos 17:5 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138937,
+          "content_id": 514531,
+          "resource_code": "Unknown",
+          "label": "Hechos 16:26 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138979,
+          "content_id": 514641,
+          "resource_code": "Unknown",
+          "label": "Hechos 16:40 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139112,
+          "content_id": 514790,
+          "resource_code": "Unknown",
+          "label": "Hechos 18:6 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139057,
+          "content_id": 514807,
+          "resource_code": "Unknown",
+          "label": "Hechos 17:25 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139054,
+          "content_id": 514877,
+          "resource_code": "Unknown",
+          "label": "Hechos 17:24 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139131,
+          "content_id": 514971,
+          "resource_code": "Unknown",
+          "label": "Hechos 18:12 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139139,
+          "content_id": 514988,
+          "resource_code": "Unknown",
+          "label": "Hechos 18:14 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139217,
+          "content_id": 515133,
+          "resource_code": "Unknown",
+          "label": "Hechos 19:11 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139267,
+          "content_id": 515264,
+          "resource_code": "Unknown",
+          "label": "Hechos 19:26 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139332,
+          "content_id": 515275,
+          "resource_code": "Unknown",
+          "label": "Hechos 20:7 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139317,
+          "content_id": 515346,
+          "resource_code": "Unknown",
+          "label": "Hechos 20:3 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139372,
+          "content_id": 515356,
+          "resource_code": "Unknown",
+          "label": "Hechos 20:19 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139384,
+          "content_id": 515388,
+          "resource_code": "Unknown",
+          "label": "Hechos 20:23 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139347,
+          "content_id": 515431,
+          "resource_code": "Unknown",
+          "label": "Hechos 20:11 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139366,
+          "content_id": 515569,
+          "resource_code": "Unknown",
+          "label": "Hechos 20:18 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139439,
+          "content_id": 515630,
+          "resource_code": "Unknown",
+          "label": "Hechos 20:38 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139394,
+          "content_id": 515633,
+          "resource_code": "Unknown",
+          "label": "Hechos 20:25 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142836,
+          "content_id": 349753,
+          "resource_code": "Unknown",
+          "label": "Lucas 1:17 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142942,
+          "content_id": 349859,
+          "resource_code": "Unknown",
+          "label": "Lucas 1:46 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142943,
+          "content_id": 349860,
+          "resource_code": "Unknown",
+          "label": "Lucas 1:47 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 143048,
+          "content_id": 349965,
+          "resource_code": "Unknown",
+          "label": "Lucas 1:79 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 143151,
+          "content_id": 350068,
+          "resource_code": "Unknown",
+          "label": "Lucas 2:27 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 143161,
+          "content_id": 350078,
+          "resource_code": "Unknown",
+          "label": "Lucas 2:30 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 143215,
+          "content_id": 350132,
+          "resource_code": "Unknown",
+          "label": "Lucas 2:46 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 143313,
+          "content_id": 350230,
+          "resource_code": "Unknown",
+          "label": "Lucas 3:20 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 143353,
+          "content_id": 350270,
+          "resource_code": "Unknown",
+          "label": "Lucas 4:4 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 143376,
+          "content_id": 350293,
+          "resource_code": "Unknown",
+          "label": "Lucas 4:11 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 143407,
+          "content_id": 350324,
+          "resource_code": "Unknown",
+          "label": "Lucas 4:20 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 143764,
+          "content_id": 350681,
+          "resource_code": "Unknown",
+          "label": "Lucas 6:45 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 143893,
+          "content_id": 350810,
+          "resource_code": "Unknown",
+          "label": "Lucas 7:33 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144102,
+          "content_id": 351019,
+          "resource_code": "Unknown",
+          "label": "Lucas 8:37 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144110,
+          "content_id": 351027,
+          "resource_code": "Unknown",
+          "label": "Lucas 8:40 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144148,
+          "content_id": 351065,
+          "resource_code": "Unknown",
+          "label": "Lucas 8:51 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144170,
+          "content_id": 351087,
+          "resource_code": "Unknown",
+          "label": "Lucas 9:3 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144192,
+          "content_id": 351109,
+          "resource_code": "Unknown",
+          "label": "Lucas 9:9 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144329,
+          "content_id": 351246,
+          "resource_code": "Unknown",
+          "label": "Lucas 9:53 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144355,
+          "content_id": 351272,
+          "resource_code": "Unknown",
+          "label": "Lucas 9:62 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144470,
+          "content_id": 351387,
+          "resource_code": "Unknown",
+          "label": "Lucas 10:23 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144531,
+          "content_id": 351448,
+          "resource_code": "Unknown",
+          "label": "Lucas 10:38 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144560,
+          "content_id": 351477,
+          "resource_code": "Unknown",
+          "label": "Lucas 11:3 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144617,
+          "content_id": 351534,
+          "resource_code": "Unknown",
+          "label": "Lucas 11:18 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144631,
+          "content_id": 351548,
+          "resource_code": "Unknown",
+          "label": "Lucas 11:21 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144656,
+          "content_id": 351573,
+          "resource_code": "Unknown",
+          "label": "Lucas 11:27 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144806,
+          "content_id": 351723,
+          "resource_code": "Unknown",
+          "label": "Lucas 12:7 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144853,
+          "content_id": 351770,
+          "resource_code": "Unknown",
+          "label": "Lucas 12:19 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 145155,
+          "content_id": 352072,
+          "resource_code": "Unknown",
+          "label": "Lucas 13:32 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 145189,
+          "content_id": 352106,
+          "resource_code": "Unknown",
+          "label": "Lucas 14:1 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 145247,
+          "content_id": 352164,
+          "resource_code": "Unknown",
+          "label": "Lucas 14:15 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 145352,
+          "content_id": 352269,
+          "resource_code": "Unknown",
+          "label": "Lucas 15:8 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 145380,
+          "content_id": 352297,
+          "resource_code": "Unknown",
+          "label": "Lucas 15:17 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 145405,
+          "content_id": 352322,
+          "resource_code": "Unknown",
+          "label": "Lucas 15:22 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 145441,
+          "content_id": 352358,
+          "resource_code": "Unknown",
+          "label": "Lucas 15:30 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 145468,
+          "content_id": 352385,
+          "resource_code": "Unknown",
+          "label": "Lucas 16:3 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 145539,
+          "content_id": 352456,
+          "resource_code": "Unknown",
+          "label": "Lucas 16:19 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 145704,
+          "content_id": 352621,
+          "resource_code": "Unknown",
+          "label": "Lucas 17:22 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 145727,
+          "content_id": 352644,
+          "resource_code": "Unknown",
+          "label": "Lucas 17:27 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 145734,
+          "content_id": 352651,
+          "resource_code": "Unknown",
+          "label": "Lucas 17:28 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 145815,
+          "content_id": 352732,
+          "resource_code": "Unknown",
+          "label": "Lucas 18:10 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146122,
+          "content_id": 353039,
+          "resource_code": "Unknown",
+          "label": "Lucas 19:45 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146129,
+          "content_id": 353046,
+          "resource_code": "Unknown",
+          "label": "Lucas 19:47 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146138,
+          "content_id": 353055,
+          "resource_code": "Unknown",
+          "label": "Lucas 20:1 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146213,
+          "content_id": 353130,
+          "resource_code": "Unknown",
+          "label": "Lucas 20:21 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146232,
+          "content_id": 353149,
+          "resource_code": "Unknown",
+          "label": "Lucas 20:28 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146393,
+          "content_id": 353310,
+          "resource_code": "Unknown",
+          "label": "Lucas 21:18 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146420,
+          "content_id": 353337,
+          "resource_code": "Unknown",
+          "label": "Lucas 21:24 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146482,
+          "content_id": 353399,
+          "resource_code": "Unknown",
+          "label": "Lucas 21:37 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146488,
+          "content_id": 353405,
+          "resource_code": "Unknown",
+          "label": "Lucas 21:38 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146559,
+          "content_id": 353476,
+          "resource_code": "Unknown",
+          "label": "Lucas 22:21 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146635,
+          "content_id": 353552,
+          "resource_code": "Unknown",
+          "label": "Lucas 22:40 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146669,
+          "content_id": 353586,
+          "resource_code": "Unknown",
+          "label": "Lucas 22:49 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146681,
+          "content_id": 353598,
+          "resource_code": "Unknown",
+          "label": "Lucas 22:53 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146795,
+          "content_id": 353712,
+          "resource_code": "Unknown",
+          "label": "Lucas 23:16 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146800,
+          "content_id": 353717,
+          "resource_code": "Unknown",
+          "label": "Lucas 23:17 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140193,
+          "content_id": 354153,
+          "resource_code": "Unknown",
+          "label": "Juan 1:14 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140227,
+          "content_id": 354187,
+          "resource_code": "Unknown",
+          "label": "Juan 1:19 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140703,
+          "content_id": 354663,
+          "resource_code": "Unknown",
+          "label": "Juan 5:10 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140719,
+          "content_id": 354679,
+          "resource_code": "Unknown",
+          "label": "Juan 5:15 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140722,
+          "content_id": 354682,
+          "resource_code": "Unknown",
+          "label": "Juan 5:16 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140727,
+          "content_id": 354687,
+          "resource_code": "Unknown",
+          "label": "Juan 5:18 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140852,
+          "content_id": 354812,
+          "resource_code": "Unknown",
+          "label": "Juan 6:11 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140906,
+          "content_id": 354866,
+          "resource_code": "Unknown",
+          "label": "Juan 6:31 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140909,
+          "content_id": 354869,
+          "resource_code": "Unknown",
+          "label": "Juan 6:32 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140913,
+          "content_id": 354873,
+          "resource_code": "Unknown",
+          "label": "Juan 6:32 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140920,
+          "content_id": 354880,
+          "resource_code": "Unknown",
+          "label": "Juan 6:34 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140944,
+          "content_id": 354904,
+          "resource_code": "Unknown",
+          "label": "Juan 6:41 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140982,
+          "content_id": 354942,
+          "resource_code": "Unknown",
+          "label": "Juan 6:52 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141060,
+          "content_id": 355020,
+          "resource_code": "Unknown",
+          "label": "Juan 7:1 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141083,
+          "content_id": 355043,
+          "resource_code": "Unknown",
+          "label": "Juan 7:11 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141089,
+          "content_id": 355049,
+          "resource_code": "Unknown",
+          "label": "Juan 7:13 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141091,
+          "content_id": 355051,
+          "resource_code": "Unknown",
+          "label": "Juan 7:14 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141092,
+          "content_id": 355052,
+          "resource_code": "Unknown",
+          "label": "Juan 7:15 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141133,
+          "content_id": 355093,
+          "resource_code": "Unknown",
+          "label": "Juan 7:28 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141150,
+          "content_id": 355110,
+          "resource_code": "Unknown",
+          "label": "Juan 7:35 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141238,
+          "content_id": 355198,
+          "resource_code": "Unknown",
+          "label": "Juan 8:22 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141269,
+          "content_id": 355229,
+          "resource_code": "Unknown",
+          "label": "Juan 8:31 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141319,
+          "content_id": 355279,
+          "resource_code": "Unknown",
+          "label": "Juan 8:48 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141332,
+          "content_id": 355292,
+          "resource_code": "Unknown",
+          "label": "Juan 8:52 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141348,
+          "content_id": 355308,
+          "resource_code": "Unknown",
+          "label": "Juan 8:57 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141402,
+          "content_id": 355362,
+          "resource_code": "Unknown",
+          "label": "Juan 9:18 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141408,
+          "content_id": 355368,
+          "resource_code": "Unknown",
+          "label": "Juan 9:22 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141525,
+          "content_id": 355485,
+          "resource_code": "Unknown",
+          "label": "Juan 10:19 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141534,
+          "content_id": 355494,
+          "resource_code": "Unknown",
+          "label": "Juan 10:23 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141537,
+          "content_id": 355497,
+          "resource_code": "Unknown",
+          "label": "Juan 10:24 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141552,
+          "content_id": 355512,
+          "resource_code": "Unknown",
+          "label": "Juan 10:31 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141558,
+          "content_id": 355518,
+          "resource_code": "Unknown",
+          "label": "Juan 10:33 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141565,
+          "content_id": 355525,
+          "resource_code": "Unknown",
+          "label": "Juan 10:34 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141612,
+          "content_id": 355572,
+          "resource_code": "Unknown",
+          "label": "Juan 11:8 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141696,
+          "content_id": 355656,
+          "resource_code": "Unknown",
+          "label": "Juan 11:48 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141702,
+          "content_id": 355662,
+          "resource_code": "Unknown",
+          "label": "Juan 11:50 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141706,
+          "content_id": 355666,
+          "resource_code": "Unknown",
+          "label": "Juan 11:51 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141707,
+          "content_id": 355667,
+          "resource_code": "Unknown",
+          "label": "Juan 11:52 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141713,
+          "content_id": 355673,
+          "resource_code": "Unknown",
+          "label": "Juan 11:54 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141721,
+          "content_id": 355681,
+          "resource_code": "Unknown",
+          "label": "Juan 11:56 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141752,
+          "content_id": 355712,
+          "resource_code": "Unknown",
+          "label": "Juan 12:9 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141835,
+          "content_id": 355795,
+          "resource_code": "Unknown",
+          "label": "Juan 12:34 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141978,
+          "content_id": 355938,
+          "resource_code": "Unknown",
+          "label": "Juan 13:33 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142166,
+          "content_id": 356126,
+          "resource_code": "Unknown",
+          "label": "Juan 15:25 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142359,
+          "content_id": 356319,
+          "resource_code": "Unknown",
+          "label": "Juan 18:12 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142363,
+          "content_id": 356323,
+          "resource_code": "Unknown",
+          "label": "Juan 18:14 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142408,
+          "content_id": 356368,
+          "resource_code": "Unknown",
+          "label": "Juan 18:31 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142421,
+          "content_id": 356381,
+          "resource_code": "Unknown",
+          "label": "Juan 18:36 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142428,
+          "content_id": 356388,
+          "resource_code": "Unknown",
+          "label": "Juan 18:37 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142432,
+          "content_id": 356392,
+          "resource_code": "Unknown",
+          "label": "Juan 18:38 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142442,
+          "content_id": 356402,
+          "resource_code": "Unknown",
+          "label": "Juan 19:1 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142443,
+          "content_id": 356403,
+          "resource_code": "Unknown",
+          "label": "Juan 19:2 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142455,
+          "content_id": 356415,
+          "resource_code": "Unknown",
+          "label": "Juan 19:7 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142470,
+          "content_id": 356430,
+          "resource_code": "Unknown",
+          "label": "Juan 19:12 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142485,
+          "content_id": 356445,
+          "resource_code": "Unknown",
+          "label": "Juan 19:14 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142542,
+          "content_id": 356502,
+          "resource_code": "Unknown",
+          "label": "Juan 19:31 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142565,
+          "content_id": 356525,
+          "resource_code": "Unknown",
+          "label": "Juan 19:38 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142590,
+          "content_id": 356550,
+          "resource_code": "Unknown",
+          "label": "Juan 20:2 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142622,
+          "content_id": 356582,
+          "resource_code": "Unknown",
+          "label": "Juan 20:13 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142625,
+          "content_id": 356585,
+          "resource_code": "Unknown",
+          "label": "Juan 20:15 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142644,
+          "content_id": 356604,
+          "resource_code": "Unknown",
+          "label": "Juan 20:19 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 142689,
+          "content_id": 356649,
+          "resource_code": "Unknown",
+          "label": "Juan 20:31 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139932,
+          "content_id": 516603,
+          "resource_code": "Unknown",
+          "label": "Hechos 26:29 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139910,
+          "content_id": 516744,
+          "resource_code": "Unknown",
+          "label": "Hechos 26:21 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140012,
+          "content_id": 516808,
+          "resource_code": "Unknown",
+          "label": "Hechos 27:24 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139934,
+          "content_id": 516813,
+          "resource_code": "Unknown",
+          "label": "Hechos 26:31 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140032,
+          "content_id": 516851,
+          "resource_code": "Unknown",
+          "label": "Hechos 27:37 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140029,
+          "content_id": 516954,
+          "resource_code": "Unknown",
+          "label": "Hechos 27:34 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 139998,
+          "content_id": 516967,
+          "resource_code": "Unknown",
+          "label": "Hechos 27:19 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140096,
+          "content_id": 517000,
+          "resource_code": "Unknown",
+          "label": "Hechos 28:20 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 140089,
+          "content_id": 517079,
+          "resource_code": "Unknown",
+          "label": "Hechos 28:19 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 141353,
+          "content_id": 355313,
+          "resource_code": "Unknown",
+          "label": "Juan 8:59 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 147375,
+          "content_id": 344598,
+          "resource_code": "Unknown",
+          "label": "Mateo 3:3 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 147456,
+          "content_id": 344679,
+          "resource_code": "Unknown",
+          "label": "Mateo 3:17 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 147493,
+          "content_id": 344716,
+          "resource_code": "Unknown",
+          "label": "Mateo 4:6 (#12)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 147924,
+          "content_id": 345147,
+          "resource_code": "Unknown",
+          "label": "Mateo 6:11 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 148608,
+          "content_id": 345831,
+          "resource_code": "Unknown",
+          "label": "Mateo 10:10 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 148948,
+          "content_id": 346171,
+          "resource_code": "Unknown",
+          "label": "Mateo 11:29 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 149024,
+          "content_id": 346247,
+          "resource_code": "Unknown",
+          "label": "Mateo 12:18 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 149115,
+          "content_id": 346338,
+          "resource_code": "Unknown",
+          "label": "Mateo 12:34 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 149272,
+          "content_id": 346495,
+          "resource_code": "Unknown",
+          "label": "Mateo 13:16 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 149674,
+          "content_id": 346897,
+          "resource_code": "Unknown",
+          "label": "Mateo 15:2 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 149801,
+          "content_id": 347024,
+          "resource_code": "Unknown",
+          "label": "Mateo 15:26 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 149837,
+          "content_id": 347060,
+          "resource_code": "Unknown",
+          "label": "Mateo 15:33 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 151403,
+          "content_id": 348626,
+          "resource_code": "Unknown",
+          "label": "Mateo 24:22 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 151494,
+          "content_id": 348717,
+          "resource_code": "Unknown",
+          "label": "Mateo 24:38 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 151834,
+          "content_id": 349057,
+          "resource_code": "Unknown",
+          "label": "Mateo 26:23 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 151908,
+          "content_id": 349131,
+          "resource_code": "Unknown",
+          "label": "Mateo 26:38 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146816,
+          "content_id": 353733,
+          "resource_code": "Unknown",
+          "label": "Lucas 23:22 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146845,
+          "content_id": 353762,
+          "resource_code": "Unknown",
+          "label": "Lucas 23:29 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 147034,
+          "content_id": 353951,
+          "resource_code": "Unknown",
+          "label": "Lucas 24:16 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 147054,
+          "content_id": 353971,
+          "resource_code": "Unknown",
+          "label": "Lucas 24:20 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 147151,
+          "content_id": 354068,
+          "resource_code": "Unknown",
+          "label": "Lucas 24:44 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 147156,
+          "content_id": 354073,
+          "resource_code": "Unknown",
+          "label": "Lucas 24:46 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 147180,
+          "content_id": 354097,
+          "resource_code": "Unknown",
+          "label": "Lucas 24:53 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 152579,
+          "content_id": 517280,
+          "resource_code": "Unknown",
+          "label": "Romanos 1:20 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 152722,
+          "content_id": 517449,
+          "resource_code": "Unknown",
+          "label": "Romanos 2:9 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 152800,
+          "content_id": 517452,
+          "resource_code": "Unknown",
+          "label": "Romanos 2:24 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 152831,
+          "content_id": 517527,
+          "resource_code": "Unknown",
+          "label": "Romanos 2:28 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 152972,
+          "content_id": 517704,
+          "resource_code": "Unknown",
+          "label": "Romanos 3:19 (#9)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 152976,
+          "content_id": 517722,
+          "resource_code": "Unknown",
+          "label": "Romanos 3:20 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 152992,
+          "content_id": 517755,
+          "resource_code": "Unknown",
+          "label": "Romanos 3:21 (#9)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 152954,
+          "content_id": 517837,
+          "resource_code": "Unknown",
+          "label": "Romanos 3:15 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 153160,
+          "content_id": 518122,
+          "resource_code": "Unknown",
+          "label": "Romanos 4:13 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 153492,
+          "content_id": 518691,
+          "resource_code": "Unknown",
+          "label": "Romanos 6:12 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 153775,
+          "content_id": 519361,
+          "resource_code": "Unknown",
+          "label": "Romanos 8:3 (#14)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 154640,
+          "content_id": 520920,
+          "resource_code": "Unknown",
+          "label": "Romanos 12:1 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 154722,
+          "content_id": 521148,
+          "resource_code": "Unknown",
+          "label": "Romanos 13:1 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 154862,
+          "content_id": 521434,
+          "resource_code": "Unknown",
+          "label": "Romanos 14:11 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 155062,
+          "content_id": 521811,
+          "resource_code": "Unknown",
+          "label": "Romanos 15:26 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 155311,
+          "content_id": 522188,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 1:21 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 155347,
+          "content_id": 522270,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 1:27 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 155338,
+          "content_id": 522366,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 1:26 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 155354,
+          "content_id": 522402,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 1:28 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 155434,
+          "content_id": 522493,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 2:9 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 155576,
+          "content_id": 522556,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 3:15 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 155559,
+          "content_id": 522578,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 3:13 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 155570,
+          "content_id": 522632,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 3:14 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 155701,
+          "content_id": 522859,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 4:13 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 156140,
+          "content_id": 523613,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 7:31 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 156452,
+          "content_id": 524264,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 9:27 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 156541,
+          "content_id": 524576,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 10:18 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 156778,
+          "content_id": 525087,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 11:32 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 157623,
+          "content_id": 526155,
+          "resource_code": "Unknown",
+          "label": "1 Corintios 16:7 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 157759,
+          "content_id": 526289,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 1:11 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 157767,
+          "content_id": 526297,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 1:12 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158232,
+          "content_id": 526713,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 5:1 (#9)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 158485,
+          "content_id": 527019,
+          "resource_code": "Unknown",
+          "label": "2 Corintios 7:5 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 159381,
+          "content_id": 527912,
+          "resource_code": "Unknown",
+          "label": "Colosenses 2:2 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 159442,
+          "content_id": 527995,
+          "resource_code": "Unknown",
+          "label": "Colosenses 2:12 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 159735,
+          "content_id": 528295,
+          "resource_code": "Unknown",
+          "label": "Colosenses 4:8 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 159979,
+          "content_id": 528541,
+          "resource_code": "Unknown",
+          "label": "Efesios 3:14 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 160214,
+          "content_id": 528775,
+          "resource_code": "Unknown",
+          "label": "Efesios 6:12 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 160334,
+          "content_id": 528894,
+          "resource_code": "Unknown",
+          "label": "Filipenses 1:22 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 160342,
+          "content_id": 528901,
+          "resource_code": "Unknown",
+          "label": "Filipenses 1:24 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 160597,
+          "content_id": 529133,
+          "resource_code": "Unknown",
+          "label": "Filipenses 3:19 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 160704,
+          "content_id": 529163,
+          "resource_code": "Unknown",
+          "label": "Filipenses 4:23 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 161389,
+          "content_id": 529935,
+          "resource_code": "Unknown",
+          "label": "1 Timoteo 2:8 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 161656,
+          "content_id": 530110,
+          "resource_code": "Unknown",
+          "label": "1 Timoteo 5:10 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 161996,
+          "content_id": 530433,
+          "resource_code": "Unknown",
+          "label": "2 Tesalonicenses 2:15 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 162005,
+          "content_id": 530553,
+          "resource_code": "Unknown",
+          "label": "2 Tesalonicenses 2:17 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 162487,
+          "content_id": 531054,
+          "resource_code": "Unknown",
+          "label": "2 Timoteo 4:22 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 162581,
+          "content_id": 531125,
+          "resource_code": "Unknown",
+          "label": "Filemón 1:25 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163031,
+          "content_id": 531267,
+          "resource_code": "Unknown",
+          "label": "1 Juan 2:28 (#9)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163459,
+          "content_id": 531670,
+          "resource_code": "Unknown",
+          "label": "1 Pedro 1:9 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163513,
+          "content_id": 531942,
+          "resource_code": "Unknown",
+          "label": "1 Pedro 1:22 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163648,
+          "content_id": 532032,
+          "resource_code": "Unknown",
+          "label": "1 Pedro 2:24 (#9)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163653,
+          "content_id": 532079,
+          "resource_code": "Unknown",
+          "label": "1 Pedro 2:25 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163696,
+          "content_id": 532080,
+          "resource_code": "Unknown",
+          "label": "1 Pedro 3:10 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163705,
+          "content_id": 532129,
+          "resource_code": "Unknown",
+          "label": "1 Pedro 3:12 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 163826,
+          "content_id": 532208,
+          "resource_code": "Unknown",
+          "label": "1 Pedro 4:19 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 164186,
+          "content_id": 532578,
+          "resource_code": "Unknown",
+          "label": "2 Pedro 2:8 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 164237,
+          "content_id": 532663,
+          "resource_code": "Unknown",
+          "label": "2 Pedro 2:14 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 164444,
+          "content_id": 532848,
+          "resource_code": "Unknown",
+          "label": "Hebreos 1:3 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 164518,
+          "content_id": 532895,
+          "resource_code": "Unknown",
+          "label": "Hebreos 1:13 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 165007,
+          "content_id": 533211,
+          "resource_code": "Unknown",
+          "label": "Hebreos 7:1 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 165319,
+          "content_id": 533528,
+          "resource_code": "Unknown",
+          "label": "Hebreos 9:11 (#9)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 165400,
+          "content_id": 533784,
+          "resource_code": "Unknown",
+          "label": "Hebreos 9:24 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 165614,
+          "content_id": 533983,
+          "resource_code": "Unknown",
+          "label": "Hebreos 10:38 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 165859,
+          "content_id": 534060,
+          "resource_code": "Unknown",
+          "label": "Hebreos 12:3 (#9)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 165621,
+          "content_id": 534088,
+          "resource_code": "Unknown",
+          "label": "Hebreos 10:39 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 166077,
+          "content_id": 534584,
+          "resource_code": "Unknown",
+          "label": "Hebreos 13:8 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 166125,
+          "content_id": 534634,
+          "resource_code": "Unknown",
+          "label": "Hebreos 13:15 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 166344,
+          "content_id": 534709,
+          "resource_code": "Unknown",
+          "label": "Santiago 1:26 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 166309,
+          "content_id": 534817,
+          "resource_code": "Unknown",
+          "label": "Santiago 1:21 (#10)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 166524,
+          "content_id": 534890,
+          "resource_code": "Unknown",
+          "label": "Santiago 3:2 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 166752,
+          "content_id": 535111,
+          "resource_code": "Unknown",
+          "label": "Santiago 5:6 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 166822,
+          "content_id": 535184,
+          "resource_code": "Unknown",
+          "label": "Santiago 5:20 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 167027,
+          "content_id": 535211,
+          "resource_code": "Unknown",
+          "label": "Apocalipsis 1:7 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 166725,
+          "content_id": 535228,
+          "resource_code": "Unknown",
+          "label": "Santiago 5:2 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 166928,
+          "content_id": 535290,
+          "resource_code": "Unknown",
+          "label": "Judas 1:15 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 167111,
+          "content_id": 535302,
+          "resource_code": "Unknown",
+          "label": "Revelación 2:10 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 167028,
+          "content_id": 535389,
+          "resource_code": "Unknown",
+          "label": "Revelación 1:7 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 167224,
+          "content_id": 535588,
+          "resource_code": "Unknown",
+          "label": "Revelación 3:9 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 167511,
+          "content_id": 535678,
+          "resource_code": "Unknown",
+          "label": "Revelación 9:20 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 167344,
+          "content_id": 535697,
+          "resource_code": "Unknown",
+          "label": "Revelación 6:7 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 167388,
+          "content_id": 535745,
+          "resource_code": "Unknown",
+          "label": "Revelación 7:1 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 167350,
+          "content_id": 535772,
+          "resource_code": "Unknown",
+          "label": "Revelación 6:8 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 167496,
+          "content_id": 535855,
+          "resource_code": "Unknown",
+          "label": "Revelación 9:13 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 167871,
+          "content_id": 536023,
+          "resource_code": "Unknown",
+          "label": "Revelación 16:19 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 168043,
+          "content_id": 536196,
+          "resource_code": "Unknown",
+          "label": "Revelación 19:2 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 168177,
+          "content_id": 536645,
+          "resource_code": "Unknown",
+          "label": "Revelación 21:4 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 168241,
+          "content_id": 536714,
+          "resource_code": "Unknown",
+          "label": "Revelación 22:4 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 168310,
+          "content_id": 536750,
+          "resource_code": "Unknown",
+          "label": "Ester 1:3 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 168710,
+          "content_id": 537152,
+          "resource_code": "Unknown",
+          "label": "Ester 3:15 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 168749,
+          "content_id": 537232,
+          "resource_code": "Unknown",
+          "label": "Ester 4:7 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 169171,
+          "content_id": 537289,
+          "resource_code": "Unknown",
+          "label": "Ester 9:5 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 168948,
+          "content_id": 537328,
+          "resource_code": "Unknown",
+          "label": "Ester 7:1 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 169231,
+          "content_id": 537345,
+          "resource_code": "Unknown",
+          "label": "Ester 9:17 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 169012,
+          "content_id": 537401,
+          "resource_code": "Unknown",
+          "label": "Ester 8:1 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 170039,
+          "content_id": 538139,
+          "resource_code": "Unknown",
+          "label": "Génesis 6:13 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 169734,
+          "content_id": 538193,
+          "resource_code": "Unknown",
+          "label": "Génesis 3:18 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 170143,
+          "content_id": 538238,
+          "resource_code": "Unknown",
+          "label": "Génesis 7:15 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 170036,
+          "content_id": 538433,
+          "resource_code": "Unknown",
+          "label": "Génesis 6:12 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 170146,
+          "content_id": 538596,
+          "resource_code": "Unknown",
+          "label": "Génesis 7:16 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 170198,
+          "content_id": 538644,
+          "resource_code": "Unknown",
+          "label": "Génesis 8:4 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 170254,
+          "content_id": 538702,
+          "resource_code": "Unknown",
+          "label": "Génesis 8:17 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 170309,
+          "content_id": 538811,
+          "resource_code": "Unknown",
+          "label": "Génesis 9:5 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 170313,
+          "content_id": 538816,
+          "resource_code": "Unknown",
+          "label": "Génesis 9:5 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 170337,
+          "content_id": 538840,
+          "resource_code": "Unknown",
+          "label": "Génesis 9:11 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 171143,
+          "content_id": 539207,
+          "resource_code": "Unknown",
+          "label": "Génesis 17:13 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 170930,
+          "content_id": 539371,
+          "resource_code": "Unknown",
+          "label": "Génesis 15:2 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 171078,
+          "content_id": 539521,
+          "resource_code": "Unknown",
+          "label": "Génesis 16:12 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 171707,
+          "content_id": 539763,
+          "resource_code": "Unknown",
+          "label": "Génesis 21:14 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 171486,
+          "content_id": 539911,
+          "resource_code": "Unknown",
+          "label": "Génesis 19:20 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 171701,
+          "content_id": 540202,
+          "resource_code": "Unknown",
+          "label": "Génesis 21:12 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 172508,
+          "content_id": 540924,
+          "resource_code": "Unknown",
+          "label": "Génesis 27:4",
+          "language": "spa"
+        },
+        {
+          "reference_id": 172561,
+          "content_id": 541105,
+          "resource_code": "Unknown",
+          "label": "Génesis 27:19 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 173111,
+          "content_id": 541151,
+          "resource_code": "Unknown",
+          "label": "Génesis 31:17 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 173531,
+          "content_id": 541579,
+          "resource_code": "Unknown",
+          "label": "Génesis 34:30 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 173212,
+          "content_id": 541633,
+          "resource_code": "Unknown",
+          "label": "Génesis 31:42 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 173258,
+          "content_id": 541675,
+          "resource_code": "Unknown",
+          "label": "Génesis 31:54 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 173409,
+          "content_id": 541936,
+          "resource_code": "Unknown",
+          "label": "Génesis 33:10 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 173661,
+          "content_id": 542190,
+          "resource_code": "Unknown",
+          "label": "Génesis 36:7 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 173817,
+          "content_id": 542350,
+          "resource_code": "Unknown",
+          "label": "Génesis 37:21 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 173825,
+          "content_id": 542357,
+          "resource_code": "Unknown",
+          "label": "Génesis 37:22 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 174751,
+          "content_id": 542792,
+          "resource_code": "Unknown",
+          "label": "Génesis 44:26 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 174442,
+          "content_id": 542839,
+          "resource_code": "Unknown",
+          "label": "Génesis 42:21 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 174345,
+          "content_id": 542888,
+          "resource_code": "Unknown",
+          "label": "Génesis 41:54 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 174963,
+          "content_id": 543003,
+          "resource_code": "Unknown",
+          "label": "Génesis 46:30 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175023,
+          "content_id": 543062,
+          "resource_code": "Unknown",
+          "label": "Génesis 47:12 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175055,
+          "content_id": 543096,
+          "resource_code": "Unknown",
+          "label": "Génesis 47:19 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 174688,
+          "content_id": 543142,
+          "resource_code": "Unknown",
+          "label": "Génesis 44:8 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 174649,
+          "content_id": 543178,
+          "resource_code": "Unknown",
+          "label": "Génesis 43:31 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 174834,
+          "content_id": 543226,
+          "resource_code": "Unknown",
+          "label": "Génesis 45:12 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 174910,
+          "content_id": 543295,
+          "resource_code": "Unknown",
+          "label": "Génesis 46:5 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 174836,
+          "content_id": 543300,
+          "resource_code": "Unknown",
+          "label": "Génesis 45:12 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175311,
+          "content_id": 543359,
+          "resource_code": "Unknown",
+          "label": "Génesis 49:26 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175036,
+          "content_id": 543501,
+          "resource_code": "Unknown",
+          "label": "Génesis 47:15 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175230,
+          "content_id": 543611,
+          "resource_code": "Unknown",
+          "label": "Génesis 49:6 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175282,
+          "content_id": 543664,
+          "resource_code": "Unknown",
+          "label": "Génesis 49:20 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175659,
+          "content_id": 543735,
+          "resource_code": "Unknown",
+          "label": "Job 2:4 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175663,
+          "content_id": 543739,
+          "resource_code": "Unknown",
+          "label": "Job 2:5 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175743,
+          "content_id": 543823,
+          "resource_code": "Unknown",
+          "label": "Trabajo 3:12 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175478,
+          "content_id": 543857,
+          "resource_code": "Unknown",
+          "label": "Hageo 1:14 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175432,
+          "content_id": 543883,
+          "resource_code": "Unknown",
+          "label": "Hageo 1:1 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175472,
+          "content_id": 543924,
+          "resource_code": "Unknown",
+          "label": "Hageo 1:11 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175476,
+          "content_id": 543928,
+          "resource_code": "Unknown",
+          "label": "Hageo 1:12 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175546,
+          "content_id": 543930,
+          "resource_code": "Unknown",
+          "label": "Hageo 2:17 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175485,
+          "content_id": 543985,
+          "resource_code": "Unknown",
+          "label": "Hageo 2:1 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175638,
+          "content_id": 544020,
+          "resource_code": "Unknown",
+          "label": "Job 1:19 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175642,
+          "content_id": 544024,
+          "resource_code": "Unknown",
+          "label": "Job 1:21 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175533,
+          "content_id": 544041,
+          "resource_code": "Unknown",
+          "label": "Hageo 2:14 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175537,
+          "content_id": 544045,
+          "resource_code": "Unknown",
+          "label": "Hageo 2:15 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175628,
+          "content_id": 544079,
+          "resource_code": "Unknown",
+          "label": "Job 1:15 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175613,
+          "content_id": 544118,
+          "resource_code": "Unknown",
+          "label": "Job 1:10 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176071,
+          "content_id": 544153,
+          "resource_code": "Unknown",
+          "label": "Job 7:7 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175822,
+          "content_id": 544200,
+          "resource_code": "Unknown",
+          "label": "Trabajo 4:14 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175752,
+          "content_id": 544208,
+          "resource_code": "Unknown",
+          "label": "Trabajo 3:16 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175816,
+          "content_id": 544270,
+          "resource_code": "Unknown",
+          "label": "Job 4:12 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175789,
+          "content_id": 544289,
+          "resource_code": "Unknown",
+          "label": "Job 4:3 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175914,
+          "content_id": 544297,
+          "resource_code": "Unknown",
+          "label": "Job 5:18 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175922,
+          "content_id": 544303,
+          "resource_code": "Unknown",
+          "label": "Job 5:20 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176255,
+          "content_id": 544338,
+          "resource_code": "Unknown",
+          "label": "Job 9:26 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175966,
+          "content_id": 544354,
+          "resource_code": "Unknown",
+          "label": "Job 6:7 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176279,
+          "content_id": 544361,
+          "resource_code": "Unknown",
+          "label": "Job 10:1 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176287,
+          "content_id": 544369,
+          "resource_code": "Unknown",
+          "label": "Job 10:3 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176339,
+          "content_id": 544420,
+          "resource_code": "Unknown",
+          "label": "Job 10:18 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176062,
+          "content_id": 544449,
+          "resource_code": "Unknown",
+          "label": "Job 7:5 (#3): Mi carne está vestida de gusanos y costras de polvo; mi piel se endurece y supura.",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176036,
+          "content_id": 544495,
+          "resource_code": "Unknown",
+          "label": "Job 6:28 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176076,
+          "content_id": 544536,
+          "resource_code": "Unknown",
+          "label": "Job 7:8 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176178,
+          "content_id": 544562,
+          "resource_code": "Unknown",
+          "label": "Job 8:21 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176085,
+          "content_id": 544579,
+          "resource_code": "Unknown",
+          "label": "Job 7:11 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176495,
+          "content_id": 544581,
+          "resource_code": "Unknown",
+          "label": "Job 13:1 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176093,
+          "content_id": 544586,
+          "resource_code": "Unknown",
+          "label": "Job 7:15 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176132,
+          "content_id": 544593,
+          "resource_code": "Unknown",
+          "label": "Job 8:6 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176180,
+          "content_id": 544641,
+          "resource_code": "Unknown",
+          "label": "Job 8:22 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176306,
+          "content_id": 544690,
+          "resource_code": "Unknown",
+          "label": "Job 10:7 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176318,
+          "content_id": 544701,
+          "resource_code": "Unknown",
+          "label": "Job 10:12 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176225,
+          "content_id": 544713,
+          "resource_code": "Unknown",
+          "label": "Job 9:16 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176237,
+          "content_id": 544725,
+          "resource_code": "Unknown",
+          "label": "Job 9:21 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176366,
+          "content_id": 544748,
+          "resource_code": "Unknown",
+          "label": "Job 11:5 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176308,
+          "content_id": 544773,
+          "resource_code": "Unknown",
+          "label": "Job 10:8 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176285,
+          "content_id": 544775,
+          "resource_code": "Unknown",
+          "label": "Job 10:3 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176719,
+          "content_id": 544803,
+          "resource_code": "Unknown",
+          "label": "Job 15:27 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176783,
+          "content_id": 544867,
+          "resource_code": "Unknown",
+          "label": "Trabajo 16:17 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176791,
+          "content_id": 544876,
+          "resource_code": "Unknown",
+          "label": "Job 16:20 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176506,
+          "content_id": 544894,
+          "resource_code": "Unknown",
+          "label": "Job 13:6 (#1) - Job 13:6",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176819,
+          "content_id": 544903,
+          "resource_code": "Unknown",
+          "label": "Trabajo 17:5 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176449,
+          "content_id": 544933,
+          "resource_code": "Unknown",
+          "label": "Job 12:10 (#4): En su mano está la vida de todo ser viviente y el aliento de toda la humanidad.",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176524,
+          "content_id": 544989,
+          "resource_code": "Unknown",
+          "label": "Job 13:14 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176606,
+          "content_id": 544991,
+          "resource_code": "Unknown",
+          "label": "Job 14:15 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176646,
+          "content_id": 545034,
+          "resource_code": "Unknown",
+          "label": "Job 15:7 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176666,
+          "content_id": 545054,
+          "resource_code": "Unknown",
+          "label": "Job 15:13 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176608,
+          "content_id": 545072,
+          "resource_code": "Unknown",
+          "label": "Job 14:16 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176624,
+          "content_id": 545089,
+          "resource_code": "Unknown",
+          "label": "Job 14:22 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176621,
+          "content_id": 545107,
+          "resource_code": "Unknown",
+          "label": "Job 14:20 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177027,
+          "content_id": 545114,
+          "resource_code": "Unknown",
+          "label": "Job 20:9 (#1) - El ojo que lo veía, ya no lo verá; ni su lugar le reconocerá más.",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176704,
+          "content_id": 545169,
+          "resource_code": "Unknown",
+          "label": "Job 15:23 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176748,
+          "content_id": 545213,
+          "resource_code": "Unknown",
+          "label": "Job 16:4 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176741,
+          "content_id": 545222,
+          "resource_code": "Unknown",
+          "label": "Job 15:34 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176761,
+          "content_id": 545242,
+          "resource_code": "Unknown",
+          "label": "Job 16:8 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177155,
+          "content_id": 545244,
+          "resource_code": "Unknown",
+          "label": "Job 21:20 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176878,
+          "content_id": 545262,
+          "resource_code": "Unknown",
+          "label": "Job 18:7 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176800,
+          "content_id": 545265,
+          "resource_code": "Unknown",
+          "label": "Job 17:1 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176808,
+          "content_id": 545274,
+          "resource_code": "Unknown",
+          "label": "Job 17:2 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176844,
+          "content_id": 545308,
+          "resource_code": "Unknown",
+          "label": "Job 17:13 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176958,
+          "content_id": 545340,
+          "resource_code": "Unknown",
+          "label": "Job 19:17 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177010,
+          "content_id": 545391,
+          "resource_code": "Unknown",
+          "label": "Job 20:4 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176925,
+          "content_id": 545409,
+          "resource_code": "Unknown",
+          "label": "Job 19:2 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177030,
+          "content_id": 545410,
+          "resource_code": "Unknown",
+          "label": "Job 20:10 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 176992,
+          "content_id": 545456,
+          "resource_code": "Unknown",
+          "label": "Job 19:27 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177000,
+          "content_id": 545464,
+          "resource_code": "Unknown",
+          "label": "Job 19:29 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177110,
+          "content_id": 545489,
+          "resource_code": "Unknown",
+          "label": "Job 21:6 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177032,
+          "content_id": 545495,
+          "resource_code": "Unknown",
+          "label": "Job 20:11 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177407,
+          "content_id": 545496,
+          "resource_code": "Unknown",
+          "label": "Job 24:12 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177009,
+          "content_id": 545498,
+          "resource_code": "Unknown",
+          "label": "Job 20:4 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177423,
+          "content_id": 545511,
+          "resource_code": "Unknown",
+          "label": "Job 24:15 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177048,
+          "content_id": 545512,
+          "resource_code": "Unknown",
+          "label": "Job 20:17 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177459,
+          "content_id": 545548,
+          "resource_code": "Unknown",
+          "label": "Job 24:23 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177170,
+          "content_id": 545551,
+          "resource_code": "Unknown",
+          "label": "Job 21:24 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177495,
+          "content_id": 545585,
+          "resource_code": "Unknown",
+          "label": "Job 26:2 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177169,
+          "content_id": 545650,
+          "resource_code": "Unknown",
+          "label": "Job 21:24 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177185,
+          "content_id": 545668,
+          "resource_code": "Unknown",
+          "label": "Trabajo 21:28 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177298,
+          "content_id": 545679,
+          "resource_code": "Unknown",
+          "label": "Job 22:24 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177599,
+          "content_id": 545686,
+          "resource_code": "Unknown",
+          "label": "Job 28:2 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177232,
+          "content_id": 545703,
+          "resource_code": "Unknown",
+          "label": "Job 22:7 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177354,
+          "content_id": 545731,
+          "resource_code": "Unknown",
+          "label": "Job 23:13 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177349,
+          "content_id": 545849,
+          "resource_code": "Unknown",
+          "label": "Job 23:12 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177526,
+          "content_id": 545879,
+          "resource_code": "Unknown",
+          "label": "Job 26:13 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177385,
+          "content_id": 545884,
+          "resource_code": "Unknown",
+          "label": "Job 24:5 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177538,
+          "content_id": 545889,
+          "resource_code": "Unknown",
+          "label": "Job 27:4 (#2) - Job 27:4",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177420,
+          "content_id": 545914,
+          "resource_code": "Unknown",
+          "label": "Job 24:15 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177574,
+          "content_id": 545920,
+          "resource_code": "Unknown",
+          "label": "Job 27:15 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177578,
+          "content_id": 545924,
+          "resource_code": "Unknown",
+          "label": "Job 27:16 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177622,
+          "content_id": 545965,
+          "resource_code": "Unknown",
+          "label": "Job 28:7 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177573,
+          "content_id": 546067,
+          "resource_code": "Unknown",
+          "label": "Job 27:14 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177616,
+          "content_id": 546120,
+          "resource_code": "Unknown",
+          "label": "Job 28:5 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177783,
+          "content_id": 545866,
+          "resource_code": "Unknown",
+          "label": "Trabajo 30:8 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177879,
+          "content_id": 545960,
+          "resource_code": "Unknown",
+          "label": "Job 31:7 (#1) - Si mis pasos se desviaron del camino, si mi corazón siguió mis ojos, o si alguna mancha se adhirió a mis manos.",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177907,
+          "content_id": 545987,
+          "resource_code": "Unknown",
+          "label": "Job 31:16 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177666,
+          "content_id": 546015,
+          "resource_code": "Unknown",
+          "label": "Job 28:21 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177750,
+          "content_id": 546091,
+          "resource_code": "Unknown",
+          "label": "Job 29:24 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178019,
+          "content_id": 546097,
+          "resource_code": "Unknown",
+          "label": "Job 32:21 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177633,
+          "content_id": 546130,
+          "resource_code": "Unknown",
+          "label": "Job 28:10 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178071,
+          "content_id": 546147,
+          "resource_code": "Unknown",
+          "label": "Job 33:20 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178075,
+          "content_id": 546151,
+          "resource_code": "Unknown",
+          "label": "Job 33:22 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178099,
+          "content_id": 546175,
+          "resource_code": "Unknown",
+          "label": "Trabajo 33:30 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177689,
+          "content_id": 546186,
+          "resource_code": "Unknown",
+          "label": "Job 29:3 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177854,
+          "content_id": 546195,
+          "resource_code": "Unknown",
+          "label": "Job 30:30 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177717,
+          "content_id": 546211,
+          "resource_code": "Unknown",
+          "label": "Job 29:13 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177708,
+          "content_id": 546217,
+          "resource_code": "Unknown",
+          "label": "Job 29:11 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177886,
+          "content_id": 546228,
+          "resource_code": "Unknown",
+          "label": "Trabajo 31:9 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178167,
+          "content_id": 546239,
+          "resource_code": "Unknown",
+          "label": "Job 34:21 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178187,
+          "content_id": 546262,
+          "resource_code": "Unknown",
+          "label": "Job 34:29 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177769,
+          "content_id": 546264,
+          "resource_code": "Unknown",
+          "label": "Job 30:4 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177760,
+          "content_id": 546270,
+          "resource_code": "Unknown",
+          "label": "Job 30:2 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177776,
+          "content_id": 546286,
+          "resource_code": "Unknown",
+          "label": "Trabajo 30:6 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177797,
+          "content_id": 546291,
+          "resource_code": "Unknown",
+          "label": "Trabajo 30:12 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178231,
+          "content_id": 546307,
+          "resource_code": "Unknown",
+          "label": "Job 35:7 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177813,
+          "content_id": 546308,
+          "resource_code": "Unknown",
+          "label": "Job 30:17 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177841,
+          "content_id": 546336,
+          "resource_code": "Unknown",
+          "label": "Job 30:25 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178287,
+          "content_id": 546360,
+          "resource_code": "Unknown",
+          "label": "Job 36:10 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177860,
+          "content_id": 546369,
+          "resource_code": "Unknown",
+          "label": "Job 31:1 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177873,
+          "content_id": 546371,
+          "resource_code": "Unknown",
+          "label": "Trabajo 31:5 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177917,
+          "content_id": 546415,
+          "resource_code": "Unknown",
+          "label": "Job 31:20 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177929,
+          "content_id": 546425,
+          "resource_code": "Unknown",
+          "label": "Job 31:25 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177949,
+          "content_id": 546444,
+          "resource_code": "Unknown",
+          "label": "Job 31:32 (#3) en español es: \"El extranjero no pasaba la noche fuera; mis puertas abría al caminante.\"",
+          "language": "spa"
+        },
+        {
+          "reference_id": 177952,
+          "content_id": 546465,
+          "resource_code": "Unknown",
+          "label": "Trabajo 31:34 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178399,
+          "content_id": 546468,
+          "resource_code": "Unknown",
+          "label": "Job 37:7 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178158,
+          "content_id": 546509,
+          "resource_code": "Unknown",
+          "label": "Job 34:19 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178012,
+          "content_id": 546523,
+          "resource_code": "Unknown",
+          "label": "Job 32:18 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178016,
+          "content_id": 546526,
+          "resource_code": "Unknown",
+          "label": "Job 32:20 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178024,
+          "content_id": 546532,
+          "resource_code": "Unknown",
+          "label": "Job 33:2 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178065,
+          "content_id": 546556,
+          "resource_code": "Unknown",
+          "label": "Job 33:18 (#2) - Job 33:18",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178072,
+          "content_id": 546579,
+          "resource_code": "Unknown",
+          "label": "Job 33:20 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178085,
+          "content_id": 546580,
+          "resource_code": "Unknown",
+          "label": "Job 33:25 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178096,
+          "content_id": 546603,
+          "resource_code": "Unknown",
+          "label": "Job 33:28 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178254,
+          "content_id": 546605,
+          "resource_code": "Unknown",
+          "label": "Job 35:16 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178278,
+          "content_id": 546632,
+          "resource_code": "Unknown",
+          "label": "Job 36:7 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178306,
+          "content_id": 546655,
+          "resource_code": "Unknown",
+          "label": "Job 36:14 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178165,
+          "content_id": 546662,
+          "resource_code": "Unknown",
+          "label": "Job 34:20 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178314,
+          "content_id": 546665,
+          "resource_code": "Unknown",
+          "label": "Job 36:15 (#4) - \"Él libra al afligido en su aflicción, y abre sus oídos en la opresión.\"",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178615,
+          "content_id": 546680,
+          "resource_code": "Unknown",
+          "label": "Job 39:13 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178434,
+          "content_id": 546782,
+          "resource_code": "Unknown",
+          "label": "Job 37:17 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178727,
+          "content_id": 546788,
+          "resource_code": "Unknown",
+          "label": "Job 40:23 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178735,
+          "content_id": 546798,
+          "resource_code": "Unknown",
+          "label": "Job 41:1 (#5): \"¿Puedes pescar con anzuelo al Leviatán o sujetar con cuerda su lengua?\"",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178309,
+          "content_id": 546802,
+          "resource_code": "Unknown",
+          "label": "Job 36:14 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178831,
+          "content_id": 546889,
+          "resource_code": "Unknown",
+          "label": "Job 42:5 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178843,
+          "content_id": 546899,
+          "resource_code": "Unknown",
+          "label": "Job 42:11 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178967,
+          "content_id": 547016,
+          "resource_code": "Unknown",
+          "label": "Nehemías 2:3 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178662,
+          "content_id": 547018,
+          "resource_code": "Unknown",
+          "label": "Job 39:30 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178979,
+          "content_id": 547025,
+          "resource_code": "Unknown",
+          "label": "Nehemías 2:5 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178983,
+          "content_id": 547028,
+          "resource_code": "Unknown",
+          "label": "Nehemías 2:5 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178600,
+          "content_id": 547124,
+          "resource_code": "Unknown",
+          "label": "Job 39:7 (#2) - Job 39:7",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178620,
+          "content_id": 547145,
+          "resource_code": "Unknown",
+          "label": "Job 39:15 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178661,
+          "content_id": 547163,
+          "resource_code": "Unknown",
+          "label": "Job 39:29 (#2) no está disponible en mi base de datos.",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178705,
+          "content_id": 547208,
+          "resource_code": "Unknown",
+          "label": "Job 40:15 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179291,
+          "content_id": 547312,
+          "resource_code": "Unknown",
+          "label": "Nehemías 4:14 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178958,
+          "content_id": 547316,
+          "resource_code": "Unknown",
+          "label": "Nehemías 2:2 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178821,
+          "content_id": 547332,
+          "resource_code": "Unknown",
+          "label": "Job 41:33 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179323,
+          "content_id": 547343,
+          "resource_code": "Unknown",
+          "label": "Nehemías 4:21 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179042,
+          "content_id": 547382,
+          "resource_code": "Unknown",
+          "label": "Nehemías 2:15 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179431,
+          "content_id": 547431,
+          "resource_code": "Unknown",
+          "label": "Nehemías 5:14 (#9)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179447,
+          "content_id": 547447,
+          "resource_code": "Unknown",
+          "label": "Nehemías 5:17 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179049,
+          "content_id": 547546,
+          "resource_code": "Unknown",
+          "label": "Nehemías 2:15 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178988,
+          "content_id": 547590,
+          "resource_code": "Unknown",
+          "label": "Nehemías 2:6 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179282,
+          "content_id": 547609,
+          "resource_code": "Unknown",
+          "label": "Nehemías 4:13 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179032,
+          "content_id": 547636,
+          "resource_code": "Unknown",
+          "label": "Nehemías 2:13 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179310,
+          "content_id": 547637,
+          "resource_code": "Unknown",
+          "label": "Nehemías 4:16 (#10)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179044,
+          "content_id": 547648,
+          "resource_code": "Unknown",
+          "label": "Nehemías 2:15 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179056,
+          "content_id": 547659,
+          "resource_code": "Unknown",
+          "label": "Nehemías 2:16 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179205,
+          "content_id": 547696,
+          "resource_code": "Unknown",
+          "label": "Nehemías 3:28 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179225,
+          "content_id": 547714,
+          "resource_code": "Unknown",
+          "label": "Nehemías 3:32 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179233,
+          "content_id": 547721,
+          "resource_code": "Unknown",
+          "label": "Nehemías 4:2 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179434,
+          "content_id": 547767,
+          "resource_code": "Unknown",
+          "label": "Nehemías 5:15 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179289,
+          "content_id": 547776,
+          "resource_code": "Unknown",
+          "label": "Nehemías 4:14 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179466,
+          "content_id": 547803,
+          "resource_code": "Unknown",
+          "label": "Nehemías 6:1 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179470,
+          "content_id": 547807,
+          "resource_code": "Unknown",
+          "label": "Nehemías 6:1 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179478,
+          "content_id": 547813,
+          "resource_code": "Unknown",
+          "label": "Nehemías 6:3 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179276,
+          "content_id": 547883,
+          "resource_code": "Unknown",
+          "label": "Nehemías 4:12 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179550,
+          "content_id": 547886,
+          "resource_code": "Unknown",
+          "label": "Nehemías 6:16 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179288,
+          "content_id": 547895,
+          "resource_code": "Unknown",
+          "label": "Nehemías 4:14 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179578,
+          "content_id": 547915,
+          "resource_code": "Unknown",
+          "label": "Nehemías 7:1 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179316,
+          "content_id": 547923,
+          "resource_code": "Unknown",
+          "label": "Nehemías 4:19 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179344,
+          "content_id": 547948,
+          "resource_code": "Unknown",
+          "label": "Nehemías 5:2 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179444,
+          "content_id": 548051,
+          "resource_code": "Unknown",
+          "label": "Nehemías 5:16 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179472,
+          "content_id": 548078,
+          "resource_code": "Unknown",
+          "label": "Nehemías 6:1 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180091,
+          "content_id": 548091,
+          "resource_code": "Unknown",
+          "label": "Nehemías 9:36 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179858,
+          "content_id": 548200,
+          "resource_code": "Unknown",
+          "label": "Nehemías 8:15 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179781,
+          "content_id": 548255,
+          "resource_code": "Unknown",
+          "label": "Nehemías 8:3 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179789,
+          "content_id": 548264,
+          "resource_code": "Unknown",
+          "label": "Nehemías 8:5 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179966,
+          "content_id": 548309,
+          "resource_code": "Unknown",
+          "label": "Nehemías 9:15 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179889,
+          "content_id": 548364,
+          "resource_code": "Unknown",
+          "label": "Nehemías 9:1 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 179796,
+          "content_id": 548404,
+          "resource_code": "Unknown",
+          "label": "Nehemías 8:6 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180218,
+          "content_id": 548552,
+          "resource_code": "Unknown",
+          "label": "Nehemías 10:39 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180571,
+          "content_id": 548567,
+          "resource_code": "Unknown",
+          "label": "Nehemías 13:5 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180294,
+          "content_id": 548629,
+          "resource_code": "Unknown",
+          "label": "Nehemías 11:17 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180787,
+          "content_id": 548794,
+          "resource_code": "Unknown",
+          "label": "Abdías 1:9 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180807,
+          "content_id": 548815,
+          "resource_code": "Unknown",
+          "label": "Abdías 1:11 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180224,
+          "content_id": 548832,
+          "resource_code": "Unknown",
+          "label": "Nehemías 11:1 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180831,
+          "content_id": 548838,
+          "resource_code": "Unknown",
+          "label": "Abdías 1:15 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180855,
+          "content_id": 548861,
+          "resource_code": "Unknown",
+          "label": "Abdías 1:19 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180863,
+          "content_id": 548870,
+          "resource_code": "Unknown",
+          "label": "Abdías 1:19 (#11)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180947,
+          "content_id": 548957,
+          "resource_code": "Unknown",
+          "label": "Proverbios 1:16 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180564,
+          "content_id": 549157,
+          "resource_code": "Unknown",
+          "label": "Nehemías 13:4 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180846,
+          "content_id": 549178,
+          "resource_code": "Unknown",
+          "label": "Abdías 1:18 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180713,
+          "content_id": 549199,
+          "resource_code": "Unknown",
+          "label": "Nehemías 13:28 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181211,
+          "content_id": 549222,
+          "resource_code": "Unknown",
+          "label": "Proverbios 3:22 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181227,
+          "content_id": 549238,
+          "resource_code": "Unknown",
+          "label": "Proverbios 3:26 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180785,
+          "content_id": 549273,
+          "resource_code": "Unknown",
+          "label": "Abdías 1:8 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180793,
+          "content_id": 549281,
+          "resource_code": "Unknown",
+          "label": "Abdías 1:9 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180877,
+          "content_id": 549362,
+          "resource_code": "Unknown",
+          "label": "Abdías 1:21 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181050,
+          "content_id": 549385,
+          "resource_code": "Unknown",
+          "label": "Proverbios 2:6 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180945,
+          "content_id": 549433,
+          "resource_code": "Unknown",
+          "label": "Proverbios 1:15 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 180860,
+          "content_id": 549455,
+          "resource_code": "Unknown",
+          "label": "Abdías 1:19 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181475,
+          "content_id": 549485,
+          "resource_code": "Unknown",
+          "label": "Proverbios 6:2 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181487,
+          "content_id": 549497,
+          "resource_code": "Unknown",
+          "label": "Proverbios 6:4 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181218,
+          "content_id": 549543,
+          "resource_code": "Unknown",
+          "label": "Proverbios 3:23 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181065,
+          "content_id": 549552,
+          "resource_code": "Unknown",
+          "label": "Proverbios 2:10 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181547,
+          "content_id": 549561,
+          "resource_code": "Unknown",
+          "label": "Proverbios 6:18 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181362,
+          "content_id": 549689,
+          "resource_code": "Unknown",
+          "label": "Proverbios 4:25 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181156,
+          "content_id": 549757,
+          "resource_code": "Unknown",
+          "label": "Proverbios 3:8 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181349,
+          "content_id": 549835,
+          "resource_code": "Unknown",
+          "label": "Proverbios 4:22 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181365,
+          "content_id": 549850,
+          "resource_code": "Unknown",
+          "label": "Proverbios 4:26 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181284,
+          "content_id": 549883,
+          "resource_code": "Unknown",
+          "label": "Proverbios 4:5 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181947,
+          "content_id": 549955,
+          "resource_code": "Unknown",
+          "label": "Proverbios 10:4 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181372,
+          "content_id": 549970,
+          "resource_code": "Unknown",
+          "label": "Proverbios 4:27 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181380,
+          "content_id": 549978,
+          "resource_code": "Unknown",
+          "label": "Proverbios 5:2 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181674,
+          "content_id": 550000,
+          "resource_code": "Unknown",
+          "label": "Proverbios 7:11 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181404,
+          "content_id": 550002,
+          "resource_code": "Unknown",
+          "label": "Proverbios 5:7 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181686,
+          "content_id": 550012,
+          "resource_code": "Unknown",
+          "label": "Proverbios 7:15 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181545,
+          "content_id": 550034,
+          "resource_code": "Unknown",
+          "label": "Proverbios 6:17 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181758,
+          "content_id": 550081,
+          "resource_code": "Unknown",
+          "label": "Proverbios 8:7 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181786,
+          "content_id": 550107,
+          "resource_code": "Unknown",
+          "label": "Proverbios 8:13 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181761,
+          "content_id": 550249,
+          "resource_code": "Unknown",
+          "label": "Proverbios 8:8 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 182255,
+          "content_id": 550264,
+          "resource_code": "Unknown",
+          "label": "Proverbios 12:9 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 182323,
+          "content_id": 550330,
+          "resource_code": "Unknown",
+          "label": "Proverbios 12:24 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181945,
+          "content_id": 550437,
+          "resource_code": "Unknown",
+          "label": "Proverbios 10:3 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181953,
+          "content_id": 550446,
+          "resource_code": "Unknown",
+          "label": "Proverbios 10:6 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 181888,
+          "content_id": 550502,
+          "resource_code": "Unknown",
+          "label": "Proverbios 9:5 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 182322,
+          "content_id": 550636,
+          "resource_code": "Unknown",
+          "label": "Proverbios 12:23 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 182149,
+          "content_id": 550637,
+          "resource_code": "Unknown",
+          "label": "Proverbios 11:17 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 182723,
+          "content_id": 550729,
+          "resource_code": "Unknown",
+          "label": "Proverbios 15:30 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 182727,
+          "content_id": 550733,
+          "resource_code": "Unknown",
+          "label": "Proverbios 15:31 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 182735,
+          "content_id": 550740,
+          "resource_code": "Unknown",
+          "label": "Proverbios 15:32 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 182196,
+          "content_id": 550814,
+          "resource_code": "Unknown",
+          "label": "Proverbios 11:26 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 182260,
+          "content_id": 550877,
+          "resource_code": "Unknown",
+          "label": "Proverbios 12:11 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 182488,
+          "content_id": 551102,
+          "resource_code": "Unknown",
+          "label": "Proverbios 14:10 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 182500,
+          "content_id": 551115,
+          "resource_code": "Unknown",
+          "label": "Proverbios 14:13 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183111,
+          "content_id": 551120,
+          "resource_code": "Unknown",
+          "label": "Proverbios 18:15 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183171,
+          "content_id": 551182,
+          "resource_code": "Unknown",
+          "label": "Proverbios 19:3 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 182862,
+          "content_id": 551183,
+          "resource_code": "Unknown",
+          "label": "Proverbios 16:24 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 182640,
+          "content_id": 551258,
+          "resource_code": "Unknown",
+          "label": "Proverbios 15:14 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 182861,
+          "content_id": 551341,
+          "resource_code": "Unknown",
+          "label": "Proverbios 16:24 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183355,
+          "content_id": 551361,
+          "resource_code": "Unknown",
+          "label": "Proverbios 20:13 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183375,
+          "content_id": 551379,
+          "resource_code": "Unknown",
+          "label": "Proverbios 20:17 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183186,
+          "content_id": 551496,
+          "resource_code": "Unknown",
+          "label": "Proverbios 19:6 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183109,
+          "content_id": 551592,
+          "resource_code": "Unknown",
+          "label": "Proverbios 18:15 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183767,
+          "content_id": 551767,
+          "resource_code": "Unknown",
+          "label": "Proverbios 23:16 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183474,
+          "content_id": 551782,
+          "resource_code": "Unknown",
+          "label": "Proverbios 21:10 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183478,
+          "content_id": 551787,
+          "resource_code": "Unknown",
+          "label": "Proverbios 21:10 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183614,
+          "content_id": 551920,
+          "resource_code": "Unknown",
+          "label": "Proverbios 22:12 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183923,
+          "content_id": 551926,
+          "resource_code": "Unknown",
+          "label": "Proverbios 24:17 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183710,
+          "content_id": 552011,
+          "resource_code": "Unknown",
+          "label": "Proverbios 23:3 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183541,
+          "content_id": 552030,
+          "resource_code": "Unknown",
+          "label": "Proverbios 21:25 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183766,
+          "content_id": 552067,
+          "resource_code": "Unknown",
+          "label": "Proverbios 23:16 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183605,
+          "content_id": 552093,
+          "resource_code": "Unknown",
+          "label": "Proverbios 22:9 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183850,
+          "content_id": 552151,
+          "resource_code": "Unknown",
+          "label": "Proverbios 24:2 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183721,
+          "content_id": 552204,
+          "resource_code": "Unknown",
+          "label": "Proverbios 23:6 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184239,
+          "content_id": 552242,
+          "resource_code": "Unknown",
+          "label": "Proverbios 26:28 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183765,
+          "content_id": 552245,
+          "resource_code": "Unknown",
+          "label": "Proverbios 23:15 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183612,
+          "content_id": 552247,
+          "resource_code": "Unknown",
+          "label": "Proverbios 22:11 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183769,
+          "content_id": 552249,
+          "resource_code": "Unknown",
+          "label": "Proverbios 23:17 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184267,
+          "content_id": 552270,
+          "resource_code": "Unknown",
+          "label": "Proverbios 27:7 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183833,
+          "content_id": 552312,
+          "resource_code": "Unknown",
+          "label": "Proverbios 23:33 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183909,
+          "content_id": 552384,
+          "resource_code": "Unknown",
+          "label": "Proverbios 24:14 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184078,
+          "content_id": 552385,
+          "resource_code": "Unknown",
+          "label": "Proverbios 25:21 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184086,
+          "content_id": 552392,
+          "resource_code": "Unknown",
+          "label": "Proverbios 25:23 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184090,
+          "content_id": 552396,
+          "resource_code": "Unknown",
+          "label": "Proverbios 25:25 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183784,
+          "content_id": 552418,
+          "resource_code": "Unknown",
+          "label": "Proverbios 23:20 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184431,
+          "content_id": 552434,
+          "resource_code": "Unknown",
+          "label": "Proverbios 28:17 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183804,
+          "content_id": 552438,
+          "resource_code": "Unknown",
+          "label": "Proverbios 23:26 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 183832,
+          "content_id": 552466,
+          "resource_code": "Unknown",
+          "label": "Proverbios 23:33 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184013,
+          "content_id": 552483,
+          "resource_code": "Unknown",
+          "label": "Proverbios 25:7 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184037,
+          "content_id": 552507,
+          "resource_code": "Unknown",
+          "label": "Proverbios 25:12 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184238,
+          "content_id": 552549,
+          "resource_code": "Unknown",
+          "label": "Proverbios 26:28 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184246,
+          "content_id": 552557,
+          "resource_code": "Unknown",
+          "label": "Proverbios 27:2 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184270,
+          "content_id": 552581,
+          "resource_code": "Unknown",
+          "label": "Proverbios 27:7 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184137,
+          "content_id": 552612,
+          "resource_code": "Unknown",
+          "label": "Proverbios 26:6 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184056,
+          "content_id": 552691,
+          "resource_code": "Unknown",
+          "label": "Proverbios 25:17 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184691,
+          "content_id": 552695,
+          "resource_code": "Unknown",
+          "label": "Proverbios 30:16 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184695,
+          "content_id": 552700,
+          "resource_code": "Unknown",
+          "label": "Proverbios 30:17 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184076,
+          "content_id": 552711,
+          "resource_code": "Unknown",
+          "label": "Proverbios 25:20 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184084,
+          "content_id": 552719,
+          "resource_code": "Unknown",
+          "label": "Proverbios 25:23 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184285,
+          "content_id": 552759,
+          "resource_code": "Unknown",
+          "label": "Proverbios 27:11 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184148,
+          "content_id": 552784,
+          "resource_code": "Unknown",
+          "label": "Proverbios 26:9 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184510,
+          "content_id": 552814,
+          "resource_code": "Unknown",
+          "label": "Proverbios 29:5 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184360,
+          "content_id": 553000,
+          "resource_code": "Unknown",
+          "label": "Proverbios 28:3 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184794,
+          "content_id": 553099,
+          "resource_code": "Unknown",
+          "label": "Proverbios 31:11 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184806,
+          "content_id": 553109,
+          "resource_code": "Unknown",
+          "label": "Proverbios 31:14 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 185119,
+          "content_id": 553118,
+          "resource_code": "Unknown",
+          "label": "Ruth 4:9 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184476,
+          "content_id": 553120,
+          "resource_code": "Unknown",
+          "label": "Proverbios 28:26 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184721,
+          "content_id": 553197,
+          "resource_code": "Unknown",
+          "label": "Proverbios 30:22 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184560,
+          "content_id": 553203,
+          "resource_code": "Unknown",
+          "label": "Proverbios 29:17 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184604,
+          "content_id": 553247,
+          "resource_code": "Unknown",
+          "label": "Proverbios 29:26 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184652,
+          "content_id": 553295,
+          "resource_code": "Unknown",
+          "label": "Proverbios 30:8 (#10)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 185347,
+          "content_id": 553345,
+          "resource_code": "Unknown",
+          "label": "Cantar de los Cantares 3:2 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 185202,
+          "content_id": 553497,
+          "resource_code": "Unknown",
+          "label": "Cantar de los Cantares 1:7 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184888,
+          "content_id": 553532,
+          "resource_code": "Unknown",
+          "label": "Ruth 1:6 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 185579,
+          "content_id": 553585,
+          "resource_code": "Unknown",
+          "label": "Cantar de los Cantares 7:1 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 185342,
+          "content_id": 553636,
+          "resource_code": "Unknown",
+          "label": "Cantar de los Cantares 3:1 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 185350,
+          "content_id": 553644,
+          "resource_code": "Unknown",
+          "label": "Cantar de los Cantares 3:3 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 185104,
+          "content_id": 553738,
+          "resource_code": "Unknown",
+          "label": "Ruth 4:5 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 185763,
+          "content_id": 553778,
+          "resource_code": "Unknown",
+          "label": "Sofonías 1:8 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 185353,
+          "content_id": 553825,
+          "resource_code": "Unknown",
+          "label": "Cantar de los Cantares 3:4 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 185741,
+          "content_id": 554210,
+          "resource_code": "Unknown",
+          "label": "Sofonías 1:5 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 185986,
+          "content_id": 554295,
+          "resource_code": "Unknown",
+          "label": "Sofonías 3:18 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 185953,
+          "content_id": 554445,
+          "resource_code": "Unknown",
+          "label": "Sofonías 3:10 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 185860,
+          "content_id": 554494,
+          "resource_code": "Unknown",
+          "label": "Sofonías 2:7 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 187367,
+          "content_id": 554540,
+          "resource_code": "Unknown",
+          "label": "Gálatas 2:20 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 187692,
+          "content_id": 554552,
+          "resource_code": "Unknown",
+          "label": "Gálatas 4:19 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 187221,
+          "content_id": 554719,
+          "resource_code": "Unknown",
+          "label": "Gálatas 1:16 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 187233,
+          "content_id": 554730,
+          "resource_code": "Unknown",
+          "label": "Gálatas 1:22 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 187366,
+          "content_id": 554746,
+          "resource_code": "Unknown",
+          "label": "Gálatas 2:20 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 187341,
+          "content_id": 554843,
+          "resource_code": "Unknown",
+          "label": "Gálatas 2:16 (#12)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 187666,
+          "content_id": 555082,
+          "resource_code": "Unknown",
+          "label": "Gálatas 4:13 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 187670,
+          "content_id": 555086,
+          "resource_code": "Unknown",
+          "label": "Gálatas 4:14 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188272,
+          "content_id": 555101,
+          "resource_code": "Unknown",
+          "label": "Éxodo 4:13 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 187717,
+          "content_id": 555227,
+          "resource_code": "Unknown",
+          "label": "Gálatas 4:24 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 187721,
+          "content_id": 555231,
+          "resource_code": "Unknown",
+          "label": "Gálatas 4:25 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188403,
+          "content_id": 555532,
+          "resource_code": "Unknown",
+          "label": "Éxodo 5:14 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188029,
+          "content_id": 555542,
+          "resource_code": "Unknown",
+          "label": "Éxodo 1:19 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188117,
+          "content_id": 555624,
+          "resource_code": "Unknown",
+          "label": "Éxodo 2:20 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188840,
+          "content_id": 555648,
+          "resource_code": "Unknown",
+          "label": "Éxodo 10:29 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188210,
+          "content_id": 555658,
+          "resource_code": "Unknown",
+          "label": "Éxodo 3:18 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188575,
+          "content_id": 555706,
+          "resource_code": "Unknown",
+          "label": "Éxodo 8:6 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188912,
+          "content_id": 555726,
+          "resource_code": "Unknown",
+          "label": "Éxodo 12:23 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188719,
+          "content_id": 555850,
+          "resource_code": "Unknown",
+          "label": "Éxodo 9:14 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188450,
+          "content_id": 555896,
+          "resource_code": "Unknown",
+          "label": "Éxodo 6:6 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188454,
+          "content_id": 555900,
+          "resource_code": "Unknown",
+          "label": "Éxodo 6:7 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188831,
+          "content_id": 555963,
+          "resource_code": "Unknown",
+          "label": "Éxodo 10:26 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188609,
+          "content_id": 556113,
+          "resource_code": "Unknown",
+          "label": "Éxodo 8:19 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188838,
+          "content_id": 556293,
+          "resource_code": "Unknown",
+          "label": "Éxodo 10:28 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 189704,
+          "content_id": 556510,
+          "resource_code": "Unknown",
+          "label": "Éxodo 27:21 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 189025,
+          "content_id": 556535,
+          "resource_code": "Unknown",
+          "label": "Éxodo 14:10 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 189210,
+          "content_id": 556660,
+          "resource_code": "Unknown",
+          "label": "Éxodo 17:10 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 189213,
+          "content_id": 556726,
+          "resource_code": "Unknown",
+          "label": "Éxodo 17:11 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 190260,
+          "content_id": 557079,
+          "resource_code": "Unknown",
+          "label": "Éxodo 35:21 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 190264,
+          "content_id": 557084,
+          "resource_code": "Unknown",
+          "label": "Éxodo 35:22 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 190323,
+          "content_id": 557433,
+          "resource_code": "Unknown",
+          "label": "Éxodo 36:8 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 198474,
+          "content_id": 557629,
+          "resource_code": "Unknown",
+          "label": "Esdras 4:1 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 190174,
+          "content_id": 557631,
+          "resource_code": "Unknown",
+          "label": "Éxodo 34:15 (#9)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 190278,
+          "content_id": 557726,
+          "resource_code": "Unknown",
+          "label": "Éxodo 35:26 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 190282,
+          "content_id": 557729,
+          "resource_code": "Unknown",
+          "label": "Éxodo 35:29 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 190298,
+          "content_id": 557742,
+          "resource_code": "Unknown",
+          "label": "Éxodo 35:35 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 190302,
+          "content_id": 557746,
+          "resource_code": "Unknown",
+          "label": "Éxodo 36:1 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 198151,
+          "content_id": 558000,
+          "resource_code": "Unknown",
+          "label": "Esdras 1:1 (#11)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 198395,
+          "content_id": 558236,
+          "resource_code": "Unknown",
+          "label": "Esdras 3:6 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 198403,
+          "content_id": 558245,
+          "resource_code": "Unknown",
+          "label": "Esdras 3:7 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 199226,
+          "content_id": 558427,
+          "resource_code": "Unknown",
+          "label": "Esdras 9:7 (#15)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 198764,
+          "content_id": 558533,
+          "resource_code": "Unknown",
+          "label": "Esdras 6:10 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 198948,
+          "content_id": 558718,
+          "resource_code": "Unknown",
+          "label": "Esdras 7:20 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 203012,
+          "content_id": 558877,
+          "resource_code": "Unknown",
+          "label": "Joel 2:32 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 203060,
+          "content_id": 558929,
+          "resource_code": "Unknown",
+          "label": "Joel 3:13 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 199348,
+          "content_id": 559071,
+          "resource_code": "Unknown",
+          "label": "Esdras 10:9 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 199335,
+          "content_id": 559135,
+          "resource_code": "Unknown",
+          "label": "Esdras 10:6 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 203033,
+          "content_id": 559303,
+          "resource_code": "Unknown",
+          "label": "Joel 3:4 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 203041,
+          "content_id": 559305,
+          "resource_code": "Unknown",
+          "label": "Joel 3:7 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 203045,
+          "content_id": 559306,
+          "resource_code": "Unknown",
+          "label": "Joel 3:8 (#3)",
+          "language": "spa"
+        }
+      ]
+    }
+  }
+]

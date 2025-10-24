@@ -1,0 +1,79 @@
+[
+  {
+    "content_id": 727524,
+    "reference_id": 26689,
+    "title": "Kapan Harus Mempertahankan Informasi Tersirat",
+    "media_type": "Text",
+    "index_reference": "kapan harus mempertahankan informasi tersirat",
+    "language": "ind",
+    "content": "<h3>Deskripsi</h3><p>Terkadang lebih baik untuk tidak menyatakan pengetahuan yang diasumsikan atau informasi tersirat secara gamblang. Halaman ini memberikan beberapa arahan tentang kapan sebaiknya tidak melakukan hal ini.</p><h4>Prinsip Penerjemahan</h4><ul><li><p>Jika pembicara atau penulis sengaja meninggalkan sesuatu yang tidak jelas, jangan mencoba membuatnya lebih jelas.</p></li><li><p>Jika pendengar asli tidak memahami apa yang dimaksud oleh pembicara, jangan membuatnya terlalu jelas sehingga pembaca Anda akan merasa aneh karena pendengar asli tidak memahaminya.</p></li><li><p>Jika Anda perlu menyatakan secara gamblang beberapa pengetahuan yang diasumsikan atau informasi tersirat, cobalah untuk melakukannya dengan cara yang tidak membuat pembaca Anda berpikir bahwa pendengar asli perlu diberitahu tentang hal-hal tersebut.</p></li><li><p>Jangan membuat informasi tersirat menjadi gamblang jika hal tersebut akan membingungkan pesan atau membuat pembaca lupa akan poin utamanya.</p></li><li><p>Jangan membuat pengetahuan yang diasumsikan atau informasi tersirat menjadi gamblang jika pembaca sudah memahaminya.</p></li></ul><h3>Beberapa Contoh dari Alkitab</h3><blockquote><p>Dari pemakan keluarlah makanan; dan dari orang yang kuat keluarlah rasa manis. (Hakim-hakim 14:14 Versi ULT)</p></blockquote><p>Ini adalah sebuah teka-teki. Simson sengaja mengatakan hal ini dengan cara yang sulit dimengerti oleh musuh-musuhnya. Jangan jelaskan bahwa pemakan dan yang kuat itu adalah singa dan yang manis untuk dimakan adalah madu.</p><blockquote><p>Yesus berkata kepada mereka, “Berjaga-jagalah dan waspadalah terhadap ragi orang Farisi dan Saduki.” Mereka berbantah-bantahan di antara mereka dan berkata: “Itu karena kami tidak mengambil roti.” (Matius 16:6–7 Versi ULT)</p></blockquote><p>Beberapa informasi yang mungkin tersirat di sini adalah bahwa para murid harus waspada terhadap ajaran palsu orang Farisi dan Saduki. Tetapi murid-murid Yesus tidak memahami hal ini. Mereka mengira bahwa Yesus berbicara tentang ragi dan roti yang asli. Jadi, tidak tepat untuk menyatakan secara gamblang bahwa kata “ragi” di sini mengacu pada pengajaran palsu. Murid-murid Yesus tidak mengerti apa yang Yesus maksudkan sampai mereka mendengar perkataan Yesus dalam Matius 16:11.</p><blockquote><p>“Bagaimana mungkin kamu tidak mengerti, bahwa Aku tidak berbicara kepadamu tentang roti? Waspadalah terhadap ragi orang Farisi dan Saduki.” Kemudian mereka mengerti bahwa Ia tidak menyuruh mereka untuk berhati-hati terhadap ragi dalam roti, tetapi untuk berhati-hati terhadap ajaran orang Farisi dan Saduki. (Matius 16:11–12 Versi ULT)</p></blockquote><p>Hanya setelah Yesus menjelaskan bahwa Ia tidak berbicara tentang roti, barulah mereka menyadari bahwa Ia sedang berbicara tentang ajaran palsu orang Farisi. Oleh karena itu, adalah salah jika kita secara gamblang menyatakan informasi yang tersirat dalam Matius 16:6.</p><h3>Strategi Penerjemahan</h3><p>Karena kami menyarankan agar penerjemah tidak mengubah ayat seperti ini untuk membuatnya lebih jelas, halaman ini tidak memiliki scontoh trategi penerjemahan apa pun.</p><h3>Contoh Penerapan Strategi Penerjemahan</h3><p>Karena kami menyarankan agar penerjemah tidak mengubah ayat seperti ini untuk membuatnya lebih jelas, halaman ini tidak memiliki contoh penerapan strategi penerjemahan apa pun.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 115890,
+          "content_id": 382103,
+          "resource_code": "Unknown",
+          "label": "Markus 1:38 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116088,
+          "content_id": 382301,
+          "resource_code": "Unknown",
+          "label": "Markus 3:13 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116468,
+          "content_id": 382681,
+          "resource_code": "Unknown",
+          "label": "Markus 5:27 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 149821,
+          "content_id": 387677,
+          "resource_code": "Unknown",
+          "label": "Matius 15:29 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159747,
+          "content_id": 672205,
+          "resource_code": "Unknown",
+          "label": "Kolose 4:10 (#7)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159788,
+          "content_id": 672246,
+          "resource_code": "Unknown",
+          "label": "Kolose 4:17 (#6)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161552,
+          "content_id": 675354,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 4:6 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161600,
+          "content_id": 675383,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 4:15 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161802,
+          "content_id": 675523,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 6:11 (#3)",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]

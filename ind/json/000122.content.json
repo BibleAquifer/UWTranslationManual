@@ -1,0 +1,51 @@
+[
+  {
+    "content_id": 727590,
+    "reference_id": 209479,
+    "title": "Penerbitan",
+    "media_type": "Text",
+    "index_reference": "penerbitan",
+    "language": "ind",
+    "content": "<h3>Penerbitan di Door43</h3><ul><li><p>Selama proses penerjemahan dan pemeriksaan, draf terjemahan akan diunggah dan disimpan dalam repositori dengan nama pengguna yang Anda pilih di situs web Door43. Di sinilah TranslationStudio dan TranslationCore mengirimkan draf saat Anda meminta agar mereka mengunggahnya.</p></li><li><p>Ketika pemeriksaan telah selesai dan semua pengeditan yang sesuai telah dilakukan pada terjemahan di door43, para pemeriksa atau pemimpin gereja akan menginformasikan kepada Yayasan UnfoldingWord tentang keinginan mereka untuk menerbitkan. Mereka akan memberikan dokumen yang menegaskan bahwa <span data-bnType=\"resourceReference\" data-resourceId=\"209461\" data-resourceType=\"UWTranslationManual\">Pendeta</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"209455\" data-resourceType=\"UWTranslationManual\">Komunitas</span>, dan [Jaringan Pemimpin Gereja](. ./level3-approval/01.md) menegaskan bahwa terjemahan tersebut dapat dipercaya. Dokumen tersebut juga memuat penegasan terhadap Yayasan UnfoldingWord <span data-bnType=\"resourceReference\" data-resourceId=\"209492\" data-resourceType=\"UWTranslationManual\">Pedoman Penerjemahan</span> dan unfoldingWord [Pernyataan Iman](../../intro/statement-of -faith/01.md). Seluruh isi yang diterjemahkan diharapkan sesuai dengan teologi yang terdapat dalam Pernyataan Iman dari Yayasan UnfoldingWord. Kami juga berharap para penerjemah telah mengikuti prosedur dan metodologi Pedoman Penerjemahan. Yayasan UnfoldingWord tidak memiliki cara untuk memverifikasi keakuratan terjemahan atau afirmasi, sehingga kami mengandalkan integritas Jarangan Pemimpin Gereja.</p></li><li><p>Setelah mendapatkan afirmasi ini, Yayasan UnfoldingWord kemudian akan membuat salinan terjemahan yang ada di Door43, menerbitkan salinan menyalin teks atau dokumen yang sudah ada ke dalam format digital tanpa mengubah isinya di situs web Yayasan UnfoldingWord (lihat https://www.unfoldingword.org), dan menyediakannya di aplikasi seluler. File dalam bentuk PDF siap cetak juga akan diproduksi dan tersedia untuk diunduh. Versi yang diperiksa di Door43 masih dapat diubah, memungkinkan pemeriksaan dan pengeditan di masa mendatang.</p></li><li><p>Yayasan UnfoldingWord juga perlu mengetahui nomor versi sumber yang digunakan untuk terjemahan. Nomor ini akan dimasukkan ke dalam nomor versi terjemahan sehingga akan mudah untuk melacak keberadaan sumber dan terjemahan sementara keduanya berkembang dan berubah seiring dengan berjalannya waktu. Untuk informasi tentang nomor versi, lihat <span data-bnType=\"resourceReference\" data-resourceId=\"26815\" data-resourceType=\"UWTranslationManual\">Teks Sumber dan Nomor Versi</span>.</p></li></ul><h3>Pemeriksaan yang Berkelanjutan</h3><p>Kerangka proses dan pemeriksaan yang dijelaskan dalam dokumen ini bergantung pada proses pemeriksaan dan revisi konten yang sedang berlangsung, sebagaimana ditentukan oleh Gereja yang menggunakan konten tersebut. Kami mendorong setiap tim penerjemah untuk terus menerima masukan dari komunitas bahasa dan gereja. Dengan melakukan hal ini, mereka dapat terus menyempurnakan terjemahannya dengan melakukan koreksi dan memasukkan cara-cara yang lebih baik dalam menyampaikan sesuatu sebagaimana orang-orang menemukannya. Oleh karena itu, terjemahan konten terus tersedia di platform terjemahan (lihat https://door43.org) tanpa batasan waktu sehingga pengguna dapat terus memperbaikinya. Kami merekomendasikan agar panitia penerjemahan mengundang masukan dari komunitas bahasa ke Door43, dan menunjuk satu orang atau lebih untuk memantau permasalahan yang diajukan orang-orang ke sana alam penerjemahan. Orang-orang ini dapat melakukan koreksi terhadap terjemahan dan mendiskusikan saran perubahan lainnya dengan komite penerjemahan. Seiring berjalannya waktu, panitia dapat memutuskan untuk menyesuaikan gaya terjemahannya juga, seperti menambah atau menghapus informasi yang tersirat atau menggunakan kata atau frasa yang baru. Dengan memaksimalkan masukan dari sebanyak mungkin pengguna konten, Gereja dapat bekerja sama untuk menciptakan konten alkitabiah yang kualitas dan kegunaannya meningkat seiring berjalannya waktu.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209455,
+          "content_id": 727507,
+          "resource_code": "UWTranslationManual",
+          "label": "Daftar Pertanyaan Evaluasi terhadap Komunitas Bahasa",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209461,
+          "content_id": 727559,
+          "resource_code": "UWTranslationManual",
+          "label": "Penegasan Keakuratan dan Penerimaan Komunitas",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209469,
+          "content_id": 727580,
+          "resource_code": "Unknown",
+          "label": "Formulir Evaluasi Pemeriksa Kualitas",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209487,
+          "content_id": 727598,
+          "resource_code": "Unknown",
+          "label": "Pernyataan Iman",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 727616,
+          "resource_code": "UWTranslationManual",
+          "label": "Pedoman Penerjemahan",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "content_id": 727576,
+    "reference_id": 209465,
+    "title": "Introduksi kepada Pemeriksaan Terjemahan",
+    "media_type": "Text",
+    "index_reference": "introduksi kepada pemeriksaan terjemahan",
+    "language": "ind",
+    "content": "<h3>Pemeriksaan terjemahan</h3><h4>Pengantar</h4><h5>Mengapa kita melakukan Pemeriksaan Terjemahan?</h5><p>Sebagai bagian dari proses penerjemahan, beberapa orang perlu memeriksa terjemahan tersebut untuk memastikan bahwa terjemahan tersebut menyampaikan pesan yang seharusnya dikomunikasikan dengan jelas. Seorang penerjemah pemula yang diminta untuk memeriksa terjemahannya pernah berkata, “Tetapi saya berbicara dalam bahasa ibu saya dengan sempurna. Terjemahannya untuk bahasa itu. Apa lagi yang dibutuhkan?” Apa yang dia katakan memang benar, tapi ada dua hal lagi yang perlu diingat.</p><p>Pertama, dia mungkin tidak memahami teks sumber dengan benar, sehingga seseorang yang mengetahui isi teks tersebut mungkin dapat mengoreksi terjemahannya. Hal ini mungkin terjadi karena dia tidak memahami dengan benar suatu frasa atau ungkapan dalam bahasa sumber. Dalam hal ini, orang lain yang memahami bahasa sumber dengan baik dapat mengoreksi terjemahannya.</p><p>Atau bisa jadi dia kurang memahami sesuatu tentang apa yang dimaksudkan Alkitab untuk dikomunikasikan di suatu tempat. Dalam hal ini, seseorang yang mengetahui Alkitab dengan baik, seperti guru Alkitab atau pemeriksa terjemahan Alkitab, dapat mengoreksi terjemahan tersebut.</p><p>Kedua, meskipun penerjemah mungkin mengetahui dengan baik apa yang seharusnya disampaikan olrh teks, cara dia menerjemahkannya mungkin memiliki arti lain bagi orang lain. Artinya, orang lain mungkin berpikir bahwa terjemahan tersebut berbicara tentang sesuatu yang berbeda dari apa yang dimaksudkan oleh penerjemah. Atau orang yang mendengar atau membaca terjemahannya mungkin tidak memahami apa yang ingin disampaikan oleh penerjemah.</p><p>Seringkali terjadi ketika seseorang menulis sebuah kalimat dan kemudian orang lain membacanya (atau kadang-kadang bahkan jika orang pertama membacanya lagi nanti), mereka memahaminya sebagai mengatakan sesuatu yang berbeda dari maksud penulisnya. Ambil kalimat berikut sebagai contoh.</p><p>“Yohanes membawa Petrus ke bait suci dan kemudian dia pulang.”</p><p>Dalam benaknya ketika dia menulisnya, yang dimaksudkan penulis adalah Petrus yang pulang, tetapi pembaca berpikir bahwa yang penulis maksudkan mungkin adalah Yohanes yang pulang. Kalimatnya perlu diubah agar lebih jelas.</p><p>Terakhir, tim penerjemah sangat dekat dan terlibat dalam pekerjaan mereka, sehingga terkadang mereka tidak melihat kesalahan yang dapat dilihat dengan lebih mudah oleh orang lain. Oleh karena itu, selalu penting untuk memeriksa apa yang dipahami orang lain dari terjemahan tersebut sehingga Anda (penerjemah) dapat membuatnya lebih akurat dan jelas.</p><p>Manual Pemeriksaan ini merupakan panduan dalam proses pemeriksaan. Ini akan memandu Anda melalui beberapa jenis pemeriksaan yang memungkinkan Anda memperbaiki masalah ini. Kami percaya bahwa dengan banyaknya orang yang melakukan berbagai pemeriksaan yang berbeda akan menghasilkan proses pemeriksaan yang lebih cepat, memungkinkan partisipasi dan kepemilikan gereja yang luas, dan menghasilkan terjemahan yang lebih baik.</p><p>Untuk contoh lebih lanjut tentang hal-hal yang perlu diperiksa, lihat <span data-bnType=\"resourceReference\" data-resourceId=\"209503\" data-resourceType=\"UWTranslationManual\">Types of Things to Check</span>.</p><p><strong>Catatan: Kutipan digunakan atas izin, © 2013, Juan Tuggy P., Victor Raúl Paredes E., Sharing Our Native Culture, hal. 69.</strong></p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209503,
+          "content_id": 727627,
+          "resource_code": "UWTranslationManual",
+          "label": "Hal-hal yang Perlu Diperiksa",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]

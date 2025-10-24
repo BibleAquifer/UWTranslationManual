@@ -1,0 +1,44 @@
+[
+  {
+    "content_id": 727588,
+    "reference_id": 209477,
+    "title": "Pelatihan Sebelum Penerjemahan Dimulai",
+    "media_type": "Text",
+    "index_reference": "pelatihan sebelum penerjemahan dimulai",
+    "language": "ind",
+    "content": "<h3>Apa yang Perlu Diketahui Sebelum Menerjemahkan</h3><p>Kami menyarankan Anda untuk sering membaca <span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">Panduan Penerjemahan</span> ketika menerjemahkan. Sebelum Anda mulai menerjemahkan, kami sarankan agar Anda mulai mempelajari Manual Penerjemahan setidaknya sampai Anda mengetahui perbedaan antara terjemahan harfiah dan terjemahan berdasarkan makna. Sebagian besar bagian lain dari Manual Penerjemahan dapat digunakan sebagai sumber belajar &quot;tepat pada waktunya&quot;.</p><p>Beberapa hal penting yang harus dipelajari oleh setiap orang dalam tim penerjemahan sebelum memulai proyek penerjemahan antara lain:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26759\" data-resourceType=\"UWTranslationManual\">Kualitas Terjemahan yang Baik</span> — Definisi terjemahan yang baik</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26811\" data-resourceType=\"UWTranslationManual\">Proses Penerjemahan</span> — Bagaimana terjemahan yang baik dibuat</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26792\" data-resourceType=\"UWTranslationManual\">Bentuk dan Makna</span> — Perbedaan antara bentuk dan makna</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26791\" data-resourceType=\"UWTranslationManual\">Terjemahan Berbasis Makna</span> — Bagaimana membuat terjemahan berbasis makna</p></li></ul></li></ul><p>Beberapa topik penting lainnya saat Anda memulai juga termasuk:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26668\" data-resourceType=\"UWTranslationManual\">Memilih Gaya Penerjemahan</span> — Keputusan penting yang harus diambil untuk memandu proses penerjemahan</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">Memilih Apa yang Akan Diterjemahkan</span> — Saran-saran untuk memulai penerjemahan</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26737\" data-resourceType=\"UWTranslationManual\">Draf Pertama</span> — Cara membuat draf pertama</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26797\" data-resourceType=\"UWTranslationManual\">Bantuan Penerjemahan</span> — Menggunakan bantuan penerjemahan</p></li></ul><p>Jika Anda telah memiliki <span data-bnType=\"resourceReference\" data-resourceId=\"209483\" data-resourceType=\"UWTranslationManual\">Siapkan Tim Penerjemah</span> dan ingin membuat <span data-bnType=\"resourceReference\" data-resourceId=\"26737\" data-resourceType=\"UWTranslationManual\">Draf Pertama</span> dari terjemahan Anda, gunakan <span data-bnType=\"resourceReference\" data-resourceId=\"209484\" data-resourceType=\"UWTranslationManual\">translationStudio</span>. Kami menyarankan Anda untuk mengikuti <span data-bnType=\"resourceReference\" data-resourceId=\"209493\" data-resourceType=\"UWTranslationManual\">Proses Penerjemahan</span>.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26802,
+          "content_id": 727607,
+          "resource_code": "UWTranslationManual",
+          "label": "Pengantar ke Manual Penerjemahan",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209483,
+          "content_id": 727594,
+          "resource_code": "UWTranslationManual",
+          "label": "Membentuk Tim Penerjemah",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209484,
+          "content_id": 727595,
+          "resource_code": "UWTranslationManual",
+          "label": "Menyiapkan translationStudio",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209493,
+          "content_id": 727617,
+          "resource_code": "UWTranslationManual",
+          "label": "Gambaran Umum Penerjemahan",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]

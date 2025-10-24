@@ -1,0 +1,15 @@
+[
+  {
+    "content_id": 727591,
+    "reference_id": 209480,
+    "title": "Konsistensi Penggunaan Tanda Baca",
+    "media_type": "Text",
+    "index_reference": "konsistensi penggunaan tanda baca",
+    "language": "ind",
+    "content": "<p>“Tanda Baca” mengacu pada tanda yang menunjukkan bagaimana sebuah kalimat harus dibaca atau dipahami. Contohnya termasuk tanda baca yang menunjukkan jeda seperti koma atau titik dan tanda kutip berada di sekitar kata-kata yang tepat dari seorang pembicara. Agar pembaca dapat membaca dan memahami terjemahan dengan benar, penting bagi Anda (penerjemah) untuk menggunakan tanda baca secara konsisten.</p><p>Sebelum menerjemahkan, tim penerjemah perlu memutuskan metode tanda baca yang akan Anda gunakan dalam terjemahan. Mungkin yang paling mudah adalah menggunakan metode tanda baca yang digunakan dalam bahasa nasional, atau yang digunakan dalam Alkitab bahasa nasional atau bahasa terkait dalam Alkitab. Setelah tim memutuskan suatu metode, pastikan semua orang mengikutinya. Mungkin bermanfaat untuk membagikan lembar panduan kepada masing-masing anggota tim dengan contoh penggunaan tanda baca yang bermacam-macam dengan benar.</p><p>Bahkan dengan lembar panduan, sering kali penerjemah masih melakukan kesalahan dalam tanda baca. Oleh karena itu, setelah buku diterjemahkan, kami menyarankan untuk mengimpornya ke ParaText. Anda dapat memasukkan aturan tanda baca dalam bahasa target ke ParaText, lalu menjalankan pemeriksaan terhadap macam-macan tanda baca yang dapat dilakukan ParaText. ParaText akan mencantumkan semua bagian di mana kesalahan tanda baca ditemukan dan menunjukkannya kepada Anda. Anda kemudian dapat meninjau bagian--bagian ini untuk melihat apakah ada kesalahan di sana atau tidak. Jika ada kesalahan, Anda dapat memperbaiki kesalahan tersebut. Setelah menjalankan pemeriksaan tanda baca ini, Anda dapat yakin bahwa terjemahan Anda telah menggunakan tanda baca dengan benar.</p>",
+    "associations": {
+      "passage": [],
+      "resource": []
+    }
+  }
+]

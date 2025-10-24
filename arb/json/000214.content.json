@@ -1,0 +1,37 @@
+[
+  {
+    "content_id": 781795,
+    "reference_id": 209476,
+    "title": "التدريب قبل بدء الفحص",
+    "media_type": "Text",
+    "index_reference": "التدريب قبل بدء الفحص",
+    "language": "arb",
+    "content": "<h3>قبل الفحص</h3><p>ينبغي الرجوع المتكرر إلى <span data-bnType=\"resourceReference\" data-resourceId=\"209464\" data-resourceType=\"UWTranslationManual\">دليل الفحص</span> أثناء عملية مراجعة الترجمة. وقبل أن تبدأ عملية الفحص، من المستحسن أن تقرأ دليل الفحص خطوة بخطوة حتى تتضح لك المتطلبات الدقيقة لكل نوع من أنواع الفحص. خلال عملية الفحص، ستحتاج إلى الرجوع المستمر إلى هذا الدليل كلما ظهرت أسئلة أو مواقف تتطلب توجيهًا.</p><p>بعض المعلومات التي يجب أن يعرفها فريق الترجمة قبل بدء الفحص:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209460\" data-resourceType=\"UWTranslationManual\">هدف الفحص</span> — ما الغرض من الفحص؟</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209465\" data-resourceType=\"UWTranslationManual\">مقدمة في مراجعة الترجمة</span> — لماذا نحتاج إلى فريق لمراجعة الترجمة؟</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209460,
+          "content_id": 781779,
+          "resource_code": "UWTranslationManual",
+          "label": "هدف مراجعة الترجمة",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209464,
+          "content_id": 781783,
+          "resource_code": "UWTranslationManual",
+          "label": "مقدمة إلى دليل التحقق والفحص اللغوي",
+          "language": "arb"
+        },
+        {
+          "reference_id": 209465,
+          "content_id": 781784,
+          "resource_code": "UWTranslationManual",
+          "label": "مقدمة التحقق من الترجمة",
+          "language": "arb"
+        }
+      ]
+    }
+  }
+]

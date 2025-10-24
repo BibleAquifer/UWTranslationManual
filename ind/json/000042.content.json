@@ -1,0 +1,408 @@
+[
+  {
+    "content_id": 727539,
+    "reference_id": 26708,
+    "title": "Kata Sifat Nominal",
+    "media_type": "Text",
+    "index_reference": "kata sifat nominal",
+    "language": "ind",
+    "content": "<h3>Deskripsi</h3><p>Dalam beberapa bahasa, kata sifat dapat digunakan untuk merujuk pada kelas benda yang dijelaskan oleh kata sifat tersebut. Ketika itu terjadi, kata sifat berfungsi seperti kata benda. Misalnya, kata &quot;kaya&quot; adalah kata sifat. Berikut adalah dua kalimat yang menunjukkan bahwa &quot;kaya&quot; adalah kata sifat.</p><blockquote><p><strong>Orang kaya itu</strong> memiliki kawanan domba dan ternak dalam jumlah besar. (2 Samuel 12:2 ULT)</p></blockquote><p>Kata sifat &quot;kaya&quot; muncul sebelum kata &quot;manusia&quot; dan menggambarkan &quot;manusia&quot;.</p><blockquote><p><strong>Dia tidak akan menjadi kaya</strong>, kekayaannya tidak akan bertahan lama. (Ayub 15:29a ULT)</p></blockquote><p>Kata sifat &quot;kaya&quot; muncul setelah kata kerja &quot;menjadi&quot; dan menggambarkan &quot;Dia&quot;.</p><p>Berikut ini adalah kalimat yang menunjukkan bahwa &quot;kaya&quot; juga dapat berfungsi sebagai kata benda.</p><blockquote><p><strong>Orang kaya</strong> tidak boleh memberi lebih dari setengah syikal, dan <strong>orang miskin</strong> tidak boleh memberi lebih sedikit. (Keluaran 30:15b ULT)</p></blockquote><p>Dalam Keluaran 30:15, kata &quot;kaya&quot; berfungsi sebagai kata benda dalam frasa &quot;orang kaya&quot;, dan merujuk kepada orang-orang kaya. Kata &quot;miskin&quot; juga berfungsi sebagai kata benda dan merujuk pada orang-orang miskin.</p><h3>Mengapa Ini Menjadi Persoalan Penerjemahan?</h3><ul><li><p>Sering kali dalam Alkitab kata sifat digunakan sebagai kata benda untuk menggambarkan sekelompok orang.</p></li><li><p>Beberapa bahasa tidak menggunakan kata sifat dengan cara ini.</p></li><li><p>Pembaca bahasa-bahasa ini mungkin berpikir bahwa teks tersebut berbicara tentang satu orang tertentu, padahal sebenarnya teks tersebut berbicara tentang sekelompok orang yang dijelaskan oleh kata sifat tersebut.</p></li></ul><h3>Contoh dari Alkitab</h3><blockquote><p>Tongkat kejahatan tidak boleh berkuasa di tanah <strong>orang benar</strong>. (Mazmur 125:3a ULT)</p></blockquote><p>&quot;Orang benar&quot; di sini adalah orang-orang yang benar, bukan satu orang yang benar secara khusus.</p><blockquote><p>Berbahagialah <strong>orang yang lemah lembut</strong>. (Matius 5:5a ULT)</p></blockquote><p>&quot;Orang yang lemah lembut&quot; di sini adalah semua orang yang lemah lembut, bukan satu orang yang lemah lembut.</p><h3>Strategi Penerjemahan</h3><p>Jika bahasa Anda menggunakan kata sifat sebagai kata benda untuk merujuk pada suatu kelompok orang, pertimbangkan untuk menggunakan kata sifat tersebut dengan cara ini. Jika terdengar aneh, atau jika maknanya tidak jelas atau salah, berikut ini adalah pilihan lain:</p><p>(1) Gunakan kata sifat dengan bentuk jamak dari kata benda yang dijelaskan oleh kata sifat tersebut.</p><h3>Contoh Penerapan Strategi Penerjemahan</h3><p>(1) Gunakan kata sifat dengan bentuk jamak dari kata benda yang dijelaskan oleh kata sifat tersebut.</p><blockquote><p>Tongkat kejahatan tidak boleh berkuasa di tanah orang benar. (Mazmur 125:3a ULT)</p><blockquote><p>Tongkat kejahatan tidak boleh berkuasa di tanah <strong>orang-orang benar</strong>.</p></blockquote></blockquote><blockquote><p>Berbahagialah <strong>orang yang lemah lembut</strong>. (Matius 5:5a ULT)</p><blockquote><p>Berbahagialah <strong>orang-orang yang lemah lembut</strong>.</p></blockquote></blockquote>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 115886,
+          "content_id": 382099,
+          "resource_code": "Unknown",
+          "label": "Markus 1:37 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 115923,
+          "content_id": 382136,
+          "resource_code": "Unknown",
+          "label": "Markus 2:2 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 115971,
+          "content_id": 382184,
+          "resource_code": "Unknown",
+          "label": "Markus 2:12 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 115993,
+          "content_id": 382206,
+          "resource_code": "Unknown",
+          "label": "Markus 2:17 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116009,
+          "content_id": 382222,
+          "resource_code": "Unknown",
+          "label": "Markus 2:21 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116076,
+          "content_id": 382289,
+          "resource_code": "Unknown",
+          "label": "Markus 3:10 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116089,
+          "content_id": 382302,
+          "resource_code": "Unknown",
+          "label": "Markus 3:14 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116095,
+          "content_id": 382308,
+          "resource_code": "Unknown",
+          "label": "Markus 3:16 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116192,
+          "content_id": 382405,
+          "resource_code": "Unknown",
+          "label": "Markus 4:4 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116195,
+          "content_id": 382408,
+          "resource_code": "Unknown",
+          "label": "Markus 4:5 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116205,
+          "content_id": 382418,
+          "resource_code": "Unknown",
+          "label": "Markus 4:7 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116209,
+          "content_id": 382422,
+          "resource_code": "Unknown",
+          "label": "Markus 4:8 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116217,
+          "content_id": 382430,
+          "resource_code": "Unknown",
+          "label": "Markus 4:8 (#9)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116225,
+          "content_id": 382438,
+          "resource_code": "Unknown",
+          "label": "Markus 4:10 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116275,
+          "content_id": 382488,
+          "resource_code": "Unknown",
+          "label": "Markus 4:20 (#7)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116442,
+          "content_id": 382655,
+          "resource_code": "Unknown",
+          "label": "Markus 5:20 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116605,
+          "content_id": 382818,
+          "resource_code": "Unknown",
+          "label": "Markus 6:14 (#11)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 116643,
+          "content_id": 382856,
+          "resource_code": "Unknown",
+          "label": "Markus 6:21 (#6)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 149822,
+          "content_id": 387678,
+          "resource_code": "Unknown",
+          "label": "Matius 15:30 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 149827,
+          "content_id": 387683,
+          "resource_code": "Unknown",
+          "label": "Matius 15:31 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 142839,
+          "content_id": 597693,
+          "resource_code": "Unknown",
+          "label": "Lukas 1:17 (#8)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 142961,
+          "content_id": 597815,
+          "resource_code": "Unknown",
+          "label": "Lukas 1:52 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159298,
+          "content_id": 671756,
+          "resource_code": "Unknown",
+          "label": "Kolose 1:18 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 159448,
+          "content_id": 671906,
+          "resource_code": "Unknown",
+          "label": "Kolose 2:12 (#8)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 160768,
+          "content_id": 672317,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 1:10 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 160968,
+          "content_id": 672517,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 3:12 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161054,
+          "content_id": 672603,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 4:13 (#7)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161084,
+          "content_id": 672633,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 4:16 (#7)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161138,
+          "content_id": 672687,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 5:6 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 134073,
+          "content_id": 673909,
+          "resource_code": "Unknown",
+          "label": "3 Yohanes 1:11 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161181,
+          "content_id": 672730,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 5:14 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161189,
+          "content_id": 672738,
+          "resource_code": "Unknown",
+          "label": "1 Tesalonika 5:15 (#6)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 164294,
+          "content_id": 673114,
+          "resource_code": "Unknown",
+          "label": "2 Petrus 2:20 (#12)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162019,
+          "content_id": 673401,
+          "resource_code": "Unknown",
+          "label": "2 Tesalonika 3:4 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162195,
+          "content_id": 673577,
+          "resource_code": "Unknown",
+          "label": "2 Timotius 2:8 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162206,
+          "content_id": 673588,
+          "resource_code": "Unknown",
+          "label": "2 Timotius 2:10 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162291,
+          "content_id": 673673,
+          "resource_code": "Unknown",
+          "label": "2 Timotius 2:24 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162311,
+          "content_id": 673693,
+          "resource_code": "Unknown",
+          "label": "2 Timotius 3:3 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162319,
+          "content_id": 673701,
+          "resource_code": "Unknown",
+          "label": "2 Timotius 3:5 (#6)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162321,
+          "content_id": 673703,
+          "resource_code": "Unknown",
+          "label": "2 Timotius 3:6 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162334,
+          "content_id": 673716,
+          "resource_code": "Unknown",
+          "label": "2 Timotius 3:8 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162345,
+          "content_id": 673727,
+          "resource_code": "Unknown",
+          "label": "2 Timotius 3:9 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162347,
+          "content_id": 673729,
+          "resource_code": "Unknown",
+          "label": "2 Timotius 3:9 (#6)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162364,
+          "content_id": 673746,
+          "resource_code": "Unknown",
+          "label": "2 Timotius 3:13 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162387,
+          "content_id": 673769,
+          "resource_code": "Unknown",
+          "label": "2 Timotius 4:1 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162459,
+          "content_id": 673841,
+          "resource_code": "Unknown",
+          "label": "2 Timotius 4:16 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 193032,
+          "content_id": 675185,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 1:9 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161274,
+          "content_id": 675186,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 1:9 (#4)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161277,
+          "content_id": 675189,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 1:10 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161570,
+          "content_id": 675365,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 4:8 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161642,
+          "content_id": 675412,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 5:8 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161657,
+          "content_id": 675424,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 5:10 (#6)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 193057,
+          "content_id": 675431,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 5:13 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161706,
+          "content_id": 675454,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 5:20 (#1)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161817,
+          "content_id": 675531,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 6:13 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 161837,
+          "content_id": 675542,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 6:17 (#1)",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]

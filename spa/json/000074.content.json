@@ -1,0 +1,597 @@
+[
+  {
+    "content_id": 727963,
+    "reference_id": 26733,
+    "title": "Formas de “Tú” - Dual/Plural",
+    "media_type": "Text",
+    "index_reference": "formas de “tú” - dual/plural",
+    "language": "spa",
+    "content": "<h3>Descripción</h3><p>Algunos idiomas tienen una forma singular de “tú” para cuando la palabra “tú” se refiere a una sola persona, y una forma plural para cuando la palabra “tú” (ustedes) se refiere a más de una persona. Algunos idiomas también tienen una forma dual de “tú” (ustedes) para cuando la palabra “tú” se refiere a solo dos personas. Los traductores que hablen uno de estos idiomas siempre tendrán que saber qué quiso decir el hablante para poder elegir la palabra correcta para “tú” en su idioma. Otros idiomas, como el inglés, tienen una sola forma, que la gente utiliza, independientemente del número de personas al que se refiera.</p><p>La Biblia se escribió por primera vez en hebreo, arameo y griego. Todas estas lenguas tienen una forma singular de “tú” y una forma plural de “ustedes”. Cuando leemos la Biblia en esas lenguas, los pronombres y las formas verbales nos indican si la palabra “vosotros” se refiere a una persona o a más de una. Sin embargo, no nos muestran si se refiere a solo dos personas o a más de dos personas. Cuando los pronombres no nos indican a cuántas personas se refiere la palabra “ustedes”, tenemos que mirar el contexto para ver a cuántas personas se dirigía el hablante.</p><h4>Razones por las que este es un problema de traducción</h4><ul><li><p>Los traductores que hablan un idioma con distintas formas singulares, duales y plurales de “tú” (o ustedes) siempre tendrán que saber qué quiso decir el hablante para poder elegir la palabra correcta para “tú” en su idioma.</p></li><li><p>Muchos idiomas también tienen diferentes formas del verbo según si el sujeto es singular o plural. Por eso, aunque no haya un pronombre que signifique “tú” o “ustedes”, los traductores de estos idiomas tendrán que saber si el hablante se refería a una persona o a más de una.</p></li></ul><p>A menudo, el contexto deja claro si la palabra “tú” se refiere a una persona o a más de una. Si observa los demás pronombres de la frase, le ayudarán a saber a cuántas personas se dirigía el hablante.</p><h3>Ejemplos de la Biblia</h3><blockquote><p>Entonces <strong>Santiago y Juan</strong>, los hijos de Zebedeo, se acercaron a él, diciéndole: “Maestro, queremos que nos hagas todo lo que te pedimos”. Y él les dijo: “¿Qué <strong>queréis</strong> que haga por <strong>ustedes</strong>?” (Marcos 10:35–36 TPL).</p></blockquote><p>Jesús pregunta a los dos, Santiago y Juan, qué quieren que haga por ellos. Si el idioma meta tiene una forma dual de “ustedes”, utilícela. Si el idioma de destino no tiene una forma dual, entonces la forma plural sería apropiada.</p><blockquote><p>Jesús envió a dos de sus discípulos y les dijo: “Id a la aldea de enfrente. En cuanto <strong>entréis</strong> en ella, <strong>encontraréis</strong> un pollino atado en el que todavía no se ha sentado nadie. Desátenlo y tráiganmelo”. (Marcos 11:1b-2 TPL).</p></blockquote><p>El contexto deja claro que Jesús se dirige a dos personas. Si el idioma de destino tiene una forma dual de “ustedes”, utilícela. Si el idioma de destino no tiene una forma dual, entonces la forma plural sería apropiada.</p><blockquote><p>Santiago, siervo de Dios y del Señor Jesucristo, a las doce tribus que están en la dispersión: Saludos. Hermanos míos, considerad que es una gran alegría cuando <strong>experimentáis</strong> diversos problemas. Sabéis que la prueba de <strong>vuestra</strong> fe produce resistencia. (Santiago 1:1–3 TPL).</p></blockquote><p>Santiago escribió esta carta a muchas personas, por lo que la palabra “vosotros” se refiere a muchas personas. Si el idioma de destino tiene una forma plural de “vosotros”, sería mejor usarla aquí.</p><h3>Estrategias para saber a cuántas personas se refiere “vosotros”</h3><p>(1) Mire las Notas de traducción para ver si dicen si “vosotros” se refiere a una persona o a más de una persona.</p><p>(2) Mira la TPS para ver si dice algo que te indique si la palabra “tú” se refiere a una persona o a más de una persona.</p><p>(3) Si tienes una Biblia que está escrita en un idioma que distingue el “tú” singular del “vosotros” plural, mira qué forma de “vosotros” tiene esa Biblia en esa frase.</p><p>(4) Observa el contexto para ver a quién se dirigía el orador y quién respondía.</p><p>También puedes ver el vídeo en https://ufw.io/figs_youdual</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 117629,
+          "content_id": 343208,
+          "resource_code": "Unknown",
+          "label": "Marcos 11:2 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 117636,
+          "content_id": 343215,
+          "resource_code": "Unknown",
+          "label": "Marcos 11:3 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 118323,
+          "content_id": 343902,
+          "resource_code": "Unknown",
+          "label": "Marcos 14:13 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 118331,
+          "content_id": 343910,
+          "resource_code": "Unknown",
+          "label": "Marcos 14:15 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137161,
+          "content_id": 501227,
+          "resource_code": "Unknown",
+          "label": "Hechos 4:7 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137335,
+          "content_id": 501384,
+          "resource_code": "Unknown",
+          "label": "Hechos 5:8 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 143848,
+          "content_id": 350765,
+          "resource_code": "Unknown",
+          "label": "Lucas 7:22 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137626,
+          "content_id": 503926,
+          "resource_code": "Unknown",
+          "label": "Hechos 7:26 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137884,
+          "content_id": 512835,
+          "resource_code": "Unknown",
+          "label": "Hechos 8:24 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137855,
+          "content_id": 512854,
+          "resource_code": "Unknown",
+          "label": "Hechos 8:15 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 137865,
+          "content_id": 512856,
+          "resource_code": "Unknown",
+          "label": "Hechos 8:17 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138076,
+          "content_id": 513024,
+          "resource_code": "Unknown",
+          "label": "Hechos 9:38 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138078,
+          "content_id": 513081,
+          "resource_code": "Unknown",
+          "label": "Hechos 9:39 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 138807,
+          "content_id": 514253,
+          "resource_code": "Unknown",
+          "label": "Hechos 15:23 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 148889,
+          "content_id": 346112,
+          "resource_code": "Unknown",
+          "label": "Mateo 11:21 (#9)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144397,
+          "content_id": 351314,
+          "resource_code": "Unknown",
+          "label": "Lucas 10:11 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144413,
+          "content_id": 351330,
+          "resource_code": "Unknown",
+          "label": "Lucas 10:13 (#9)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144419,
+          "content_id": 351336,
+          "resource_code": "Unknown",
+          "label": "Lucas 10:14 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 144839,
+          "content_id": 351756,
+          "resource_code": "Unknown",
+          "label": "Lucas 12:14 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146054,
+          "content_id": 352971,
+          "resource_code": "Unknown",
+          "label": "Lucas 19:30 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146062,
+          "content_id": 352979,
+          "resource_code": "Unknown",
+          "label": "Lucas 19:31 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146066,
+          "content_id": 352983,
+          "resource_code": "Unknown",
+          "label": "Lucas 19:33 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146510,
+          "content_id": 353427,
+          "resource_code": "Unknown",
+          "label": "Lucas 22:8 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 146516,
+          "content_id": 353433,
+          "resource_code": "Unknown",
+          "label": "Lucas 22:10 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 147037,
+          "content_id": 353954,
+          "resource_code": "Unknown",
+          "label": "Lucas 24:17 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 147070,
+          "content_id": 353987,
+          "resource_code": "Unknown",
+          "label": "Lucas 24:25 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 167575,
+          "content_id": 535738,
+          "resource_code": "Unknown",
+          "label": "Revelación 11:12 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 167649,
+          "content_id": 536126,
+          "resource_code": "Unknown",
+          "label": "Revelación 12:14 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 168832,
+          "content_id": 537207,
+          "resource_code": "Unknown",
+          "label": "Ester 5:8 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 169649,
+          "content_id": 538128,
+          "resource_code": "Unknown",
+          "label": "Génesis 2:24 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 169683,
+          "content_id": 537795,
+          "resource_code": "Unknown",
+          "label": "Génesis 3:7 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 171811,
+          "content_id": 539869,
+          "resource_code": "Unknown",
+          "label": "Génesis 22:5 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 171385,
+          "content_id": 539890,
+          "resource_code": "Unknown",
+          "label": "Génesis 19:1 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 173063,
+          "content_id": 541107,
+          "resource_code": "Unknown",
+          "label": "Génesis 31:6 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 173384,
+          "content_id": 541806,
+          "resource_code": "Unknown",
+          "label": "Génesis 33:4 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 173522,
+          "content_id": 541925,
+          "resource_code": "Unknown",
+          "label": "Génesis 34:26 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 175152,
+          "content_id": 543610,
+          "resource_code": "Unknown",
+          "label": "Génesis 48:9 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 178486,
+          "content_id": 546837,
+          "resource_code": "Unknown",
+          "label": "Job 38:8 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 184891,
+          "content_id": 552896,
+          "resource_code": "Unknown",
+          "label": "Ruth 1:8 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188020,
+          "content_id": 554876,
+          "resource_code": "Unknown",
+          "label": "Éxodo 1:16 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188040,
+          "content_id": 554893,
+          "resource_code": "Unknown",
+          "label": "Éxodo 1:22 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188196,
+          "content_id": 555032,
+          "resource_code": "Unknown",
+          "label": "Éxodo 3:16 (#6)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188284,
+          "content_id": 555113,
+          "resource_code": "Unknown",
+          "label": "Éxodo 4:15 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188027,
+          "content_id": 555176,
+          "resource_code": "Unknown",
+          "label": "Éxodo 1:18 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188376,
+          "content_id": 555194,
+          "resource_code": "Unknown",
+          "label": "Éxodo 5:7 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188416,
+          "content_id": 555232,
+          "resource_code": "Unknown",
+          "label": "Éxodo 5:17 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188420,
+          "content_id": 555236,
+          "resource_code": "Unknown",
+          "label": "Éxodo 5:18 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188367,
+          "content_id": 555496,
+          "resource_code": "Unknown",
+          "label": "Éxodo 5:4 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188371,
+          "content_id": 555500,
+          "resource_code": "Unknown",
+          "label": "Éxodo 5:5 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188391,
+          "content_id": 555521,
+          "resource_code": "Unknown",
+          "label": "Éxodo 5:11 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188427,
+          "content_id": 555556,
+          "resource_code": "Unknown",
+          "label": "Éxodo 5:21 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188455,
+          "content_id": 555590,
+          "resource_code": "Unknown",
+          "label": "Éxodo 6:8 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188214,
+          "content_id": 555662,
+          "resource_code": "Unknown",
+          "label": "Éxodo 3:18 (#7)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188234,
+          "content_id": 555681,
+          "resource_code": "Unknown",
+          "label": "Éxodo 3:22 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188173,
+          "content_id": 555682,
+          "resource_code": "Unknown",
+          "label": "Éxodo 3:12 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188225,
+          "content_id": 555733,
+          "resource_code": "Unknown",
+          "label": "Éxodo 3:20 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188229,
+          "content_id": 555737,
+          "resource_code": "Unknown",
+          "label": "Éxodo 3:21 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188378,
+          "content_id": 555824,
+          "resource_code": "Unknown",
+          "label": "Éxodo 5:8 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188402,
+          "content_id": 555849,
+          "resource_code": "Unknown",
+          "label": "Éxodo 5:14 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188389,
+          "content_id": 555895,
+          "resource_code": "Unknown",
+          "label": "Éxodo 5:10 (#8)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188449,
+          "content_id": 555955,
+          "resource_code": "Unknown",
+          "label": "Éxodo 6:6 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188453,
+          "content_id": 555960,
+          "resource_code": "Unknown",
+          "label": "Éxodo 6:7 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188672,
+          "content_id": 555481,
+          "resource_code": "Unknown",
+          "label": "Éxodo 9:3 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188804,
+          "content_id": 555612,
+          "resource_code": "Unknown",
+          "label": "Éxodo 10:16 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188824,
+          "content_id": 555632,
+          "resource_code": "Unknown",
+          "label": "Éxodo 10:24 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188844,
+          "content_id": 555654,
+          "resource_code": "Unknown",
+          "label": "Éxodo 11:1 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188643,
+          "content_id": 555774,
+          "resource_code": "Unknown",
+          "label": "Éxodo 8:25 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188695,
+          "content_id": 555826,
+          "resource_code": "Unknown",
+          "label": "Éxodo 9:8 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188807,
+          "content_id": 555941,
+          "resource_code": "Unknown",
+          "label": "Éxodo 10:17 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188506,
+          "content_id": 555954,
+          "resource_code": "Unknown",
+          "label": "Éxodo 7:4 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188522,
+          "content_id": 555970,
+          "resource_code": "Unknown",
+          "label": "Éxodo 7:9 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188859,
+          "content_id": 555991,
+          "resource_code": "Unknown",
+          "label": "Éxodo 11:7 (#2)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188871,
+          "content_id": 556005,
+          "resource_code": "Unknown",
+          "label": "Éxodo 12:3 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188927,
+          "content_id": 556059,
+          "resource_code": "Unknown",
+          "label": "Éxodo 12:31 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 189003,
+          "content_id": 556134,
+          "resource_code": "Unknown",
+          "label": "Éxodo 14:2 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 188649,
+          "content_id": 556155,
+          "resource_code": "Unknown",
+          "label": "Éxodo 8:28 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 189579,
+          "content_id": 556701,
+          "resource_code": "Unknown",
+          "label": "Éxodo 25:2 (#4)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 189269,
+          "content_id": 556788,
+          "resource_code": "Unknown",
+          "label": "Éxodo 19:4 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 189867,
+          "content_id": 556979,
+          "resource_code": "Unknown",
+          "label": "Éxodo 30:1 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 189935,
+          "content_id": 557040,
+          "resource_code": "Unknown",
+          "label": "Éxodo 30:37 (#1)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 189590,
+          "content_id": 557046,
+          "resource_code": "Unknown",
+          "label": "Éxodo 25:9 (#3)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 189934,
+          "content_id": 557380,
+          "resource_code": "Unknown",
+          "label": "Éxodo 30:36 (#5)",
+          "language": "spa"
+        },
+        {
+          "reference_id": 190150,
+          "content_id": 557607,
+          "resource_code": "Unknown",
+          "label": "Éxodo 34:10 (#6)",
+          "language": "spa"
+        }
+      ]
+    }
+  }
+]

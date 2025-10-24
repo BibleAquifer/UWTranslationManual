@@ -1,0 +1,72 @@
+[
+  {
+    "content_id": 727552,
+    "reference_id": 26731,
+    "title": "Bentuk dari Kamu",
+    "media_type": "Text",
+    "index_reference": "bentuk dari kamu",
+    "language": "ind",
+    "content": "<h3>Tunggal, Ganda, dan Jamak</h3><p>Beberapa bahasa memiliki lebih dari satu kata untuk &quot;kamu&quot; berdasarkan berapa banyak orang yang dirujuk oleh kata &quot;kamu&quot;. Bentuk <strong>tunggal</strong> merujuk pada satu orang, dan bentuk <strong>jamak</strong> merujuk pada lebih dari satu orang. Beberapa bahasa juga memiliki bentuk <strong>ganda</strong> yang merujuk pada dua orang, dan beberapa bahasa memiliki bentuk lain yang merujuk pada tiga atau empat orang.</p><p>Anda mungkin juga ingin meninjau videonya di https://ufw.io/figs_younum.</p><p>Kadang-kadang dalam Alkitab, seorang pembicara menggunakan bentuk tunggal &quot;kamu&quot; meskipun ia berbicara kepada orang banyak. Untuk bantuan dalam menerjemahkannya, kami sarankan Anda untuk membaca:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26732\" data-resourceType=\"UWTranslationManual\">Kata Ganti Tunggal yang Merujuk pada Kelompok</span></p></li></ul><h3>Formal and Informal</h3><p>Beberapa bahasa memiliki lebih dari satu bentuk &quot;kamu&quot; berdasarkan hubungan antara pembicara dan lawan bicaranya. Orang menggunakan bentuk <strong>formal</strong> &quot;anda&quot; ketika berbicara dengan seseorang yang lebih tua, atau memiliki otoritas yang lebih tinggi, atau seseorang yang tidak terlalu mereka kenal. Orang menggunakan bentuk <strong>informal</strong> ketika berbicara dengan seseorang yang tidak lebih tua, atau tidak memiliki otoritas yang lebih tinggi, atau anggota keluarga atau teman dekat.</p><p>Anda mungkin juga ingin meninjau videonya di https://ufw.io/figs_youform.</p><p>Untuk bantuan dalam menerjemahkannya, kami sarankan Anda membaca:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26734\" data-resourceType=\"UWTranslationManual\">Bentuk dari Kata “Kamu” — Formal atau Informal</span></p></li></ul><h3>Maskulin dan Feminin</h3><p>Beberapa bahasa memiliki bentuk <strong>maskulin</strong> dan bentuk <strong>feminin</strong> untuk kata &quot;kamu&quot;. Orang menggunakan bentuk <strong>maskulin</strong> ketika berbicara dengan pria atau anak laki-laki dan bentuk <strong>feminin</strong> ketika berbicara dengan wanita atau anak perempuan.</p><p>Bahasa Inggris tidak membuat perbedaan di atas, sehingga tidak ada dalam ULT. Harap perhatikan hal ini dan gunakan bentuk yang sesuai untuk &quot;kamu&quot; jika bahasa Anda membuat perbedaan ini.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26732,
+          "content_id": 727553,
+          "resource_code": "UWTranslationManual",
+          "label": "Kata Ganti Tunggal yang merujuk pada Kelompok",
+          "language": "ind"
+        },
+        {
+          "reference_id": 163971,
+          "content_id": 672791,
+          "resource_code": "Unknown",
+          "label": "2 Petrus 1:2 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 164006,
+          "content_id": 672826,
+          "resource_code": "Unknown",
+          "label": "2 Petrus 1:5 (#5)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162045,
+          "content_id": 673427,
+          "resource_code": "Unknown",
+          "label": "2 Tesalonika 3:13 (#2)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162490,
+          "content_id": 673872,
+          "resource_code": "Unknown",
+          "label": "2 Timotius 4:22 (#6)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162575,
+          "content_id": 674018,
+          "resource_code": "Unknown",
+          "label": "Filemon 1:22 (#7)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 162583,
+          "content_id": 674026,
+          "resource_code": "Unknown",
+          "label": "Filemon 1:25 (#3)",
+          "language": "ind"
+        },
+        {
+          "reference_id": 193054,
+          "content_id": 675389,
+          "resource_code": "Unknown",
+          "label": "1 Timotius 5:1 (#1)",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]

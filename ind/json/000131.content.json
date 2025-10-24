@@ -1,0 +1,44 @@
+[
+  {
+    "content_id": 727599,
+    "reference_id": 209488,
+    "title": "Pendahuluan untuk Translation Academy dari unfoldingWord®",
+    "media_type": "Text",
+    "index_reference": "pendahuluan untuk translation academy dari unfoldingword®",
+    "language": "ind",
+    "content": "<h3>Selamat Datang di Translation Academy dari unfoldingWord®</h3><p>Translation Academy dari unfoldingWord® adalah kumpulan informasi dan instruksi tentang topik penerjemahan Alkitab. Pengguna utama yang kami pikirkan adalah para penerjemah bahasa ibu yang berbasis di gereja. Materi ini ditulis dalam bahasa yang sederhana sedapat mungkin dan dimaksudkan untuk memungkinkan siapa pun, di mana pun, untuk memperlengkapi diri mereka sendiri sehingga mereka dapat membuat terjemahan berkualitas tinggi dari konten Alkitab ke dalam bahasa mereka sendiri.</p><p>Translation Academy dari unfoldingWord® dirancang agar sangat fleksibel. Strukturnya modular, sehingga memungkinkan banyak cara untuk mempelajari materi, tergantung pada kebutuhan dan minat pengguna. Meskipun merekomendasikan langkah-langkah dan prosedur tertentu, program ini berusaha untuk bersikap netral terhadap paradigma, sehingga dapat digunakan dalam berbagai pengaturan dan proses. Metode ini dapat digunakan dalam pendekatan yang sistematis, di muka, atau dapat digunakan untuk pembelajaran yang tepat waktu (atau keduanya, sesuai kebutuhan).</p><p>Translation Academy dari unfoldingWord® dibagi ke dalam beberapa bagian berikut ini:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209488\" data-resourceType=\"UWTranslationManual\">Pendahuluan</span> — memperkenalkan sumber daya ini, strategi Gateway Languages, dan penerjemahan</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209478\" data-resourceType=\"UWTranslationManual\">Panduan Proses</span> — menjawab pertanyaan &quot;apa selanjutnya?&quot;</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">Panduan Penerjemahan</span> — menjelaskan dasar-dasar teori penerjemahan dan menawarkan bantuan penerjemahan Alkitab yang praktis</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209465\" data-resourceType=\"UWTranslationManual\">Panduan Pemeriksaan</span> — menjelaskan dasar-dasar teori pemeriksaan dan praktik-praktik terbaik untuk memeriksa terjemahan</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26802,
+          "content_id": 727607,
+          "resource_code": "UWTranslationManual",
+          "label": "Pengantar ke Manual Penerjemahan",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209465,
+          "content_id": 727576,
+          "resource_code": "UWTranslationManual",
+          "label": "Introduksi kepada Pemeriksaan Terjemahan",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209478,
+          "content_id": 727589,
+          "resource_code": "UWTranslationManual",
+          "label": "Pengantar ke Panduan Proses",
+          "language": "ind"
+        },
+        {
+          "reference_id": 209488,
+          "content_id": 727599,
+          "resource_code": "UWTranslationManual",
+          "label": "Pendahuluan untuk Translation Academy dari unfoldingWord®",
+          "language": "ind"
+        }
+      ]
+    }
+  }
+]

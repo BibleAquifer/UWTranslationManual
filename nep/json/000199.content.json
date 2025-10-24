@@ -1,0 +1,37 @@
+[
+  {
+    "content_id": 727804,
+    "reference_id": 209488,
+    "title": "अनुवादएकेडेमीको परिचय",
+    "media_type": "Text",
+    "index_reference": "अनुवादएकेडेमीको परिचय",
+    "language": "nep",
+    "content": "<h3>अनुवादएकेडेमीमा स्वागत छ</h3><p>&quot;अनुवादएकेडेमी&quot; को लक्ष्य हरेकलाई आफ्नै भाषामा बाइबलका सामाग्रीहरूलाई आफ्नै भाषामा स्तरीय अनुवाद गर्न सहयोग गर्ने कार्यमा सुसज्जित पार्नु हो । अनुवादएकेडेमी एकदमै लचिलो छ । यससलाई व्यवस्थित, अग्रिम तवरले प्रयोग गर्न सकिन्छ वा यसलाई कुनै एक समयको सिकाइको लागि प्रयोग गर्न सकिन्छ ( वा आवश्यकताअनुसार बेला दुबै) । यसको ढाँचा मोड्युलमा आधारित छ ।</p><p>अनुवादएकेडेमीमा निम्‍न खण्डहरू छन्ः</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209488\" data-resourceType=\"UWTranslationManual\">परिचय</span> - यसले अनुवादएकेडेमी र वचन प्रकटिकरणको परिचय दिन्छ</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209478\" data-resourceType=\"UWTranslationManual\">प्रक्रिया नियमावली</span> - यसले अब के? भन्‍ने प्रश्‍नको जवाफ दिन्छ ।</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">अनुवाद नियमावली</span> - यसले अनुवादका सिद्धान्तका आधारभुत कुराहरूको वर्णन गर्छ र अनुवादका व्यवहारिक सहयोग प्रदान गर्छ</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209464\" data-resourceType=\"UWTranslationManual\">जाँच निमयावली</span> - यसले जाँच गर्ने सिद्धान्त र उत्तम अभ्यासहरूको आधारभुत कुराहरूको वर्णन गर्छ</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26802,
+          "content_id": 727826,
+          "resource_code": "UWTranslationManual",
+          "label": "अनुवादको निर्देशन पुस्तिकाको परिचय",
+          "language": "nep"
+        },
+        {
+          "reference_id": 209465,
+          "content_id": 727763,
+          "resource_code": "Unknown",
+          "label": "अनुवाद जाँचको परिचय",
+          "language": "nep"
+        },
+        {
+          "reference_id": 209488,
+          "content_id": 727804,
+          "resource_code": "UWTranslationManual",
+          "label": "अनुवादएकेडेमीको परिचय",
+          "language": "nep"
+        }
+      ]
+    }
+  }
+]
