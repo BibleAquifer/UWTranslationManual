@@ -4,6 +4,7 @@
     "resource_type": "Bible Translation Manual",
     "title": "Translation Manual (unfoldingWord)",
     "aquifer_name": "翻譯手冊 (unfoldingWord)",
+    "version": "1.0.0",
     "collection_title": "Translation Manual (unfoldingWord)",
     "short_name": "UWTM",
     "license_info": {
@@ -48,7 +49,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-27T10:07:45.477561"
+      "dateCreated": "2025-10-27T17:24:12.057613"
     },
     "idAuthorities": {
       "aquifer": {
@@ -62,7 +63,7 @@
       "primary": {
         "aquifer": {
           "UWTranslationManual": {
-            "timestamp": "2025-10-27T10:07:45.477561"
+            "timestamp": "2025-10-27T17:24:12.057613"
           }
         }
       },
@@ -94,107 +95,55 @@
     "ingredients": {
       "json/000001.content.json": {
         "mimeType": "text/json",
-        "size": 164137
+        "size": 164162
       },
       "json/000002.content.json": {
         "mimeType": "text/json",
-        "size": 267809
+        "size": 267834
       },
       "json/000003.content.json": {
         "mimeType": "text/json",
-        "size": 4730
+        "size": 4755
       },
       "json/000004.content.json": {
         "mimeType": "text/json",
-        "size": 3828
+        "size": 3853
       },
       "json/000005.content.json": {
         "mimeType": "text/json",
-        "size": 599266
+        "size": 599291
       },
       "json/000006.content.json": {
         "mimeType": "text/json",
-        "size": 3886
+        "size": 3911
       },
       "json/000007.content.json": {
         "mimeType": "text/json",
-        "size": 8723
+        "size": 8748
       },
       "json/000008.content.json": {
         "mimeType": "text/json",
-        "size": 1586
+        "size": 1611
       },
       "json/000009.content.json": {
         "mimeType": "text/json",
-        "size": 8781
+        "size": 8806
       },
       "json/000010.content.json": {
         "mimeType": "text/json",
-        "size": 1432
+        "size": 1457
       },
       "json/000011.content.json": {
         "mimeType": "text/json",
-        "size": 3074
+        "size": 3099
       },
       "json/000012.content.json": {
         "mimeType": "text/json",
-        "size": 1385
+        "size": 1410
       },
       "json/000013.content.json": {
         "mimeType": "text/json",
-        "size": 1129
-      },
-      "md/000001.content.md": {
-        "mimeType": "text/markdown",
-        "size": 41557
-      },
-      "md/000002.content.md": {
-        "mimeType": "text/markdown",
-        "size": 65551
-      },
-      "md/000003.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3332
-      },
-      "md/000004.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3459
-      },
-      "md/000005.content.md": {
-        "mimeType": "text/markdown",
-        "size": 144361
-      },
-      "md/000006.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3935
-      },
-      "md/000007.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7221
-      },
-      "md/000008.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1649
-      },
-      "md/000009.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7852
-      },
-      "md/000010.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1509
-      },
-      "md/000011.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2095
-      },
-      "md/000012.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1236
-      },
-      "md/000013.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1268
+        "size": 1154
       }
     },
     "copyright": {
