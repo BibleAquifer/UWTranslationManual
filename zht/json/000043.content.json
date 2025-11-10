@@ -1,0 +1,24 @@
+[
+  {
+    "content_id": 806718,
+    "reference_id": 209456,
+    "version": "1.0.0",
+    "title": "完整的翻譯",
+    "media_type": "Text",
+    "index_reference": "完整的翻譯",
+    "language": "zht",
+    "content": "<h3>完整的翻譯</h3><p>這個部份旨在確保譯文是完整的。所以，我們必須將新的譯本與源語譯本加以比較。當你（翻譯者或檢查者）在比較兩者時，請自問下列問題：</p><ol><li><p>譯本有沒有遺漏任何部分？換言之，譯本是否涵蓋該卷書中所有的事件？</p></li><li><p>譯本是否收錄該卷書的全部經節？（在對照源語譯本的節號時，譯入語言譯本是否涵蓋所有經文？）不同譯本的章節編號有時會不同。例如，某些譯本會將幾節或某些經文置於註腳。即使源語與譯入語言在這些方面有差異，譯入語言譯本仍可視為是完整的。欲了解更多有關資訊，請見<span data-bnType=\"resourceReference\" data-resourceId=\"209495\" data-resourceType=\"UWTranslationManual\">完整的經文章節</span>。</p></li><li><p>譯本中是否有看似遺漏之處，或其信息與源語譯本不同之處？（用詞與語序可以不同，但譯者所用語言應傳達與源語譯本相同的信息。）</p></li></ol><p>如果發現譯文在某處不完整，請記錄下來，以便與翻譯團隊討論。</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209495,
+          "content_id": 806724,
+          "resource_code": "UWTranslationManual",
+          "label": "完整的經文章節",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]

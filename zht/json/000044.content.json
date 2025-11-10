@@ -1,0 +1,24 @@
+[
+  {
+    "content_id": 806724,
+    "reference_id": 209495,
+    "version": "1.0.0",
+    "title": "完整的經文章節",
+    "media_type": "Text",
+    "index_reference": "完整的經文章節",
+    "language": "zht",
+    "content": "<p>在你的譯入語言的翻譯中，請務必完整收錄源語譯本的所有經文，以避免因疏忽而遺漏任何經文。但請謹記，你可能會留意到有些經文會被一些聖經譯本收錄，但其它譯本則未將其收錄其中，而往往這樣的做法是有合理依據的。</p><h3><strong>經文缺失的原因</strong></h3><ol><li><p><strong>文本異文</strong> — 有些經文被許多聖經學者認為並非聖經原始內容，而是後世增補的。因此，一些聖經譯本的翻譯者選擇不收錄這些經文，或僅將其在註腳中列出。（欲了解更多有關這個主題的資訊，見<span data-bnType=\"resourceReference\" data-resourceId=\"26819\" data-resourceType=\"UWTranslationManual\">文本異文</span>。）你的翻譯團隊需要決定是否納入這些經文。</p></li><li><p><strong>不同的編號</strong> — 某些譯本採用與其它譯本不同的經文編號系統。（欲了解更多有關這個主題的資訊，見<span data-bnType=\"resourceReference\" data-resourceId=\"26789\" data-resourceType=\"UWTranslationManual\">章節編號</span>。）你的翻譯團隊需要決定使用哪種系統。</p></li><li><p><strong>經文橋接</strong> — 一些聖經譯本會重新編排兩節或多節經文的內容，使資訊順序更符合邏輯或更易理解。此時，章節編號便會合併標示，例如4至5節或4至6節。由於並非所有經文編號都會顯示出來（或不是在預期位置出現），這可能看起來像是缺少了某些經文。但其實這些經文的內容已包括在內。（欲了解更多有關這個主題的資訊，見<span data-bnType=\"resourceReference\" data-resourceId=\"26824\" data-resourceType=\"UWTranslationManual\">經文橋接</span>。）你的翻譯團隊需要決定是否使用經文橋接。</p></li></ol><h3>檢查缺失的經文</h3><p>以下是一種檢查翻譯中是否遺漏經文的方法。你在完成整卷書的翻譯後，將譯文匯入ParaText，然後執行「章節／經文編號」檢查。ParaText會列出該卷書中所有遺漏的經文的位置。接著你可逐一檢視這些位置，判斷缺失的經節的原因是否屬上述三種情形之一，抑或是<span>因為錯誤遺漏，</span>而需補譯該節經文。</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26789,
+          "content_id": 806707,
+          "resource_code": "UWTranslationManual",
+          "label": "章節編號",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]
