@@ -1,0 +1,248 @@
+[
+  {
+    "content_id": 806689,
+    "reference_id": 26740,
+    "version": "1.0.0",
+    "title": "連接-事實條件",
+    "media_type": "Text",
+    "index_reference": "連接-事實條件",
+    "language": "zht",
+    "content": "<h2>條件關係</h2><p>條件連接詞是用來連接兩個子句，並表示其中一個子句發生時，另一個子句也會發生。在英文中，連接條件子句最常見的方法是使用「如果……那麼（if … then）」。然而，通常「那麼」一詞不會被明說。</p><h3>事實條件</h3><h1>說明</h1><p>事實條件是指在說話者心中已經確定或為真的條件，雖然聽起來仍像是假設性的語氣。在英文中，包含事實條件的句子可以使用「即使（even though）」、「既然（since）」或「既然如此（this being the case）」這些詞來表示這是一個事實條件，而不是假設條件。</p><h1><span>翻譯時需留心的議題</span></h1><p>某些語言不會將確定或真實的事情表述為條件句。使用這些語言的譯者可能會誤解原文，認為該條件是不確定的，這會導致翻譯錯誤。即使譯者明白條件是確定或真實的，讀者也可能會誤解。在這種情況下，最好將其翻譯為事實陳述，而不是條件句。</p><h1><span>聖經開卷故事集和聖經中的例子</span></h1><p>「<strong>如果</strong><span>巴力是真神，你們就拜巴力</span>」（聖經開卷故事集19:6）</p><p>以利亞前來對眾民說：「你們心持兩意要到幾時呢？若耶和華（雅巍）是神，就當順從耶和華；若巴力是神，就當順從巴力。」眾民一言不答。（王上18:21）</p><p>這句話的結構與假設條件相同。條件句是「若耶和華是神」。如果這條件句是真的，那麼以色列人應該敬拜耶和華。但是先知以利亞並不質疑耶和華是否是神。事實上，他確信耶和華是神，以至於在後面的經文中，他將水澆在他的祭物上。他相信神是真實的，所以即使是完全濕透的祭物也能被燒掉。先知們一再教導耶和華是神，所以人們應該敬拜他。然而，人們並沒有敬拜耶和華——儘管他是神。以利亞將陳述或指示放入事實條件的形式中，試圖讓以色列人更清楚地理解他們應該做什麼。</p><p>藐視我名的祭司啊，萬軍之耶和華對你們說：「兒子尊敬父親，僕人敬畏主人；我<strong>既</strong>為父親，尊敬我的在哪裏呢？我<strong>既</strong>為主人，敬畏我的在哪裏呢？」（瑪1:6）</p><p>耶和華說祂是以色列的父親和主人，所以即使句子以「如果」開始，並聽起來像是一個假設條件，但這並不是假設性的句子。這節經文以兒子尊敬他的父親的箴言開頭。大家都知道這句話是正確的。但以色列人並沒有尊敬耶和華。經文中的另一句箴言說僕人尊敬他的主人。大家也都知道這是正確的。但以色列人並沒有尊敬耶和華，因此祂看起來不像是他們的主人。但耶和華確實是主人。耶和華使用假設條件的形式來證明以色列人是錯的。即使條件子句是真實的，但<span>條件句的第二部分——按自然情況應該發生的部分——並未發生。</span></p><h1>翻譯的方法</h1><p>如果使用假設條件的形式會讓人感到困惑，或者會讓讀者認為說話者對句子的前半部分有所懷疑，那麼可以改用陳述句。像「既然」或「你們知道……」或「的確」這類詞語可以幫助使意思更清楚。</p><h1>翻譯方法應用的例子</h1><p>「<strong>如果</strong>巴力是真神，你們就拜巴力」（聖經開卷故事集19:6）</p><p>「耶和華<strong>確實</strong>是神，所以要敬拜他！」</p><p>藐視我名的祭司啊，萬軍之耶和華對你們說：「兒子尊敬父親，僕人敬畏主人；我<strong>既</strong>為父親，尊敬我的在哪裏呢？我<strong>既</strong>為主人，敬畏我的在哪裏呢？」（瑪1:6）</p><p>「兒子尊敬父親，僕人敬畏主人；<strong>既然</strong>我是父親，尊敬我的在哪裏呢？我<strong>既</strong>為主人，敬畏我的在哪裏呢？」</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 118181,
+          "content_id": 470677,
+          "resource_code": "Unknown",
+          "label": "馬可福音 13:21 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 137878,
+          "content_id": 567852,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 8:22 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139142,
+          "content_id": 569116,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 18:15 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139691,
+          "content_id": 569665,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 23:9 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139877,
+          "content_id": 569851,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 26:8 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139914,
+          "content_id": 569888,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 26:23 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 140436,
+          "content_id": 496697,
+          "resource_code": "Unknown",
+          "label": "約翰福音 3:12 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 140823,
+          "content_id": 497084,
+          "resource_code": "Unknown",
+          "label": "約翰福音 5:47 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 141067,
+          "content_id": 497328,
+          "resource_code": "Unknown",
+          "label": "約翰福音 7:4 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 141117,
+          "content_id": 497378,
+          "resource_code": "Unknown",
+          "label": "約翰福音 7:23 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 141313,
+          "content_id": 497574,
+          "resource_code": "Unknown",
+          "label": "約翰福音 8:46 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 141569,
+          "content_id": 497830,
+          "resource_code": "Unknown",
+          "label": "約翰福音 10:35 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 141582,
+          "content_id": 497843,
+          "resource_code": "Unknown",
+          "label": "約翰福音 10:38 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 141927,
+          "content_id": 498188,
+          "resource_code": "Unknown",
+          "label": "約翰福音 13:14 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 141934,
+          "content_id": 498195,
+          "resource_code": "Unknown",
+          "label": "約翰福音 13:17 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 141999,
+          "content_id": 498260,
+          "resource_code": "Unknown",
+          "label": "約翰福音 14:3 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 142009,
+          "content_id": 498270,
+          "resource_code": "Unknown",
+          "label": "約翰福音 14:7 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 142143,
+          "content_id": 498404,
+          "resource_code": "Unknown",
+          "label": "約翰福音 15:18 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 161436,
+          "content_id": 619572,
+          "resource_code": "Unknown",
+          "label": "提摩太前書 3:1 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 161744,
+          "content_id": 619880,
+          "resource_code": "Unknown",
+          "label": "提摩太前書 6:3 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 159325,
+          "content_id": 620112,
+          "resource_code": "Unknown",
+          "label": "歌羅西書 1:23 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 148023,
+          "content_id": 693717,
+          "resource_code": "Unknown",
+          "label": "馬太福音 6:30 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 148122,
+          "content_id": 693816,
+          "resource_code": "Unknown",
+          "label": "馬太福音 7:11 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 148347,
+          "content_id": 694041,
+          "resource_code": "Unknown",
+          "label": "馬太福音 8:31 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 148687,
+          "content_id": 694763,
+          "resource_code": "Unknown",
+          "label": "馬太福音 10:25 (#7)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 149078,
+          "content_id": 695154,
+          "resource_code": "Unknown",
+          "label": "馬太福音 12:28 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 150445,
+          "content_id": 701695,
+          "resource_code": "Unknown",
+          "label": "馬太福音 19:17 (#7)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 150458,
+          "content_id": 701708,
+          "resource_code": "Unknown",
+          "label": "馬太福音 19:21 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 151115,
+          "content_id": 747629,
+          "resource_code": "Unknown",
+          "label": "馬太福音 22:45 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 151407,
+          "content_id": 747921,
+          "resource_code": "Unknown",
+          "label": "馬太福音 24:23 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 159397,
+          "content_id": 620184,
+          "resource_code": "Unknown",
+          "label": "歌羅西書 2:5 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 159490,
+          "content_id": 620277,
+          "resource_code": "Unknown",
+          "label": "歌羅西書 2:20 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 159520,
+          "content_id": 620307,
+          "resource_code": "Unknown",
+          "label": "歌羅西書 3:1 (#2)",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]

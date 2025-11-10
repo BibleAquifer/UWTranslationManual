@@ -1,0 +1,220 @@
+[
+  {
+    "content_id": 817752,
+    "reference_id": 26821,
+    "version": "1.0.0",
+    "title": "複製或借用詞彙",
+    "media_type": "Text",
+    "index_reference": "複製或借用詞彙",
+    "language": "zht",
+    "content": "<h3>說明</h3><p>有時聖經所提及的事物並不屬於你的文化，而你的語言中也可能沒有相應的詞彙。聖經也提到一些人物與地方，你的語言中可能沒有這些名稱。</p><p>遇到這種情況時，你可以從熟悉的語言中「借用」聖經裡的詞彙，並在自己的語言的翻譯中使用它。這表示基本上是直接從另一種語言複製這個詞。本頁將說明如何「借用」詞彙。（另外，若你要翻譯的是你語言中不存在的事物名稱，還有其他可行的翻譯方式，見<span data-bnType=\"resourceReference\" data-resourceId=\"26822\" data-resourceType=\"UWTranslationManual\">翻譯未知詞</span>。）</p><h3><span>聖經中的例子</span></h3><p>看見路旁有一棵無花果樹，就走到跟前（太21:19a）</p><p>如果在使用你的語言的地方沒有無花果樹，你的語言中就可能沒有這種樹的名稱。</p><p>其上有<strong>撒拉弗</strong>侍立，各有六個翅膀：用兩個翅膀遮臉，兩個翅膀遮腳，兩個翅膀飛翔（賽6:2）</p><p>你的語言中可能沒有這種受造物的名稱。</p><p>耶和華（雅巍）藉<strong>瑪拉基</strong>傳給以色列的默示（瑪1:1）</p><p>你的語言中可能沒有瑪拉基這個人名。</p><h3><span>翻譯的方法</span></h3><p>從另一種語言借用詞彙時，有幾點需要注意：</p><ul><li><p>不同語言會使用不同的文字系統，例如希伯來文、希臘文、拉丁文、西里爾文（Cyrillic）、天城文（Devanagari）和韓文等。這些文字系統使用不同的字形來代表各自字母表中的字母。</p></li><li><p>即使使用相同文字系統的語言，字母的讀音也可能不相同。例如，說德文時，人們把字母j讀成英文中y的音。</p></li><li><p>各種語言也並不都擁有相同的語音或語音組合。例如，許多語言沒有英文字think中那種輕柔的th音，有些語言也無法以像stop那樣的st組合作為詞首。</p></li></ul><p>借用詞彙的方法有以下幾種：</p><p>（1）如果你的語言所用的文字系統與你要翻譯的語言不同，你可以直接把每個字母的形狀替換為你語言文字系統中對應的字母形狀。（2）你可以照另一種語言的拼法拼寫這個詞，並用你的語言平常對這些字母的讀音來發音。（3）你可以把這個詞的發音盡量接近另一種語言的讀法，再依照你語言的拼寫規則調整拼法。</p><h3><span>翻譯方法應用的例子</span></h3><p>（1）如果你的語言所用的文字系統與你要翻譯的語言不同，你可以直接把每個字母的形狀替換為你語言文字系統中對應的字母形狀。</p><p>צְפַנְיָ֤ה —— 一個希伯來文字母的男人名字</p><p>「西番雅（<span>Zephaniah</span>）」——同一個名字以中文呈現</p><p>（2）你可以照另一種語言的拼法拼寫這個詞，並用你的語言平常對這些字母的讀音來發音。</p><p>西番雅——這是一個男人的名字。</p><p>「西番雅」——名字以中文的拼法呈現，但你可以按照你的語言讀這些字的方式來發音。</p><p>（3）你可以把這個詞的發音盡量接近另一種語言的讀法，再依照你語言的拼寫規則調整拼法。</p><p>西番雅——如果你的語言中沒有「西」的音，可以使用「希」（譯註：或<span>沒有z的音，可以使用s）</span>。如果你的文字系統不用「番」，可以改用「凡」（譯註：或<span>不用ph，可以改用f）</span>。至於「雅」的發音，可視情況拼成「亞」、「愛」或「也」（譯註：<span>至於i的發音，可視情況拼成i、ai或ay）</span>。</p><p>「希凡亞（<span>Sefania）</span>」</p><p>「希凡愛（Sefanaia）」</p><p>「希凡也（Sefanaya）」</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 116098,
+          "content_id": 468594,
+          "resource_code": "Unknown",
+          "label": "馬可福音 3:17 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 116101,
+          "content_id": 468597,
+          "resource_code": "Unknown",
+          "label": "馬可福音 3:18 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 116525,
+          "content_id": 469021,
+          "resource_code": "Unknown",
+          "label": "馬可福音 5:41 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 116857,
+          "content_id": 469353,
+          "resource_code": "Unknown",
+          "label": "馬可福音 7:11 (#6)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 116960,
+          "content_id": 469456,
+          "resource_code": "Unknown",
+          "label": "馬可福音 7:34 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 117659,
+          "content_id": 470155,
+          "resource_code": "Unknown",
+          "label": "馬可福音 11:9 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 117669,
+          "content_id": 470165,
+          "resource_code": "Unknown",
+          "label": "馬可福音 11:10 (#6)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 118424,
+          "content_id": 470920,
+          "resource_code": "Unknown",
+          "label": "馬可福音 14:36 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 118686,
+          "content_id": 471182,
+          "resource_code": "Unknown",
+          "label": "馬可福音 15:22 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 118729,
+          "content_id": 471225,
+          "resource_code": "Unknown",
+          "label": "馬可福音 15:34 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 203024,
+          "content_id": 566355,
+          "resource_code": "Unknown",
+          "label": "約珥書 3:2 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 136742,
+          "content_id": 566720,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 1:19 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 138447,
+          "content_id": 568421,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 13:8 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139031,
+          "content_id": 569005,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 17:19 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 203057,
+          "content_id": 566388,
+          "resource_code": "Unknown",
+          "label": "約珥書 3:12 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 203082,
+          "content_id": 566413,
+          "resource_code": "Unknown",
+          "label": "約珥書 3:18 (#7)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139567,
+          "content_id": 569541,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 21:38 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139975,
+          "content_id": 569949,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 27:14 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 188440,
+          "content_id": 616227,
+          "resource_code": "Unknown",
+          "label": "出埃及記 6:3（#1）",
+          "language": "zht"
+        },
+        {
+          "reference_id": 189762,
+          "content_id": 617549,
+          "resource_code": "Unknown",
+          "label": "出埃及記 28:30 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 170045,
+          "content_id": 651619,
+          "resource_code": "Unknown",
+          "label": "創世記 6:14 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 147255,
+          "content_id": 692949,
+          "resource_code": "Unknown",
+          "label": "馬太福音 1:23 (#5)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 147701,
+          "content_id": 693395,
+          "resource_code": "Unknown",
+          "label": "馬太福音 5:22 (#9)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 148577,
+          "content_id": 694653,
+          "resource_code": "Unknown",
+          "label": "馬太福音 10:4 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 149934,
+          "content_id": 701184,
+          "resource_code": "Unknown",
+          "label": "馬太福音 16:17 (#5)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 150708,
+          "content_id": 701958,
+          "resource_code": "Unknown",
+          "label": "馬太福音 21:9 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 150739,
+          "content_id": 701989,
+          "resource_code": "Unknown",
+          "label": "馬太福音 21:15 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 152231,
+          "content_id": 748745,
+          "resource_code": "Unknown",
+          "label": "馬太福音 27:33 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 152279,
+          "content_id": 748793,
+          "resource_code": "Unknown",
+          "label": "馬太福音 27:46 (#6)",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]
