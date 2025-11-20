@@ -2,11 +2,12 @@
   {
     "content_id": 781736,
     "reference_id": 26811,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "عملية الترجمة",
     "media_type": "Text",
     "index_reference": "عملية الترجمة",
     "language": "arb",
+    "review_level": "None",
     "content": "<h3>كيف تترجم؟</h3><p>هناك أمران أساسيان في كل عملية ترجمة:</p><ol><li><p>اكتشاف المعنى في نص اللغة الأصلية (انظر <span data-bnType=\"resourceReference\" data-resourceId=\"26790\" data-resourceType=\"UWTranslationManual\">اكتشف معنى النص</span>.)</p></li><li><p>إعادة صياغة المعنى في الترجمة إلى اللغة المستهدفة (انظر <span data-bnType=\"resourceReference\" data-resourceId=\"26812\" data-resourceType=\"UWTranslationManual\">إعادة صياغة المعنى</span>.)</p></li></ol><p>غالبًا ما تقوم تعليمات الترجمة بتقسيم هذين الجانبين إلى خطوات فرعية أصغر، من أجل تسهيل تنفيذها بدقة ووضوح. الصورة التالية توضّح كيف يرتبط هذان العنصران الرئيسيان معًا ضمن عملية الترجمة الكاملة.</p>",
     "associations": {
       "passage": [],

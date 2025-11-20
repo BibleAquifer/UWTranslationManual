@@ -2,11 +2,12 @@
   {
     "content_id": 781785,
     "reference_id": 209466,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "مقدمة في النشر",
     "media_type": "Text",
     "index_reference": "مقدمة في النشر",
     "language": "arb",
+    "review_level": "None",
     "content": "<h3>نظرة عامة على النشر</h3><p>بمجرد رفع عملك وتحميله على منصة Door43، يصبح متاحًا تلقائيًا على الإنترنت تحت حساب المستخدم الخاص بك، ويُشار إلى هذا بـ &quot;النشر الذاتي&quot;. سيكون لديك إمكانية الوصول إلى نسخة ويب من مشروعك على الرابط: https://door43.org/u/user_name/project_name (حيث يمثل user_name اسم المستخدم الخاص بك وproject_name اسم مشروع الترجمة الخاص بك). سيوفران لك كل من برنامجي translationStudio وtranslationCore الرابط الصحيح عند التحميل ورفع المشروع. يمكنك أيضًا استعراض جميع الأعمال على https://door43.org.</p><ul><li><p>رؤية النسخة الإلكترونية من مشروعك بالتنسيق الافتراضي</p></li><li><p>تحميل مستندات مشروعك (مثل ملف PDF)</p></li><li><p>الحصول على روابط الملفات المصدرية (USFM أو Markdown) الخاصة بمشروعك</p></li><li><p>التفاعل مع الآخرين بشأن مشروعك</p></li><li><p>الاستمرار في تعديل مشروعك وتحسينه وتتبع جميع التغييرات</p></li></ul><p>لمعرفة المزيد حول توزيع مشروعك للآخرين، راجع قسم <span data-bnType=\"resourceReference\" data-resourceId=\"209467\" data-resourceType=\"UWTranslationManual\">التوزيع</span>.</p>",
     "associations": {
       "passage": [],

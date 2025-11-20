@@ -2,11 +2,12 @@
   {
     "content_id": 727587,
     "reference_id": 209476,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Pelatihan Sebelum Memulai Pemeriksaan",
     "media_type": "Text",
     "index_reference": "pelatihan sebelum memulai pemeriksaan",
     "language": "ind",
+    "review_level": "None",
     "content": "<h3>Sebelum Pemeriksaan</h3><p>Anda disarankan untuk membaca <span data-bnType=\"resourceReference\" data-resourceId=\"209464\" data-resourceType=\"UWTranslationManual\">Panduan Pemeriksaan</span> sesering mungkin ketika Anda memeriksa hasil terjemahan Anda. Sebelum Anda mulai memeriksa, kami sarankan agar Anda mulai mempelajari Panduan Pemeriksaan sampai Anda memahami apa yang diperlukan untuk setiap pemeriksaan. Ketika Anda mengerjakan proses pengecekan, Anda harus sering membaca Panduan Pengecekan.</p><p>Beberapa informasi yang harus diketahui oleh tim penerjemah sebelum Anda mulai memeriksa:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209460\" data-resourceType=\"UWTranslationManual\">Tujuan Pemeriksaan</span> — Apa tujuan pemeriksaan?</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209465\" data-resourceType=\"UWTranslationManual\">Pengantar Pemeriksaan Terjemahan</span> — Mengapa kita memerlukan tim untuk memeriksa terjemahan?</p></li></ul>",
     "associations": {
       "passage": [],

@@ -2,11 +2,12 @@
   {
     "content_id": 806704,
     "reference_id": 26786,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "聖經中的錢",
     "media_type": "Text",
     "index_reference": "聖經中的錢",
     "language": "zht",
+    "review_level": "None",
     "content": "<h3>說明</h3><p>在早期的舊約聖經時代，人們會稱量金屬——如銀和金，並支付一定重量的金屬來購買物品。後來，人們開始製造每枚含有一定標準金屬量的硬幣。達利克（daric）就是這樣的一種硬幣。在新約聖經時代，人們使用銀幣和銅幣。</p><p>下表顯示了舊約聖經（舊約）和新約聖經（新約）中一些最著名的貨幣單位。舊約聖經的表格顯示了使用的金屬種類及其重量。新約聖經的表格則顯示了使用的金屬種類及其相當於一天工資的價值。</p><p><table><tr><td> 舊約聖經中的單位 </td><td> 金屬 </td><td> 重量 </td></tr><tr><td> -------- </td><td> -------- </td><td> -------- </td></tr><tr><td> 達利克 </td><td> 金幣 </td><td> 8.4公克 </td></tr><tr><td> 舍客勒 </td><td> 各種金屬 </td><td> 11公克 </td></tr><tr><td> 他連得 </td><td> 各種金屬 </td><td> 33公斤 </td><td></td></tr></table></p><p><table><tr><td> 新約聖經中的單位 </td><td> 金屬 </td><td> 一天的工資 </td></tr><tr><td> -------- </td><td> -------- </td><td> -------- </td></tr><tr><td> 得拿利 </td><td> 銀幣 </td><td> 1天 </td></tr><tr><td> 德拉克馬 </td><td> 銀幣 </td><td> 1天 </td></tr><tr><td> 小錢 </td><td> 銅幣 </td><td> 1/64 天 </td></tr><tr><td> 舍客勒 </td><td> 銀幣 </td><td> 4 天 </td></tr><tr><td> 他連得 </td><td> 銀 </td><td> 6,000天 </td><td></td></tr></table></p><h1>翻譯原則</h1><p>不要使用現代貨幣的價值，因為這些價值每年都會變化。使用它們會導致聖經翻譯過時且不準確。</p><h3>翻譯的方法</h3><p>在舊約聖經中，大多數貨幣的價值是基於其重量。因此，在翻譯舊約聖經中的這些重量時，請見<span data-bnType=\"resourceReference\" data-resourceId=\"26788\" data-resourceType=\"UWTranslationManual\">聖經中的重量</span>。以下的方法則用於翻譯新約聖經中的貨幣價值。</p><p>（1）使用聖經中的用語，並以類似其發音的方式來拼寫。（見<span data-bnType=\"resourceReference\" data-resourceId=\"26821\" data-resourceType=\"UWTranslationManual\">複製或借用詞彙</span>。）（2）描述金錢的價值，並說明它是由什麼金屬製成的以及用了多少硬幣。（3） 以聖經時代人們一天工作所能賺取的金額來描述這筆錢的價值。（4）使用聖經中的用語，並在正文或註腳中提供等值的金額。（5）使用聖經中的用語，並在註腳中解釋。</p><h3>翻譯方法的應用</h3><p>以下是將所有翻譯的方法應用於路加福音七章41節</p><p>一個欠五百得拿利，另一個欠五十（譯註：和合本譯為「一個欠五十兩銀子，一個欠五兩銀子」）（路7:41b）</p><ol><li><p>使用聖經中的用語，並以類似其發音的方式來拼寫。（見<span data-bnType=\"resourceReference\" data-resourceId=\"26821\" data-resourceType=\"UWTranslationManual\">複製或借用詞彙</span>。）</p></li></ol><p>「一個欠<strong>五百得拿利</strong>，另一個欠<strong>五十</strong>。」</p><ol start=\"2\"><li><p>描述金錢的價值，並說明它是由什麼金屬製成的以及用了多少硬幣。</p></li></ol><p>「一個欠<strong>五百銀幣</strong>，另一個欠<strong>五十</strong>。」</p><p>（3） 以聖經時代人們一天工作所能賺取的金額來描述這筆錢的價值。</p><p>「一個欠<strong>五百天的工資</strong>，另一個欠<strong>五十天</strong>。」</p><p>（4） 使用聖經用語，並在正文或註腳中提供等值的金額。</p><p>「一個欠<strong>五百得拿利 </strong>1，另一個欠<strong>五十得拿利 </strong>2。」</p><p>註腳看起來會是這樣：</p><p>[1] 五百天的工資 [2] 五十天的工資</p><p>（5）使用聖經的用語，並在註腳中解釋。</p><p>「一個欠<strong>五百得拿利</strong> 1，另一個欠<strong>五十</strong>。」</p><p>[1] 一得拿利是人們一天工作可以賺取的銀子。</p>",
     "associations": {
       "passage": [],

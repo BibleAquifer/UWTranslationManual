@@ -2,11 +2,12 @@
   {
     "content_id": 806721,
     "reference_id": 209475,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "選擇翻譯平台",
     "media_type": "Text",
     "index_reference": "選擇翻譯平台",
     "language": "zht",
+    "review_level": "None",
     "content": "<h3>推薦的平台</h3><p>在Door43線上社群中，我們建議使用translationStudio（https://ufw.io/ts/）作為起草聖經翻譯的平台，並採用translationCore（https://ufw.io/tc/）來檢查聖經翻譯。你可以在Android、Windows、Mac或Linux的設備上設置translationStudio（更多資訊請見<span data-bnType=\"resourceReference\" data-resourceId=\"209484\" data-resourceType=\"UWTranslationManual\">設置 translationStudio</span>）。你可以在Windows、Mac或Linux的設備上設置 translationCore。這些平台皆可免費下載使用，並支援以USFM格式匯入與匯出聖經書卷。</p><h3>其它選擇</h3><p>如果你的團隊無法使用translationStudio，則可以考慮使用其它線上或離線工具。請注意，如果你不使用translationStudio，也可以使用其它聖經翻譯軟體；但這樣做的話，<span>你需要負責確保你的翻譯內容是USFM格式</span>（更多資訊請見<span data-bnType=\"resourceReference\" data-resourceId=\"26736\" data-resourceType=\"UWTranslationManual\">檔案格式</span>）。</p>",
     "associations": {
       "passage": [],

@@ -2,11 +2,12 @@
   {
     "content_id": 727600,
     "reference_id": 209489,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Pemeriksaan Potongan Lisan secara Tim",
     "media_type": "Text",
     "index_reference": "pemeriksaan potongan lisan secara tim",
     "language": "ind",
+    "review_level": "None",
     "content": "<p>Untuk memeriksa terjemahan suatu bagian atau pasal sebagai sebuah tim, lakukan Pemeriksaan Potongan Lisan Tim (A Team Oral Chunk Check). Untuk melakukan ini, setiap penerjemah akan membacakan terjemahannya dengan lantang kepada anggota tim lainnya. Di akhir setiap bagian, penerjemah akan berhenti sehingga tim dapat mendiskusikan bagian tersebut. Idealnya, setiap terjemahan yang telah tertulis tayangkan, sehingga semua orang dapat melihatnya sementara penerjemah membaca teks secara lisan.</p><p>Tugas anggota tim dibagi—penting agar setiap anggota tim hanya memainkan salah satu peran berikut dalam satu waktu.</p><ol><li><p>Satu atau lebih anggota tim mendengarkan kewajaran. Jika ada sesuatu yang tidak wajar, di akhir membaca bagian tersebut, mereka merekomendasikan cara yang lebih alami untuk mengatakannya.</p></li><li><p>Satu atau lebih anggota tim mengikuti teks sumber, mencatat apa pun yang ditambahkan, hilang, atau diubah. Di akhir pembacaan potongan tersebut, mereka mengingatkan tim bahwa ada sesuatu yang ditambahkan, hilang, atau diubah.</p></li><li><p>Anggota tim lainnya mengikuti mode laporan TranslationCore, mencatat semua istilah kunci yang disorot dalam teks sumber. Tim kemudian mendiskusikan istilah-istilah kunci dalam terjemahan yang tampaknya tidak konsisten atau tidak tepat, serta masalah-masalah lain yang muncul dalam bacaan tersebut. Jika mode ini tidak tersedia, anggota tim ini dapat mencari istilah-istilah kunci pada lembar kerja istilah kunci tim.</p></li></ol><p>Langkah-langkah ini dapat diulang seperlunya sampai tim puas dengan terjemahannya.</p><p>Pada titik ini, terjemahan dianggap sebagai draf pertama, dan tim juga perlu melakukan hal berikut.</p><ol><li><p>Seseorang di tim penerjemah perlu memasukkan teks ke dalam TranslationStudio. Jika tim sudah menggunakan TranslationStudio dari awal penyusunan, maka yang perlu dimasukkan saat ini hanyalah perubahan yang dilakukan tim.</p></li><li><p>Rekaman audio baru harus dibuat dari terjemahan tersebut, yang menggabungkan semua perubahan dan perbaikan yang telah dilakukan tim.</p></li><li><p>File TranslationStudio dan rekaman audio harus diunggah ke repositori tim di Door43.</p></li></ol>",
     "associations": {
       "passage": [],

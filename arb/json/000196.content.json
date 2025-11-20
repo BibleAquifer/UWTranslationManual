@@ -2,11 +2,12 @@
   {
     "content_id": 781777,
     "reference_id": 209458,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "كيفية التحقق من التنسيق الجيد",
     "media_type": "Text",
     "index_reference": "كيفية التحقق من التنسيق الجيد",
     "language": "arb",
+    "review_level": "None",
     "content": "<p>هناك خطوات تحقق يمكن القيام بها قبل ترجمة سفر من الكتاب المقدس وأثناءها وبعدها تساعد على تسهيل عملية الترجمة وجعل الترجمة النهائية واضحًة وسهلة القراءة. وقد جُمعت الوحدات التي تتناول هذه المواضيع تحت عنوان &quot;التنسيق والنشر&quot;، لكن ينبغي على فريق الترجمة التفكير فيها واتخاذ قرارات بشأنها طوال عملية الترجمة.</p><h3>قبل البدء في الترجمة</h3><p>يجب على فريق الترجمة اتخاذ قرارات بشأن القضايا التالية قبل بدء الترجمة.</p><ol><li><p>الأبجدية (انظر <span data-bnType=\"resourceReference\" data-resourceId=\"209451\" data-resourceType=\"UWTranslationManual\">الأبجدية الملائمة</span>)</p></li><li><p>الإملاء (انظر <span data-bnType=\"resourceReference\" data-resourceId=\"209486\" data-resourceType=\"UWTranslationManual\">الإملاء المتسق</span>)</p></li><li><p>علامات الترقيم (انظر <span data-bnType=\"resourceReference\" data-resourceId=\"209480\" data-resourceType=\"UWTranslationManual\">علامات الترقيم المتناسقة</span>)</p></li></ol><h3>خلال عملية الترجمة</h3><p>بعد ترجمة عدة إصحاحات، قد يحتاج فريق الترجمة إلى مراجعة بعض هذه القرارات لمعالجة المشكلات التي اكتشفوها أثناء الترجمة. وإذا كانت أداة ParaText متاحة لكم، فيمكنكم أيضًا إجراء فحوصات التناسق من خلالها في هذه المرحلة لرصد أي قرارات إضافية قد تحتاجون إلى اتخاذها بخصوص التهجئة أو علامات الترقيم.</p><h3>بعد الانتهاء من الكتاب</h3><p>بعد الانتهاء من ترجمة سفرٍ ما، يمكنك التأكد من وجود جميع الأعداد، كما يمكنك تحديد العناوين الفرعية للمقاطع. ومن المفيد أيضًا تدوين أفكار لعناوين الأقسام أثناء الترجمة.</p><ol><li><p>ترقيم الآيات (انظر <span data-bnType=\"resourceReference\" data-resourceId=\"209495\" data-resourceType=\"UWTranslationManual\">الترقيم الكامل للآيات</span>)</p></li><li><p>عناوين الأقسام (انظر <span data-bnType=\"resourceReference\" data-resourceId=\"209462\" data-resourceType=\"UWTranslationManual\">عناوين الأقسام</span>)</p></li></ol>",
     "associations": {
       "passage": [],

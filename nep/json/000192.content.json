@@ -2,11 +2,12 @@
   {
     "content_id": 727779,
     "reference_id": 209476,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "जाँच सुरु हुनुअघिको तालिम",
     "media_type": "Text",
     "index_reference": "जाँच सुरु हुनुअघिको तालिम",
     "language": "nep",
+    "review_level": "None",
     "content": "<h3>जाँच सुरु गर्नुअघि</h3><p>यो सामाग्रीको जाँच गर्ने क्रममा बारम्बार <span data-bnType=\"resourceReference\" data-resourceId=\"209464\" data-resourceType=\"UWTranslationManual\">जाँच नियमावली</span>को सहायता लिनुहोस् । जाँच सुरु गर्नुअघि हरेक तहको आवश्यकता के रहेछ भन्‍ने कुरा नजानुञ्‍जेल सम्मको निम्ति जाँच नियमावली अध्ययन गर्नुहोस् । जाँच प्रक्रियाको क्रममा जाँच नियमावलीलाई बारम्बार हेर्नुपर्ने हुन्छ ।</p>",
     "associations": {
       "passage": [],

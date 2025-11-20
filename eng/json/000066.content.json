@@ -2,11 +2,12 @@
   {
     "content_id": 33308,
     "reference_id": 26722,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Reduplication",
     "media_type": "Text",
     "index_reference": "reduplication",
     "language": "eng",
+    "review_level": "None",
     "content": "<p>This is a placeholder for an article to be written about reduplication in the biblical text, such as infinitive-absolute + indicative or other repeated words.</p><h3>Description</h3><h3>Reason This Is a Translation Issue</h3><h3>Examples From the Bible</h3><p>Begin, possess, to possess his land (Deut 2:31 ULT)</p><h3>Translation Strategies</h3><h3>Examples of Translation Strategies Applied</h3>",
     "associations": {
       "passage": [],

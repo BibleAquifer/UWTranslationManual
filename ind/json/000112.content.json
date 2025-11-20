@@ -2,11 +2,12 @@
   {
     "content_id": 727580,
     "reference_id": 209469,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Formulir Evaluasi Pemeriksa Kualitas",
     "media_type": "Text",
     "index_reference": "formulir evaluasi pemeriksa kualitas",
     "language": "ind",
+    "review_level": "None",
     "content": "<h3>Formulir Evaluasi Pemeriksa Kualitas</h3><p>Saya sebagai Pemeriksa Kualitas * <u>isikan nama jaringan gereja atau organisasi lain</u> * Jaringan Gereja atau Organisasi yang melayani * <u>isikan nama komunitas bahasa</u> * bahasa komunitas, tegaskan bahwa saya telah memeriksa terjemahan * <u>isikan nama bagian Alkitab yang diperiksa</u> * dengan anggota Tim Penerjemah, dan tegaskan juga hal-hal berikut:</p><ol><li><p>Terjemahannya sesuai dengan Pernyataan Iman dan Pedoman Penerjemahan.</p></li><li><p>Terjemahannya akurat dan jelas dalam bahasa sasaran.</p></li><li><p>Penerjemahan menggunakan gaya bahasa yang dapat diterima.</p></li><li><p>Komunitas menyetujui terjemahan tersebut.</p></li></ol><p>Jika ada masalah yang belum terselesaikan setelah bertemu dengan Tim Penerjemah untuk kedua kalinya, harap catat masalah tersebut di sini.</p><p>Tanda tangan: <u>tanda tangan di sini</u></p><p>Jabatan: <u>diisi jabatan di sini</u></p><p>Untuk Bahasa Gateway, Anda harus mengikuti <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://gl-manual.readthedocs.io/en/latest/gl_checking.html#source-text-creation\">Proses Teks Sumber</a> agar terjemahan Anda dapat menjadi sumber teks.</p>",
     "associations": {
       "passage": [],

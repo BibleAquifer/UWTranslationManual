@@ -2,11 +2,12 @@
   {
     "content_id": 781776,
     "reference_id": 209457,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "البحث عن إجابات",
     "media_type": "Text",
     "index_reference": "البحث عن إجابات",
     "language": "arb",
+    "review_level": "None",
     "content": "<h3>كيفية الحصول على الأجوبة</h3><p>توجد العديد من الموارد المتاحة للحصول على إجابات للأسئلة:</p><ul><li><p><strong>أكاديمية الترجمة unfoldingWord®</strong> — هذا الدليل التدريبي متاح على الموقع التالي <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://ufw.io/ta\">https://ufw.io/ta</a> ويحتوي على العديد من المعلومات بما في ذلك:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209488\" data-resourceType=\"UWTranslationManual\">المقدمة</span> — تقدم هذه الموارد استراتيجية لغات البوابة والترجمة. </p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209478\" data-resourceType=\"UWTranslationManual\">دليل الإجراءات</span>— يجيب عن السؤال &quot;ما هي الخطوة التالية؟&quot;</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">دليل الترجمة</span> — يشرح أساسيات نظرية الترجمة ويقدم مساعدات عملية للترجمة.</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209464\" data-resourceType=\"UWTranslationManual\">فحص الدليل</span> — يشرح أساسيات نظريات المراجعة وأفضل الممارسات المتبعة.</p></li></ul></li><li><p><strong>منتدى Door43</strong> — هو مكان لطرح الأسئلة والحصول على إجابات حول القضايا التقنية والاستراتيجية والترجمة والتحقق، <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://forum.door43.org/\">https://forum.door43.org/</a></p></li><li><p><strong>مكتب المساعدة</strong> — يُرجى إرسال بريد إلكتروني إلى <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:help@door43.org\">help@door43.org</a> لطرح استفساراتك</p></li></ul>",
     "associations": {
       "passage": [],

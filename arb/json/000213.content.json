@@ -2,11 +2,12 @@
   {
     "content_id": 781794,
     "reference_id": 209475,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "اختيار منصة الترجمة",
     "media_type": "Text",
     "index_reference": "اختيار منصة الترجمة",
     "language": "arb",
+    "review_level": "None",
     "content": "<h3>المنصة الموصى بها</h3><p>المنصة الموصى بها لصياغة ترجمات الكتاب المُقَدَّس في مجتمع Door43 عبر الإنترنت هي translationStudio (https://ufw.io/ts/). أما المنصة الموصى بها للمراجعة والتحقق من ترجمات الكتاب المُقَدَّس فهي translationCore (https://ufw.io/tc/). يمكنك إعداد (تثبيت) translationStudio على أجهزة أندرويد Android أو ويندوز Windows أو ماك Mac أو لينوكس Linux (انظر <span data-bnType=\"resourceReference\" data-resourceId=\"209484\" data-resourceType=\"UWTranslationManual\">إعداد translationStudio</span> لمزيد من المعلومات). كما يمكنك إعداد translationCore على أجهزة Windows أو Mac أو Linux. هذه المنصات متاحة مجانًا للتنزيل والاستخدام. وهي تقوم بتحميل ورفع نُسخ الكتاب المُقَدَّس بتنسيق USFM.</p><h3>خيارات أخرى</h3><p>إذا لم يكن استخدام translationStudio خيارًا لفريقك، يمكنك التفكير في استخدام أدوات أخرى عبر الإنترنت أو دون استخدام الإنترنت. يرجى ملاحظة أنه: إذا لم تستخدم translationStudio وترغب في استخدام برامج ترجمة الكتاب المُقَدَّس الأخرى، فستكون مسؤوليتك التأكد من أن المحتوى المُترجَم الخاص بك بتنسيق USFM (انظر <span data-bnType=\"resourceReference\" data-resourceId=\"26736\" data-resourceType=\"UWTranslationManual\">تنسيقات الملفات</span> لمزيد من المعلومات).</p>",
     "associations": {
       "passage": [],

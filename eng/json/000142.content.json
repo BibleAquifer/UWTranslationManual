@@ -2,11 +2,12 @@
   {
     "content_id": 33384,
     "reference_id": 26798,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Making a Key Terms Spreadsheet",
     "media_type": "Text",
     "index_reference": "making a key terms spreadsheet",
     "language": "eng",
+    "review_level": "None",
     "content": "<h3>Making a Key Terms Spreadsheet</h3><ul><li><p>Make a list of the key terms in the story or Bible passage that you translate, along with the term that you choose for each of them in the target language. It is best if you can do this on a spreadsheet so that you can list the source word or phrase in one column and the target word or phrase in another column. Further columns could list equivalent terms in other languages and the references where these terms occur in the Bible. Make sure that everyone translating Bible books that use these terms has access to the spreadsheet, or a chart on paper, so that you can all use the same words or phrases in your translation.</p></li><li><p>Use the list of words and definitions in the unfoldingWord® translation Words resource to help you to make a list of these words and to understand what they mean. The translationStudio tool will show you these words and their definitions as you encounter them in the source text, and the translationWords tool in translationCore will give you a list of all of the key terms in each book of the Bible.</p></li><li><p>Each time the key word occurs in the source text, make sure that the term you have chosen for the translation still makes sense in that context. If it does not, discuss the problem with others on the translation team and try to find a solution together. You may need to use a different term, or you may need to use more than one term for the different contexts, or you may need to find another way to communicate the term that includes all of the meanings, such as using a longer phrase.</p></li><li><p>When you have decided that you need to use different target language words or phrases to translate one source language word in different contexts, then make a new line on the spreadsheet for each different way that you are translating the source word. Repeat the source term in the source column, and put the new translation in the next column, under the first translation. Share this spreadsheet with everyone on the translation team so that they can choose the right translation for the key term in the context that they are translating.</p></li></ul>",
     "associations": {
       "passage": [],

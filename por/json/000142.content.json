@@ -2,11 +2,12 @@
   {
     "content_id": 800163,
     "reference_id": 26798,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Fazendo uma planilha de termos-chave",
     "media_type": "Text",
     "index_reference": "fazendo uma planilha de termos-chave",
     "language": "por",
+    "review_level": "None",
     "content": "<h3>Criando uma planilha de termos-chave</h3><ul><li><p>Crie uma lista de termos-chave na história ou passagem bíblica que você traduz, junto com o termo escolhido para cada um deles no idioma alvo. É preferível que você faça isso em uma planilha, permitindo listar a palavra ou frase de origem em uma coluna e a palavra ou frase alvo em outra coluna. Colunas adicionais podem listar termos equivalentes em outros idiomas e as referências onde esses termos ocorrem na Bíblia. Garanta que todos que traduzem livros bíblicos que utilizam esses termos tenham acesso à planilha, ou a um gráfico em papel, para que todos possam usar as mesmas palavras ou frases em sua tradução.</p></li><li><p>Utilize a lista de palavras e definições no recurso de Palavras de Tradução unfoldingWord® para ajudá-lo a compilar uma lista dessas palavras e compreender seus significados. A ferramenta translationStudio exibirá essas palavras e suas definições à medida que você as encontrar no texto fonte, e a ferramenta translationWords no translationCore fornecerá uma lista de todos os termos-chave em cada livro da Bíblia.</p></li><li><p>Cada vez que a palavra-chave aparecer no texto original, certifique-se de que o termo escolhido para a tradução ainda faça sentido nesse contexto. Se não fizer, discuta o problema com outros membros da equipe de tradução e tentem encontrar uma solução juntos. Pode ser necessário usar um termo diferente, ou talvez seja preciso usar mais de um termo para os diferentes contextos, ou ainda encontrar outra maneira de comunicar o termo que inclua todos os significados, como usar uma frase mais longa.</p></li><li><p>Quando decidir que precisa usar palavras ou frases diferentes no idioma alvo para traduzir uma palavra do idioma de origem em diferentes contextos, faça uma nova linha na planilha para cada maneira diferente de traduzir a palavra de origem. Repita o termo de origem na coluna de origem e coloque a nova tradução na próxima coluna, abaixo da primeira tradução. Compartilhe esta planilha com toda a equipe de tradução para que possam escolher a tradução correta para o termo-chave no contexto que estão traduzindo.</p></li></ul>",
     "associations": {
       "passage": [],

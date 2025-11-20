@@ -2,11 +2,12 @@
   {
     "content_id": 727837,
     "reference_id": 26814,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "स्रोत खण्‍डको छनोट",
     "media_type": "Text",
     "index_reference": "स्रोत खण्‍डको छनोट",
     "language": "nep",
+    "review_level": "None",
     "content": "<h3>स्रोत खण्‍डको लागि विचार गर्नुपर्ने कुराहरू</h3><p>स्रोत खण्‍डको छनोट गर्दा, त्यहाँ थुप्रै कुराहरू छन् जसको विचार गरिनुपर्छः</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209487\" data-resourceType=\"UWTranslationManual\"><strong>विश्‍वासको कथन</strong></span> - के खण्‍ड विश्‍वासको कथनसँग मेल खान्छ ?</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209492\" data-resourceType=\"UWTranslationManual\"><strong>अनुवादका मार्गदर्शनहरू</strong></span> - के खण्‍ड अनुवादका मार्गदर्शनहरूसँग मेल खान्छ ?</p></li><li><p><strong>भाषा</strong> - के खण्‍ड सुहाउँदो भाषामा छ जसलाई अनुवादकहरू र जाँच गर्नेहरूले राम्ररी बुझ्‍छन् ?</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26813\" data-resourceType=\"UWTranslationManual\"><strong>प्रतिलिप अधिकारहरू, अनुमतिपत्रहरू, र स्रोत खण्‍डहरू</strong></span> - के खण्‍ड त्यस्तो एउटा अनुमतिपत्र अन्तर्गत ल्याइएको छ जसले पर्याप्‍त कानुनी स्वतन्त्रता प्रदान गर्छ ?</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26815\" data-resourceType=\"UWTranslationManual\"><strong>स्रोत खण्‍डहरू र संस्करण सङ्ख्याहरू</strong></span> - के खण्‍ड सबैभन्दा पछिल्‍लो आएको, सबैभन्दा पछि अद्यावधिक गरएको हो ?</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26808\" data-resourceType=\"UWTranslationManual\"><strong>मूल र स्रोत भाषाहरू</strong></span> - के अनुवाद टोलीले स्रोत भाषाहरू र मूल भाषाहरूको बीचमा भएको भिन्‍नतालाई बुझ्‍छन् ?</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26803\" data-resourceType=\"UWTranslationManual\"><strong>मूल पाण्‍डुलिपिहरू</strong></span> - के अनुवाद टोलीले मूल पाण्‍डुलिपिहरू र <span data-bnType=\"resourceReference\" data-resourceId=\"26819\" data-resourceType=\"UWTranslationManual\">खण्‍डमा हुने भिन्‍नताहरू</span>को बारेमा बुझ्‍छन् ?</p></li></ul><p>यो महत्त्वपूर्ण छ कि भाषा समूहमा भएका मण्‍डलीहरूका अगुवाहरूले त्यो स्रोत खण्‍ड राम्रो हो भन्‍ने कुरामा सहमत होऊन् । खुला बाइबल कथाहरू थुप्रै स्रोत भाषाहरूमा http://ufw.io/stories/ मा उपलब्ध छन् । त्यहाँ अनुवादका लागि स्रोतहरूको रूपमा प्रयोग गरिनलाई अङ्ग्रेजीमा बाइबलका अनुवादहरू पनि छन्, र साथै अरू भाषाहरूमा पनि चाँडै हुनेछन् ।</p>",
     "associations": {
       "passage": [],
