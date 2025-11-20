@@ -2,11 +2,12 @@
   {
     "content_id": 800115,
     "reference_id": 26750,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Honoríficos",
     "media_type": "Text",
     "index_reference": "honoríficos",
     "language": "por",
+    "review_level": "None",
     "content": "<h3>Descrição</h3><p>Este é o espaço reservado para um artigo sobre a discussão de honoríficos na literatura bíblica. Este artigo ainda está em desenvolvimento.</p><h1>Razões pelas quais isso é um problema de tradução:</h1><p>Texto</p><h3>Exemplos da Bíblia</h3><p>Texto</p><h3>Estratégias de tradução</h3><p>Texto</p><h3>Exemplos de estratégias de tradução aplicadas</h3><p>Texto</p>",
     "associations": {
       "passage": [],

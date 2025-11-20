@@ -2,11 +2,12 @@
   {
     "content_id": 781727,
     "reference_id": 26802,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "مقدمة دليل الترجمة",
     "media_type": "Text",
     "index_reference": "مقدمة دليل الترجمة",
     "language": "arb",
+    "review_level": "None",
     "content": "<h3>ما الذي يُعلِّمه دليل الترجمة؟</h3><p>يُقدّم هذا الدليل نظرية الترجمة ويُعلّم كيفية إعداد ترجمة جيدة إلى اللغات الأخرى (OLs). تنطبق بعض مبادئ الترجمة الواردة في هذا الدليل أيضًا على ترجمة لغات البوابة (GLs). وللحصول على تعليمات محددة حول كيفية ترجمة مجموعة أدوات الترجمة الخاصة بلغات البوابة، يُرجى الرجوع إلى <strong><u>دليل لغة البوابة</u></strong>. سيكون من المفيد جدًا دراسة العديد من هذه الوحدات قبل بدء أي نوع من مشاريع الترجمة، بينما توجد وحدات أخرى (مثل تلك المتعلقة بالقواعد اللغوية) يُمكن الرجوع إليها عند الحاجة فقط، أي &quot;التعلُّم الفوري&quot;.</p><p>بعض النقاط البارزة والهامة في دليل الترجمة:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26759\" data-resourceType=\"UWTranslationManual\">تعريف الترجمة الجيدة</span> — تعريف ما يجعل الترجمة جيدة</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26811\" data-resourceType=\"UWTranslationManual\">عملية الترجمة </span>— كيفية الوصول إلى ترجمة جيدة</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26669\" data-resourceType=\"UWTranslationManual\">اختيار فريق الترجمة</span> — أمور يجب أخذها في الاعتبار قبل بدء مشروع الترجمة</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">اختيار ما يجب البدء بترجمته</span> — من أين تبدأ الترجمة</p></li></ul>",
     "associations": {
       "passage": [],

@@ -2,11 +2,12 @@
   {
     "content_id": 727597,
     "reference_id": 209486,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Mengeja secara Konsisten",
     "media_type": "Text",
     "index_reference": "mengeja secara konsisten",
     "language": "ind",
+    "review_level": "None",
     "content": "<p>Agar pembaca dapat membaca dan memahami terjemahannya dengan mudah, penting bagi Anda (penerjemah) untuk mengeja kata secara konsisten. Hal ini akan sulit dilakukan jika tidak ada tradisi penulisan atau ejaan dalam bahasa target. Ketika ada beberapa orang yang mengerjakan bagian terjemahan yang berbeda, mereka mungkin mengeja kata yang sama secara berbeda satu sama lain. Oleh karena itu, penting bagi tim penerjemah untuk bertemu bersama sebelum mereka mulai menerjemahkan untuk membicarakan rencana mereka mengeja kata.</p><p>Sebagai sebuah tim, diskusikan kata-kata yang sulit dieja. Jika kata-kata tersebut mempunyai bunyi yang sulit untuk diucapkan, maka Anda mungkin perlu melakukan perubahan pada sistem penulisan yang Anda gunakan (lihat [Abjad/Ortografi](../../translate/translate-alphabet/01 .md)). Jika bunyi dalam kata dapat diucapkan dengan cara yang berbeda, maka tim harus menyepakati cara mengejanya. Buatlah daftar ejaan kata-kata ini yang disepakati dalam urutan abjad. Pastikan setiap anggota tim mempunyai salinan daftar ini sehingga mereka dapat berkonsultasi ketika menerjemahkan. Tambahkan kata-kata sulit lainnya ke dalam daftar saat Anda menemukannya, dan pastikan kata-kata tersebut ditambahkan ke daftar semua orang dengan ejaan yang sama. Mungkin berguna untuk menggunakan lembar kerja untuk memelihara daftar ejaan Anda. Ini dapat dengan mudah diperbarui dan dibagikan secara elektronik, atau dicetak secara berkala.</p><p>Nama-nama orang dan tempat dalam Alkitab mungkin sulit untuk dieja karena banyak di antaranya tidak diketahui dalam bahasa sasaran. Pastikan untuk memasukkan ini ke dalam daftar ejaan Anda.</p><p>Komputer dapat sangat membantu dalam memeriksa ejaan. Jika Anda menggunakan Bahasa Gateway, pengolah kata mungkin sudah memiliki kamus. Jika Anda menerjemahkan ke Bahasa Lain, Anda dapat menggunakan fitur &quot;cari&quot; dan &quot;ganti&quot; pada pengolah kata untuk memperbaiki kata yang salah eja. ParaText juga memiliki fitur pemeriksa ejaan yang akan menemukan semua varian ejaan kata. Ini akan menyajikannya kepada Anda, dan kemudian Anda dapat memilih ejaan mana yang ingin Anda gunakan.</p>",
     "associations": {
       "passage": [],

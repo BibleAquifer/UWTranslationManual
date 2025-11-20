@@ -2,11 +2,12 @@
   {
     "content_id": 727446,
     "reference_id": 26811,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "अनुवाद प्रक्रिया",
     "media_type": "Text",
     "index_reference": "अनुवाद प्रक्रिया",
     "language": "hin",
+    "review_level": "None",
     "content": "<h3>अनुवाद कैसे करें</h3><p>अनुवाद में दो बातें करनी होती हैं:</p><ol><li><p>स्रोत भाषा के मूलपाठ में अर्थ खोजें (देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26790\" data-resourceType=\"UWTranslationManual\">मूलपाठ का अर्थ खोजें</span>)</p></li><li><p>लक्षित भाषा के अनुवाद में अर्थ पुन: बताएँ (देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26812\" data-resourceType=\"UWTranslationManual\">अर्थ को पुन: बताएँ</span>)</p></li></ol><p>अनुवाद के लिए निर्देश कभी-कभी इन दोनों बातों को छोटे चरणों में विभाजित करती हैं। नीचे चित्र दिखाते हैं कि ये दोनों अनुवाद प्रक्रिया में कैसे उपयुक्त रूप से आते हैं। !</p>",
     "associations": {
       "passage": [],

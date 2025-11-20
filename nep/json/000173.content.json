@@ -2,11 +2,12 @@
   {
     "content_id": 727734,
     "reference_id": 209457,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "उत्तरहरू पत्ता लगाउने",
     "media_type": "Text",
     "index_reference": "उत्तरहरू पत्ता लगाउने",
     "language": "nep",
+    "review_level": "None",
     "content": "<h3>उत्तरहरू कसरी प्राप्‍त गर्ने</h3><p>प्रश्‍नहरूको उत्तर पत्ता लगाउनको निम्ति विभिन्‍न स्रोतहरू उपलब्ध छन्ः</p><ul><li><p><strong>अनुवाद एकेडेमी</strong> - यो तालिम निर्देशिका http://ufw.io/ta मा प्राप्त गर्न सकिन्छ र यसमा निम्‍न जानकारीहरू समावेश गरिएका छन्ः</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209488\" data-resourceType=\"UWTranslationManual\">परिचय</span> - यसले वचन प्रकटीकरण परियोजनाको परिचय दिन्छ ।</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209478\" data-resourceType=\"UWTranslationManual\">प्रक्रिया निर्देशिका</span> - यसले &quot;अब के त? अर्थात् यसपछि के?&quot; भन्‍ने प्रश्‍नको जवाफ दिन्छ ।&quot;</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">अनुवाद निर्देशिका</span> - यसले अनुवादको आधारभूत सिद्धान्तको वर्णन गर्छ र व्यवहारिक अनुवादमा मदत गर्छ ।</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209464\" data-resourceType=\"UWTranslationManual\">जाँच निर्देशिका</span> - यसले जाँचकोआधारभूत सिद्धान्त र उत्तम अभ्यासहरूको वर्णन गर्छ</p></li></ul></li><li><p><strong>स्ल्याक च्याटरुम</strong> - टिम४३ समुदायमा सामेल हुने, “#सहायता डेस्क” च्यालनमा आफ्ना प्रश्‍नहरू पोस्ट गर्ने, आफ्ना प्रश्‍नहरूको वास्तविक समयमा जवाफ प्राप्‍त प्राप्त गर्नुहोस् (http://ufw.io/team43 मा साइनअप गर्नुहोस्)</p></li><li><p><strong>CCBT छलफल फोरम</strong> - यो प्राविधिक, रणनीतिक, अनुवाद र जाँचसम्बन्धि विषयमा प्रश्‍न सोध्‍ने ठाउँ हो, https://forum.ccbt.bible/</p></li><li><p><strong>सहायता डेस्क</strong> - आफ्ना प्रश्‍नहरू <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:help@door43.org\">help@door43.org</a> मा पठाउनुहोस् ।</p></li></ul>",
     "associations": {
       "passage": [],

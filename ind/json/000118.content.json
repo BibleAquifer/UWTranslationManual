@@ -2,11 +2,12 @@
   {
     "content_id": 727586,
     "reference_id": 209475,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Memilih Platform Penerjemahan",
     "media_type": "Text",
     "index_reference": "memilih platform penerjemahan",
     "language": "ind",
+    "review_level": "None",
     "content": "<h3>Platform yang Disarankan</h3><p>Platform yang disarankan untuk menyusun terjemahan Alkitab dalam komunitas online Door43 adalah translationStudio (https://ufw.io/ts/). Platform yang direkomendasikan untuk memeriksa terjemahan Alkitab adalah translationCore (https://ufw.io/tc/). Anda dapat mengatur translationStudio di perangkat Android, Windows, Mac, atau Linux (lihat <span data-bnType=\"resourceReference\" data-resourceId=\"209484\" data-resourceType=\"UWTranslationManual\">Menyiapkan translationStudio</span> untuk informasi lebih lanjut). Anda dapat menyiapkan translationCore di perangkat Windows, Mac, atau Linux. Platform-platform ini gratis untuk diunduh dan digunakan. Platform ini mengimpor dan mengekspor buku-buku Alkitab dalam format USFM.</p><h3>Other Options</h3><p>If using translationStudio is not an option for your team, then you may consider using other online or offline tools. Please note: if you do not use translationStudio but do want to use other Bible translation software, then it will be your responsibility to ensure that your translated content is in USFM format (see <span data-bnType=\"resourceReference\" data-resourceId=\"26736\" data-resourceType=\"UWTranslationManual\">File Formats</span> for more information).</p>",
     "associations": {
       "passage": [],

@@ -2,11 +2,12 @@
   {
     "content_id": 800087,
     "reference_id": 26722,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Reduplicação",
     "media_type": "Text",
     "index_reference": "reduplicação",
     "language": "por",
+    "review_level": "None",
     "content": "<p>Este é um espaço reservado para um artigo que será escrito sobre Reduplicação no texto bíblico, como infinitivo absoluto + indicativo ou outras palavras repetidas.</p><h3>Descrição</h3><h3>Razão pela qual este é um problema de tradução</h3><h3>Exemplos da Bíblia</h3><p>Comece a possuir a sua terra (Dt 2.31)</p><h3>Estratégias de tradução</h3><h3>Exemplos de estratégias aplicadas na tradução</h3>",
     "associations": {
       "passage": [],

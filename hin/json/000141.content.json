@@ -2,11 +2,12 @@
   {
     "content_id": 727433,
     "reference_id": 26797,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "अनुवाद में मदद",
     "media_type": "Text",
     "index_reference": "अनुवाद में मदद",
     "language": "hin",
+    "review_level": "None",
     "content": "<h3>अनुवाद-सहायता का उपयोग करना</h3>",
     "associations": {
       "passage": [],

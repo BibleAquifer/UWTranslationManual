@@ -2,11 +2,12 @@
   {
     "content_id": 806716,
     "reference_id": 209453,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "由教會領袖進行的準確性審查",
     "media_type": "Text",
     "index_reference": "由教會領袖進行的準確性審查",
     "language": "zht",
+    "review_level": "None",
     "content": "<h3>由教會領袖進行的準確性審查</h3><p><span>在譯文經過社群成員檢查其清晰度與自然度之後，接下來將由教會領袖進行準確性審查。以下是針對負責準確性審查之教會領袖的指引：</span>他們應該是譯入語言的母語使用者，<span>並且也能夠很好地理解源語文本聖經的語言</span>。他們不應該是翻譯者。他們應該是熟悉聖經的教會領袖。通常這些審核者是牧師。這些教會領袖應該儘可能代表語言群體中不同的教會網絡。</p><p>這些審核者應該遵循以下步驟：</p><ol><li><p>閱讀<span data-bnType=\"resourceReference\" data-resourceId=\"209492\" data-resourceType=\"UWTranslationManual\">翻譯指南</span>，以確保他們審查的譯文符合這些指南。</p></li><li><p>回答<span data-bnType=\"resourceReference\" data-resourceId=\"26764\" data-resourceType=\"UWTranslationManual\">翻譯者資格</span>中有關翻譯者或者翻譯團隊的問題。</p></li><li><p>透過回答<span data-bnType=\"resourceReference\" data-resourceId=\"209448\" data-resourceType=\"UWTranslationManual\">可接受風格</span>中的問題，確認譯文的風格為目標讀者所能接受。</p></li><li><p>依據<span data-bnType=\"resourceReference\" data-resourceId=\"209449\" data-resourceType=\"UWTranslationManual\">準確性的檢查</span>中的指引，確認譯文準確地傳達了原文的意思。</p></li><li><p>根據<span data-bnType=\"resourceReference\" data-resourceId=\"209456\" data-resourceType=\"UWTranslationManual\">完整的翻譯</span>中的指導，確認該譯文是否完整。</p></li><li><p>在你（準確性審核員）審閱了幾個章節或聖經的一卷書後，請與翻譯團隊會面並<span>逐一詢問你所發現的每個問題</span>。與翻譯團隊討論他們如何調整譯文以解決這些問題。<span>並計畫在他們有時間修改譯文並在群體中測試之後，再與翻譯團隊再次會面。</span></p></li><li><p>再次與翻譯團隊會面，以確認他們已經解決問題。</p></li><li><p>在<span data-bnType=\"resourceReference\" data-resourceId=\"209461\" data-resourceType=\"UWTranslationManual\">準確性確認</span>頁面上確認該翻譯正確。</p></li></ol>",
     "associations": {
       "passage": [],

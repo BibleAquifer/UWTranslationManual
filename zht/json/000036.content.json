@@ -2,11 +2,12 @@
   {
     "content_id": 806708,
     "reference_id": 26814,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "選擇源語文本",
     "media_type": "Text",
     "index_reference": "選擇源語文本",
     "language": "zht",
+    "review_level": "None",
     "content": "<h2><strong>選擇源語文本時的考量因素</strong></h2><p>許多翻譯團隊會在unfoldingWord的直譯文本與簡譯文本之外，再加用一種門戶語言（Gateway Language）的聖經譯本作為額外的源語文本。此第三種文本可作為<span>在門戶語言中如何以自然的方式來表達的</span>參考範例。另一個不錯的選擇是選用一種與譯入語言相關的語言之譯本作為第三（或第四）源語文本。<span>觀察那些譯者如何在這相關語言中清楚而自然地表達其意思會特別有幫助</span>。選擇這個源語文本時，必須考慮下列多項因素：</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209487\" data-resourceType=\"UWTranslationManual\"><strong>信仰宣言</strong></span> — 這個文本是否符合信仰宣言？</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209492\" data-resourceType=\"UWTranslationManual\"><strong>翻譯準則</strong></span> — 這個文本是否符合翻譯準則？</p></li><li><p><strong>語言</strong> — 這個文本是否使用譯者與校對者都熟悉的合適的語言？</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26813\" data-resourceType=\"UWTranslationManual\"><strong>版權、授權與源語文本</strong></span> — 該文本<span>是否具有足夠法律保障的授權</span>？</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26815\" data-resourceType=\"UWTranslationManual\"><strong>源語文本和版本號</strong></span> — &nbsp;這個文本是否為最新的版本？</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26808\" data-resourceType=\"UWTranslationManual\"><strong>原文和源語</strong></span> —翻譯團隊是否明白源語與原文的差異？</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26803\" data-resourceType=\"UWTranslationManual\"><strong>原始抄本</strong></span> — 翻譯團隊是否了解原始抄本和<span data-bnType=\"resourceReference\" data-resourceId=\"26819\" data-resourceType=\"UWTranslationManual\">文本異文</span>的區別？</p></li></ul><p>重要的是，該語言群體中的教會領袖應同意所選的源語文本是合宜的。他們應當認可這個文本對原文經文是準確的翻譯，並且能將意思清楚而自然地傳達給門戶語言或相關語言的使用者。</p>",
     "associations": {
       "passage": [],

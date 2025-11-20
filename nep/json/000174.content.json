@@ -2,11 +2,12 @@
   {
     "content_id": 727736,
     "reference_id": 209458,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "ढाँचाको जाँच कसरी गर्ने",
     "media_type": "Text",
     "index_reference": "ढाँचाको जाँच कसरी गर्ने",
     "language": "nep",
+    "review_level": "None",
     "content": "<p>अनुवाद सहज होस्, राम्रो देखियोस् र पढ्नलाई सजिलो होस् भन्‍नाका खातिर बाइबलको कुनै एक पुस्तकको अनुवाद गर्नु अगाडि, अनुवादको क्रममा र पछि गरिने जाँचहरू व्यवस्था गरिएको छ । यस खण्डमा भएका मोड्युलहरूले निम्‍न शीर्षकहरूमा थप जानकारी दिन्छन् ।</p><h3>अनुवाद गर्नु अगाडि</h3><p>अनुवाद सुरु गर्नु अगाडि अनुवाद समूहले निम्‍न विषयहरूमा निर्णय गर्नुपर्छ ।</p><p>१. वर्णमाला (हेर्नुहोस् <span data-bnType=\"resourceReference\" data-resourceId=\"209451\" data-resourceType=\"UWTranslationManual\">उचित वर्णमाला</span>) २. हिज्‍जे (हेर्नुहोस् <span data-bnType=\"resourceReference\" data-resourceId=\"209486\" data-resourceType=\"UWTranslationManual\">हिज्‍जेमा एकरूपता</span>) ३. विराम चिन्ह (हेर्नुहोस् <span data-bnType=\"resourceReference\" data-resourceId=\"209480\" data-resourceType=\"UWTranslationManual\">विराम चिन्हमा एकरूपता</span>)</p><h3>अनुवादको क्रममा</h3><p>केही अध्यायहरूको अनुवादपछि अनुवादको क्रममा पत्ता लागेका समस्याहरूको समाधानको लागि अनुवाद समूहले केही निर्णयहरूको केही निर्णयहरूको संशोधन गर्नुपर्ने हुन्छ । प्याराटेक्स्ट (ParaTExt) को मदतद्वारा हिज्‍जे र विराम चिन्हमा भएका सङ्गतिहरूको जाँच पनि गर्न सक्‍नुहुन्छ ।</p><h3>पुस्तक सकेपछि</h3><p>कुनै एउटा पुस्तक सकेपछि सबै पदहरू छन् कि छैनन् भनेर निश्‍चित गर्नको लागि जाँच गर्न र खण्डको शीर्षकको बारेमा निर्णय लिन सक्नुहुन्छ । अनुवाद गर्ने क्रममा नै खण्डका शीर्षकहरू लेख्‍नु उपयोगी हुन्छ ।</p><p>१. पदहरूको विन्यास (see <span data-bnType=\"resourceReference\" data-resourceId=\"209495\" data-resourceType=\"UWTranslationManual\">पदहरूको पूर्ण विन्यास</span>) २. खण्डका शीर्षकहरू (see <span data-bnType=\"resourceReference\" data-resourceId=\"209462\" data-resourceType=\"UWTranslationManual\">खण्डका शीर्षकहरू</span>)</p>",
     "associations": {
       "passage": [],

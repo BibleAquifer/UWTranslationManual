@@ -2,11 +2,12 @@
   {
     "content_id": 727578,
     "reference_id": 209467,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Pengantar Distribusi",
     "media_type": "Text",
     "index_reference": "pengantar distribusi",
     "language": "ind",
+    "review_level": "None",
     "content": "<h3>Gambaran Umum Distribusi</h3><p>Konten Alkitab tidak ada gunanya jika tidak didistribusikan dan digunakan. Salah satu keuntungan menggunakan platform penerjemahan dan penerbitan Door43 adalah platform ini menyediakan berbagai cara sederhana untuk mendistribusikan konten. Di Door43:</p><ul><li><p>Anda dapat menyimpan terjemahan Anda dengan aman</p></li><li><p>Orang-orang dapat melihat terjemahan Anda</p></li><li><p>Orang-orang dapat memberikan komentar dan saran untuk memperbaiki terjemahan Anda</p></li><li><p>Orang-orang dapat mengunduh terjemahan Anda untuk dibaca, dicetak, dan dibagikan kepada orang lain</p></li></ul><h3>Lisensi Terbuka</h3><p>Faktor terbesar yang memungkinkan distribusi konten adalah <span data-bnType=\"resourceReference\" data-resourceId=\"209472\" data-resourceType=\"UWTranslationManual\">Lisensi Terbuka</span> yang digunakan untuk semua konten di Door43. Lisensi ini memberikan kebebasan kepada semua orang yang dibutuhkan:</p><ul><li><p><strong>Berbagi</strong> - menyalin dan mendistribusikan ulang materi dalam media atau format apa pun</p></li><li><p><strong>Adaptasi</strong> - mencampur, mengubah, dan mengembangkan materi</p></li></ul><p>untuk tujuan apa pun, bahkan untuk tujuan komersial, tanpa biaya. &quot;Dengan cuma-cuma kamu telah menerima, dengan cuma-cuma pula kamu memberi.&quot; (Matius 10:8b)</p><p>Untuk cara-cara membagikan terjemahan Anda baik secara online maupun offline, lihat <span data-bnType=\"resourceReference\" data-resourceId=\"UW_TXManual_berbagi-konten\" data-resourceType=\"UWTranslationManual\">Berbagi Konten</span>.</p>",
     "associations": {
       "passage": [],
