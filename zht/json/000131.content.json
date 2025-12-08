@@ -1,0 +1,375 @@
+[
+  {
+    "content_id": 817717,
+    "reference_id": 26704,
+    "version": "1.0.1",
+    "title": "間接肯定法",
+    "media_type": "Text",
+    "index_reference": "間接肯定法",
+    "language": "zht",
+    "review_level": "None",
+    "content": "<h3>說明</h3><p>間接肯定法是一種修辭手法，講者透過否定一個與其意圖相反的詞或片語來表達強烈的肯定意義。說話者藉由否定一個與他想表達的意思相反的字詞或片語，來強調某個強烈的肯定含義。例如，有人可能想表達某事物非常好，卻描述為「不錯」。間接肯定法與<span data-bnType=\"resourceReference\" data-resourceId=\"26679\" data-resourceType=\"UWTranslationManual\">雙重否定</span>的區別在於，間接肯定法會不只陳述肯定的意思，更是加以強調，而雙重否定則不會。在上述例子中，「不錯」若按雙重否定字面上的解釋，意思只是「可以接受」甚至「好」。但如果說話者使用間接肯定法，那麼其意義是「非常好」或「極好」。</p><h1>翻譯時需留心的議題</h1><p>有些語言並不使用間接肯定法。對於這些語言的使用者來說，他們可能無法理解間接肯定法其實是用來加強肯定意義的，反而會以為它削弱甚至否定了肯定的含義。</p><h3>聖經中的例子</h3><p>弟兄們，你們自己原曉得我們進到你們那裏並<strong>不是徒然的</strong>。（帖前2:1）</p><p>保羅藉間接肯定法強調，他與他們相處的那段時間<strong>非常</strong>有益。</p><p>到了天亮，兵丁有<strong>不小的擾亂</strong>（譯註：和合本譯為「兵丁擾亂得很」），不知道彼得往哪裏去了。（徒12:18）</p><p>路加藉間接肯定法強調，那些兵丁之間有<strong>極大的</strong>騷動與焦慮。（彼得原本被囚禁在牢裡，即使有士兵看守，他仍在天使的幫助下逃脫，這使士兵們非常不安。）</p><p>猶大地的伯利恆啊，你在猶大諸城中並<strong>不是最小的</strong>；因為將來有一位君王要從你那裏出來，牧養我以色列民。（太2:6）</p><p>藉由使用間接肯定法，先知強調伯利恆將會是個<strong>極為重要的城市</strong>。</p><h3>翻譯的方法</h3><p>如果能夠正確理解間接肯定法，請考慮使用此方法。</p><p>（1）如果使用否定形式的意思不清楚，請以強烈的<strong>肯定</strong>語氣來表達。</p><h3>翻譯方法應用的例子</h3><p>（1）如果使用否定形式的意思不清楚，請以強烈的<strong>肯定</strong>語氣來表達。</p><p>弟兄們，你們自己原曉得我們進到你們那裏並<strong>不是徒然的</strong>。（帖前2:1）</p><p>「弟兄們，你們自己原曉得我們進到你們那裏對你們<strong>有極大的幫助</strong>。」</p><p>到了天亮，兵丁有<strong>不小的擾亂</strong>（譯註：和合本譯為「兵丁擾亂得很」），不知道彼得往哪裏去了。（徒12:18）</p><p>「到了天亮，兵丁有極大的騷動，不知道彼得往哪裏去了。」或：「到了天亮，兵丁非常的擔心，不知道彼得往哪裏去了。」</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26679,
+          "content_id": 817698,
+          "resource_code": "UWTranslationManual",
+          "label": "雙重否定",
+          "language": "zht"
+        },
+        {
+          "reference_id": 117337,
+          "content_id": 469833,
+          "resource_code": "Unknown",
+          "label": "馬可福音 9:41 (#6)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 117999,
+          "content_id": 470495,
+          "resource_code": "Unknown",
+          "label": "馬可福音 12:34 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 136671,
+          "content_id": 566649,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 1:5 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 137482,
+          "content_id": 567456,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 5:42 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 138387,
+          "content_id": 568361,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 12:18 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 138711,
+          "content_id": 568685,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 14:28 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 138717,
+          "content_id": 568691,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 15:2 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 138849,
+          "content_id": 568823,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 15:38 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 138991,
+          "content_id": 568965,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 17:4 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139012,
+          "content_id": 568986,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 17:12 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139065,
+          "content_id": 569039,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 17:27 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139216,
+          "content_id": 569190,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 19:11 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139255,
+          "content_id": 569229,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 19:23 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 140320,
+          "content_id": 496581,
+          "resource_code": "Unknown",
+          "label": "約翰福音 1:47 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 140533,
+          "content_id": 496794,
+          "resource_code": "Unknown",
+          "label": "約翰福音 3:34 (#5)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 140927,
+          "content_id": 497188,
+          "resource_code": "Unknown",
+          "label": "約翰福音 6:35 (#7)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 140930,
+          "content_id": 497191,
+          "resource_code": "Unknown",
+          "label": "約翰福音 6:37 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 140934,
+          "content_id": 497195,
+          "resource_code": "Unknown",
+          "label": "約翰福音 6:39 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 141651,
+          "content_id": 497912,
+          "resource_code": "Unknown",
+          "label": "約翰福音 11:26 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139262,
+          "content_id": 569236,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 19:24 (#6)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139353,
+          "content_id": 569327,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 20:12 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139569,
+          "content_id": 569543,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 21:39 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139760,
+          "content_id": 569734,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 24:11 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139808,
+          "content_id": 569782,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 25:6 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139927,
+          "content_id": 569901,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 26:26 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139974,
+          "content_id": 569948,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 27:14 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 140000,
+          "content_id": 569974,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 27:20 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 140049,
+          "content_id": 570023,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 28:2 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 142896,
+          "content_id": 806848,
+          "resource_code": "Unknown",
+          "label": "路加福音 1:33 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 188232,
+          "content_id": 616019,
+          "resource_code": "Unknown",
+          "label": "出埃及記 3:21 (#7)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 188688,
+          "content_id": 616475,
+          "resource_code": "Unknown",
+          "label": "出埃及記 9:6（#4）",
+          "language": "zht"
+        },
+        {
+          "reference_id": 188690,
+          "content_id": 616477,
+          "resource_code": "Unknown",
+          "label": "出埃及記 9:7（#2）",
+          "language": "zht"
+        },
+        {
+          "reference_id": 188753,
+          "content_id": 616540,
+          "resource_code": "Unknown",
+          "label": "出埃及記 9:28（#1）",
+          "language": "zht"
+        },
+        {
+          "reference_id": 189064,
+          "content_id": 616851,
+          "resource_code": "Unknown",
+          "label": "出埃及記 14:28 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 159245,
+          "content_id": 620032,
+          "resource_code": "Unknown",
+          "label": "歌羅西書 1:9 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 147293,
+          "content_id": 692987,
+          "resource_code": "Unknown",
+          "label": "馬太福音 2:6 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 148773,
+          "content_id": 694849,
+          "resource_code": "Unknown",
+          "label": "馬太福音 10:42 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 148825,
+          "content_id": 694901,
+          "resource_code": "Unknown",
+          "label": "馬太福音 11:11 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 185087,
+          "content_id": 759512,
+          "resource_code": "Unknown",
+          "label": "路得記 3:18 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 143148,
+          "content_id": 807100,
+          "resource_code": "Unknown",
+          "label": "路加福音 2:26 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 143188,
+          "content_id": 807140,
+          "resource_code": "Unknown",
+          "label": "路加福音 2:37 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 143691,
+          "content_id": 807643,
+          "resource_code": "Unknown",
+          "label": "路加福音 6:29（#6）",
+          "language": "zht"
+        },
+        {
+          "reference_id": 143750,
+          "content_id": 807702,
+          "resource_code": "Unknown",
+          "label": "路加福音 6:43（#2）",
+          "language": "zht"
+        },
+        {
+          "reference_id": 143796,
+          "content_id": 807748,
+          "resource_code": "Unknown",
+          "label": "路加福音 7:6 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 143875,
+          "content_id": 807827,
+          "resource_code": "Unknown",
+          "label": "路加福音 7:28 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 144172,
+          "content_id": 817986,
+          "resource_code": "Unknown",
+          "label": "路加福音 9:3 (#8)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 144201,
+          "content_id": 818015,
+          "resource_code": "Unknown",
+          "label": "路加福音 9:13 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 144248,
+          "content_id": 818062,
+          "resource_code": "Unknown",
+          "label": "路加福音 9:27 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 144288,
+          "content_id": 818102,
+          "resource_code": "Unknown",
+          "label": "路加福音 9:39 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 144319,
+          "content_id": 818133,
+          "resource_code": "Unknown",
+          "label": "路加福音 9:50 (#1)",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]

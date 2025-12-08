@@ -1,0 +1,249 @@
+[
+  {
+    "content_id": 817744,
+    "reference_id": 26798,
+    "version": "1.0.1",
+    "title": "製作關鍵詞表",
+    "media_type": "Text",
+    "index_reference": "製作關鍵詞表",
+    "language": "zht",
+    "review_level": "None",
+    "content": "<h3>製作關鍵詞表</h3><ul><li><p>製作故事或聖經段落中的關鍵詞列表，並在譯入語言中選擇每個字詞的對應詞。最好能在電子表格中進行，這樣可以在一列中列出源語的詞彙或片語，在另一列中列出譯入語言的詞彙或片語。其它列可以列出其它語言中的等義詞以及這些詞彙在聖經中出現的經文參考。請確保所有正在翻譯使用這些詞彙的聖經書籍的人，都能夠方便地查閱電子表格或紙本圖表，從而在翻譯中統一使用相同的詞語或片語。</p></li><li><p>使用 unfoldingWord® 翻譯字詞資源中的字詞和定義列表來幫助你製作這些字詞的列表，並理解它們的意思。當你在源語文本中遇到這些字詞時，translationStudio工具會顯示這些字詞及其定義，而translationCore中的translationWords工具將為你提供每本聖經書中的所有關鍵字詞列表。</p></li><li><p>每當關鍵字出現在原文中時，請確保你選擇的翻譯詞彙在該語境中仍然有意義。如果沒有，請與翻譯團隊的其他成員討論問題，並嘗試共同尋找解決方案。你可能需要使用不同的詞彙，或者在不同的語境中使用多個詞彙，或者需要找到另一種方式來傳達該詞彙的所有含義，例如使用更長的片語。</p></li><li><p>當你決定需要在不同語境中使用不同的譯入語言字詞或片語來翻譯一個源語字詞時，請在電子表格中為每種不同的翻譯方式新增一個行列。在源語的列中重複源語用語，並在下一列中，於第一個翻譯下方放置新的翻譯。將此電子表格與翻譯團隊的所有人共享，以便他們可以在翻譯的語境中選擇關鍵用語的正確翻譯。</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 169361,
+          "content_id": 650935,
+          "resource_code": "Unknown",
+          "label": "創世記 1:1 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 169362,
+          "content_id": 650936,
+          "resource_code": "Unknown",
+          "label": "創世記 1:1 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 169363,
+          "content_id": 650937,
+          "resource_code": "Unknown",
+          "label": "創世記 1:1 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 169364,
+          "content_id": 650938,
+          "resource_code": "Unknown",
+          "label": "創世記 1:1 (#5)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 169374,
+          "content_id": 650948,
+          "resource_code": "Unknown",
+          "label": "創世記 1:4 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 169393,
+          "content_id": 650967,
+          "resource_code": "Unknown",
+          "label": "創世記 1:8 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 169503,
+          "content_id": 651077,
+          "resource_code": "Unknown",
+          "label": "創世記 1:27 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 169517,
+          "content_id": 651091,
+          "resource_code": "Unknown",
+          "label": "創世記 1:29 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 169543,
+          "content_id": 651117,
+          "resource_code": "Unknown",
+          "label": "創世記 2:3 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 169550,
+          "content_id": 651124,
+          "resource_code": "Unknown",
+          "label": "創世記 2:4 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 169580,
+          "content_id": 651154,
+          "resource_code": "Unknown",
+          "label": "創世記 2:9 (#6)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 169714,
+          "content_id": 651288,
+          "resource_code": "Unknown",
+          "label": "創世記 3:14 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 169788,
+          "content_id": 651362,
+          "resource_code": "Unknown",
+          "label": "創世記 4:3 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 170027,
+          "content_id": 651601,
+          "resource_code": "Unknown",
+          "label": "創世記 6:9 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 170065,
+          "content_id": 651639,
+          "resource_code": "Unknown",
+          "label": "創世記 6:18 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 170173,
+          "content_id": 651747,
+          "resource_code": "Unknown",
+          "label": "創世記 7:23 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 170270,
+          "content_id": 651844,
+          "resource_code": "Unknown",
+          "label": "創世記 8:20 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 170277,
+          "content_id": 651851,
+          "resource_code": "Unknown",
+          "label": "創世記 8:21 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 170336,
+          "content_id": 651910,
+          "resource_code": "Unknown",
+          "label": "創世記 9:11 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 170367,
+          "content_id": 651941,
+          "resource_code": "Unknown",
+          "label": "創世記 9:17 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 170398,
+          "content_id": 651972,
+          "resource_code": "Unknown",
+          "label": "創世記 9:26 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 170888,
+          "content_id": 652462,
+          "resource_code": "Unknown",
+          "label": "創世記 14:18 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 170890,
+          "content_id": 652464,
+          "resource_code": "Unknown",
+          "label": "創世記 14:19 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 170922,
+          "content_id": 652496,
+          "resource_code": "Unknown",
+          "label": "創世記 15:1 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 170926,
+          "content_id": 652500,
+          "resource_code": "Unknown",
+          "label": "創世記 15:2 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 171053,
+          "content_id": 652627,
+          "resource_code": "Unknown",
+          "label": "創世記 16:7 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 171097,
+          "content_id": 652671,
+          "resource_code": "Unknown",
+          "label": "創世記 17:2 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 171104,
+          "content_id": 652678,
+          "resource_code": "Unknown",
+          "label": "創世記 17:4 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 171132,
+          "content_id": 652706,
+          "resource_code": "Unknown",
+          "label": "創世記 17:10 (#5)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 171179,
+          "content_id": 652753,
+          "resource_code": "Unknown",
+          "label": "創世記 17:21 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 171383,
+          "content_id": 652957,
+          "resource_code": "Unknown",
+          "label": "創世記 19:1 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 171477,
+          "content_id": 653051,
+          "resource_code": "Unknown",
+          "label": "創世記 19:19 (#3)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 171603,
+          "content_id": 653177,
+          "resource_code": "Unknown",
+          "label": "創世記 20:7 (#2)",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]

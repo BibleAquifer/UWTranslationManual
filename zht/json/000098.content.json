@@ -1,0 +1,32 @@
+[
+  {
+    "content_id": 817707,
+    "reference_id": 26693,
+    "version": "1.0.1",
+    "title": "文法主題",
+    "media_type": "Text",
+    "index_reference": "文法主題",
+    "language": "zht",
+    "review_level": "None",
+    "content": "<p>文法有兩個主要部分：字詞和結構。結構關乎我們如何把詞語組合成片語、子句與句子。以下是我們將詳細探討的文法主題簡介。</p><p><strong>詞類</strong>——每一個語言中的字詞都屬於某一類，稱為詞類。（見<span data-bnType=\"resourceReference\" data-resourceId=\"26714\" data-resourceType=\"UWTranslationManual\">詞類</span>。）</p><p><strong>句子</strong>——當我們說話時，會用句子來組織思想。句子通常表達一個完整的意念，關於某個事件、情況或存在的狀態。（見<span data-bnType=\"resourceReference\" data-resourceId=\"26725\" data-resourceType=\"UWTranslationManual\">句子結構</span>。）</p><ul><li><p>句子可以是陳述、問句、命令或感嘆詞。（見<span data-bnType=\"resourceReference\" data-resourceId=\"26726\" data-resourceType=\"UWTranslationManual\">感嘆詞</span>。）</p></li><li><p>句子可以包含一個以上的子句。（見<span data-bnType=\"resourceReference\" data-resourceId=\"26725\" data-resourceType=\"UWTranslationManual\">句子結構</span>。）</p></li><li><p>有些語言會同時有主動句和被動句。（見<span data-bnType=\"resourceReference\" data-resourceId=\"26672\" data-resourceType=\"UWTranslationManual\">主動或被動</span>。）</p></li></ul><p><strong>所有格</strong>——表示兩個名詞之間的關係。在英文中，這種關係可以用「的（of）」來表達，例如「神的愛（the love of God）」；或用「的（’s）」，例如「神的愛（God’s love）」；或用所有格代名詞來表示，例如「祂的愛（his love）」。（見<span data-bnType=\"resourceReference\" data-resourceId=\"26717\" data-resourceType=\"UWTranslationManual\">所有格</span>。）</p><p><strong>引文</strong>——引文是轉述他人所說的話。</p><ul><li><p>引文通常有兩個部分：關於說話者的資訊，以及他說的內容。（見<span data-bnType=\"resourceReference\" data-resourceId=\"26840\" data-resourceType=\"UWTranslationManual\">引文和引語標記</span>。）</p></li><li><p>引文可以是直接引語或間接引語。（見<span data-bnType=\"resourceReference\" data-resourceId=\"26719\" data-resourceType=\"UWTranslationManual\">直接和間接引文</span>。）</p></li><li><p>引語中可以包含引語。（見<span data-bnType=\"resourceReference\" data-resourceId=\"26721\" data-resourceType=\"UWTranslationManual\">引語中的引語</span>。）</p></li><li><p>引語可以加上標記，使讀者更容易明白是誰說了甚麼。（見<span data-bnType=\"resourceReference\" data-resourceId=\"26720\" data-resourceType=\"UWTranslationManual\">引語標記</span>。）</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26672,
+          "content_id": 806681,
+          "resource_code": "UWTranslationManual",
+          "label": "主動或被動",
+          "language": "zht"
+        },
+        {
+          "reference_id": 26719,
+          "content_id": 817719,
+          "resource_code": "UWTranslationManual",
+          "label": "直接和間接引文",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]

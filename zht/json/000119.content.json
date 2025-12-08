@@ -1,0 +1,32 @@
+[
+  {
+    "content_id": 817748,
+    "reference_id": 26802,
+    "version": "1.0.1",
+    "title": "翻譯手冊簡介",
+    "media_type": "Text",
+    "index_reference": "翻譯手冊簡介",
+    "language": "zht",
+    "review_level": "None",
+    "content": "<h3>翻譯手冊教導什麼？</h3><p>本手冊教導翻譯理論以及如何為其它語言（OLs）進行良好的翻譯。本手冊中的一些翻譯原則也適用於門戶語言翻譯。然而，有關門戶語言翻譯工具的具體指引，見<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://gl-manual.readthedocs.io/\">門戶語言手冊</a>。在開始任何翻譯項目之前，學習這些模組中的許多內容將非常有幫助。其它模組——例如關於文法的模組——僅在「即時」學習時需要。</p><p>翻譯手冊中的一些重點：</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26759\" data-resourceType=\"UWTranslationManual\">優質翻譯的特質</span>——定義一個優質的翻譯</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26811\" data-resourceType=\"UWTranslationManual\">翻譯過程</span>——如何達成優質的翻譯</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26669\" data-resourceType=\"UWTranslationManual\">選擇一個翻譯團隊</span>——在開始翻譯項目之前需要考慮的事項</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">選擇翻譯的內容</span>——決定從何開始翻譯</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26669,
+          "content_id": 806679,
+          "resource_code": "UWTranslationManual",
+          "label": "選擇一個翻譯團隊",
+          "language": "zht"
+        },
+        {
+          "reference_id": 26827,
+          "content_id": 806709,
+          "resource_code": "UWTranslationManual",
+          "label": "選擇翻譯的內容",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]

@@ -1,4 +1,4 @@
-# _Translation Manual (unfoldingWord)_ Aquifer Resource
+# _unfoldingWord® Translation Academy_ Aquifer Resource
 
 This repository (`UWTranslationManual`) contains Aquifer resource data with resource-level metadata, article-level metadata, and content files in JSON and Markdown formats.
 

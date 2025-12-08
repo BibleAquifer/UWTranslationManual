@@ -1,0 +1,17 @@
+[
+  {
+    "content_id": 817724,
+    "reference_id": 26736,
+    "version": "1.0.1",
+    "title": "檔案格式",
+    "media_type": "Text",
+    "index_reference": "檔案格式",
+    "language": "zht",
+    "review_level": "None",
+    "content": "<h3>翻譯的技術層面</h3><p>雖然翻譯大部分與語言、字詞和句子有關，但翻譯的一個重要面向也具有技術上的層面。從創造字詞、打字、排版、格式化、出版到發行，翻譯涉及許多技術性的部分。為了讓這一切能夠實現，人們制定並採用了某些標準。</p><p>我們將提到「標記語言（markup language）」，這是一種在經文裡標記格式的系統，例如在字詞的前後加上星號或底線符號，然後文書處理程式會把這些符號解讀為格式設定。不過，出版時這些標記並不會顯示出來。</p><h3>USFM：聖經翻譯格式</h3><p>多年以來，聖經翻譯的標準格式是USFM（Unified Standard Format Markers，統一標準格式標記）。我們也採用了這個標準。</p><p>USFM是一種標記語言，用來告訴電腦程式如何排版經文。例如，每一章會標記為\\c 1或\\c 33。經節標記可能像\\v 8或\\v 14。段落則標記為\\p。除此之外，還有許多具有特定涵義的標記。因此，像約翰福音一章1至2節這段經文在USFM裡會是這樣的：</p><h1>\\c 1 \\p \\v 1 太初有道，道與神同在，道就是神。 \\v 2 這道太初與神同在。</h1><p>當一個能讀USFM的電腦程式看到這些標記時，它就能把所有章的標記排成一致的格式（例如章號用較大的字），並把所有的節號排成一致的格式（例如用小的上標數字）。</p><p><strong>聖經翻譯必須使用USFM格式，我們才能使用！</strong></p><p>要進一步了解USFM的標記方式，請參閱https://paratext.org/about/usfm。</p><h1>如何用USFM翻譯聖經</h1><p>大多數人並不知道如何撰寫USFM。這正是我們創建translationStudio（https://ufw.io/ts/） 的原因之一。當你在translationStudio裡翻譯時，你所看到的畫面和一般文書處理程式的文件非常相似，並不會顯示任何標記語言。然而，在你所看到的背後，translationStudio正在把聖經翻譯排成USFM格式。這樣一來，當你從translationStudio上傳你的翻譯時，上傳的內容已經是USFM格式，可以立即以各種不同的格式出版。</p><h1>將翻譯轉換為USFM</h1><p>雖然我們強烈建議翻譯時直接使用USFM標記，但有時翻譯可能是在沒有使用USFM標記的情況下完成的。這樣的翻譯仍然可以使用，但必須先加上USFM標記。一種方法是把翻譯內容複製並貼到translationStudio裡，然後在正確的位置放上經節標記。完成後，翻譯就能以USFM格式匯出。不過，這是一個非常繁重的工作，因此我們強烈建議你從一開始就使用translationStudio或其它能使用USFM的程式來翻譯聖經。</p><h3>Markdown用於其它內容</h3><p>Markdown是一種非常常見的標記語言，廣泛用於網路上的許多地方。使用Markdown能讓同一段文字很容易以不同的格式呈現（例如網頁、行動應用程式、PDF等）。</p><p>Markdown支援<strong>粗體</strong>和<em>斜體</em>，語法如下：</p><h1>Markdown支援**<strong>粗體</strong>**和*斜體*格式。</h1><p>Markdown也支援標題，語法如下：</p><h1>＃ 標題一 ## 標題二 ### 標題三</h1><p>Markdown也支援連結。連結顯示如下：https://www.unfoldingword.org/，語法如下：</p><h1>https://www.unfoldingword.org</h1><p>Markdown也支援自訂文字的連結，例如：</p><h1>[uW 網站]（https://www.unfoldingword.org）</h1><p>請注意，HTML在Markdown中也是有效的。要查看完整的Markdown語法列表，請到https://ufw.io/md。</p><h3>結論</h3><p>要讓內容加上USFM或Markdown標記，最簡單的方法是使用專門為此設計的編輯器。如果使用的是一般文書處理程式或文字編輯器，就必須手動輸入這些標記。</p><p><strong>請注意：</strong>在文書處理程式裡把文字設成粗體、斜體或加底線，並不等於在標記語言裡就是粗體、斜體或加底線。這些格式必須透過書寫指定的符號來完成。</p><p>在考慮要使用哪一種軟體時，請記得翻譯不僅僅是文字的工作，其中也包含許多技術層面上的考量。無論使用哪一種軟體，請記住：聖經翻譯必須使用USFM，其餘內容則必須使用Markdown。</p>",
+    "associations": {
+      "passage": [],
+      "resource": []
+    }
+  }
+]

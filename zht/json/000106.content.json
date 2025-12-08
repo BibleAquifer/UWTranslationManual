@@ -1,0 +1,17 @@
+[
+  {
+    "content_id": 817767,
+    "reference_id": 209485,
+    "version": "1.0.1",
+    "title": "如何分享內容",
+    "media_type": "Text",
+    "index_reference": "如何分享內容",
+    "language": "zht",
+    "review_level": "None",
+    "content": "<h3>分享tS和tC中的內容</h3><p>如果要分享translationStudio (tS) 中的內容，這非常簡單。如果需離線分享，請使用tS選單中的「備份」功能；如果需線上分享，請使用tS選單中的「上傳」功能。在translationCore (tC) 中，請於「項目」頁面點擊三點選單。離線分享時可選擇「匯出至USFM」或「匯出至CSV」；線上分享時則請使用「上傳至Door43」。</p><h3>在Door43上分享內容</h3><p>如果你從translationStudio或translationCore上傳作品，系統會自動將它發佈到線上平台Door43。所有上傳的內容都會顯示在你的使用者帳號之下。例如，如果你的使用者名稱是test_user，那麼你可以在以下網址找到自己的所有作品<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://git.door43.org/test_user/\">https://git.door43.org/test_user/</a>。你可以把上傳項目的連結分享給其他人，讓他們瀏覽你已上傳的作品。</p><h3>離線分享的內容</h3><p>你也可以在Door43項目頁面中產生並下載文件。下載後，你可透過不同方式與他人分享，包括列印與分發紙本版本。</p>",
+    "associations": {
+      "passage": [],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "content_id": 817764,
+    "reference_id": 209466,
+    "version": "1.0.1",
+    "title": "出版簡介",
+    "media_type": "Text",
+    "index_reference": "出版簡介",
+    "language": "zht",
+    "review_level": "None",
+    "content": "<h3>出版概覽</h3><p>一旦翻譯項目被上傳到Door43，它會自動在<span>你的使用者帳號下線上可用</span>。這稱為自我出版。你可以在https://door43.org/u/user_name/project_name存取你的項目的網頁版本（其中user_name是你的用戶名，project_name是你的翻譯項目）。當你上傳時，translationStudio和translationCore都會提供正確的鏈接。你也可以瀏覽https://door43.org上的所有內容。</p><p>從你的Door43項目頁面，你可以：</p><ul><li><p>以預設格式查看你的項目的網頁版本</p></li><li><p>下載你的項目文件（如PDF）</p></li><li><p>獲取項目的來源檔案連結（USFM或Markdown）</p></li><li><p>與他人互動討論你的項目</p></li><li><p>繼續編輯和改進你的項目，並記錄所有的更改</p></li></ul><p>有關將你的項目發布給他人的更多資訊，見<span data-bnType=\"resourceReference\" data-resourceId=\"209467\" data-resourceType=\"UWTranslationManual\">發佈簡介</span>。</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209467,
+          "content_id": 817765,
+          "resource_code": "UWTranslationManual",
+          "label": "發佈的簡介",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]

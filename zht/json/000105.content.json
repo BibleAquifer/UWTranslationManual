@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 817760,
+    "reference_id": 209458,
+    "version": "1.0.1",
+    "title": "如何檢查是否為良好的格式",
+    "media_type": "Text",
+    "index_reference": "如何檢查是否為良好的格式",
+    "language": "zht",
+    "review_level": "None",
+    "content": "<p>在翻譯聖經書卷的過程中，翻譯者可以在翻譯之前、翻譯時、以及翻譯完成後進行一些檢查，使翻譯工作更順利，並且讓譯文看起來整齊、易讀。這些主題可在格式與出版單元中找到，但翻譯團隊應該在整個翻譯過程中不斷思考，並作出相關決定。</p><h3>翻譯前</h3><p>翻譯團隊在開始翻譯之前，應就以下事項作出決定：</p><ol><li><p>字母/文字（見<span data-bnType=\"resourceReference\" data-resourceId=\"209451\" data-resourceType=\"UWTranslationManual\">適合的字母/文字系統</span>）</p></li><li><p>拼寫（見<span data-bnType=\"resourceReference\" data-resourceId=\"209486\" data-resourceType=\"UWTranslationManual\">一致的拼寫</span>）</p></li><li><p>標點符號（見<span data-bnType=\"resourceReference\" data-resourceId=\"209480\" data-resourceType=\"UWTranslationManual\">一致的標點符號</span>）</p></li></ol><h3>翻譯時</h3><p>在完成數章節的翻譯後，翻譯團隊可能需要修正部分決策，以處理翻譯過程中發現的問題。若你能使用ParaText，此時亦可透過該軟件執行一致性檢查，檢視是否還需就拼寫與標點符號的使用作出更多決定。</p><h3>閱讀完一卷書後</h3><p>完成一卷書的翻譯後，你可以檢查確保所有經文都完整收錄，並決定各章節的標題。在翻譯過程中，將章節標題的構想記錄下來也相當有幫助。</p><ol><li><p>經文章節（見<span data-bnType=\"resourceReference\" data-resourceId=\"209495\" data-resourceType=\"UWTranslationManual\">完整的經文章節</span>）</p></li><li><p>章節標題（見<span data-bnType=\"resourceReference\" data-resourceId=\"209462\" data-resourceType=\"UWTranslationManual\">章節標題</span>）</p></li></ol>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209451,
+          "content_id": 806714,
+          "resource_code": "UWTranslationManual",
+          "label": "適合的字母/文字系統",
+          "language": "zht"
+        },
+        {
+          "reference_id": 209480,
+          "content_id": 806722,
+          "resource_code": "UWTranslationManual",
+          "label": "一致的標點符號",
+          "language": "zht"
+        },
+        {
+          "reference_id": 209486,
+          "content_id": 806723,
+          "resource_code": "UWTranslationManual",
+          "label": "一致的拼寫",
+          "language": "zht"
+        },
+        {
+          "reference_id": 209495,
+          "content_id": 806724,
+          "resource_code": "UWTranslationManual",
+          "label": "完整的經文章節",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]

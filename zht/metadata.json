@@ -2,7 +2,7 @@
   "resource_metadata": {
     "aquifer_type": "Guide",
     "resource_type": "Bible Translation Manual",
-    "title": "Translation Manual (unfoldingWord)",
+    "title": "unfoldingWord® Translation Academy",
     "aquifer_name": "翻譯手冊 (unfoldingWord)",
     "version": "1.0.1",
     "collection_title": "Translation Manual (unfoldingWord)",
@@ -27,9 +27,9 @@
       "showAdaptationNoticeForEnglish": false,
       "showAdaptationNoticeForNonEnglish": true
     },
-    "adaptation_notice": "",
+    "adaptation_notice": "<p><b>unfoldingWord® Translation Academy</b> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license. <cite>unfoldingWord® Translation Academy</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from <cite>unfoldingWord® Translation Academy</cite> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license by Mission Mutual",
     "resource_code": "UWTranslationManual",
-    "date_created": "2025-11-17",
+    "date_created": "2025-12-05",
     "language": "zht",
     "localizations": [
       "eng",
@@ -49,7 +49,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-17T09:32:41.267897"
+      "dateCreated": "2025-12-05T06:33:10.604675"
     },
     "idAuthorities": {
       "aquifer": {
@@ -63,7 +63,7 @@
       "primary": {
         "aquifer": {
           "UWTranslationManual": {
-            "timestamp": "2025-11-17T09:32:41.267897"
+            "timestamp": "2025-12-05T06:33:10.604675"
           }
         }
       },
@@ -155,7 +155,7 @@
       },
       "json/000016.content.json": {
         "mimeType": "text/json",
-        "size": 12294
+        "size": 12227
       },
       "json/000017.content.json": {
         "mimeType": "text/json",
@@ -251,7 +251,7 @@
       },
       "json/000040.content.json": {
         "mimeType": "text/json",
-        "size": 5883
+        "size": 5973
       },
       "json/000041.content.json": {
         "mimeType": "text/json",
@@ -341,9 +341,841 @@
         "mimeType": "text/json",
         "size": 4546
       },
+      "json/000063.content.json": {
+        "mimeType": "text/json",
+        "size": 2481
+      },
+      "json/000064.content.json": {
+        "mimeType": "text/json",
+        "size": 3603
+      },
+      "json/000065.content.json": {
+        "mimeType": "text/json",
+        "size": 7010
+      },
+      "json/000066.content.json": {
+        "mimeType": "text/json",
+        "size": 1680
+      },
+      "json/000067.content.json": {
+        "mimeType": "text/json",
+        "size": 6126
+      },
+      "json/000068.content.json": {
+        "mimeType": "text/json",
+        "size": 5035
+      },
+      "json/000069.content.json": {
+        "mimeType": "text/json",
+        "size": 4543
+      },
+      "json/000070.content.json": {
+        "mimeType": "text/json",
+        "size": 4090
+      },
+      "json/000071.content.json": {
+        "mimeType": "text/json",
+        "size": 1615
+      },
+      "json/000072.content.json": {
+        "mimeType": "text/json",
+        "size": 650
+      },
+      "json/000073.content.json": {
+        "mimeType": "text/json",
+        "size": 1532
+      },
+      "json/000074.content.json": {
+        "mimeType": "text/json",
+        "size": 47209
+      },
+      "json/000075.content.json": {
+        "mimeType": "text/json",
+        "size": 1712
+      },
+      "json/000076.content.json": {
+        "mimeType": "text/json",
+        "size": 10009
+      },
+      "json/000077.content.json": {
+        "mimeType": "text/json",
+        "size": 34787
+      },
+      "json/000078.content.json": {
+        "mimeType": "text/json",
+        "size": 48672
+      },
+      "json/000079.content.json": {
+        "mimeType": "text/json",
+        "size": 79273
+      },
+      "json/000080.content.json": {
+        "mimeType": "text/json",
+        "size": 9974
+      },
+      "json/000081.content.json": {
+        "mimeType": "text/json",
+        "size": 18431
+      },
+      "json/000082.content.json": {
+        "mimeType": "text/json",
+        "size": 23386
+      },
+      "json/000083.content.json": {
+        "mimeType": "text/json",
+        "size": 36623
+      },
+      "json/000084.content.json": {
+        "mimeType": "text/json",
+        "size": 8829
+      },
+      "json/000085.content.json": {
+        "mimeType": "text/json",
+        "size": 4655
+      },
+      "json/000086.content.json": {
+        "mimeType": "text/json",
+        "size": 2653
+      },
+      "json/000087.content.json": {
+        "mimeType": "text/json",
+        "size": 7779
+      },
+      "json/000088.content.json": {
+        "mimeType": "text/json",
+        "size": 44516
+      },
+      "json/000089.content.json": {
+        "mimeType": "text/json",
+        "size": 2889
+      },
+      "json/000090.content.json": {
+        "mimeType": "text/json",
+        "size": 12979
+      },
+      "json/000091.content.json": {
+        "mimeType": "text/json",
+        "size": 17415
+      },
+      "json/000092.content.json": {
+        "mimeType": "text/json",
+        "size": 6527
+      },
+      "json/000093.content.json": {
+        "mimeType": "text/json",
+        "size": 61321
+      },
+      "json/000094.content.json": {
+        "mimeType": "text/json",
+        "size": 7179
+      },
+      "json/000095.content.json": {
+        "mimeType": "text/json",
+        "size": 2322
+      },
+      "json/000096.content.json": {
+        "mimeType": "text/json",
+        "size": 24470
+      },
+      "json/000097.content.json": {
+        "mimeType": "text/json",
+        "size": 65875
+      },
+      "json/000098.content.json": {
+        "mimeType": "text/json",
+        "size": 3531
+      },
+      "json/000099.content.json": {
+        "mimeType": "text/json",
+        "size": 4311
+      },
+      "json/000100.content.json": {
+        "mimeType": "text/json",
+        "size": 8748
+      },
+      "json/000101.content.json": {
+        "mimeType": "text/json",
+        "size": 2022
+      },
+      "json/000102.content.json": {
+        "mimeType": "text/json",
+        "size": 24157
+      },
+      "json/000103.content.json": {
+        "mimeType": "text/json",
+        "size": 1674
+      },
+      "json/000104.content.json": {
+        "mimeType": "text/json",
+        "size": 5525
+      },
+      "json/000105.content.json": {
+        "mimeType": "text/json",
+        "size": 3082
+      },
+      "json/000106.content.json": {
+        "mimeType": "text/json",
+        "size": 1540
+      },
+      "json/000107.content.json": {
+        "mimeType": "text/json",
+        "size": 94997
+      },
+      "json/000108.content.json": {
+        "mimeType": "text/json",
+        "size": 51384
+      },
+      "json/000109.content.json": {
+        "mimeType": "text/json",
+        "size": 18689
+      },
+      "json/000110.content.json": {
+        "mimeType": "text/json",
+        "size": 230957
+      },
+      "json/000111.content.json": {
+        "mimeType": "text/json",
+        "size": 22595
+      },
+      "json/000112.content.json": {
+        "mimeType": "text/json",
+        "size": 43440
+      },
+      "json/000113.content.json": {
+        "mimeType": "text/json",
+        "size": 62334
+      },
+      "json/000114.content.json": {
+        "mimeType": "text/json",
+        "size": 35193
+      },
+      "json/000115.content.json": {
+        "mimeType": "text/json",
+        "size": 1821
+      },
+      "json/000116.content.json": {
+        "mimeType": "text/json",
+        "size": 1584
+      },
+      "json/000117.content.json": {
+        "mimeType": "text/json",
+        "size": 4473
+      },
+      "json/000118.content.json": {
+        "mimeType": "text/json",
+        "size": 1265
+      },
+      "json/000119.content.json": {
+        "mimeType": "text/json",
+        "size": 2153
+      },
+      "json/000120.content.json": {
+        "mimeType": "text/json",
+        "size": 2927
+      },
+      "json/000121.content.json": {
+        "mimeType": "text/json",
+        "size": 2890
+      },
+      "json/000122.content.json": {
+        "mimeType": "text/json",
+        "size": 11451
+      },
+      "json/000123.content.json": {
+        "mimeType": "text/json",
+        "size": 31189
+      },
+      "json/000124.content.json": {
+        "mimeType": "text/json",
+        "size": 4273
+      },
+      "json/000125.content.json": {
+        "mimeType": "text/json",
+        "size": 1924
+      },
+      "json/000126.content.json": {
+        "mimeType": "text/json",
+        "size": 19532
+      },
+      "json/000127.content.json": {
+        "mimeType": "text/json",
+        "size": 2029
+      },
+      "json/000128.content.json": {
+        "mimeType": "text/json",
+        "size": 1867
+      },
+      "json/000129.content.json": {
+        "mimeType": "text/json",
+        "size": 6385
+      },
+      "json/000130.content.json": {
+        "mimeType": "text/json",
+        "size": 2588
+      },
+      "json/000131.content.json": {
+        "mimeType": "text/json",
+        "size": 13788
+      },
+      "json/000132.content.json": {
+        "mimeType": "text/json",
+        "size": 8811
+      },
+      "json/000133.content.json": {
+        "mimeType": "text/json",
+        "size": 22003
+      },
+      "json/000134.content.json": {
+        "mimeType": "text/json",
+        "size": 4463
+      },
+      "json/000135.content.json": {
+        "mimeType": "text/json",
+        "size": 17931
+      },
+      "md/000001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 41734
+      },
+      "md/000002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 65728
+      },
+      "md/000003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3509
+      },
+      "md/000004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3636
+      },
+      "md/000005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 144538
+      },
+      "md/000006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4112
+      },
+      "md/000007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7398
+      },
+      "md/000008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1826
+      },
+      "md/000009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8029
+      },
+      "md/000010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1686
+      },
+      "md/000011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2272
+      },
+      "md/000012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1413
+      },
+      "md/000013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1445
+      },
+      "md/000014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6819
+      },
+      "md/000015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14458
+      },
+      "md/000016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7156
+      },
+      "md/000017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4584
+      },
+      "md/000018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11195
+      },
+      "md/000019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4268
+      },
+      "md/000020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5773
+      },
+      "md/000021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9635
+      },
+      "md/000022.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9312
+      },
+      "md/000023.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4858
+      },
+      "md/000024.content.md": {
+        "mimeType": "text/markdown",
+        "size": 15054
+      },
+      "md/000025.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4562
+      },
+      "md/000026.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7035
+      },
+      "md/000027.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3221
+      },
+      "md/000028.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5764
+      },
+      "md/000029.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7425
+      },
+      "md/000030.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5218
+      },
+      "md/000031.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5644
+      },
+      "md/000032.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3688
+      },
+      "md/000033.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2332
+      },
+      "md/000034.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6920
+      },
+      "md/000035.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5500
+      },
+      "md/000036.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2176
+      },
+      "md/000037.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1500
+      },
+      "md/000038.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4187
+      },
+      "md/000039.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6577
+      },
+      "md/000040.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5605
+      },
+      "md/000041.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2346
+      },
+      "md/000042.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14067
+      },
+      "md/000043.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1742
+      },
+      "md/000044.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2581
+      },
+      "md/000045.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7325
+      },
+      "md/000046.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8532
+      },
+      "md/000047.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8381
+      },
+      "md/000048.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11799
+      },
+      "md/000049.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6649
+      },
+      "md/000050.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6101
+      },
+      "md/000051.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9500
+      },
+      "md/000052.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6483
+      },
+      "md/000053.content.md": {
+        "mimeType": "text/markdown",
+        "size": 26549
+      },
+      "md/000054.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7777
+      },
+      "md/000055.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6188
+      },
+      "md/000056.content.md": {
+        "mimeType": "text/markdown",
+        "size": 27155
+      },
+      "md/000057.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1955
+      },
+      "md/000058.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2376
+      },
+      "md/000059.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5568
+      },
+      "md/000060.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3381
+      },
+      "md/000061.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3664
+      },
+      "md/000062.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4302
+      },
+      "md/000063.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2717
+      },
+      "md/000064.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2989
+      },
+      "md/000065.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5702
+      },
+      "md/000066.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1927
+      },
+      "md/000067.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5714
+      },
+      "md/000068.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4841
+      },
+      "md/000069.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4451
+      },
+      "md/000070.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4374
+      },
+      "md/000071.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1865
+      },
+      "md/000072.content.md": {
+        "mimeType": "text/markdown",
+        "size": 947
+      },
+      "md/000073.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1777
+      },
+      "md/000074.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14914
+      },
+      "md/000075.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1945
+      },
+      "md/000076.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7757
+      },
+      "md/000077.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12812
+      },
+      "md/000078.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14293
+      },
+      "md/000079.content.md": {
+        "mimeType": "text/markdown",
+        "size": 22526
+      },
+      "md/000080.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4911
+      },
+      "md/000081.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6516
+      },
+      "md/000082.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9249
+      },
+      "md/000083.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11279
+      },
+      "md/000084.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5035
+      },
+      "md/000085.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5041
+      },
+      "md/000086.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1716
+      },
+      "md/000087.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6799
+      },
+      "md/000088.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14283
+      },
+      "md/000089.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3078
+      },
+      "md/000090.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4691
+      },
+      "md/000091.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7180
+      },
+      "md/000092.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5015
+      },
+      "md/000093.content.md": {
+        "mimeType": "text/markdown",
+        "size": 17924
+      },
+      "md/000094.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5432
+      },
+      "md/000095.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2572
+      },
+      "md/000096.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8794
+      },
+      "md/000097.content.md": {
+        "mimeType": "text/markdown",
+        "size": 19263
+      },
+      "md/000098.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2239
+      },
+      "md/000099.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4587
+      },
+      "md/000100.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6885
+      },
+      "md/000101.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2202
+      },
+      "md/000102.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9547
+      },
+      "md/000103.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1176
+      },
+      "md/000104.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5167
+      },
+      "md/000105.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2098
+      },
+      "md/000106.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1772
+      },
+      "md/000107.content.md": {
+        "mimeType": "text/markdown",
+        "size": 28040
+      },
+      "md/000108.content.md": {
+        "mimeType": "text/markdown",
+        "size": 18229
+      },
+      "md/000109.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8893
+      },
+      "md/000110.content.md": {
+        "mimeType": "text/markdown",
+        "size": 56484
+      },
+      "md/000111.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9114
+      },
+      "md/000112.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13884
+      },
+      "md/000113.content.md": {
+        "mimeType": "text/markdown",
+        "size": 20113
+      },
+      "md/000114.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12699
+      },
+      "md/000115.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1638
+      },
+      "md/000116.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1562
+      },
+      "md/000117.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2930
+      },
+      "md/000118.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1447
+      },
+      "md/000119.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1580
+      },
+      "md/000120.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3067
+      },
+      "md/000121.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2046
+      },
+      "md/000122.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7311
+      },
+      "md/000123.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13211
+      },
+      "md/000124.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4310
+      },
+      "md/000125.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2216
+      },
+      "md/000126.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8914
+      },
+      "md/000127.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2209
+      },
+      "md/000128.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1995
+      },
+      "md/000129.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5577
+      },
+      "md/000130.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2758
+      },
+      "md/000131.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5764
+      },
+      "md/000132.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3872
+      },
+      "md/000133.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9297
+      },
+      "md/000134.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4348
+      },
+      "md/000135.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6748
+      },
       "pdf/000001.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 1823407
+        "size": 2590634
       }
     },
     "copyright": {
@@ -2828,6 +3660,2857 @@
           "content_id": 727786,
           "language": "nep",
           "title": "टिप्पणीहरूमा सम्बन्धवाचक अभिव्यक्ती र सामान्य जानकारी"
+        }
+      }
+    },
+    "817728": {
+      "content_id": 817728,
+      "reference_id": 26752,
+      "index_reference": "建立具權威性的翻譯",
+      "localizations": {
+        "eng": {
+          "content_id": 33338,
+          "language": "eng",
+          "title": "Create Authoritative Translations"
+        },
+        "arb": {
+          "content_id": 781677,
+          "language": "arb",
+          "title": "إنشاء ترجمات موثوقة"
+        },
+        "hin": {
+          "content_id": 727377,
+          "language": "hin",
+          "title": "आधिकारिक अनुवाद को तैयार करना"
+        },
+        "por": {
+          "content_id": 800117,
+          "language": "por",
+          "title": "Criar traduções confiáveis"
+        },
+        "spa": {
+          "content_id": 727985,
+          "language": "spa",
+          "title": "Create Authoritative Translations"
+        },
+        "nep": {
+          "content_id": 727748,
+          "language": "nep",
+          "title": "आधिकारिक अनुवादहरू बनाउनुहोस्"
+        }
+      }
+    },
+    "817729": {
+      "content_id": 817729,
+      "reference_id": 26753,
+      "index_reference": "建立教會認可的翻譯",
+      "localizations": {
+        "eng": {
+          "content_id": 33339,
+          "language": "eng",
+          "title": "Create Church-Approved Translations"
+        },
+        "arb": {
+          "content_id": 781678,
+          "language": "arb",
+          "title": "إنشاء ترجمات معتمدة كنسيًّا"
+        },
+        "hin": {
+          "content_id": 727378,
+          "language": "hin",
+          "title": "कलीसिया द्वारा प्रमाणित अनुवाद को तैयार करना"
+        },
+        "por": {
+          "content_id": 800118,
+          "language": "por",
+          "title": "Criar traduções aprovadas pela Igreja"
+        },
+        "spa": {
+          "content_id": 727986,
+          "language": "spa",
+          "title": "Create Church-Approved Translations"
+        },
+        "nep": {
+          "content_id": 727749,
+          "language": "nep",
+          "title": "मण्‍डली-अनुमोदित अनुवादहरू बनाउनुहोस्"
+        }
+      }
+    },
+    "817730": {
+      "content_id": 817730,
+      "reference_id": 26754,
+      "index_reference": "建立清晰的翻譯",
+      "localizations": {
+        "eng": {
+          "content_id": 33340,
+          "language": "eng",
+          "title": "Create Clear Translations"
+        },
+        "arb": {
+          "content_id": 781679,
+          "language": "arb",
+          "title": "إنشاء ترجمات واضحة"
+        },
+        "hin": {
+          "content_id": 727379,
+          "language": "hin",
+          "title": "स्पष्ट अनुवाद को तैयार करना"
+        },
+        "por": {
+          "content_id": 800119,
+          "language": "por",
+          "title": "Criar traduções claras"
+        },
+        "spa": {
+          "content_id": 727987,
+          "language": "spa",
+          "title": "Create Clear Translations"
+        },
+        "nep": {
+          "content_id": 727750,
+          "language": "nep",
+          "title": "स्‍पष्‍ट अनुवादहरू बनाउनुहोस्"
+        }
+      }
+    },
+    "817731": {
+      "content_id": 817731,
+      "reference_id": 26755,
+      "index_reference": "建立合作性的翻譯",
+      "localizations": {
+        "eng": {
+          "content_id": 33341,
+          "language": "eng",
+          "title": "Create Collaborative Translations"
+        },
+        "arb": {
+          "content_id": 781680,
+          "language": "arb",
+          "title": "إنشاء ترجمات مشتركة"
+        },
+        "hin": {
+          "content_id": 727380,
+          "language": "hin",
+          "title": "सहयोगी अनुवाद को तैयार करना"
+        },
+        "por": {
+          "content_id": 800120,
+          "language": "por",
+          "title": "Criar traduções colaborativas"
+        },
+        "spa": {
+          "content_id": 727988,
+          "language": "spa",
+          "title": "Create Collaborative Translations"
+        },
+        "nep": {
+          "content_id": 727751,
+          "language": "nep",
+          "title": "समन्वयमा गरिएका अनुवादहरू बनाउनुहोस्"
+        }
+      }
+    },
+    "817732": {
+      "content_id": 817732,
+      "reference_id": 26756,
+      "index_reference": "建立對等的翻譯",
+      "localizations": {
+        "eng": {
+          "content_id": 33342,
+          "language": "eng",
+          "title": "Create Equal Translations"
+        },
+        "arb": {
+          "content_id": 781681,
+          "language": "arb",
+          "title": "إنشاء ترجمات متساوية"
+        },
+        "hin": {
+          "content_id": 727381,
+          "language": "hin",
+          "title": "समान अनुवाद को तैयार करना"
+        },
+        "por": {
+          "content_id": 800121,
+          "language": "por",
+          "title": "Criar traduções iguais"
+        },
+        "spa": {
+          "content_id": 727989,
+          "language": "spa",
+          "title": "Create Equal Translations"
+        },
+        "nep": {
+          "content_id": 727752,
+          "language": "nep",
+          "title": "समान अनुवादहरू बनाउनुहोस्"
+        }
+      }
+    },
+    "817733": {
+      "content_id": 817733,
+      "reference_id": 26757,
+      "index_reference": "建立忠實的翻譯",
+      "localizations": {
+        "eng": {
+          "content_id": 33343,
+          "language": "eng",
+          "title": "Create Faithful Translations"
+        },
+        "arb": {
+          "content_id": 781682,
+          "language": "arb",
+          "title": "إنشاء ترجمات أمينة"
+        },
+        "hin": {
+          "content_id": 727382,
+          "language": "hin",
+          "title": "विश्वासयोग्य अनुवाद को तैयार करना"
+        },
+        "por": {
+          "content_id": 800122,
+          "language": "por",
+          "title": "Criar traduções fiéis"
+        },
+        "spa": {
+          "content_id": 727990,
+          "language": "spa",
+          "title": "Create Faithful Translations"
+        },
+        "nep": {
+          "content_id": 727753,
+          "language": "nep",
+          "title": "विश्‍वासयोग्‍य अनुवादहरू बनाउनुहोस्"
+        }
+      }
+    },
+    "817734": {
+      "content_id": 817734,
+      "reference_id": 26758,
+      "index_reference": "建立歷史性的翻譯",
+      "localizations": {
+        "eng": {
+          "content_id": 33344,
+          "language": "eng",
+          "title": "Create Historical Translations"
+        },
+        "arb": {
+          "content_id": 781683,
+          "language": "arb",
+          "title": "إنشاء ترجمات تاريخية"
+        },
+        "hin": {
+          "content_id": 727383,
+          "language": "hin",
+          "title": "ऐतिहासिक अनुवाद को तैयार करना"
+        },
+        "por": {
+          "content_id": 800123,
+          "language": "por",
+          "title": "Criar traduções históricas"
+        },
+        "spa": {
+          "content_id": 727991,
+          "language": "spa",
+          "title": "Create Historical Translations"
+        },
+        "nep": {
+          "content_id": 727754,
+          "language": "nep",
+          "title": "ऐतिहासिक अनुवादहरू बनाउनुहोस्"
+        }
+      }
+    },
+    "817735": {
+      "content_id": 817735,
+      "reference_id": 26760,
+      "index_reference": "建立自然的翻譯",
+      "localizations": {
+        "eng": {
+          "content_id": 33346,
+          "language": "eng",
+          "title": "Create Natural Translations"
+        },
+        "arb": {
+          "content_id": 781685,
+          "language": "arb",
+          "title": "إنشاء ترجمات طبيعية"
+        },
+        "hin": {
+          "content_id": 727385,
+          "language": "hin",
+          "title": "स्वाभविक अनुवाद को तैयार करना"
+        },
+        "por": {
+          "content_id": 800125,
+          "language": "por",
+          "title": "Criar traduções naturais"
+        },
+        "spa": {
+          "content_id": 727993,
+          "language": "spa",
+          "title": "Create Natural Translations"
+        },
+        "nep": {
+          "content_id": 727756,
+          "language": "nep",
+          "title": "स्वभाविक अनुवादहरू बनाउनुहोस्"
+        }
+      }
+    },
+    "817736": {
+      "content_id": 817736,
+      "reference_id": 26761,
+      "index_reference": "建立持續不斷的翻譯",
+      "localizations": {
+        "eng": {
+          "content_id": 33347,
+          "language": "eng",
+          "title": "Create Ongoing Translations"
+        },
+        "arb": {
+          "content_id": 781686,
+          "language": "arb",
+          "title": "إنشاء ترجمات مستمرة"
+        },
+        "hin": {
+          "content_id": 727386,
+          "language": "hin",
+          "title": "निरंतरता के अनुवाद को तैयार करना"
+        },
+        "por": {
+          "content_id": 800126,
+          "language": "por",
+          "title": "Criar traduções contínuas"
+        },
+        "spa": {
+          "content_id": 727994,
+          "language": "spa",
+          "title": "Create Ongoing Translations"
+        },
+        "nep": {
+          "content_id": 727757,
+          "language": "nep",
+          "title": "निरन्तर अगाडि बढिरहने अनुवादहरू बनाउनुहोस्"
+        }
+      }
+    },
+    "817696": {
+      "content_id": 817696,
+      "reference_id": 26676,
+      "index_reference": "眾人",
+      "localizations": {
+        "arb": {
+          "content_id": 781601,
+          "language": "arb",
+          "title": "الجمهور"
+        },
+        "hin": {
+          "content_id": 799939,
+          "language": "hin",
+          "title": "भीड़"
+        },
+        "por": {
+          "content_id": 800041,
+          "language": "por",
+          "title": "Multidão"
+        }
+      }
+    },
+    "817754": {
+      "content_id": 817754,
+      "reference_id": 26830,
+      "index_reference": "書寫語言的決定",
+      "localizations": {
+        "eng": {
+          "content_id": 33416,
+          "language": "eng",
+          "title": "Decisions for Writing Your Language"
+        },
+        "arb": {
+          "content_id": 781755,
+          "language": "arb",
+          "title": "قرارات تتعلق بكتابة لغتك"
+        },
+        "hin": {
+          "content_id": 727465,
+          "language": "hin",
+          "title": "अपनी भाषाओं को लिखने के निर्णय"
+        },
+        "por": {
+          "content_id": 800195,
+          "language": "por",
+          "title": "Decisões para escrever seu idioma"
+        },
+        "spa": {
+          "content_id": 728100,
+          "language": "spa",
+          "title": "Decisions for Writing Your Language"
+        },
+        "nep": {
+          "content_id": 727866,
+          "language": "nep",
+          "title": "तपाईंको भाषा लेख्नका गर्नुपर्ने लागि निर्णयहरू"
+        }
+      }
+    },
+    "817719": {
+      "content_id": 817719,
+      "reference_id": 26719,
+      "index_reference": "直接和間接引文",
+      "localizations": {
+        "eng": {
+          "content_id": 33305,
+          "language": "eng",
+          "title": "Direct and Indirect Quotations"
+        },
+        "arb": {
+          "content_id": 781644,
+          "language": "arb",
+          "title": "الاقتباسات المباشرة وغير المباشرة"
+        },
+        "hin": {
+          "content_id": 727346,
+          "language": "hin",
+          "title": "प्रत्यक्ष एवं अप्रत्यक्ष उद्धरण"
+        },
+        "ind": {
+          "content_id": 727546,
+          "language": "ind",
+          "title": "Kutipan Langsung dan Tidak Langsung"
+        },
+        "por": {
+          "content_id": 800084,
+          "language": "por",
+          "title": "Citações diretas e indiretas"
+        },
+        "spa": {
+          "content_id": 727949,
+          "language": "spa",
+          "title": "Citas directas e indirectas"
+        },
+        "nep": {
+          "content_id": 727717,
+          "language": "nep",
+          "title": "प्रत्यक्ष र अप्रत्यक्ष कथनहरू"
+        }
+      }
+    },
+    "817738": {
+      "content_id": 817738,
+      "reference_id": 26790,
+      "index_reference": "發現經文的意義",
+      "localizations": {
+        "eng": {
+          "content_id": 33376,
+          "language": "eng",
+          "title": "Discover the Meaning of the Text"
+        },
+        "arb": {
+          "content_id": 781715,
+          "language": "arb",
+          "title": "اكتشف معنى النص"
+        },
+        "hin": {
+          "content_id": 727426,
+          "language": "hin",
+          "title": "लेख के अर्थ की खोज"
+        },
+        "por": {
+          "content_id": 800155,
+          "language": "por",
+          "title": "Descubra o significado do texto"
+        },
+        "spa": {
+          "content_id": 728051,
+          "language": "spa",
+          "title": "Discover the Meaning of the Text"
+        },
+        "nep": {
+          "content_id": 727815,
+          "language": "nep",
+          "title": "पाठको अर्थ पत्ता लगाउने"
+        }
+      }
+    },
+    "817697": {
+      "content_id": 817697,
+      "reference_id": 26678,
+      "index_reference": "區分相對於告知或提醒",
+      "localizations": {
+        "eng": {
+          "content_id": 33264,
+          "language": "eng",
+          "title": "Distinguishing Versus Informing or Reminding"
+        },
+        "arb": {
+          "content_id": 781603,
+          "language": "arb",
+          "title": "التمييز مقابل الإخبار أو التذكير"
+        },
+        "hin": {
+          "content_id": 727308,
+          "language": "hin",
+          "title": "सूचना देने बनाम याद दिलाने वाले शब्दों में अंतर करना"
+        },
+        "ind": {
+          "content_id": 727513,
+          "language": "ind",
+          "title": "Membedakan antara Menginformasikan atau Mengingatkan"
+        },
+        "por": {
+          "content_id": 800043,
+          "language": "por",
+          "title": "Distinguir versus informar ou lembrar"
+        },
+        "spa": {
+          "content_id": 727907,
+          "language": "spa",
+          "title": "Distinguir frente a informar o recordar"
+        },
+        "nep": {
+          "content_id": 727677,
+          "language": "nep",
+          "title": "जानकारी दिने वा स्मरण गराउने वाक्यांश बिच फरक"
+        }
+      }
+    },
+    "817698": {
+      "content_id": 817698,
+      "reference_id": 26679,
+      "index_reference": "雙重否定",
+      "localizations": {
+        "eng": {
+          "content_id": 33265,
+          "language": "eng",
+          "title": "Double Negatives"
+        },
+        "arb": {
+          "content_id": 781604,
+          "language": "arb",
+          "title": "النفي المزدوج"
+        },
+        "hin": {
+          "content_id": 727309,
+          "language": "hin",
+          "title": "दोहरे नकारात्मक"
+        },
+        "ind": {
+          "content_id": 727514,
+          "language": "ind",
+          "title": "Negatif Ganda"
+        },
+        "por": {
+          "content_id": 800044,
+          "language": "por",
+          "title": "Negativos duplos"
+        },
+        "spa": {
+          "content_id": 727908,
+          "language": "spa",
+          "title": "Dobles negativos"
+        },
+        "nep": {
+          "content_id": 727678,
+          "language": "nep",
+          "title": "दोहोरो नकारात्मक"
+        }
+      }
+    },
+    "817699": {
+      "content_id": 817699,
+      "reference_id": 26680,
+      "index_reference": "同義連用",
+      "localizations": {
+        "eng": {
+          "content_id": 33266,
+          "language": "eng",
+          "title": "Doublet"
+        },
+        "arb": {
+          "content_id": 781605,
+          "language": "arb",
+          "title": "النظير اللغوي"
+        },
+        "hin": {
+          "content_id": 727310,
+          "language": "hin",
+          "title": "दोहरात्मक"
+        },
+        "ind": {
+          "content_id": 727515,
+          "language": "ind",
+          "title": "Doublet (Jamak)"
+        },
+        "por": {
+          "content_id": 800045,
+          "language": "por",
+          "title": "Dupla"
+        },
+        "spa": {
+          "content_id": 727909,
+          "language": "spa",
+          "title": "Doblete"
+        },
+        "nep": {
+          "content_id": 727679,
+          "language": "nep",
+          "title": "प्रतिरूपी"
+        }
+      }
+    },
+    "817700": {
+      "content_id": 817700,
+      "reference_id": 26681,
+      "index_reference": "省略",
+      "localizations": {
+        "eng": {
+          "content_id": 33267,
+          "language": "eng",
+          "title": "Ellipsis"
+        },
+        "arb": {
+          "content_id": 781606,
+          "language": "arb",
+          "title": "الحذف"
+        },
+        "hin": {
+          "content_id": 727311,
+          "language": "hin",
+          "title": "पदन्यूनता"
+        },
+        "ind": {
+          "content_id": 727516,
+          "language": "ind",
+          "title": "Elipsis (Penghilangan Kata)"
+        },
+        "por": {
+          "content_id": 800046,
+          "language": "por",
+          "title": "Elipse"
+        },
+        "spa": {
+          "content_id": 727910,
+          "language": "spa",
+          "title": "Elipsis"
+        },
+        "nep": {
+          "content_id": 727680,
+          "language": "nep",
+          "title": "शब्दलोप"
+        }
+      }
+    },
+    "817755": {
+      "content_id": 817755,
+      "reference_id": 26831,
+      "index_reference": "故事結尾",
+      "localizations": {
+        "eng": {
+          "content_id": 33417,
+          "language": "eng",
+          "title": "End of Story"
+        },
+        "arb": {
+          "content_id": 781756,
+          "language": "arb",
+          "title": "نهاية القصة"
+        },
+        "hin": {
+          "content_id": 727466,
+          "language": "hin",
+          "title": "कहानी का अंत"
+        },
+        "por": {
+          "content_id": 800196,
+          "language": "por",
+          "title": "Fim da história"
+        },
+        "spa": {
+          "content_id": 728101,
+          "language": "spa",
+          "title": "Fin de la historia"
+        },
+        "nep": {
+          "content_id": 727867,
+          "language": "nep",
+          "title": "कथाको समापन"
+        }
+      }
+    },
+    "817701": {
+      "content_id": 817701,
+      "reference_id": 26682,
+      "index_reference": "委婉的說法",
+      "localizations": {
+        "eng": {
+          "content_id": 33268,
+          "language": "eng",
+          "title": "Euphemism"
+        },
+        "arb": {
+          "content_id": 781607,
+          "language": "arb",
+          "title": "التلطيف أو الكناية"
+        },
+        "hin": {
+          "content_id": 727312,
+          "language": "hin",
+          "title": "शिष्टोक्ति"
+        },
+        "ind": {
+          "content_id": 727517,
+          "language": "ind",
+          "title": "Eufimisme (Penghalusan Kata)"
+        },
+        "por": {
+          "content_id": 800047,
+          "language": "por",
+          "title": "Eufemismo"
+        },
+        "spa": {
+          "content_id": 727911,
+          "language": "spa",
+          "title": "Eufemismo"
+        },
+        "nep": {
+          "content_id": 727681,
+          "language": "nep",
+          "title": "व्यञ्‍जना"
+        }
+      }
+    },
+    "817702": {
+      "content_id": 817702,
+      "reference_id": 26684,
+      "index_reference": "感嘆詞",
+      "localizations": {
+        "eng": {
+          "content_id": 33270,
+          "language": "eng",
+          "title": "Exclamations"
+        },
+        "arb": {
+          "content_id": 781609,
+          "language": "arb",
+          "title": "عبارات التعجب"
+        },
+        "hin": {
+          "content_id": 727314,
+          "language": "hin",
+          "title": "विस्मयादिबोधक"
+        },
+        "ind": {
+          "content_id": 727519,
+          "language": "ind",
+          "title": "Seruan"
+        },
+        "por": {
+          "content_id": 800049,
+          "language": "por",
+          "title": "Exclamações"
+        },
+        "spa": {
+          "content_id": 727913,
+          "language": "spa",
+          "title": "Exclamaciones"
+        },
+        "nep": {
+          "content_id": 727683,
+          "language": "nep",
+          "title": "विस्मयादि"
+        }
+      }
+    },
+    "817703": {
+      "content_id": 817703,
+      "reference_id": 26685,
+      "index_reference": "排他性和包容性的「我們」",
+      "localizations": {
+        "eng": {
+          "content_id": 33271,
+          "language": "eng",
+          "title": "Exclusive and Inclusive ‘We’"
+        },
+        "arb": {
+          "content_id": 781610,
+          "language": "arb",
+          "title": "ضمير \"نحن\" الحصري والشامل"
+        },
+        "hin": {
+          "content_id": 727315,
+          "language": "hin",
+          "title": "विशिष्ट एवं संयुक्त ‘‘हम’’"
+        },
+        "ind": {
+          "content_id": 727520,
+          "language": "ind",
+          "title": "\"Kami\" yang Eksklusif dan Inklusif"
+        },
+        "por": {
+          "content_id": 800050,
+          "language": "por",
+          "title": "‘Nós’ exclusivo e inclusivo"
+        },
+        "spa": {
+          "content_id": 727914,
+          "language": "spa",
+          "title": "“Nosotros” exclusivos e inclusivos"
+        },
+        "nep": {
+          "content_id": 727684,
+          "language": "nep",
+          "title": "\"हामी\" को समावेशी र असमावेशी रूप"
+        }
+      }
+    },
+    "817714": {
+      "content_id": 817714,
+      "reference_id": 26701,
+      "index_reference": "修辭法",
+      "localizations": {
+        "eng": {
+          "content_id": 33287,
+          "language": "eng",
+          "title": "Figures of Speech"
+        },
+        "arb": {
+          "content_id": 781626,
+          "language": "arb",
+          "title": "الصور البلاغية"
+        },
+        "hin": {
+          "content_id": 727330,
+          "language": "hin",
+          "title": "भाषा के अलंकार"
+        },
+        "por": {
+          "content_id": 800066,
+          "language": "por",
+          "title": "Figuras de linguagem"
+        },
+        "spa": {
+          "content_id": 727931,
+          "language": "spa",
+          "title": "Figuras del lenguaje"
+        },
+        "nep": {
+          "content_id": 727701,
+          "language": "nep",
+          "title": "अलङ्‍कारहरू"
+        }
+      }
+    },
+    "817724": {
+      "content_id": 817724,
+      "reference_id": 26736,
+      "index_reference": "檔案格式",
+      "localizations": {
+        "eng": {
+          "content_id": 33322,
+          "language": "eng",
+          "title": "File Formats"
+        },
+        "arb": {
+          "content_id": 781661,
+          "language": "arb",
+          "title": "تنسيقات الملفات"
+        },
+        "hin": {
+          "content_id": 727361,
+          "language": "hin",
+          "title": "फाइल प्रारूप"
+        },
+        "por": {
+          "content_id": 800101,
+          "language": "por",
+          "title": "Formatos de arquivo"
+        },
+        "spa": {
+          "content_id": 727966,
+          "language": "spa",
+          "title": "File Formats"
+        },
+        "nep": {
+          "content_id": 727733,
+          "language": "nep",
+          "title": "फाइल ढाँचाहरू"
+        }
+      }
+    },
+    "817759": {
+      "content_id": 817759,
+      "reference_id": 209457,
+      "index_reference": "尋找答案",
+      "localizations": {
+        "eng": {
+          "content_id": 689637,
+          "language": "eng",
+          "title": "Finding Answers"
+        },
+        "arb": {
+          "content_id": 781776,
+          "language": "arb",
+          "title": "البحث عن إجابات"
+        },
+        "hin": {
+          "content_id": 727362,
+          "language": "hin",
+          "title": "उत्तरों की तलाश"
+        },
+        "ind": {
+          "content_id": 727555,
+          "language": "ind",
+          "title": "Menemukan Jawaban"
+        },
+        "por": {
+          "content_id": 800216,
+          "language": "por",
+          "title": "Encontrando respostas"
+        },
+        "spa": {
+          "content_id": 727967,
+          "language": "spa",
+          "title": "Finding Answers"
+        },
+        "nep": {
+          "content_id": 727734,
+          "language": "nep",
+          "title": "उत्तरहरू पत्ता लगाउने"
+        }
+      }
+    },
+    "817725": {
+      "content_id": 817725,
+      "reference_id": 26737,
+      "index_reference": "初稿",
+      "localizations": {
+        "eng": {
+          "content_id": 33323,
+          "language": "eng",
+          "title": "First Draft"
+        },
+        "arb": {
+          "content_id": 781662,
+          "language": "arb",
+          "title": "المسودة الأولى"
+        },
+        "hin": {
+          "content_id": 727363,
+          "language": "hin",
+          "title": "प्रथम प्रालेख तैयार करना"
+        },
+        "por": {
+          "content_id": 800102,
+          "language": "por",
+          "title": "Primeiro rascunho"
+        },
+        "spa": {
+          "content_id": 727968,
+          "language": "spa",
+          "title": "First Draft"
+        },
+        "nep": {
+          "content_id": 727735,
+          "language": "nep",
+          "title": "पहिलो खेस्रा बनाउने"
+        }
+      }
+    },
+    "817695": {
+      "content_id": 817695,
+      "reference_id": 26670,
+      "index_reference": "第一、第二或第三人稱",
+      "localizations": {
+        "eng": {
+          "content_id": 33256,
+          "language": "eng",
+          "title": "First, Second or Third Person"
+        },
+        "arb": {
+          "content_id": 781595,
+          "language": "arb",
+          "title": "صيغة المتكلم والمخاطب والغائب"
+        },
+        "hin": {
+          "content_id": 727302,
+          "language": "hin",
+          "title": "प्रथम, द्वितीय एवं तृतीय पुरुष"
+        },
+        "ind": {
+          "content_id": 727509,
+          "language": "ind",
+          "title": "Orang Pertama, Kedua atau Ketiga"
+        },
+        "por": {
+          "content_id": 800035,
+          "language": "por",
+          "title": "Primeira, segunda ou terceira pessoa"
+        },
+        "spa": {
+          "content_id": 727900,
+          "language": "spa",
+          "title": "Primera, Segunda o Tercera Persona"
+        },
+        "nep": {
+          "content_id": 727671,
+          "language": "nep",
+          "title": "प्रथम, दोस्रो वा तेस्रो पुरुष"
+        }
+      }
+    },
+    "817740": {
+      "content_id": 817740,
+      "reference_id": 26792,
+      "index_reference": "形式與意義",
+      "localizations": {
+        "eng": {
+          "content_id": 33378,
+          "language": "eng",
+          "title": "Form and Meaning"
+        },
+        "arb": {
+          "content_id": 781717,
+          "language": "arb",
+          "title": "الشكل والمعنى"
+        },
+        "hin": {
+          "content_id": 727428,
+          "language": "hin",
+          "title": "प्रारूप एवं अर्थ"
+        },
+        "por": {
+          "content_id": 800157,
+          "language": "por",
+          "title": "Forma e significado"
+        },
+        "spa": {
+          "content_id": 728053,
+          "language": "spa",
+          "title": "Form and Meaning"
+        },
+        "nep": {
+          "content_id": 727817,
+          "language": "nep",
+          "title": "संरचना र अर्थ"
+        }
+      }
+    },
+    "817720": {
+      "content_id": 817720,
+      "reference_id": 26731,
+      "index_reference": "你的形式",
+      "localizations": {
+        "eng": {
+          "content_id": 33317,
+          "language": "eng",
+          "title": "Forms of You"
+        },
+        "arb": {
+          "content_id": 781656,
+          "language": "arb",
+          "title": "أشكال الضمير \"أنت\""
+        },
+        "hin": {
+          "content_id": 727356,
+          "language": "hin",
+          "title": "तुम के प्रारूप"
+        },
+        "ind": {
+          "content_id": 727552,
+          "language": "ind",
+          "title": "Bentuk dari Kamu"
+        },
+        "por": {
+          "content_id": 800096,
+          "language": "por",
+          "title": "Formas de 'você'"
+        },
+        "spa": {
+          "content_id": 727961,
+          "language": "spa",
+          "title": "Formas de tú"
+        },
+        "nep": {
+          "content_id": 727728,
+          "language": "nep",
+          "title": "तिमीका रूपहरू"
+        }
+      }
+    },
+    "817721": {
+      "content_id": 817721,
+      "reference_id": 26733,
+      "index_reference": "「你」的形式-雙重/複數",
+      "localizations": {
+        "eng": {
+          "content_id": 33319,
+          "language": "eng",
+          "title": "Forms of ‘You’ — Dual/Plural"
+        },
+        "arb": {
+          "content_id": 781658,
+          "language": "arb",
+          "title": "أشكال الضمير \"أنت\" — المثنى/الجمع"
+        },
+        "hin": {
+          "content_id": 727358,
+          "language": "hin",
+          "title": "‘तुम’ के रूप - युग्म/बहुवचन"
+        },
+        "por": {
+          "content_id": 800098,
+          "language": "por",
+          "title": "Formas de ‘você’ — Dual/plural"
+        },
+        "spa": {
+          "content_id": 727963,
+          "language": "spa",
+          "title": "Formas de “Tú” - Dual/Plural"
+        },
+        "nep": {
+          "content_id": 727730,
+          "language": "nep",
+          "title": "\"तिमी\" शब्द - दोहोरो वा बहुवचन"
+        }
+      }
+    },
+    "817722": {
+      "content_id": 817722,
+      "reference_id": 26734,
+      "index_reference": "「你」的形式-正式或非正式",
+      "localizations": {
+        "eng": {
+          "content_id": 33320,
+          "language": "eng",
+          "title": "Forms of ‘You’ — Formal or Informal"
+        },
+        "arb": {
+          "content_id": 781659,
+          "language": "arb",
+          "title": "أشكال الضمير \"أنت\" — الرسمي أو غير الرسمي"
+        },
+        "hin": {
+          "content_id": 727359,
+          "language": "hin",
+          "title": "‘तू /तुम’ के रूप - औपचारिक या अनौपचारिक"
+        },
+        "por": {
+          "content_id": 800099,
+          "language": "por",
+          "title": "Formas de ‘você’ — Formal ou informal"
+        },
+        "spa": {
+          "content_id": 727964,
+          "language": "spa",
+          "title": "Forms of ‘You’ - Formal or Informal"
+        },
+        "nep": {
+          "content_id": 727731,
+          "language": "nep",
+          "title": "\"तिमी\" का रूपहरू - औपचारिक वा अनौपचारिक"
+        }
+      }
+    },
+    "817723": {
+      "content_id": 817723,
+      "reference_id": 26735,
+      "index_reference": "「你」的形式-單數",
+      "localizations": {
+        "eng": {
+          "content_id": 33321,
+          "language": "eng",
+          "title": "Forms of ‘You’ — Singular"
+        },
+        "arb": {
+          "content_id": 781660,
+          "language": "arb",
+          "title": "أشكال الضمير \"أنت\" — المفرد"
+        },
+        "hin": {
+          "content_id": 727360,
+          "language": "hin",
+          "title": "‘तुम’ के रूप - एकवचन"
+        },
+        "ind": {
+          "content_id": 727554,
+          "language": "ind",
+          "title": "Bentuk kata ‘Kamu’ — Tunggal"
+        },
+        "por": {
+          "content_id": 800100,
+          "language": "por",
+          "title": "Formas de 'você' — Singular"
+        },
+        "spa": {
+          "content_id": 727965,
+          "language": "spa",
+          "title": "Forms of ‘You’ - Singular"
+        },
+        "nep": {
+          "content_id": 727732,
+          "language": "nep",
+          "title": "\"तिमी\" का रूपहरू - एकवचन"
+        }
+      }
+    },
+    "817741": {
+      "content_id": 817741,
+      "reference_id": 26795,
+      "index_reference": "分數",
+      "localizations": {
+        "eng": {
+          "content_id": 33381,
+          "language": "eng",
+          "title": "Fractions"
+        },
+        "arb": {
+          "content_id": 781720,
+          "language": "arb",
+          "title": "الكسور"
+        },
+        "hin": {
+          "content_id": 727431,
+          "language": "hin",
+          "title": "अंश"
+        },
+        "por": {
+          "content_id": 800160,
+          "language": "por",
+          "title": "Frações"
+        },
+        "spa": {
+          "content_id": 728056,
+          "language": "spa",
+          "title": "Fractions"
+        },
+        "nep": {
+          "content_id": 727820,
+          "language": "nep",
+          "title": "भाग-सङ्ख्याहरू"
+        }
+      }
+    },
+    "817761": {
+      "content_id": 817761,
+      "reference_id": 209459,
+      "index_reference": "門戶語言的方法",
+      "localizations": {
+        "eng": {
+          "content_id": 689639,
+          "language": "eng",
+          "title": "Gateway Languages Strategy"
+        },
+        "arb": {
+          "content_id": 781778,
+          "language": "arb",
+          "title": "استراتيجية لغات البوابة"
+        },
+        "hin": {
+          "content_id": 727364,
+          "language": "hin",
+          "title": "गेटवे भाषाओं की रणनीति"
+        },
+        "ind": {
+          "content_id": 727557,
+          "language": "ind",
+          "title": "Strategi Bahasa Pengantar (Gateway Languages)"
+        },
+        "por": {
+          "content_id": 800218,
+          "language": "por",
+          "title": "Estratégia de Idiomas de Acesso"
+        },
+        "spa": {
+          "content_id": 727970,
+          "language": "spa",
+          "title": "Gateway Languages Strategy"
+        },
+        "nep": {
+          "content_id": 727737,
+          "language": "nep",
+          "title": "गेटवे भाषाहरूको रणनीति"
+        }
+      }
+    },
+    "817705": {
+      "content_id": 817705,
+      "reference_id": 26691,
+      "index_reference": "通用名詞片語",
+      "localizations": {
+        "eng": {
+          "content_id": 33277,
+          "language": "eng",
+          "title": "Generic Noun Phrases"
+        },
+        "arb": {
+          "content_id": 781616,
+          "language": "arb",
+          "title": "العبارات الاسمية العامة "
+        },
+        "hin": {
+          "content_id": 727321,
+          "language": "hin",
+          "title": "सामान्य संज्ञा गर्भितं वाक्यांश"
+        },
+        "ind": {
+          "content_id": 727526,
+          "language": "ind",
+          "title": "Frasa Kata Benda Umum"
+        },
+        "por": {
+          "content_id": 800056,
+          "language": "por",
+          "title": "Frases com substantivos genéricos"
+        },
+        "spa": {
+          "content_id": 727920,
+          "language": "spa",
+          "title": "Frases sustantivas genéricas"
+        },
+        "nep": {
+          "content_id": 727690,
+          "language": "nep",
+          "title": "नाम प्रयोग भएका आम वाक्यांशहरू"
+        }
+      }
+    },
+    "817706": {
+      "content_id": 817706,
+      "reference_id": 26692,
+      "index_reference": "去和來",
+      "localizations": {
+        "eng": {
+          "content_id": 33278,
+          "language": "eng",
+          "title": "Go and Come"
+        },
+        "arb": {
+          "content_id": 781617,
+          "language": "arb",
+          "title": "اذهب وتعال "
+        },
+        "hin": {
+          "content_id": 727322,
+          "language": "hin",
+          "title": "जाओ और आओ"
+        },
+        "ind": {
+          "content_id": 727527,
+          "language": "ind",
+          "title": "Pergi dan Datang"
+        },
+        "por": {
+          "content_id": 800057,
+          "language": "por",
+          "title": "Ir e vir"
+        },
+        "spa": {
+          "content_id": 727921,
+          "language": "spa",
+          "title": "Ir y venir"
+        },
+        "nep": {
+          "content_id": 727691,
+          "language": "nep",
+          "title": "जानु र आउनु"
+        }
+      }
+    },
+    "817707": {
+      "content_id": 817707,
+      "reference_id": 26693,
+      "index_reference": "文法主題",
+      "localizations": {
+        "eng": {
+          "content_id": 33279,
+          "language": "eng",
+          "title": "Grammar Topics"
+        },
+        "arb": {
+          "content_id": 781618,
+          "language": "arb",
+          "title": "مواضيع القواعد النحوية"
+        },
+        "hin": {
+          "content_id": 727323,
+          "language": "hin",
+          "title": "व्याकरण के विषय"
+        },
+        "por": {
+          "content_id": 800058,
+          "language": "por",
+          "title": "Tópicos de gramática"
+        },
+        "spa": {
+          "content_id": 727922,
+          "language": "spa",
+          "title": "Grammar Topics"
+        },
+        "nep": {
+          "content_id": 727692,
+          "language": "nep",
+          "title": "व्याकरण सम्बन्धि विषय"
+        }
+      }
+    },
+    "817769": {
+      "content_id": 817769,
+      "reference_id": 209497,
+      "index_reference": "建立良好回譯的指南",
+      "localizations": {
+        "eng": {
+          "content_id": 689677,
+          "language": "eng",
+          "title": "Guidelines for Creating a Good Back Translation"
+        },
+        "arb": {
+          "content_id": 781816,
+          "language": "arb",
+          "title": "إرشادات لإنشاء ترجمة عكسية جيدة"
+        },
+        "hin": {
+          "content_id": 727272,
+          "language": "hin",
+          "title": "एक अच्छे पिछले अनुवाद को करने के मार्गनिर्देश"
+        },
+        "ind": {
+          "content_id": 727621,
+          "language": "ind",
+          "title": "Pedoman Membuat Terjemahan Balik yang Baik"
+        },
+        "por": {
+          "content_id": 800256,
+          "language": "por",
+          "title": "Orientações para criar uma boa Tradução Reversa"
+        },
+        "spa": {
+          "content_id": 728092,
+          "language": "spa",
+          "title": "Guidelines for Creating a Good Back Translation"
+        },
+        "nep": {
+          "content_id": 727855,
+          "language": "nep",
+          "title": "असल वापस अनुवाद सृजनाको निम्ति मार्गनिर्देशनहरू"
+        }
+      }
+    },
+    "817742": {
+      "content_id": 817742,
+      "reference_id": 26796,
+      "index_reference": "希伯來月分",
+      "localizations": {
+        "eng": {
+          "content_id": 33382,
+          "language": "eng",
+          "title": "Hebrew Months"
+        },
+        "arb": {
+          "content_id": 781721,
+          "language": "arb",
+          "title": "الأشهر العبرية"
+        },
+        "hin": {
+          "content_id": 727432,
+          "language": "hin",
+          "title": "इब्रानी महीने"
+        },
+        "por": {
+          "content_id": 800161,
+          "language": "por",
+          "title": "Meses hebraicos"
+        },
+        "spa": {
+          "content_id": 728057,
+          "language": "spa",
+          "title": "Hebrew Months"
+        },
+        "nep": {
+          "content_id": 727821,
+          "language": "nep",
+          "title": "हिब्रू महिनाहरू"
+        }
+      }
+    },
+    "817743": {
+      "content_id": 817743,
+      "reference_id": 26797,
+      "index_reference": "協助翻譯",
+      "localizations": {
+        "eng": {
+          "content_id": 33383,
+          "language": "eng",
+          "title": "Help with Translating"
+        },
+        "arb": {
+          "content_id": 781722,
+          "language": "arb",
+          "title": "المساعدة في الترجمة"
+        },
+        "hin": {
+          "content_id": 727433,
+          "language": "hin",
+          "title": "अनुवाद में मदद"
+        },
+        "por": {
+          "content_id": 800162,
+          "language": "por",
+          "title": "Ajuda com tradução"
+        },
+        "spa": {
+          "content_id": 728058,
+          "language": "spa",
+          "title": "Help with Translating"
+        },
+        "nep": {
+          "content_id": 727822,
+          "language": "nep",
+          "title": "अनुवादको लागि सहयोग"
+        }
+      }
+    },
+    "817708": {
+      "content_id": 817708,
+      "reference_id": 26694,
+      "index_reference": "二詞一義",
+      "localizations": {
+        "eng": {
+          "content_id": 33280,
+          "language": "eng",
+          "title": "Hendiadys"
+        },
+        "arb": {
+          "content_id": 781619,
+          "language": "arb",
+          "title": "عطف البيان"
+        },
+        "hin": {
+          "content_id": 727324,
+          "language": "hin",
+          "title": "हेन्डियडिस"
+        },
+        "ind": {
+          "content_id": 727528,
+          "language": "ind",
+          "title": "Hendiadis"
+        },
+        "por": {
+          "content_id": 800059,
+          "language": "por",
+          "title": "Hendíade"
+        },
+        "spa": {
+          "content_id": 727923,
+          "language": "spa",
+          "title": "Hendíadis"
+        },
+        "nep": {
+          "content_id": 727693,
+          "language": "nep",
+          "title": "दुई शब्दको बिचमा 'र' राखेर एउटै विचार व्यक्त गर्ने अभिव्यञ्‍जना"
+        }
+      }
+    },
+    "817726": {
+      "content_id": 817726,
+      "reference_id": 26750,
+      "index_reference": "尊稱",
+      "localizations": {
+        "arb": {
+          "content_id": 781675,
+          "language": "arb",
+          "title": "ألقاب الاحترام"
+        },
+        "hin": {
+          "content_id": 799946,
+          "language": "hin",
+          "title": "सम्मानसूचक शब्द"
+        },
+        "por": {
+          "content_id": 800115,
+          "language": "por",
+          "title": "Honoríficos"
+        }
+      }
+    },
+    "817737": {
+      "content_id": 817737,
+      "reference_id": 26780,
+      "index_reference": "如何對焦你的聖經翻譯",
+      "localizations": {
+        "eng": {
+          "content_id": 33366,
+          "language": "eng",
+          "title": "How to Aim Your Bible Translation"
+        },
+        "arb": {
+          "content_id": 781705,
+          "language": "arb",
+          "title": "كيفية توجيه ترجمة الكتاب المقدس الخاصة بك"
+        },
+        "hin": {
+          "content_id": 727417,
+          "language": "hin",
+          "title": "अपने बाइबल अनुवाद का लक्ष्य कैसे बनाएँ?"
+        },
+        "ind": {
+          "content_id": 727602,
+          "language": "ind",
+          "title": "Bagaimana Mengarahkan Terjemahan Alkitab Anda"
+        },
+        "por": {
+          "content_id": 800145,
+          "language": "por",
+          "title": "Como direcionar sua tradução da Bíblia"
+        },
+        "spa": {
+          "content_id": 728042,
+          "language": "spa",
+          "title": "How to Aim Your Bible Translation"
+        },
+        "nep": {
+          "content_id": 727805,
+          "language": "nep",
+          "title": "तपाईंको बाइबल अनुवादको उद्देश्य कसरी राख्‍ने?"
+        }
+      }
+    },
+    "817760": {
+      "content_id": 817760,
+      "reference_id": 209458,
+      "index_reference": "如何檢查是否為良好的格式",
+      "localizations": {
+        "eng": {
+          "content_id": 689638,
+          "language": "eng",
+          "title": "How to Check for Good Formatting"
+        },
+        "arb": {
+          "content_id": 781777,
+          "language": "arb",
+          "title": "كيفية التحقق من التنسيق الجيد"
+        },
+        "hin": {
+          "content_id": 727254,
+          "language": "hin",
+          "title": "संरूपण जाँच कैसे करें"
+        },
+        "ind": {
+          "content_id": 727556,
+          "language": "ind",
+          "title": "Cara Memeriksa Format yang Baik"
+        },
+        "por": {
+          "content_id": 800217,
+          "language": "por",
+          "title": "Como verificar a qualidade da formatação"
+        },
+        "spa": {
+          "content_id": 727969,
+          "language": "spa",
+          "title": "How to Check for Good Formatting"
+        },
+        "nep": {
+          "content_id": 727736,
+          "language": "nep",
+          "title": "ढाँचाको जाँच कसरी गर्ने"
+        }
+      }
+    },
+    "817767": {
+      "content_id": 817767,
+      "reference_id": 209485,
+      "index_reference": "如何分享內容",
+      "localizations": {
+        "eng": {
+          "content_id": 689665,
+          "language": "eng",
+          "title": "How to Share Content"
+        },
+        "arb": {
+          "content_id": 781804,
+          "language": "arb",
+          "title": "كيفية مشاركة المحتوى"
+        },
+        "hin": {
+          "content_id": 727414,
+          "language": "hin",
+          "title": "रूपरेखा को कैसे बाँटें"
+        },
+        "ind": {
+          "content_id": 727596,
+          "language": "ind",
+          "title": "Cara Membagikan Konten"
+        },
+        "por": {
+          "content_id": 800244,
+          "language": "por",
+          "title": "Como compartilhar conteúdo"
+        },
+        "spa": {
+          "content_id": 728036,
+          "language": "spa",
+          "title": "How to Share Content"
+        },
+        "nep": {
+          "content_id": 727800,
+          "language": "nep",
+          "title": "सामाग्रीलाई कसरी सेयर गर्ने"
+        }
+      }
+    },
+    "817749": {
+      "content_id": 817749,
+      "reference_id": 26805,
+      "index_reference": "如何翻譯名字",
+      "localizations": {
+        "eng": {
+          "content_id": 33391,
+          "language": "eng",
+          "title": "How to Translate Names"
+        },
+        "arb": {
+          "content_id": 781730,
+          "language": "arb",
+          "title": "كيفية ترجمة الأسماء"
+        },
+        "hin": {
+          "content_id": 727441,
+          "language": "hin",
+          "title": "नामों का अनुवाद कैसे करें"
+        },
+        "ind": {
+          "content_id": 727608,
+          "language": "ind",
+          "title": "Cara Menerjemahkan Nama"
+        },
+        "por": {
+          "content_id": 800170,
+          "language": "por",
+          "title": "Como traduzir nomes"
+        },
+        "spa": {
+          "content_id": 728065,
+          "language": "spa",
+          "title": "Cómo Traducir Nombres"
+        },
+        "nep": {
+          "content_id": 727829,
+          "language": "nep",
+          "title": "नाउँहरूको अनुवाद कसरी गर्ने"
+        }
+      }
+    },
+    "817709": {
+      "content_id": 817709,
+      "reference_id": 26695,
+      "index_reference": "誇張法",
+      "localizations": {
+        "eng": {
+          "content_id": 33281,
+          "language": "eng",
+          "title": "Hyperbole"
+        },
+        "arb": {
+          "content_id": 781620,
+          "language": "arb",
+          "title": "أسلوب المبالغة"
+        },
+        "hin": {
+          "content_id": 727325,
+          "language": "hin",
+          "title": "अतिशयोक्ति"
+        },
+        "ind": {
+          "content_id": 727529,
+          "language": "ind",
+          "title": "Hiperbola"
+        },
+        "por": {
+          "content_id": 800060,
+          "language": "por",
+          "title": "Hipérbole"
+        },
+        "spa": {
+          "content_id": 727924,
+          "language": "spa",
+          "title": "Hipérbole"
+        },
+        "nep": {
+          "content_id": 727694,
+          "language": "nep",
+          "title": "अतिशयोक्ति र सामान्यीकरण"
+        }
+      }
+    },
+    "817710": {
+      "content_id": 817710,
+      "reference_id": 26696,
+      "index_reference": "假設情況",
+      "localizations": {
+        "eng": {
+          "content_id": 33282,
+          "language": "eng",
+          "title": "Hypothetical Situations"
+        },
+        "arb": {
+          "content_id": 781621,
+          "language": "arb",
+          "title": "المواقف الافتراضية"
+        },
+        "hin": {
+          "content_id": 727326,
+          "language": "hin",
+          "title": "काल्पनिक परिस्थितियाँ"
+        },
+        "ind": {
+          "content_id": 727530,
+          "language": "ind",
+          "title": "Situasi yang Bersifat Dugaan (Hypothetical)"
+        },
+        "por": {
+          "content_id": 800061,
+          "language": "por",
+          "title": "Situações hipotéticas"
+        },
+        "spa": {
+          "content_id": 727925,
+          "language": "spa",
+          "title": "Situaciones hipotéticas"
+        },
+        "nep": {
+          "content_id": 727695,
+          "language": "nep",
+          "title": "काल्पनिक परिस्थितिहरू (प्राक्कल्पना)"
+        }
+      }
+    },
+    "817711": {
+      "content_id": 817711,
+      "reference_id": 26697,
+      "index_reference": "慣用語",
+      "localizations": {
+        "eng": {
+          "content_id": 33283,
+          "language": "eng",
+          "title": "Idiom"
+        },
+        "arb": {
+          "content_id": 781622,
+          "language": "arb",
+          "title": "تعبير اصطلاحي "
+        },
+        "hin": {
+          "content_id": 727327,
+          "language": "hin",
+          "title": "मुहावरे"
+        },
+        "ind": {
+          "content_id": 727531,
+          "language": "ind",
+          "title": "Ungkapan"
+        },
+        "por": {
+          "content_id": 800062,
+          "language": "por",
+          "title": "Expressão idiomática"
+        },
+        "spa": {
+          "content_id": 727926,
+          "language": "spa",
+          "title": "Expresión idiomática"
+        },
+        "nep": {
+          "content_id": 727696,
+          "language": "nep",
+          "title": "टुक्काहरू"
+        }
+      }
+    },
+    "817712": {
+      "content_id": 817712,
+      "reference_id": 26698,
+      "index_reference": "命令語氣-其它用法",
+      "localizations": {
+        "eng": {
+          "content_id": 33284,
+          "language": "eng",
+          "title": "Imperatives — Other Uses"
+        },
+        "arb": {
+          "content_id": 781623,
+          "language": "arb",
+          "title": "أسلوب الأمر — استخدامات أخرى"
+        },
+        "hin": {
+          "content_id": 727328,
+          "language": "hin",
+          "title": "आदेशात्मक - अन्य उपयोग"
+        },
+        "por": {
+          "content_id": 800063,
+          "language": "por",
+          "title": "Imperativos — Outros usos"
+        },
+        "spa": {
+          "content_id": 727927,
+          "language": "spa",
+          "title": "Imperativos - Otros usos"
+        },
+        "nep": {
+          "content_id": 727697,
+          "language": "nep",
+          "title": "आज्ञार्थका- अन्य प्रयोगहरू"
+        }
+      }
+    },
+    "817713": {
+      "content_id": 817713,
+      "reference_id": 26700,
+      "index_reference": "資訊結構",
+      "localizations": {
+        "eng": {
+          "content_id": 33286,
+          "language": "eng",
+          "title": "Information Structure"
+        },
+        "arb": {
+          "content_id": 781625,
+          "language": "arb",
+          "title": "بنية المعلومات"
+        },
+        "hin": {
+          "content_id": 727329,
+          "language": "hin",
+          "title": "सूचना संरचना"
+        },
+        "ind": {
+          "content_id": 727533,
+          "language": "ind",
+          "title": "Struktur Informasi"
+        },
+        "por": {
+          "content_id": 800065,
+          "language": "por",
+          "title": "Estrutura de informação"
+        },
+        "spa": {
+          "content_id": 727930,
+          "language": "spa",
+          "title": "Estructura de la información"
+        },
+        "nep": {
+          "content_id": 727700,
+          "language": "nep",
+          "title": "जानकारी संरचना"
+        }
+      }
+    },
+    "817756": {
+      "content_id": 817756,
+      "reference_id": 26833,
+      "index_reference": "介紹新事件",
+      "localizations": {
+        "eng": {
+          "content_id": 33419,
+          "language": "eng",
+          "title": "Introduction of a New Event"
+        },
+        "arb": {
+          "content_id": 781758,
+          "language": "arb",
+          "title": "تقديم حدث جديد"
+        },
+        "hin": {
+          "content_id": 727468,
+          "language": "hin",
+          "title": "नर्इ घटनाओं का परिचय"
+        },
+        "por": {
+          "content_id": 800198,
+          "language": "por",
+          "title": "Introdução de um novo evento"
+        },
+        "spa": {
+          "content_id": 728103,
+          "language": "spa",
+          "title": "Presentación de un nuevo evento"
+        },
+        "nep": {
+          "content_id": 727869,
+          "language": "nep",
+          "title": "नयाँ घटनाको परिचय"
+        }
+      }
+    },
+    "817757": {
+      "content_id": 817757,
+      "reference_id": 26835,
+      "index_reference": "介紹新舊角色",
+      "localizations": {
+        "eng": {
+          "content_id": 33421,
+          "language": "eng",
+          "title": "Introduction of New and Old Participants"
+        },
+        "arb": {
+          "content_id": 781760,
+          "language": "arb",
+          "title": "تقديم المشاركين الجدد والقدامى"
+        },
+        "hin": {
+          "content_id": 727469,
+          "language": "hin",
+          "title": "नए एवं पुराने सहभागियों का परिचय"
+        },
+        "por": {
+          "content_id": 800200,
+          "language": "por",
+          "title": "Introdução de novos e antigos participantes"
+        },
+        "spa": {
+          "content_id": 728104,
+          "language": "spa",
+          "title": "Presentación de los nuevos y antiguos participantes"
+        },
+        "nep": {
+          "content_id": 727870,
+          "language": "nep",
+          "title": "नयाँ र पुराना सहभागीहरूको परिचय"
+        }
+      }
+    },
+    "817765": {
+      "content_id": 817765,
+      "reference_id": 209467,
+      "index_reference": "發佈的簡介",
+      "localizations": {
+        "eng": {
+          "content_id": 689647,
+          "language": "eng",
+          "title": "Introduction to Distribution"
+        },
+        "arb": {
+          "content_id": 781786,
+          "language": "arb",
+          "title": "نظرة عامة على التوزيع"
+        },
+        "hin": {
+          "content_id": 727390,
+          "language": "hin",
+          "title": "वितरण का परिचय"
+        },
+        "ind": {
+          "content_id": 727578,
+          "language": "ind",
+          "title": "Pengantar Distribusi"
+        },
+        "por": {
+          "content_id": 800226,
+          "language": "por",
+          "title": "Introdução à distribuição"
+        },
+        "spa": {
+          "content_id": 728002,
+          "language": "spa",
+          "title": "Introduction to Distribution"
+        },
+        "nep": {
+          "content_id": 727766,
+          "language": "nep",
+          "title": "वितरणको परिचय"
+        }
+      }
+    },
+    "817764": {
+      "content_id": 817764,
+      "reference_id": 209466,
+      "index_reference": "出版簡介",
+      "localizations": {
+        "eng": {
+          "content_id": 689646,
+          "language": "eng",
+          "title": "Introduction to Publishing"
+        },
+        "arb": {
+          "content_id": 781785,
+          "language": "arb",
+          "title": "مقدمة في النشر"
+        },
+        "hin": {
+          "content_id": 727389,
+          "language": "hin",
+          "title": "प्रकाशन का परिचय"
+        },
+        "ind": {
+          "content_id": 727577,
+          "language": "ind",
+          "title": "Pengantar Penerbitan"
+        },
+        "por": {
+          "content_id": 800225,
+          "language": "por",
+          "title": "Introdução a publicação"
+        },
+        "spa": {
+          "content_id": 728001,
+          "language": "spa",
+          "title": "Introduction to Publishing"
+        },
+        "nep": {
+          "content_id": 727765,
+          "language": "nep",
+          "title": "प्रकाशन परिचय"
+        }
+      }
+    },
+    "817762": {
+      "content_id": 817762,
+      "reference_id": 209464,
+      "index_reference": "檢查手冊簡介",
+      "localizations": {
+        "eng": {
+          "content_id": 689644,
+          "language": "eng",
+          "title": "Introduction to the Checking Manual"
+        },
+        "arb": {
+          "content_id": 781783,
+          "language": "arb",
+          "title": "مقدمة إلى دليل التحقق والفحص اللغوي"
+        },
+        "hin": {
+          "content_id": 727259,
+          "language": "hin",
+          "title": "हस्तपुस्तिका की जाँच का परिचय"
+        },
+        "ind": {
+          "content_id": 727575,
+          "language": "ind",
+          "title": "Introduksi kepada Manual Pemeriksaan"
+        },
+        "por": {
+          "content_id": 800223,
+          "language": "por",
+          "title": "Introdução ao Manual de Verificação"
+        },
+        "spa": {
+          "content_id": 727999,
+          "language": "spa",
+          "title": "Introduction to the Checking Manual"
+        },
+        "nep": {
+          "content_id": 727762,
+          "language": "nep",
+          "title": "जाँच निर्देशन (नियमावली) को परिचय"
+        }
+      }
+    },
+    "817766": {
+      "content_id": 817766,
+      "reference_id": 209478,
+      "index_reference": "過程手冊簡介",
+      "localizations": {
+        "eng": {
+          "content_id": 689658,
+          "language": "eng",
+          "title": "Introduction to the Process Manual"
+        },
+        "arb": {
+          "content_id": 781797,
+          "language": "arb",
+          "title": "مقدمة إلى دليل العمليات"
+        },
+        "hin": {
+          "content_id": 727395,
+          "language": "hin",
+          "title": "प्रक्रिया हस्तपुस्तिका का परिचय"
+        },
+        "ind": {
+          "content_id": 727589,
+          "language": "ind",
+          "title": "Pengantar ke Panduan Proses"
+        },
+        "por": {
+          "content_id": 800237,
+          "language": "por",
+          "title": "Introdução ao Manual de Processos"
+        },
+        "spa": {
+          "content_id": 728013,
+          "language": "spa",
+          "title": "Introduction to the Process Manual"
+        }
+      }
+    },
+    "817748": {
+      "content_id": 817748,
+      "reference_id": 26802,
+      "index_reference": "翻譯手冊簡介",
+      "localizations": {
+        "eng": {
+          "content_id": 33388,
+          "language": "eng",
+          "title": "Introduction to the Translation Manual"
+        },
+        "arb": {
+          "content_id": 781727,
+          "language": "arb",
+          "title": "مقدمة دليل الترجمة"
+        },
+        "hin": {
+          "content_id": 727438,
+          "language": "hin",
+          "title": "अनुवाद सहायक पुस्तिका का परिचय"
+        },
+        "ind": {
+          "content_id": 727607,
+          "language": "ind",
+          "title": "Pengantar ke Manual Penerjemahan"
+        },
+        "por": {
+          "content_id": 800167,
+          "language": "por",
+          "title": "Introdução ao Manual de Tradução"
+        },
+        "spa": {
+          "content_id": 728062,
+          "language": "spa",
+          "title": "Introduction to the Translation Manual"
+        },
+        "nep": {
+          "content_id": 727826,
+          "language": "nep",
+          "title": "अनुवादको निर्देशन पुस्तिकाको परिचय"
+        }
+      }
+    },
+    "817763": {
+      "content_id": 817763,
+      "reference_id": 209465,
+      "index_reference": "翻譯檢查簡介",
+      "localizations": {
+        "eng": {
+          "content_id": 689645,
+          "language": "eng",
+          "title": "Introduction to Translation Checking"
+        },
+        "arb": {
+          "content_id": 781784,
+          "language": "arb",
+          "title": "مقدمة التحقق من الترجمة"
+        },
+        "hin": {
+          "content_id": 727260,
+          "language": "hin",
+          "title": "अनुवाद की जाँचों का परिचय"
+        },
+        "ind": {
+          "content_id": 727576,
+          "language": "ind",
+          "title": "Introduksi kepada Pemeriksaan Terjemahan"
+        },
+        "por": {
+          "content_id": 800224,
+          "language": "por",
+          "title": "Introdução à Verificação de Tradução"
+        },
+        "spa": {
+          "content_id": 728000,
+          "language": "spa",
+          "title": "Introduction to Translation Checking"
+        },
+        "nep": {
+          "content_id": 727763,
+          "language": "nep",
+          "title": "अनुवाद जाँचको परिचय"
+        }
+      }
+    },
+    "817768": {
+      "content_id": 817768,
+      "reference_id": 209488,
+      "index_reference": "unfoldingWord®翻譯學院簡介",
+      "localizations": {
+        "eng": {
+          "content_id": 689668,
+          "language": "eng",
+          "title": "Introduction to unfoldingWord® Translation Academy"
+        },
+        "arb": {
+          "content_id": 781807,
+          "language": "arb",
+          "title": "مقدمة إلى أكاديمية الترجمة unfoldingWord®"
+        },
+        "hin": {
+          "content_id": 727416,
+          "language": "hin",
+          "title": "ट्रांसलेशन अकैडमी का परिचय"
+        },
+        "ind": {
+          "content_id": 727599,
+          "language": "ind",
+          "title": "Pendahuluan untuk Translation Academy dari unfoldingWord®"
+        },
+        "por": {
+          "content_id": 800247,
+          "language": "por",
+          "title": "Introdução à Academia de Tradução unfoldingWord®"
+        },
+        "spa": {
+          "content_id": 728039,
+          "language": "spa",
+          "title": "Introduction to unfoldingWord® Translation Academy"
+        },
+        "nep": {
+          "content_id": 727804,
+          "language": "nep",
+          "title": "अनुवादएकेडेमीको परिचय"
+        }
+      }
+    },
+    "817715": {
+      "content_id": 817715,
+      "reference_id": 26702,
+      "index_reference": "諷刺",
+      "localizations": {
+        "eng": {
+          "content_id": 33288,
+          "language": "eng",
+          "title": "Irony"
+        },
+        "arb": {
+          "content_id": 781627,
+          "language": "arb",
+          "title": "أسلوب السخرية"
+        },
+        "hin": {
+          "content_id": 727331,
+          "language": "hin",
+          "title": "व्यंग्यात्मक"
+        },
+        "ind": {
+          "content_id": 727534,
+          "language": "ind",
+          "title": "Ironi"
+        },
+        "por": {
+          "content_id": 800067,
+          "language": "por",
+          "title": "Ironia"
+        },
+        "spa": {
+          "content_id": 727932,
+          "language": "spa",
+          "title": "Ironía"
+        },
+        "nep": {
+          "content_id": 727702,
+          "language": "nep",
+          "title": "व्यङ्ग्य"
+        }
+      }
+    },
+    "817751": {
+      "content_id": 817751,
+      "reference_id": 26817,
+      "index_reference": "時態的不規則使用",
+      "localizations": {
+        "eng": {
+          "content_id": 33403,
+          "language": "eng",
+          "title": "Irregular Use of Tenses"
+        },
+        "arb": {
+          "content_id": 781742,
+          "language": "arb",
+          "title": "الاستخدام الاستثنائي للأزمنة"
+        },
+        "hin": {
+          "content_id": 799949,
+          "language": "hin",
+          "title": "काल के अनियमित उपयोग"
+        },
+        "ind": {
+          "content_id": 727611,
+          "language": "ind",
+          "title": "Penggunaan Bentuk Kalimat yang Tidak Teratur"
+        },
+        "por": {
+          "content_id": 800182,
+          "language": "por",
+          "title": "Uso irregular de tempos (gramaticais)"
+        }
+      }
+    },
+    "817770": {
+      "content_id": 817770,
+      "reference_id": 209498,
+      "index_reference": "回譯的種類",
+      "localizations": {
+        "eng": {
+          "content_id": 689678,
+          "language": "eng",
+          "title": "Kinds of Back Translations"
+        },
+        "arb": {
+          "content_id": 781817,
+          "language": "arb",
+          "title": "أنواع الترجمات الرجعية"
+        },
+        "hin": {
+          "content_id": 727273,
+          "language": "hin",
+          "title": "पिछले अनुवाद के प्रकार"
+        },
+        "ind": {
+          "content_id": 727622,
+          "language": "ind",
+          "title": "Jenis - Jenis Terjemahan Balik"
+        },
+        "por": {
+          "content_id": 800257,
+          "language": "por",
+          "title": "Tipos de Traduções Reversas"
+        },
+        "spa": {
+          "content_id": 728093,
+          "language": "spa",
+          "title": "Kinds of Back Translations"
+        },
+        "nep": {
+          "content_id": 727856,
+          "language": "nep",
+          "title": "वापस अनुवादका किसिमहरू"
+        }
+      }
+    },
+    "817771": {
+      "content_id": 817771,
+      "reference_id": 209501,
+      "index_reference": "書面回譯的種類",
+      "localizations": {
+        "eng": {
+          "content_id": 689681,
+          "language": "eng",
+          "title": "Kinds of Written Back Translations"
+        },
+        "arb": {
+          "content_id": 781820,
+          "language": "arb",
+          "title": "أنواع الترجمات الراجعة (العكسية) المكتوبة"
+        },
+        "hin": {
+          "content_id": 727276,
+          "language": "hin",
+          "title": "लिखित पिछला अनुवाद के प्रकार"
+        },
+        "ind": {
+          "content_id": 727625,
+          "language": "ind",
+          "title": "Jenis - Jenis Terjemahan Balik Tertulis"
+        },
+        "por": {
+          "content_id": 800260,
+          "language": "por",
+          "title": "Tipos de Traduções Reversas escritas"
+        },
+        "spa": {
+          "content_id": 728096,
+          "language": "spa",
+          "title": "Kinds of Written Back Translations"
+        },
+        "nep": {
+          "content_id": 727859,
+          "language": "nep",
+          "title": "वापस अनुवादका प्रकारहरू"
+        }
+      }
+    },
+    "817745": {
+      "content_id": 817745,
+      "reference_id": 26799,
+      "index_reference": "親緣關係",
+      "localizations": {
+        "eng": {
+          "content_id": 33385,
+          "language": "eng",
+          "title": "Kinship"
+        },
+        "arb": {
+          "content_id": 781724,
+          "language": "arb",
+          "title": "صلة القرابة"
+        },
+        "hin": {
+          "content_id": 727435,
+          "language": "hin",
+          "title": "परिजन"
+        },
+        "ind": {
+          "content_id": 727606,
+          "language": "ind",
+          "title": "Kekerabatan"
+        },
+        "por": {
+          "content_id": 800164,
+          "language": "por",
+          "title": "Parentesco"
+        },
+        "nep": {
+          "content_id": 727823,
+          "language": "nep",
+          "title": "नातागोता"
+        }
+      }
+    },
+    "817758": {
+      "content_id": 817758,
+      "reference_id": 209455,
+      "index_reference": "語言群體的評估問題",
+      "localizations": {
+        "eng": {
+          "content_id": 689635,
+          "language": "eng",
+          "title": "Language Community Evaluation Questions"
+        },
+        "arb": {
+          "content_id": 781774,
+          "language": "arb",
+          "title": "أسئلة تقييم المجتمع اللغوي"
+        },
+        "hin": {
+          "content_id": 727252,
+          "language": "hin",
+          "title": "भाषा समुदाय मूल्यांकन प्रश्न"
+        },
+        "ind": {
+          "content_id": 727507,
+          "language": "ind",
+          "title": "Daftar Pertanyaan Evaluasi terhadap Komunitas Bahasa"
+        },
+        "por": {
+          "content_id": 800214,
+          "language": "por",
+          "title": "Perguntas de avaliação da comunidade do idioma"
+        },
+        "spa": {
+          "content_id": 727898,
+          "language": "spa",
+          "title": "Language Community Evaluation Questions"
+        },
+        "nep": {
+          "content_id": 727669,
+          "language": "nep",
+          "title": "भाषा समुदायका निम्ति मूल्याङ्‍कन प्रश्‍नहरू"
+        }
+      }
+    },
+    "817746": {
+      "content_id": 817746,
+      "reference_id": 26800,
+      "index_reference": "意義的層次",
+      "localizations": {
+        "eng": {
+          "content_id": 33386,
+          "language": "eng",
+          "title": "Levels of Meaning"
+        },
+        "arb": {
+          "content_id": 781725,
+          "language": "arb",
+          "title": "مستويات المعنى"
+        },
+        "hin": {
+          "content_id": 727436,
+          "language": "hin",
+          "title": "अर्थ के स्तर"
+        },
+        "por": {
+          "content_id": 800165,
+          "language": "por",
+          "title": "Níveis de significado"
+        },
+        "spa": {
+          "content_id": 728060,
+          "language": "spa",
+          "title": "Levels of Meaning"
+        },
+        "nep": {
+          "content_id": 727824,
+          "language": "nep",
+          "title": "अर्थका तहहरू"
+        }
+      }
+    },
+    "817716": {
+      "content_id": 817716,
+      "reference_id": 26703,
+      "index_reference": "連禱文",
+      "localizations": {
+        "eng": {
+          "content_id": 33289,
+          "language": "eng",
+          "title": "Litany"
+        },
+        "arb": {
+          "content_id": 781628,
+          "language": "arb",
+          "title": "السرد المُطول"
+        },
+        "hin": {
+          "content_id": 727332,
+          "language": "hin",
+          "title": "सम्भाव्यता  माला"
+        },
+        "por": {
+          "content_id": 800068,
+          "language": "por",
+          "title": "Litania"
+        },
+        "spa": {
+          "content_id": 727933,
+          "language": "spa",
+          "title": "Litany"
+        },
+        "nep": {
+          "content_id": 727703,
+          "language": "nep",
+          "title": "व्यङ्ग्य"
+        }
+      }
+    },
+    "817747": {
+      "content_id": 817747,
+      "reference_id": 26801,
+      "index_reference": "字面翻譯",
+      "localizations": {
+        "eng": {
+          "content_id": 33387,
+          "language": "eng",
+          "title": "Literal Translations"
+        },
+        "arb": {
+          "content_id": 781726,
+          "language": "arb",
+          "title": "الترجمات الحرفية"
+        },
+        "hin": {
+          "content_id": 727437,
+          "language": "hin",
+          "title": "शाब्दिक अनुवाद"
+        },
+        "por": {
+          "content_id": 800166,
+          "language": "por",
+          "title": "Traduções literais"
+        },
+        "spa": {
+          "content_id": 728061,
+          "language": "spa",
+          "title": "Literal Translations"
+        },
+        "nep": {
+          "content_id": 727825,
+          "language": "nep",
+          "title": "अक्षरशः गरिएका अनुवादहरू"
+        }
+      }
+    },
+    "817717": {
+      "content_id": 817717,
+      "reference_id": 26704,
+      "index_reference": "間接肯定法",
+      "localizations": {
+        "eng": {
+          "content_id": 33290,
+          "language": "eng",
+          "title": "Litotes"
+        },
+        "arb": {
+          "content_id": 781629,
+          "language": "arb",
+          "title": "التوكيد بالنفي"
+        },
+        "hin": {
+          "content_id": 727333,
+          "language": "hin",
+          "title": "विडंबना"
+        },
+        "ind": {
+          "content_id": 727535,
+          "language": "ind",
+          "title": "Litotes"
+        },
+        "por": {
+          "content_id": 800069,
+          "language": "por",
+          "title": "Litotes"
+        },
+        "spa": {
+          "content_id": 727934,
+          "language": "spa",
+          "title": "Litotes"
+        },
+        "nep": {
+          "content_id": 727704,
+          "language": "nep",
+          "title": "निषेधात्मक"
+        }
+      }
+    },
+    "817744": {
+      "content_id": 817744,
+      "reference_id": 26798,
+      "index_reference": "製作關鍵詞表",
+      "localizations": {
+        "eng": {
+          "content_id": 33384,
+          "language": "eng",
+          "title": "Making a Key Terms Spreadsheet"
+        },
+        "arb": {
+          "content_id": 781723,
+          "language": "arb",
+          "title": "عمل جدول بيانات للمصطلحات الرئيسية"
+        },
+        "hin": {
+          "content_id": 727434,
+          "language": "hin",
+          "title": "Making a Key Terms Spreadsheet"
+        },
+        "por": {
+          "content_id": 800163,
+          "language": "por",
+          "title": "Fazendo uma planilha de termos-chave"
+        },
+        "spa": {
+          "content_id": 728059,
+          "language": "spa",
+          "title": "Making a Key Terms Spreadsheet"
+        }
+      }
+    },
+    "817704": {
+      "content_id": 817704,
+      "reference_id": 26688,
+      "index_reference": "使假定知識和隱含資訊明確化",
+      "localizations": {
+        "eng": {
+          "content_id": 33274,
+          "language": "eng",
+          "title": "Making Assumed Knowledge and Implicit Information Explicit"
+        },
+        "arb": {
+          "content_id": 781613,
+          "language": "arb",
+          "title": "جعل المعرفة المفترضة والمعلومات الضمنية صريحة"
+        },
+        "hin": {
+          "content_id": 727318,
+          "language": "hin",
+          "title": "विशिष्ट सूचना को अंतर्निहित कब बनाएँ"
+        },
+        "ind": {
+          "content_id": 727523,
+          "language": "ind",
+          "title": "Membuat Pengetahuan yang Diasumsikan dan Informasi Tersirat Menjadi Jelas"
+        },
+        "por": {
+          "content_id": 800053,
+          "language": "por",
+          "title": "Tornando explícitos o conhecimento presumido e as informações implícitas"
+        },
+        "spa": {
+          "content_id": 727917,
+          "language": "spa",
+          "title": "Making Assumed Knowledge and Implicit Information Explicit"
+        },
+        "nep": {
+          "content_id": 727687,
+          "language": "nep",
+          "title": "अनावश्यकप्रत्यक्ष जानकरीहरूलाई कतिबेला अस्वभाविक बनउने"
+        }
+      }
+    },
+    "817739": {
+      "content_id": 817739,
+      "reference_id": 26791,
+      "index_reference": "以意義為基礎的翻譯",
+      "localizations": {
+        "eng": {
+          "content_id": 33377,
+          "language": "eng",
+          "title": "Meaning-Based Translations"
+        },
+        "arb": {
+          "content_id": 781716,
+          "language": "arb",
+          "title": "الترجمات القائمة على المعنى"
+        },
+        "hin": {
+          "content_id": 727427,
+          "language": "hin",
+          "title": "अर्थ आधारित अनुवाद"
+        },
+        "por": {
+          "content_id": 800156,
+          "language": "por",
+          "title": "Traduções baseadas em significado"
+        },
+        "spa": {
+          "content_id": 728052,
+          "language": "spa",
+          "title": "Meaning-Based Translations"
+        },
+        "nep": {
+          "content_id": 727816,
+          "language": "nep",
+          "title": "अर्थमा आधारित अनुवाद"
+        }
+      }
+    },
+    "817718": {
+      "content_id": 817718,
+      "reference_id": 26705,
+      "index_reference": "兩極統詞",
+      "localizations": {
+        "eng": {
+          "content_id": 33291,
+          "language": "eng",
+          "title": "Merism"
+        },
+        "arb": {
+          "content_id": 781630,
+          "language": "arb",
+          "title": "التقسيم المتضاد"
+        },
+        "hin": {
+          "content_id": 727334,
+          "language": "hin",
+          "title": "विभज्योतक"
+        },
+        "ind": {
+          "content_id": 727536,
+          "language": "ind",
+          "title": "Merisme"
+        },
+        "por": {
+          "content_id": 800070,
+          "language": "por",
+          "title": "Merismo"
+        },
+        "spa": {
+          "content_id": 727935,
+          "language": "spa",
+          "title": "Merismo"
+        },
+        "nep": {
+          "content_id": 727705,
+          "language": "nep",
+          "title": "मेरिज्म"
         }
       }
     }

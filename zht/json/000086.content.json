@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 817759,
+    "reference_id": 209457,
+    "version": "1.0.1",
+    "title": "尋找答案",
+    "media_type": "Text",
+    "index_reference": "尋找答案",
+    "language": "zht",
+    "review_level": "None",
+    "content": "<h3>如何獲得答案</h3><p>有幾種資源可以用來尋找問題的答案：</p><ul><li><p><strong>unfoldingWord® 翻譯學院（Translation Academy）</strong>——這訓練手冊可在https://ufw.io/ta取得，並包含許多資訊，包括：</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209488\" data-resourceType=\"UWTranslationManual\">簡介</span>——簡介這份資源、門戶語言的方法，以及翻譯</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209478\" data-resourceType=\"UWTranslationManual\">過程手冊</span>——回答「下一步要做什麼？」這個問題</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">翻譯手冊</span>——解釋翻譯理論的基礎，並提供實用的翻譯幫助</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209464\" data-resourceType=\"UWTranslationManual\">檢查手冊</span>——解釋檢查理論的基礎，以及最佳做法</p></li></ul></li><li><p><strong>Door43 論壇</strong>——一個可以提出問題並獲得答案的地方，涵蓋技術、方法、翻譯和檢查等議題：https://forum.door43.org/</p></li><li><p><strong>客服支援</strong>——可將問題電郵至<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:help@door43.org\">help@door43.org</a></p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26802,
+          "content_id": 817748,
+          "resource_code": "UWTranslationManual",
+          "label": "翻譯手冊簡介",
+          "language": "zht"
+        },
+        {
+          "reference_id": 209464,
+          "content_id": 817762,
+          "resource_code": "UWTranslationManual",
+          "label": "檢查手冊簡介",
+          "language": "zht"
+        },
+        {
+          "reference_id": 209478,
+          "content_id": 817766,
+          "resource_code": "UWTranslationManual",
+          "label": "過程手冊簡介",
+          "language": "zht"
+        },
+        {
+          "reference_id": 209488,
+          "content_id": 817768,
+          "resource_code": "UWTranslationManual",
+          "label": "unfoldingWord®翻譯學院簡介",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]
