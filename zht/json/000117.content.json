@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 817762,
+    "reference_id": 209464,
+    "version": "1.0.1",
+    "title": "檢查手冊簡介",
+    "media_type": "Text",
+    "index_reference": "檢查手冊簡介",
+    "language": "zht",
+    "review_level": "None",
+    "content": "<h3>翻譯檢查手冊</h3><p>本手冊描述如何檢查其它語言（Other Languages, OLs）的聖經翻譯，以確保其準確性、清晰度和自然性。（有關檢查門戶語言〔Gateway Language, GLs〕的過程，見<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://gl-manual.readthedocs.io/en/latest/\">門戶語言手冊</a>。）本翻譯檢查手冊也討論了獲得該語言區域教會領袖對翻譯，及翻譯流程的批准的重要性。</p><p>手冊首先提供檢查指引，供翻譯團隊用以互相檢查彼此的工作。這些檢查包括<span data-bnType=\"resourceReference\" data-resourceId=\"209474\" data-resourceType=\"UWTranslationManual\">口述同工檢查</span>和<span data-bnType=\"resourceReference\" data-resourceId=\"209489\" data-resourceType=\"UWTranslationManual\">團隊口述段落檢查</span>。接下來是翻譯團隊使用translationCore軟體檢查翻譯的指引。包括<span data-bnType=\"resourceReference\" data-resourceId=\"209463\" data-resourceType=\"UWTranslationManual\">翻譯詞彙檢查</span>和<span data-bnType=\"resourceReference\" data-resourceId=\"209490\" data-resourceType=\"UWTranslationManual\">翻譯附註檢查</span>。</p><p>之後，翻譯團隊需要與<span data-bnType=\"resourceReference\" data-resourceId=\"209468\" data-resourceType=\"UWTranslationManual\">語言群體</span>檢查翻譯的清晰度和自然性。這是必要的，因為其他的語言使用者常常能提出更好的表達方式，而這些是翻譯團隊可能沒有想到的。有時翻譯團隊會因為過於緊貼原文的詞句，使得翻譯聽起來很奇怪。其他的語言使用者可以幫助他們修正這一點。此時翻譯團隊可以進行的另一項檢查是<span data-bnType=\"resourceReference\" data-resourceId=\"209449\" data-resourceType=\"UWTranslationManual\">教會領袖審查</span>（或 OL牧師檢查）。由於OL牧師熟悉門戶語言（GL）的聖經，他們可以檢查翻譯是否準確對應GL聖經。他們也能發現翻譯團隊未注意到的錯誤，因為翻譯團隊過於專注地參與他們的工作。此外，翻譯團隊可能缺乏一些其它不屬於翻譯團隊的OL牧師所擁有的聖經專業知識或知識。如此一來，整個語言群體可以一起工作，確保聖經翻譯在譯入語言中準確、清晰且自然。</p><p>進一步檢查聖經翻譯的準確性是使用Translation Core中的<span data-bnType=\"resourceReference\" data-resourceId=\"209450\" data-resourceType=\"UWTranslationManual\">詞彙對齊</span>工具將其與聖經的原文對齊。在完成所有這些檢查並對翻譯進行對齊後，OL教會網絡的領袖將希望<span data-bnType=\"resourceReference\" data-resourceId=\"209502\" data-resourceType=\"UWTranslationManual\">審核</span>翻譯並給予他們的<span data-bnType=\"resourceReference\" data-resourceId=\"209469\" data-resourceType=\"UWTranslationManual\">認可</span>。由於許多教會網絡的領袖不會使用翻譯語言，因此還有建立<span data-bnType=\"resourceReference\" data-resourceId=\"209496\" data-resourceType=\"UWTranslationManual\">回譯</span>的指引，這使人們能夠檢查他們不使用語言的翻譯。</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209449,
+          "content_id": 806712,
+          "resource_code": "UWTranslationManual",
+          "label": "檢查翻譯的準確性",
+          "language": "zht"
+        },
+        {
+          "reference_id": 209450,
+          "content_id": 806713,
+          "resource_code": "UWTranslationManual",
+          "label": "對齊檢查",
+          "language": "zht"
+        },
+        {
+          "reference_id": 209468,
+          "content_id": 806720,
+          "resource_code": "UWTranslationManual",
+          "label": "檢查翻譯的清晰及自然度",
+          "language": "zht"
+        },
+        {
+          "reference_id": 209496,
+          "content_id": 806725,
+          "resource_code": "UWTranslationManual",
+          "label": "回譯",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "content_id": 817755,
+    "reference_id": 26831,
+    "version": "1.0.1",
+    "title": "故事結尾",
+    "media_type": "Text",
+    "index_reference": "故事結尾",
+    "language": "zht",
+    "review_level": "None",
+    "content": "<h3>說明</h3><p>在一個故事的結尾，可能會出現不同類型的資訊，這些通常是背景資訊，與構成故事主要部分的行動不同。聖經書卷往往由許多小故事組成，而這些小故事又是該卷書更大故事的一部分。例如，耶穌降生的故事就是路加福音更大故事中的一個小故事。無論是大故事還是小故事，都可能在結尾出現一些背景資訊。</p><h1>故事結尾資訊的目的如下：</h1><ul><li><p>總結整個故事</p></li><li><p>評論故事中所發生的事</p></li><li><p>把一個小故事連結到它所屬的大故事裡</p></li><li><p>交代在故事主要部分結束後，某個人物的後續情況</p></li><li><p>描述在故事主要部分結束後，仍然持續進行的行動</p></li><li><p>說明因故事中發生的事件，而在故事之後所產生的結果</p></li></ul><h1><span>翻譯時需留心的議題</span></h1><p>不同語言在呈現這類資訊時有不同的方式。若你（譯者）沒有使用你語言中常見的方式來處理，讀者可能無法明白：</p><ul><li><p>這些資訊是故事的結尾</p></li><li><p>這些資訊的目的是甚麼</p></li><li><p>這些資訊與故事之間的關係</p></li></ul><h1>翻譯的方法</h1><ul><li><p>按照你語言的表達方式，翻譯故事結尾中所出現的特定類型資訊。</p></li><li><p>以讀者能明白這些資訊與故事關聯的方式來翻譯。</p></li><li><p>如果可能的話，把故事的結尾翻譯得讓讀者清楚知道故事在何處結束、下一個故事在何處開始。</p></li></ul><h3>聖經中的例子</h3><ul><li><p>總結整個故事</p></li></ul><p>其餘的人可以用板子或船上的零碎東西上岸。<strong>這樣，眾人都得了救，上了岸。</strong>（徒27:44）</p><ul><li><p>評論故事中所發生的事</p></li></ul><p>平素行邪術的，也有許多人把書拿來，堆積在眾人面前焚燒。他們算計書價，便知道共合五萬塊錢。<strong>主的道大大興旺，而且得勝，就是這樣</strong>。（徒19:19–20）</p><ul><li><p>告訴讀者在故事主要部分結束後某個特定角色的狀況</p></li></ul><p>馬利亞說：「我的心尊主為大，我的靈以神我的救主為樂。」<strong>馬利亞和伊利莎白同住，約有三個月，就回家去了。</strong>（路1:46–47、56）</p><ul><li><p>描述在故事主要部分結束後，仍然持續進行的行動</p></li></ul><p>凡聽見的，就詫異牧羊之人對他們所說的話。<strong>馬利亞卻把這一切的事存在心裡，反覆思想。</strong>（路2:18–19）</p><ul><li><p>說明因故事中發生的事件，而在故事之後所產生的結果</p></li></ul><p>「你們律法師有禍了！因為你們把知識的鑰匙奪了去，自己不進去，正要進去的人你們也阻擋他們。」<strong>耶穌從那裡出來，文士和法利賽人就極力地催逼他，引動他多說話，私下窺聽，要拿他的話柄。</strong>（路11:52–54）</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 115849,
+          "content_id": 468345,
+          "resource_code": "Unknown",
+          "label": "馬可福音 1:28 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 116342,
+          "content_id": 468838,
+          "resource_code": "Unknown",
+          "label": "馬可福音 4:33-34 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 117002,
+          "content_id": 469498,
+          "resource_code": "Unknown",
+          "label": "馬可福音 8:10 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 136998,
+          "content_id": 566976,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 2:41 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 137147,
+          "content_id": 567123,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 4:4 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 137268,
+          "content_id": 567244,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 4:31 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 137350,
+          "content_id": 567325,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 5:11 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 137480,
+          "content_id": 567454,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 5:42 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 137508,
+          "content_id": 567482,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 6:7 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 138415,
+          "content_id": 568389,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 12:25 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 138841,
+          "content_id": 568815,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 15:35 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 138975,
+          "content_id": 568949,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 16:40 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139089,
+          "content_id": 569063,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 17:32 (#4)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139092,
+          "content_id": 569066,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 17:34 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 140383,
+          "content_id": 496644,
+          "resource_code": "Unknown",
+          "label": "約翰福音 2:21-22 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 142679,
+          "content_id": 498940,
+          "resource_code": "Unknown",
+          "label": "約翰福音 20:30-31 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 142765,
+          "content_id": 499026,
+          "resource_code": "Unknown",
+          "label": "約翰福音 21:24-25 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139203,
+          "content_id": 569177,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 19:7 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139236,
+          "content_id": 569210,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 19:17 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 139350,
+          "content_id": 569324,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 20:12 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 140134,
+          "content_id": 570108,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 28:30 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 188866,
+          "content_id": 616653,
+          "resource_code": "Unknown",
+          "label": "出埃及記 11:10 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 190433,
+          "content_id": 618220,
+          "resource_code": "Unknown",
+          "label": "出埃及記 39:32 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 148200,
+          "content_id": 693894,
+          "resource_code": "Unknown",
+          "label": "馬太福音 7:28 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 148776,
+          "content_id": 694852,
+          "resource_code": "Unknown",
+          "label": "馬太福音 11:1 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 149386,
+          "content_id": 700636,
+          "resource_code": "Unknown",
+          "label": "馬太福音 13:34 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 149484,
+          "content_id": 700734,
+          "resource_code": "Unknown",
+          "label": "馬太福音 13:53 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 150362,
+          "content_id": 701612,
+          "resource_code": "Unknown",
+          "label": "馬太福音 19:1 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 151755,
+          "content_id": 748269,
+          "resource_code": "Unknown",
+          "label": "馬太福音 26:1 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 143458,
+          "content_id": 807410,
+          "resource_code": "Unknown",
+          "label": "路加福音 4:37 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 190449,
+          "content_id": 618236,
+          "resource_code": "Unknown",
+          "label": "出埃及記 39:43 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 184944,
+          "content_id": 759369,
+          "resource_code": "Unknown",
+          "label": "路得記 1:22 (#1)",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]

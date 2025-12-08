@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 817726,
+    "reference_id": 26750,
+    "version": "1.0.1",
+    "title": "尊稱",
+    "media_type": "Text",
+    "index_reference": "尊稱",
+    "language": "zht",
+    "review_level": "None",
+    "content": "<h3>說明</h3><p>此處為聖經文學中尊稱討論相關文章的暫存頁。本文仍在編寫中。</p><h1><span>翻譯時需留心的議題</span>：</h1><p>文本</p><h3>聖經中的例子</h3><p>文本</p><h3><span>翻譯的方法</span></h3><p>文本</p><h3><span>翻譯方法應用的例子</span></h3><p>文本</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 139461,
+          "content_id": 569435,
+          "resource_code": "Unknown",
+          "label": "使徒行傳 21:8 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 170686,
+          "content_id": 652260,
+          "resource_code": "Unknown",
+          "label": "創世記 12:17 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 171214,
+          "content_id": 652788,
+          "resource_code": "Unknown",
+          "label": "創世記 18:3 (#2)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 171578,
+          "content_id": 653152,
+          "resource_code": "Unknown",
+          "label": "創世記 20:3 (#1)",
+          "language": "zht"
+        },
+        {
+          "reference_id": 171656,
+          "content_id": 653230,
+          "resource_code": "Unknown",
+          "label": "創世記 20:18 (#2)",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]

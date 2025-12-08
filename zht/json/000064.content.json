@@ -1,0 +1,39 @@
+[
+  {
+    "content_id": 817729,
+    "reference_id": 26753,
+    "version": "1.0.1",
+    "title": "建立教會認可的翻譯",
+    "media_type": "Text",
+    "index_reference": "建立教會認可的翻譯",
+    "language": "zht",
+    "review_level": "None",
+    "content": "<h3>教會認可的翻譯</h3><p>一個好的翻譯必須是<strong>清晰的</strong>（見<span data-bnType=\"resourceReference\" data-resourceId=\"26754\" data-resourceType=\"UWTranslationManual\">建立清晰的翻譯</span>）、<strong>自然的</strong>（見<span data-bnType=\"resourceReference\" data-resourceId=\"26760\" data-resourceType=\"UWTranslationManual\">建立自然的翻譯</span>）和<strong>準確的</strong>（見<span data-bnType=\"resourceReference\" data-resourceId=\"26751\" data-resourceType=\"UWTranslationManual\">建立準確的翻譯</span>）。這三個特質都直接影響翻譯中所使用的字詞與片語。如果一個翻譯缺少這三者中的任何一項，通常只需調整或重新安排所用的字詞，就能改善問題。而第四個特質——<strong>教會認可</strong>——則較少與所使用的字詞有關，更多取決於翻譯的過程。</p><h3>翻譯的目標</h3><p>翻譯聖經內容的目標，不只是產生一個高品質的翻譯，而是要產生一個教會會使用並喜愛的高品質翻譯。高品質的翻譯必須清晰、自然且準確。但若要讓教會使用並喜愛這個翻譯，就必須得到教會的認可。</p><h3>如何建立教會認可的翻譯</h3><p>建立教會認可的翻譯，關鍵在於翻譯、審核與發佈的整個過程。參與這些過程的教會網絡愈多，他們就愈可能認可這個翻譯。</p><p>在開始翻譯計劃之前，應盡可能聯絡更多教會網絡，並鼓勵他們參與翻譯工作，甚至派出人員加入翻譯團隊。翻譯團隊需要諮詢這些教會網絡，並徵求他們對翻譯計劃、目標與流程的意見。</p><p>教會不一定要主導翻譯或統籌所有工作，但必須讓教會網絡在翻譯開始前就認可領導翻譯的人員。</p><h3>教會認可與審核等級</h3><p>翻譯需要得到教會認可，這一需求在審核等級中清楚地表現出來。事實上，審核等級主要用來衡量教會對該翻譯認可的廣泛程度。</p><ul><li><p>第一級表示由教會認可的翻譯團隊認可此翻譯。</p></li><li><p>第二級表示當地教會的牧者與領袖認可此翻譯。</p></li><li><p>第三級表示多個教會網絡的領袖認可此翻譯。</p></li></ul><p>在每一級中，帶領翻譯的人都應鼓勵教會網絡參與其中和提供意見。透過這樣的流程，我們盼望盡可能促成更多教會網絡共同持有這個翻譯的成果。有了這種認可，這個譯本的使用就不再有任何阻礙，可以用來堅固並鼓勵教會。</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26751,
+          "content_id": 817727,
+          "resource_code": "UWTranslationManual",
+          "label": "建立準確的翻譯",
+          "language": "zht"
+        },
+        {
+          "reference_id": 26754,
+          "content_id": 817730,
+          "resource_code": "UWTranslationManual",
+          "label": "建立清晰的翻譯",
+          "language": "zht"
+        },
+        {
+          "reference_id": 26760,
+          "content_id": 817735,
+          "resource_code": "UWTranslationManual",
+          "label": "建立自然的翻譯",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]

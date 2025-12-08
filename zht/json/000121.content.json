@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 817768,
+    "reference_id": 209488,
+    "version": "1.0.1",
+    "title": "unfoldingWord®翻譯學院簡介",
+    "media_type": "Text",
+    "index_reference": "unfoldingWord®翻譯學院簡介",
+    "language": "zht",
+    "review_level": "None",
+    "content": "<h3>歡迎來到 unfoldingWord® 翻譯學院</h3><p>unfoldingWord®翻譯學院是一個關於聖經翻譯的資訊和指引的集合。我們主要的使用者對象是教會中的母語譯者。手冊盡可能以簡單的語言撰寫，旨在讓任何人、在任何地方都能自我裝備，從而能將聖經內容高品質地翻譯成自己的語言。</p><p>unfoldingWord®翻譯學院在設計上具有高度的靈活性。其結構是模組化的，能根據用戶的需求和興趣提供多種學習路徑。雖然它確實建議某些步驟和程序，但力求保持方法的兼容，以便在各種環境和過程中使用。它既可以用於系統化的預先學習方法，也可以用於即時學習（或根據需要兩者兼用）。</p><p>unfoldingWord®翻譯學院分為以下幾個部分：</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209488\" data-resourceType=\"UWTranslationManual\">簡介</span>——介紹此資源、門戶語言策略和翻譯</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209478\" data-resourceType=\"UWTranslationManual\">過程手冊</span>——回答「接下來怎麼做？」的問題</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">翻譯手冊</span>——解釋翻譯理論的基礎，並提供實用的聖經翻譯幫助</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209465\" data-resourceType=\"UWTranslationManual\">檢查手冊</span>——說明檢查理論的基本知識和檢查翻譯的最佳作法</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26802,
+          "content_id": 817748,
+          "resource_code": "UWTranslationManual",
+          "label": "翻譯手冊簡介",
+          "language": "zht"
+        },
+        {
+          "reference_id": 209465,
+          "content_id": 817763,
+          "resource_code": "UWTranslationManual",
+          "label": "翻譯檢查簡介",
+          "language": "zht"
+        },
+        {
+          "reference_id": 209478,
+          "content_id": 817766,
+          "resource_code": "UWTranslationManual",
+          "label": "過程手冊簡介",
+          "language": "zht"
+        },
+        {
+          "reference_id": 209488,
+          "content_id": 817768,
+          "resource_code": "UWTranslationManual",
+          "label": "unfoldingWord®翻譯學院簡介",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]

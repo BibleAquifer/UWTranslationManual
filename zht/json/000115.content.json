@@ -1,0 +1,25 @@
+[
+  {
+    "content_id": 817765,
+    "reference_id": 209467,
+    "version": "1.0.1",
+    "title": "發佈的簡介",
+    "media_type": "Text",
+    "index_reference": "發佈的簡介",
+    "language": "zht",
+    "review_level": "None",
+    "content": "<h3>發佈概覽</h3><p>聖經內容若不被發布和使用則毫無價值。使用Door43翻譯和發佈平台的一個優勢，是它提供了多種簡易的內容分發方式。在Door43上：</p><ul><li><p>你可以安全地儲存你的翻譯</p></li><li><p>人們可以看到你的翻譯</p></li><li><p>人們可以留下評論和建議，以改進你的翻譯</p></li><li><p>人們可以下載你的翻譯來閱讀、列印和分享給他人</p></li></ul><h3>開放授權</h3><p>幫助內容發布的最大因素是Door43上所有內容使用的<span data-bnType=\"resourceReference\" data-resourceId=\"209472\" data-resourceType=\"UWTranslationManual\">開放授權</span>。此授權賦予每個人都能自由地：</p><ul><li><p><strong>分享</strong>——以任何媒介或格式複製和重新發布資料</p></li><li><p><strong>改編</strong>——重組、轉化及在此素材上進行創作</p></li></ul><p>可用於任何目的，甚至商業用途，且無需付費。「你們白白地得來，也要白白地捨去。」（太10:8b）</p><p>如需了解在線和離線時共享翻譯的方法，見<span data-bnType=\"resourceReference\" data-resourceId=\"209485\" data-resourceType=\"UWTranslationManual\">共享內容</span>。</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209485,
+          "content_id": 817767,
+          "resource_code": "UWTranslationManual",
+          "label": "如何分享內容",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]
