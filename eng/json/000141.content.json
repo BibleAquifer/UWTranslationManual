@@ -1,17 +1,17 @@
 [
-  {
-    "content_id": 33383,
-    "reference_id": 26797,
-    "version": "1.0.1",
-    "title": "Help with Translating",
-    "media_type": "Text",
-    "index_reference": "help with translating",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Using Translation Helps</h3><p>To help translators make the best translation possible, <strong>unfoldingWord® Translation Notes</strong>, <strong>unfoldingWord® Translation Words</strong>, and <strong>unfoldingWord® Translation Questions</strong> have been created.</p><p><strong>unfoldingWord® Translation Notes</strong> are cultural, linguistic, and exegetical notes that help to describe and explain some of the Bible background that the translator needs to know to translate accurately. The unfoldingWord® Translation Notes also inform translators about different ways that they might express the same meaning. See https://ufw.io/tn/.</p><p>The <strong>unfoldingWord® Translation Words</strong> are key terms found in Open Bible Stories and the Bible. It is very important to translate key terms correctly. Each of these words or phrases has a small article written about it as well as cross-references to other places where that term is used in either Open Bible Stories or the Bible. This is to show the translator other ways that the unfoldingWord® Translation Words term is used and to ensure that it has been translated correctly in those places, too. See https://ufw.io/tw/.</p><p>The <strong>unfoldingWord® Translation Questions</strong> are comprehension questions that can be used to self-check your translation. If you can correctly answer the unfoldingWord® Translation Questions using only the Target Language translation, then it is an accurate translation. The unfoldingWord® Translation Questions are also a good tool to use for checking with the target language community. See https://ufw.io/tq/.</p><p>Once you have consulted the unfoldingWord® Translation Notes, unfoldingWord® Translation Words and unfoldingWord® Translation Questions, then you are ready to make the best translation.</p><p><strong>Please consult the unfoldingWord® Translation Notes and unfoldingWord® Translation Words when doing your translation!</strong></p>",
-    "associations": {
-      "passage": [],
-      "resource": []
-    }
-  }
+{
+"content_id": "33383",
+"reference_id": 26797,
+"version": "1.0.4",
+"title": "Help with Translating",
+"media_type": "Text",
+"index_reference": "help with translating",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Using Translation Helps</h3><p>To help translators make the best translation possible, <strong>unfoldingWord® Translation Notes</strong>, <strong>unfoldingWord® Translation Words</strong>, and <strong>unfoldingWord® Translation Questions</strong> have been created.</p><p><strong>unfoldingWord® Translation Notes</strong> are cultural, linguistic, and exegetical notes that help to describe and explain some of the Bible background that the translator needs to know to translate accurately. The unfoldingWord® Translation Notes also inform translators about different ways that they might express the same meaning. See https://ufw.io/tn/.</p><p>The <strong>unfoldingWord® Translation Words</strong> are key terms found in Open Bible Stories and the Bible. It is very important to translate key terms correctly. Each of these words or phrases has a small article written about it as well as cross-references to other places where that term is used in either Open Bible Stories or the Bible. This is to show the translator other ways that the unfoldingWord® Translation Words term is used and to ensure that it has been translated correctly in those places, too. See https://ufw.io/tw/.</p><p>The <strong>unfoldingWord® Translation Questions</strong> are comprehension questions that can be used to self-check your translation. If you can correctly answer the unfoldingWord® Translation Questions using only the Target Language translation, then it is an accurate translation. The unfoldingWord® Translation Questions are also a good tool to use for checking with the target language community. See https://ufw.io/tq/.</p><p>Once you have consulted the unfoldingWord® Translation Notes, unfoldingWord® Translation Words and unfoldingWord® Translation Questions, then you are ready to make the best translation.</p><p><strong>Please consult the unfoldingWord® Translation Notes and unfoldingWord® Translation Words when doing your translation!</strong></p>",
+"associations": {
+"passage": [],
+"resource": []
+}
+}
 ]

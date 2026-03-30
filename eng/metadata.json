@@ -4,7 +4,7 @@
 "resource_type": "Bible Translation Manual",
 "title": "unfoldingWord® Translation Academy",
 "aquifer_name": "Translation Manual (unfoldingWord)",
-"version": "1.0.1",
+"version": "1.1.2",
 "collection_title": "Translation Manual (unfoldingWord)",
 "short_name": "UWTM",
 "license_info": {
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>unfoldingWord® Translation Academy</b> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license. <cite>unfoldingWord® Translation Academy</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from <cite>unfoldingWord® Translation Academy</cite> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license by Mission Mutual",
 "resource_code": "UWTranslationManual",
-"date_created": "2025-12-05",
+"date_created": "2026-03-30",
 "language": "eng",
 "localizations": [
 "arb",
@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2025-12-05T06:33:05.269281"
+"dateCreated": "2026-03-30T09:31:17.618755"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "UWTranslationManual": {
-"timestamp": "2025-12-05T06:33:05.269281"
+"timestamp": "2026-03-30T09:31:17.618755"
 }
 }
 },
@@ -95,1939 +95,1939 @@
 "ingredients": {
 "json/000001.content.json": {
 "mimeType": "text/json",
-"size": 10451
+"size": 9793
 },
 "json/000002.content.json": {
 "mimeType": "text/json",
-"size": 5897
+"size": 5698
 },
 "json/000003.content.json": {
 "mimeType": "text/json",
-"size": 6247
+"size": 6048
 },
 "json/000004.content.json": {
 "mimeType": "text/json",
-"size": 12343
+"size": 12078
 },
 "json/000005.content.json": {
 "mimeType": "text/json",
-"size": 17844
+"size": 17579
 },
 "json/000006.content.json": {
 "mimeType": "text/json",
-"size": 5465
+"size": 5265
 },
 "json/000007.content.json": {
 "mimeType": "text/json",
-"size": 10052
+"size": 9259
 },
 "json/000008.content.json": {
 "mimeType": "text/json",
-"size": 4298
+"size": 4165
 },
 "json/000009.content.json": {
 "mimeType": "text/json",
-"size": 11531
+"size": 11332
 },
 "json/000010.content.json": {
 "mimeType": "text/json",
-"size": 8601
+"size": 8402
 },
 "json/000011.content.json": {
 "mimeType": "text/json",
-"size": 4339
+"size": 4140
 },
 "json/000012.content.json": {
 "mimeType": "text/json",
-"size": 6009
+"size": 5813
 },
 "json/000013.content.json": {
 "mimeType": "text/json",
-"size": 9998
+"size": 9538
 },
 "json/000014.content.json": {
 "mimeType": "text/json",
-"size": 93043
+"size": 63674
 },
 "json/000015.content.json": {
 "mimeType": "text/json",
-"size": 599741
+"size": 404515
 },
 "json/000016.content.json": {
 "mimeType": "text/json",
-"size": 649681
+"size": 437031
 },
 "json/000017.content.json": {
 "mimeType": "text/json",
-"size": 9923
+"size": 7549
 },
 "json/000018.content.json": {
 "mimeType": "text/json",
-"size": 7183
+"size": 5931
 },
 "json/000019.content.json": {
 "mimeType": "text/json",
-"size": 10713
+"size": 10253
 },
 "json/000020.content.json": {
 "mimeType": "text/json",
-"size": 681
+"size": 623
 },
 "json/000021.content.json": {
 "mimeType": "text/json",
-"size": 23305
+"size": 17166
 },
 "json/000022.content.json": {
 "mimeType": "text/json",
-"size": 35384
+"size": 26146
 },
 "json/000023.content.json": {
 "mimeType": "text/json",
-"size": 61381
+"size": 43299
 },
 "json/000024.content.json": {
 "mimeType": "text/json",
-"size": 130682
+"size": 88972
 },
 "json/000025.content.json": {
 "mimeType": "text/json",
-"size": 232721
+"size": 157879
 },
 "json/000026.content.json": {
 "mimeType": "text/json",
-"size": 43258
+"size": 29928
 },
 "json/000027.content.json": {
 "mimeType": "text/json",
-"size": 14226
+"size": 11258
 },
 "json/000028.content.json": {
 "mimeType": "text/json",
-"size": 37920
+"size": 27098
 },
 "json/000029.content.json": {
 "mimeType": "text/json",
-"size": 93461
+"size": 63823
 },
 "json/000030.content.json": {
 "mimeType": "text/json",
-"size": 32126
+"size": 24535
 },
 "json/000031.content.json": {
 "mimeType": "text/json",
-"size": 1374172
+"size": 923592
 },
 "json/000032.content.json": {
 "mimeType": "text/json",
-"size": 31523
+"size": 23077
 },
 "json/000033.content.json": {
 "mimeType": "text/json",
-"size": 38387
+"size": 26839
 },
 "json/000034.content.json": {
 "mimeType": "text/json",
-"size": 151828
+"size": 103452
 },
 "json/000035.content.json": {
 "mimeType": "text/json",
-"size": 139669
+"size": 94989
 },
 "json/000036.content.json": {
 "mimeType": "text/json",
-"size": 81338
+"size": 56062
 },
 "json/000037.content.json": {
 "mimeType": "text/json",
-"size": 5084
+"size": 4426
 },
 "json/000038.content.json": {
 "mimeType": "text/json",
-"size": 48830
+"size": 34312
 },
 "json/000039.content.json": {
 "mimeType": "text/json",
-"size": 88011
+"size": 61943
 },
 "json/000040.content.json": {
 "mimeType": "text/json",
-"size": 40772
+"size": 29554
 },
 "json/000041.content.json": {
 "mimeType": "text/json",
-"size": 545671
+"size": 366615
 },
 "json/000042.content.json": {
 "mimeType": "text/json",
-"size": 32502
+"size": 23657
 },
 "json/000043.content.json": {
 "mimeType": "text/json",
-"size": 22815
+"size": 15556
 },
 "json/000044.content.json": {
 "mimeType": "text/json",
-"size": 131145
+"size": 89963
 },
 "json/000045.content.json": {
 "mimeType": "text/json",
-"size": 11067
+"size": 9815
 },
 "json/000046.content.json": {
 "mimeType": "text/json",
-"size": 22240
+"size": 17160
 },
 "json/000047.content.json": {
 "mimeType": "text/json",
-"size": 10463
+"size": 9673
 },
 "json/000048.content.json": {
 "mimeType": "text/json",
-"size": 30800
+"size": 21760
 },
 "json/000049.content.json": {
 "mimeType": "text/json",
-"size": 34084
+"size": 23856
 },
 "json/000050.content.json": {
 "mimeType": "text/json",
-"size": 1024951
+"size": 692907
 },
 "json/000051.content.json": {
 "mimeType": "text/json",
-"size": 534463
+"size": 358839
 },
 "json/000052.content.json": {
 "mimeType": "text/json",
-"size": 143472
+"size": 96878
 },
 "json/000053.content.json": {
 "mimeType": "text/json",
-"size": 4818
+"size": 4556
 },
 "json/000054.content.json": {
 "mimeType": "text/json",
-"size": 1420
+"size": 1362
 },
 "json/000055.content.json": {
 "mimeType": "text/json",
-"size": 4694
+"size": 4300
 },
 "json/000056.content.json": {
 "mimeType": "text/json",
-"size": 20207
+"size": 15391
 },
 "json/000057.content.json": {
 "mimeType": "text/json",
-"size": 104952
+"size": 72680
 },
 "json/000058.content.json": {
 "mimeType": "text/json",
-"size": 6980
+"size": 6520
 },
 "json/000059.content.json": {
 "mimeType": "text/json",
-"size": 45818
+"size": 31696
 },
 "json/000060.content.json": {
 "mimeType": "text/json",
-"size": 139544
+"size": 94600
 },
 "json/000061.content.json": {
 "mimeType": "text/json",
-"size": 214905
+"size": 147257
 },
 "json/000062.content.json": {
 "mimeType": "text/json",
-"size": 10704
+"size": 8660
 },
 "json/000063.content.json": {
 "mimeType": "text/json",
-"size": 67449
+"size": 46793
 },
 "json/000064.content.json": {
 "mimeType": "text/json",
-"size": 51277
+"size": 36561
 },
 "json/000065.content.json": {
 "mimeType": "text/json",
-"size": 102244
+"size": 70434
 },
 "json/000066.content.json": {
 "mimeType": "text/json",
-"size": 5913
+"size": 4133
 },
 "json/000067.content.json": {
 "mimeType": "text/json",
-"size": 27482
+"size": 20422
 },
 "json/000068.content.json": {
 "mimeType": "text/json",
-"size": 218806
+"size": 149376
 },
 "json/000069.content.json": {
 "mimeType": "text/json",
-"size": 6787
+"size": 6393
 },
 "json/000070.content.json": {
 "mimeType": "text/json",
-"size": 7885
+"size": 7491
 },
 "json/000071.content.json": {
 "mimeType": "text/json",
-"size": 6607
+"size": 6279
 },
 "json/000072.content.json": {
 "mimeType": "text/json",
-"size": 76711
+"size": 53415
 },
 "json/000073.content.json": {
 "mimeType": "text/json",
-"size": 158337
+"size": 106595
 },
 "json/000074.content.json": {
 "mimeType": "text/json",
-"size": 9235
+"size": 8115
 },
 "json/000075.content.json": {
 "mimeType": "text/json",
-"size": 27574
+"size": 19194
 },
 "json/000076.content.json": {
 "mimeType": "text/json",
-"size": 20169
+"size": 15353
 },
 "json/000077.content.json": {
 "mimeType": "text/json",
-"size": 21023
+"size": 15471
 },
 "json/000078.content.json": {
 "mimeType": "text/json",
-"size": 7484
+"size": 6553
 },
 "json/000079.content.json": {
 "mimeType": "text/json",
-"size": 90138
+"size": 62147
 },
 "json/000080.content.json": {
 "mimeType": "text/json",
-"size": 5257
+"size": 5199
 },
 "json/000081.content.json": {
 "mimeType": "text/json",
-"size": 9837
+"size": 9377
 },
 "json/000082.content.json": {
 "mimeType": "text/json",
-"size": 54566
+"size": 39322
 },
 "json/000083.content.json": {
 "mimeType": "text/json",
-"size": 19764
+"size": 15935
 },
 "json/000084.content.json": {
 "mimeType": "text/json",
-"size": 33433
+"size": 23994
 },
 "json/000085.content.json": {
 "mimeType": "text/json",
-"size": 30470
+"size": 22021
 },
 "json/000086.content.json": {
 "mimeType": "text/json",
-"size": 21013
+"size": 15534
 },
 "json/000087.content.json": {
 "mimeType": "text/json",
-"size": 91250
+"size": 62737
 },
 "json/000088.content.json": {
 "mimeType": "text/json",
-"size": 58586
+"size": 41423
 },
 "json/000089.content.json": {
 "mimeType": "text/json",
-"size": 266804
+"size": 180869
 },
 "json/000090.content.json": {
 "mimeType": "text/json",
-"size": 22876
+"size": 18123
 },
 "json/000091.content.json": {
 "mimeType": "text/json",
-"size": 31170
+"size": 22589
 },
 "json/000092.content.json": {
 "mimeType": "text/json",
-"size": 24446
+"size": 17977
 },
 "json/000093.content.json": {
 "mimeType": "text/json",
-"size": 187166
+"size": 129880
 },
 "json/000094.content.json": {
 "mimeType": "text/json",
-"size": 3308
+"size": 2386
 },
 "json/000095.content.json": {
 "mimeType": "text/json",
-"size": 3989
+"size": 3931
 },
 "json/000096.content.json": {
 "mimeType": "text/json",
-"size": 2955
+"size": 2897
 },
 "json/000097.content.json": {
 "mimeType": "text/json",
-"size": 4185
+"size": 3922
 },
 "json/000098.content.json": {
 "mimeType": "text/json",
-"size": 8698
+"size": 8106
 },
 "json/000099.content.json": {
 "mimeType": "text/json",
-"size": 2079
+"size": 2021
 },
 "json/000100.content.json": {
 "mimeType": "text/json",
-"size": 7362
+"size": 7166
 },
 "json/000101.content.json": {
 "mimeType": "text/json",
-"size": 5641
+"size": 5511
 },
 "json/000102.content.json": {
 "mimeType": "text/json",
-"size": 5254
+"size": 5124
 },
 "json/000103.content.json": {
 "mimeType": "text/json",
-"size": 6770
+"size": 6042
 },
 "json/000104.content.json": {
 "mimeType": "text/json",
-"size": 4917
+"size": 4859
 },
 "json/000105.content.json": {
 "mimeType": "text/json",
-"size": 1847
+"size": 1789
 },
 "json/000106.content.json": {
 "mimeType": "text/json",
-"size": 3712
+"size": 3654
 },
 "json/000107.content.json": {
 "mimeType": "text/json",
-"size": 54352
+"size": 37854
 },
 "json/000108.content.json": {
 "mimeType": "text/json",
-"size": 3126
+"size": 3068
 },
 "json/000109.content.json": {
 "mimeType": "text/json",
-"size": 3179
+"size": 3121
 },
 "json/000110.content.json": {
 "mimeType": "text/json",
-"size": 2856
+"size": 2798
 },
 "json/000111.content.json": {
 "mimeType": "text/json",
-"size": 2205
+"size": 2075
 },
 "json/000112.content.json": {
 "mimeType": "text/json",
-"size": 5516
+"size": 5386
 },
 "json/000113.content.json": {
 "mimeType": "text/json",
-"size": 2063
+"size": 1933
 },
 "json/000114.content.json": {
 "mimeType": "text/json",
-"size": 2371
+"size": 2313
 },
 "json/000115.content.json": {
 "mimeType": "text/json",
-"size": 3216
+"size": 3158
 },
 "json/000116.content.json": {
 "mimeType": "text/json",
-"size": 3669
+"size": 3473
 },
 "json/000117.content.json": {
 "mimeType": "text/json",
-"size": 4822
+"size": 4560
 },
 "json/000118.content.json": {
 "mimeType": "text/json",
-"size": 1488
+"size": 1430
 },
 "json/000119.content.json": {
 "mimeType": "text/json",
-"size": 2231
+"size": 2173
 },
 "json/000120.content.json": {
 "mimeType": "text/json",
-"size": 3474
+"size": 3416
 },
 "json/000121.content.json": {
 "mimeType": "text/json",
-"size": 1815
+"size": 1757
 },
 "json/000122.content.json": {
 "mimeType": "text/json",
-"size": 9668
+"size": 8878
 },
 "json/000123.content.json": {
 "mimeType": "text/json",
-"size": 5173
+"size": 5043
 },
 "json/000124.content.json": {
 "mimeType": "text/json",
-"size": 6722
+"size": 6526
 },
 "json/000125.content.json": {
 "mimeType": "text/json",
-"size": 4418
+"size": 4359
 },
 "json/000126.content.json": {
 "mimeType": "text/json",
-"size": 15667
+"size": 15609
 },
 "json/000127.content.json": {
 "mimeType": "text/json",
-"size": 15294
+"size": 12722
 },
 "json/000128.content.json": {
 "mimeType": "text/json",
-"size": 2670
+"size": 2612
 },
 "json/000129.content.json": {
 "mimeType": "text/json",
-"size": 16023
+"size": 12527
 },
 "json/000130.content.json": {
 "mimeType": "text/json",
-"size": 18660
+"size": 14306
 },
 "json/000131.content.json": {
 "mimeType": "text/json",
-"size": 13374
+"size": 12122
 },
 "json/000132.content.json": {
 "mimeType": "text/json",
-"size": 10666
+"size": 9282
 },
 "json/000133.content.json": {
 "mimeType": "text/json",
-"size": 3924
+"size": 3866
 },
 "json/000134.content.json": {
 "mimeType": "text/json",
-"size": 2049
+"size": 1991
 },
 "json/000135.content.json": {
 "mimeType": "text/json",
-"size": 5229
+"size": 5098
 },
 "json/000136.content.json": {
 "mimeType": "text/json",
-"size": 3085
+"size": 3027
 },
 "json/000137.content.json": {
 "mimeType": "text/json",
-"size": 4765
+"size": 4703
 },
 "json/000138.content.json": {
 "mimeType": "text/json",
-"size": 4591
+"size": 4529
 },
 "json/000139.content.json": {
 "mimeType": "text/json",
-"size": 11064
+"size": 9482
 },
 "json/000140.content.json": {
 "mimeType": "text/json",
-"size": 15284
+"size": 12580
 },
 "json/000141.content.json": {
 "mimeType": "text/json",
-"size": 2327
+"size": 2269
 },
 "json/000142.content.json": {
 "mimeType": "text/json",
-"size": 12548
+"size": 9184
 },
 "json/000143.content.json": {
 "mimeType": "text/json",
-"size": 26689
+"size": 19761
 },
 "json/000144.content.json": {
 "mimeType": "text/json",
-"size": 2201
+"size": 2143
 },
 "json/000145.content.json": {
 "mimeType": "text/json",
-"size": 3151
+"size": 3093
 },
 "json/000146.content.json": {
 "mimeType": "text/json",
-"size": 2840
+"size": 2512
 },
 "json/000147.content.json": {
 "mimeType": "text/json",
-"size": 1858
+"size": 1800
 },
 "json/000148.content.json": {
 "mimeType": "text/json",
-"size": 3618
+"size": 3560
 },
 "json/000149.content.json": {
 "mimeType": "text/json",
-"size": 239849
+"size": 163357
 },
 "json/000150.content.json": {
 "mimeType": "text/json",
-"size": 23534
+"size": 17596
 },
 "json/000151.content.json": {
 "mimeType": "text/json",
-"size": 48721
+"size": 34467
 },
 "json/000152.content.json": {
 "mimeType": "text/json",
-"size": 3347
+"size": 3285
 },
 "json/000153.content.json": {
 "mimeType": "text/json",
-"size": 9686
+"size": 7906
 },
 "json/000154.content.json": {
 "mimeType": "text/json",
-"size": 3424
+"size": 3366
 },
 "json/000155.content.json": {
 "mimeType": "text/json",
-"size": 1603
+"size": 1403
 },
 "json/000156.content.json": {
 "mimeType": "text/json",
-"size": 2358
+"size": 2299
 },
 "json/000157.content.json": {
 "mimeType": "text/json",
-"size": 3292
+"size": 3232
 },
 "json/000158.content.json": {
 "mimeType": "text/json",
-"size": 4663
+"size": 4137
 },
 "json/000159.content.json": {
 "mimeType": "text/json",
-"size": 2577
+"size": 2519
 },
 "json/000160.content.json": {
 "mimeType": "text/json",
-"size": 73516
+"size": 50484
 },
 "json/000161.content.json": {
 "mimeType": "text/json",
-"size": 36338
+"size": 27232
 },
 "json/000162.content.json": {
 "mimeType": "text/json",
-"size": 7813
+"size": 7755
 },
 "json/000163.content.json": {
 "mimeType": "text/json",
-"size": 51110
+"size": 35734
 },
 "json/000164.content.json": {
 "mimeType": "text/json",
-"size": 2168
+"size": 2110
 },
 "json/000165.content.json": {
 "mimeType": "text/json",
-"size": 13512
+"size": 10412
 },
 "json/000166.content.json": {
 "mimeType": "text/json",
-"size": 285082
+"size": 193476
 },
 "json/000167.content.json": {
 "mimeType": "text/json",
-"size": 13907
+"size": 13315
 },
 "json/000168.content.json": {
 "mimeType": "text/json",
-"size": 15975
+"size": 12017
 },
 "json/000169.content.json": {
 "mimeType": "text/json",
-"size": 4968
+"size": 4838
 },
 "json/000170.content.json": {
 "mimeType": "text/json",
-"size": 2490
+"size": 2432
 },
 "json/000171.content.json": {
 "mimeType": "text/json",
-"size": 6225
+"size": 6167
 },
 "json/000172.content.json": {
 "mimeType": "text/json",
-"size": 8810
+"size": 8614
 },
 "json/000173.content.json": {
 "mimeType": "text/json",
-"size": 57600
+"size": 41036
 },
 "json/000174.content.json": {
 "mimeType": "text/json",
-"size": 1750
+"size": 1692
 },
 "json/000175.content.json": {
 "mimeType": "text/json",
-"size": 11055
+"size": 8681
 },
 "json/000176.content.json": {
 "mimeType": "text/json",
-"size": 9057
+"size": 8201
 },
 "json/000177.content.json": {
 "mimeType": "text/json",
-"size": 76282
+"size": 53712
 },
 "json/000178.content.json": {
 "mimeType": "text/json",
-"size": 12180
+"size": 10202
 },
 "json/000179.content.json": {
 "mimeType": "text/json",
-"size": 47281
+"size": 33753
 },
 "json/000180.content.json": {
 "mimeType": "text/json",
-"size": 16979
+"size": 13945
 },
 "json/000181.content.json": {
 "mimeType": "text/json",
-"size": 22215
+"size": 17333
 },
 "json/000182.content.json": {
 "mimeType": "text/json",
-"size": 332154
+"size": 224573
 },
 "json/000183.content.json": {
 "mimeType": "text/json",
-"size": 10732
+"size": 8622
 },
 "json/000184.content.json": {
 "mimeType": "text/json",
-"size": 131140
+"size": 89298
 },
 "json/000185.content.json": {
 "mimeType": "text/json",
-"size": 7467
+"size": 6743
 },
 "json/000186.content.json": {
 "mimeType": "text/json",
-"size": 1792
+"size": 1734
 },
 "json/000187.content.json": {
 "mimeType": "text/json",
-"size": 10291
+"size": 9897
 },
 "json/000188.content.json": {
 "mimeType": "text/json",
-"size": 11065
+"size": 10737
 },
 "json/000189.content.json": {
 "mimeType": "text/json",
-"size": 1621
+"size": 1563
 },
 "json/000190.content.json": {
 "mimeType": "text/json",
-"size": 2566
+"size": 2508
 },
 "json/000191.content.json": {
 "mimeType": "text/json",
-"size": 4469
+"size": 4009
 },
 "json/000192.content.json": {
 "mimeType": "text/json",
-"size": 2859
+"size": 2729
 },
 "json/000193.content.json": {
 "mimeType": "text/json",
-"size": 2547
+"size": 2489
 },
 "json/000194.content.json": {
 "mimeType": "text/json",
-"size": 2264
+"size": 2134
 },
 "json/000195.content.json": {
 "mimeType": "text/json",
-"size": 2785
+"size": 2457
 },
 "json/000196.content.json": {
 "mimeType": "text/json",
-"size": 3515
+"size": 3121
 },
 "json/000197.content.json": {
 "mimeType": "text/json",
-"size": 2540
+"size": 2482
 },
 "json/000198.content.json": {
 "mimeType": "text/json",
-"size": 4243
+"size": 3911
 },
 "json/000199.content.json": {
 "mimeType": "text/json",
-"size": 1538
+"size": 1480
 },
 "json/000200.content.json": {
 "mimeType": "text/json",
-"size": 4009
+"size": 3951
 },
 "json/000201.content.json": {
 "mimeType": "text/json",
-"size": 3919
+"size": 3861
 },
 "json/000202.content.json": {
 "mimeType": "text/json",
-"size": 6491
+"size": 5767
 },
 "json/000203.content.json": {
 "mimeType": "text/json",
-"size": 3732
+"size": 3602
 },
 "json/000204.content.json": {
 "mimeType": "text/json",
-"size": 1711
+"size": 1581
 },
 "json/000205.content.json": {
 "mimeType": "text/json",
-"size": 2164
+"size": 1968
 },
 "json/000206.content.json": {
 "mimeType": "text/json",
-"size": 8128
+"size": 7800
 },
 "json/000207.content.json": {
 "mimeType": "text/json",
-"size": 1606
+"size": 1548
 },
 "json/000208.content.json": {
 "mimeType": "text/json",
-"size": 7800
+"size": 7406
 },
 "json/000209.content.json": {
 "mimeType": "text/json",
-"size": 2403
+"size": 2345
 },
 "json/000210.content.json": {
 "mimeType": "text/json",
-"size": 6334
+"size": 6204
 },
 "json/000211.content.json": {
 "mimeType": "text/json",
-"size": 4058
+"size": 3862
 },
 "json/000212.content.json": {
 "mimeType": "text/json",
-"size": 3844
+"size": 3582
 },
 "json/000213.content.json": {
 "mimeType": "text/json",
-"size": 1985
+"size": 1789
 },
 "json/000214.content.json": {
 "mimeType": "text/json",
-"size": 2058
+"size": 1796
 },
 "json/000215.content.json": {
 "mimeType": "text/json",
-"size": 6009
+"size": 5153
 },
 "json/000216.content.json": {
 "mimeType": "text/json",
-"size": 1728
+"size": 1598
 },
 "json/000217.content.json": {
 "mimeType": "text/json",
-"size": 5807
+"size": 5347
 },
 "json/000218.content.json": {
 "mimeType": "text/json",
-"size": 1925
+"size": 1867
 },
 "json/000219.content.json": {
 "mimeType": "text/json",
-"size": 10622
+"size": 10425
 },
 "json/000220.content.json": {
 "mimeType": "text/json",
-"size": 3904
+"size": 3576
 },
 "json/000221.content.json": {
 "mimeType": "text/json",
-"size": 8218
+"size": 7098
 },
 "json/000222.content.json": {
 "mimeType": "text/json",
-"size": 6284
+"size": 5626
 },
 "json/000223.content.json": {
 "mimeType": "text/json",
-"size": 1453
+"size": 1395
 },
 "json/000224.content.json": {
 "mimeType": "text/json",
-"size": 2716
+"size": 2586
 },
 "json/000225.content.json": {
 "mimeType": "text/json",
-"size": 3972
+"size": 3914
 },
 "json/000226.content.json": {
 "mimeType": "text/json",
-"size": 3299
+"size": 2971
 },
 "json/000227.content.json": {
 "mimeType": "text/json",
-"size": 2460
+"size": 2402
 },
 "json/000228.content.json": {
 "mimeType": "text/json",
-"size": 4342
+"size": 4284
 },
 "json/000229.content.json": {
 "mimeType": "text/json",
-"size": 2367
+"size": 2309
 },
 "json/000230.content.json": {
 "mimeType": "text/json",
-"size": 8708
+"size": 7984
 },
 "json/000231.content.json": {
 "mimeType": "text/json",
-"size": 9202
+"size": 8148
 },
 "json/000232.content.json": {
 "mimeType": "text/json",
-"size": 6774
+"size": 6442
 },
 "json/000233.content.json": {
 "mimeType": "text/json",
-"size": 3518
+"size": 3256
 },
 "json/000234.content.json": {
 "mimeType": "text/json",
-"size": 1485
+"size": 1427
 },
 "json/000235.content.json": {
 "mimeType": "text/json",
-"size": 5680
+"size": 5622
 },
 "json/000236.content.json": {
 "mimeType": "text/json",
-"size": 5778
+"size": 5648
 },
 "json/000237.content.json": {
 "mimeType": "text/json",
-"size": 2976
+"size": 2914
 },
 "json/000238.content.json": {
 "mimeType": "text/json",
-"size": 1921
+"size": 1859
 },
 "json/000239.content.json": {
 "mimeType": "text/json",
-"size": 2825
+"size": 2767
 },
 "json/000240.content.json": {
 "mimeType": "text/json",
-"size": 11691
+"size": 11363
 },
 "json/000241.content.json": {
 "mimeType": "text/json",
-"size": 4935
+"size": 4673
 },
 "md/000001.content.md": {
 "mimeType": "text/markdown",
-"size": 8013
+"size": 8015
 },
 "md/000002.content.md": {
 "mimeType": "text/markdown",
-"size": 5615
+"size": 5617
 },
 "md/000003.content.md": {
 "mimeType": "text/markdown",
-"size": 5923
+"size": 5925
 },
 "md/000004.content.md": {
 "mimeType": "text/markdown",
-"size": 12339
+"size": 12341
 },
 "md/000005.content.md": {
 "mimeType": "text/markdown",
-"size": 17515
+"size": 17517
 },
 "md/000006.content.md": {
 "mimeType": "text/markdown",
-"size": 5267
+"size": 5269
 },
 "md/000007.content.md": {
 "mimeType": "text/markdown",
-"size": 6831
+"size": 6833
 },
 "md/000008.content.md": {
 "mimeType": "text/markdown",
-"size": 4429
+"size": 4431
 },
 "md/000009.content.md": {
 "mimeType": "text/markdown",
-"size": 10974
+"size": 10976
 },
 "md/000010.content.md": {
 "mimeType": "text/markdown",
-"size": 8169
+"size": 8171
 },
 "md/000011.content.md": {
 "mimeType": "text/markdown",
-"size": 4081
+"size": 4083
 },
 "md/000012.content.md": {
 "mimeType": "text/markdown",
-"size": 5549
+"size": 5551
 },
 "md/000013.content.md": {
 "mimeType": "text/markdown",
-"size": 8739
+"size": 8741
 },
 "md/000014.content.md": {
 "mimeType": "text/markdown",
-"size": 22873
+"size": 22875
 },
 "md/000015.content.md": {
 "mimeType": "text/markdown",
-"size": 132388
+"size": 132390
 },
 "md/000016.content.md": {
 "mimeType": "text/markdown",
-"size": 140696
+"size": 140698
 },
 "md/000017.content.md": {
 "mimeType": "text/markdown",
-"size": 4582
+"size": 4584
 },
 "md/000018.content.md": {
 "mimeType": "text/markdown",
-"size": 4602
+"size": 4604
 },
 "md/000019.content.md": {
 "mimeType": "text/markdown",
-"size": 8753
+"size": 8755
 },
 "md/000020.content.md": {
 "mimeType": "text/markdown",
-"size": 1024
+"size": 1026
 },
 "md/000021.content.md": {
 "mimeType": "text/markdown",
-"size": 8748
+"size": 8750
 },
 "md/000022.content.md": {
 "mimeType": "text/markdown",
-"size": 13422
+"size": 13424
 },
 "md/000023.content.md": {
 "mimeType": "text/markdown",
-"size": 17885
+"size": 17887
 },
 "md/000024.content.md": {
 "mimeType": "text/markdown",
-"size": 30893
+"size": 30895
 },
 "md/000025.content.md": {
 "mimeType": "text/markdown",
-"size": 53775
+"size": 53777
 },
 "md/000026.content.md": {
 "mimeType": "text/markdown",
-"size": 11634
+"size": 11636
 },
 "md/000027.content.md": {
 "mimeType": "text/markdown",
-"size": 7313
+"size": 7315
 },
 "md/000028.content.md": {
 "mimeType": "text/markdown",
-"size": 12222
+"size": 12224
 },
 "md/000029.content.md": {
 "mimeType": "text/markdown",
-"size": 22787
+"size": 22789
 },
 "md/000030.content.md": {
 "mimeType": "text/markdown",
-"size": 13391
+"size": 13393
 },
 "md/000031.content.md": {
 "mimeType": "text/markdown",
-"size": 295552
+"size": 295554
 },
 "md/000032.content.md": {
 "mimeType": "text/markdown",
-"size": 11566
+"size": 11568
 },
 "md/000033.content.md": {
 "mimeType": "text/markdown",
-"size": 11139
+"size": 11141
 },
 "md/000034.content.md": {
 "mimeType": "text/markdown",
-"size": 36133
+"size": 36135
 },
 "md/000035.content.md": {
 "mimeType": "text/markdown",
-"size": 32892
+"size": 32894
 },
 "md/000036.content.md": {
 "mimeType": "text/markdown",
-"size": 21064
+"size": 21066
 },
 "md/000037.content.md": {
 "mimeType": "text/markdown",
-"size": 2696
+"size": 2698
 },
 "md/000038.content.md": {
 "mimeType": "text/markdown",
-"size": 14184
+"size": 14186
 },
 "md/000039.content.md": {
 "mimeType": "text/markdown",
-"size": 25489
+"size": 25491
 },
 "md/000040.content.md": {
 "mimeType": "text/markdown",
-"size": 14163
+"size": 14165
 },
 "md/000041.content.md": {
 "mimeType": "text/markdown",
-"size": 117147
+"size": 117149
 },
 "md/000042.content.md": {
 "mimeType": "text/markdown",
-"size": 11414
+"size": 11416
 },
 "md/000043.content.md": {
 "mimeType": "text/markdown",
-"size": 5938
+"size": 5940
 },
 "md/000044.content.md": {
 "mimeType": "text/markdown",
-"size": 32938
+"size": 32940
 },
 "md/000045.content.md": {
 "mimeType": "text/markdown",
-"size": 6044
+"size": 6046
 },
 "md/000046.content.md": {
 "mimeType": "text/markdown",
-"size": 10262
+"size": 10264
 },
 "md/000047.content.md": {
 "mimeType": "text/markdown",
-"size": 7046
+"size": 7048
 },
 "md/000048.content.md": {
 "mimeType": "text/markdown",
-"size": 9310
+"size": 9312
 },
 "md/000049.content.md": {
 "mimeType": "text/markdown",
-"size": 9829
+"size": 9831
 },
 "md/000050.content.md": {
 "mimeType": "text/markdown",
-"size": 228503
+"size": 228505
 },
 "md/000051.content.md": {
 "mimeType": "text/markdown",
-"size": 114159
+"size": 114161
 },
 "md/000052.content.md": {
 "mimeType": "text/markdown",
-"size": 32185
+"size": 32187
 },
 "md/000053.content.md": {
 "mimeType": "text/markdown",
-"size": 3788
+"size": 3790
 },
 "md/000054.content.md": {
 "mimeType": "text/markdown",
-"size": 1877
+"size": 1879
 },
 "md/000055.content.md": {
 "mimeType": "text/markdown",
-"size": 3651
+"size": 3653
 },
 "md/000056.content.md": {
 "mimeType": "text/markdown",
-"size": 8781
+"size": 8783
 },
 "md/000057.content.md": {
 "mimeType": "text/markdown",
-"size": 27902
+"size": 27904
 },
 "md/000058.content.md": {
 "mimeType": "text/markdown",
-"size": 5368
+"size": 5370
 },
 "md/000059.content.md": {
 "mimeType": "text/markdown",
-"size": 12399
+"size": 12401
 },
 "md/000060.content.md": {
 "mimeType": "text/markdown",
-"size": 32249
+"size": 32251
 },
 "md/000061.content.md": {
 "mimeType": "text/markdown",
-"size": 52489
+"size": 52491
 },
 "md/000062.content.md": {
 "mimeType": "text/markdown",
-"size": 5309
+"size": 5311
 },
 "md/000063.content.md": {
 "mimeType": "text/markdown",
-"size": 18167
+"size": 18169
 },
 "md/000064.content.md": {
 "mimeType": "text/markdown",
-"size": 16310
+"size": 16312
 },
 "md/000065.content.md": {
 "mimeType": "text/markdown",
-"size": 26281
+"size": 26283
 },
 "md/000066.content.md": {
 "mimeType": "text/markdown",
-"size": 2137
+"size": 2139
 },
 "md/000067.content.md": {
 "mimeType": "text/markdown",
-"size": 10650
+"size": 10652
 },
 "md/000068.content.md": {
 "mimeType": "text/markdown",
-"size": 52511
+"size": 52513
 },
 "md/000069.content.md": {
 "mimeType": "text/markdown",
-"size": 5210
+"size": 5212
 },
 "md/000070.content.md": {
 "mimeType": "text/markdown",
-"size": 6048
+"size": 6050
 },
 "md/000071.content.md": {
 "mimeType": "text/markdown",
-"size": 5325
+"size": 5327
 },
 "md/000072.content.md": {
 "mimeType": "text/markdown",
-"size": 21046
+"size": 21048
 },
 "md/000073.content.md": {
 "mimeType": "text/markdown",
-"size": 34788
+"size": 34790
 },
 "md/000074.content.md": {
 "mimeType": "text/markdown",
-"size": 6024
+"size": 6026
 },
 "md/000075.content.md": {
 "mimeType": "text/markdown",
-"size": 7590
+"size": 7592
 },
 "md/000076.content.md": {
 "mimeType": "text/markdown",
-"size": 8607
+"size": 8609
 },
 "md/000077.content.md": {
 "mimeType": "text/markdown",
-"size": 8109
+"size": 8111
 },
 "md/000078.content.md": {
 "mimeType": "text/markdown",
-"size": 5580
+"size": 5582
 },
 "md/000079.content.md": {
 "mimeType": "text/markdown",
-"size": 23272
+"size": 23274
 },
 "md/000080.content.md": {
 "mimeType": "text/markdown",
-"size": 5474
+"size": 5476
 },
 "md/000081.content.md": {
 "mimeType": "text/markdown",
-"size": 8137
+"size": 8139
 },
 "md/000082.content.md": {
 "mimeType": "text/markdown",
-"size": 17821
+"size": 17823
 },
 "md/000083.content.md": {
 "mimeType": "text/markdown",
-"size": 10664
+"size": 10666
 },
 "md/000084.content.md": {
 "mimeType": "text/markdown",
-"size": 11298
+"size": 11300
 },
 "md/000085.content.md": {
 "mimeType": "text/markdown",
-"size": 10589
+"size": 10591
 },
 "md/000086.content.md": {
 "mimeType": "text/markdown",
-"size": 8118
+"size": 8120
 },
 "md/000087.content.md": {
 "mimeType": "text/markdown",
-"size": 23341
+"size": 23343
 },
 "md/000088.content.md": {
 "mimeType": "text/markdown",
-"size": 17768
+"size": 17770
 },
 "md/000089.content.md": {
 "mimeType": "text/markdown",
-"size": 61108
+"size": 61110
 },
 "md/000090.content.md": {
 "mimeType": "text/markdown",
-"size": 10708
+"size": 10710
 },
 "md/000091.content.md": {
 "mimeType": "text/markdown",
-"size": 10822
+"size": 10824
 },
 "md/000092.content.md": {
 "mimeType": "text/markdown",
-"size": 9246
+"size": 9248
 },
 "md/000093.content.md": {
 "mimeType": "text/markdown",
-"size": 48769
+"size": 48771
 },
 "md/000094.content.md": {
 "mimeType": "text/markdown",
-"size": 1612
+"size": 1614
 },
 "md/000095.content.md": {
 "mimeType": "text/markdown",
-"size": 4138
+"size": 4140
 },
 "md/000096.content.md": {
 "mimeType": "text/markdown",
-"size": 3191
+"size": 3193
 },
 "md/000097.content.md": {
 "mimeType": "text/markdown",
-"size": 3578
+"size": 3580
 },
 "md/000098.content.md": {
 "mimeType": "text/markdown",
-"size": 6851
+"size": 6853
 },
 "md/000099.content.md": {
 "mimeType": "text/markdown",
-"size": 2323
+"size": 2325
 },
 "md/000100.content.md": {
 "mimeType": "text/markdown",
-"size": 6839
+"size": 6841
 },
 "md/000101.content.md": {
 "mimeType": "text/markdown",
-"size": 5520
+"size": 5522
 },
 "md/000102.content.md": {
 "mimeType": "text/markdown",
-"size": 5162
+"size": 5164
 },
 "md/000103.content.md": {
 "mimeType": "text/markdown",
-"size": 3783
+"size": 3785
 },
 "md/000104.content.md": {
 "mimeType": "text/markdown",
-"size": 5275
+"size": 5277
 },
 "md/000105.content.md": {
 "mimeType": "text/markdown",
-"size": 2103
+"size": 2105
 },
 "md/000106.content.md": {
 "mimeType": "text/markdown",
-"size": 3943
+"size": 3945
 },
 "md/000107.content.md": {
 "mimeType": "text/markdown",
-"size": 15003
+"size": 15005
 },
 "md/000108.content.md": {
 "mimeType": "text/markdown",
-"size": 3319
+"size": 3321
 },
 "md/000109.content.md": {
 "mimeType": "text/markdown",
-"size": 3247
+"size": 3249
 },
 "md/000110.content.md": {
 "mimeType": "text/markdown",
-"size": 3058
+"size": 3060
 },
 "md/000111.content.md": {
 "mimeType": "text/markdown",
-"size": 2039
+"size": 2041
 },
 "md/000112.content.md": {
 "mimeType": "text/markdown",
-"size": 5441
+"size": 5443
 },
 "md/000113.content.md": {
 "mimeType": "text/markdown",
-"size": 1948
+"size": 1950
 },
 "md/000114.content.md": {
 "mimeType": "text/markdown",
-"size": 2535
+"size": 2537
 },
 "md/000115.content.md": {
 "mimeType": "text/markdown",
-"size": 3359
+"size": 3361
 },
 "md/000116.content.md": {
 "mimeType": "text/markdown",
-"size": 3299
+"size": 3301
 },
 "md/000117.content.md": {
 "mimeType": "text/markdown",
-"size": 3967
+"size": 3969
 },
 "md/000118.content.md": {
 "mimeType": "text/markdown",
-"size": 1694
+"size": 1696
 },
 "md/000119.content.md": {
 "mimeType": "text/markdown",
-"size": 2415
+"size": 2417
 },
 "md/000120.content.md": {
 "mimeType": "text/markdown",
-"size": 3621
+"size": 3623
 },
 "md/000121.content.md": {
 "mimeType": "text/markdown",
-"size": 2002
+"size": 2004
 },
 "md/000122.content.md": {
 "mimeType": "text/markdown",
-"size": 6682
+"size": 6684
 },
 "md/000123.content.md": {
 "mimeType": "text/markdown",
-"size": 4851
+"size": 4853
 },
 "md/000124.content.md": {
 "mimeType": "text/markdown",
-"size": 6421
+"size": 6423
 },
 "md/000125.content.md": {
 "mimeType": "text/markdown",
-"size": 4642
+"size": 4644
 },
 "md/000126.content.md": {
 "mimeType": "text/markdown",
-"size": 7914
+"size": 7916
 },
 "md/000127.content.md": {
 "mimeType": "text/markdown",
-"size": 8294
+"size": 8296
 },
 "md/000128.content.md": {
 "mimeType": "text/markdown",
-"size": 2951
+"size": 2953
 },
 "md/000129.content.md": {
 "mimeType": "text/markdown",
-"size": 7945
+"size": 7947
 },
 "md/000130.content.md": {
 "mimeType": "text/markdown",
-"size": 6678
+"size": 6680
 },
 "md/000131.content.md": {
 "mimeType": "text/markdown",
-"size": 8430
+"size": 8432
 },
 "md/000132.content.md": {
 "mimeType": "text/markdown",
-"size": 6130
+"size": 6132
 },
 "md/000133.content.md": {
 "mimeType": "text/markdown",
-"size": 4138
+"size": 4140
 },
 "md/000134.content.md": {
 "mimeType": "text/markdown",
-"size": 2278
+"size": 2280
 },
 "md/000135.content.md": {
 "mimeType": "text/markdown",
-"size": 5030
+"size": 5032
 },
 "md/000136.content.md": {
 "mimeType": "text/markdown",
-"size": 3294
+"size": 3296
 },
 "md/000137.content.md": {
 "mimeType": "text/markdown",
-"size": 4956
+"size": 4958
 },
 "md/000138.content.md": {
 "mimeType": "text/markdown",
-"size": 4766
+"size": 4768
 },
 "md/000139.content.md": {
 "mimeType": "text/markdown",
-"size": 6380
+"size": 6382
 },
 "md/000140.content.md": {
 "mimeType": "text/markdown",
-"size": 8811
+"size": 8813
 },
 "md/000141.content.md": {
 "mimeType": "text/markdown",
-"size": 2532
+"size": 2534
 },
 "md/000142.content.md": {
 "mimeType": "text/markdown",
-"size": 4916
+"size": 4918
 },
 "md/000143.content.md": {
 "mimeType": "text/markdown",
-"size": 10431
+"size": 10433
 },
 "md/000144.content.md": {
 "mimeType": "text/markdown",
-"size": 2333
+"size": 2335
 },
 "md/000145.content.md": {
 "mimeType": "text/markdown",
-"size": 3382
+"size": 3384
 },
 "md/000146.content.md": {
 "mimeType": "text/markdown",
-"size": 1940
+"size": 1942
 },
 "md/000147.content.md": {
 "mimeType": "text/markdown",
-"size": 2159
+"size": 2161
 },
 "md/000148.content.md": {
 "mimeType": "text/markdown",
-"size": 4039
+"size": 4041
 },
 "md/000149.content.md": {
 "mimeType": "text/markdown",
-"size": 56490
+"size": 56492
 },
 "md/000150.content.md": {
 "mimeType": "text/markdown",
-"size": 9441
+"size": 9443
 },
 "md/000151.content.md": {
 "mimeType": "text/markdown",
-"size": 14191
+"size": 14193
 },
 "md/000152.content.md": {
 "mimeType": "text/markdown",
-"size": 3608
+"size": 3610
 },
 "md/000153.content.md": {
 "mimeType": "text/markdown",
-"size": 5619
+"size": 5621
 },
 "md/000154.content.md": {
 "mimeType": "text/markdown",
-"size": 3702
+"size": 3704
 },
 "md/000155.content.md": {
 "mimeType": "text/markdown",
-"size": 1331
+"size": 1333
 },
 "md/000156.content.md": {
 "mimeType": "text/markdown",
-"size": 2550
+"size": 2552
 },
 "md/000157.content.md": {
 "mimeType": "text/markdown",
-"size": 3340
+"size": 3342
 },
 "md/000158.content.md": {
 "mimeType": "text/markdown",
-"size": 2898
+"size": 2900
 },
 "md/000159.content.md": {
 "mimeType": "text/markdown",
-"size": 2742
+"size": 2744
 },
 "md/000160.content.md": {
 "mimeType": "text/markdown",
-"size": 18735
+"size": 18737
 },
 "md/000161.content.md": {
 "mimeType": "text/markdown",
-"size": 14623
+"size": 14625
 },
 "md/000162.content.md": {
 "mimeType": "text/markdown",
-"size": 7626
+"size": 7628
 },
 "md/000163.content.md": {
 "mimeType": "text/markdown",
-"size": 14706
+"size": 14708
 },
 "md/000164.content.md": {
 "mimeType": "text/markdown",
-"size": 2397
+"size": 2399
 },
 "md/000165.content.md": {
 "mimeType": "text/markdown",
-"size": 6331
+"size": 6333
 },
 "md/000166.content.md": {
 "mimeType": "text/markdown",
-"size": 65724
+"size": 65726
 },
 "md/000167.content.md": {
 "mimeType": "text/markdown",
-"size": 11490
+"size": 11492
 },
 "md/000168.content.md": {
 "mimeType": "text/markdown",
-"size": 6881
+"size": 6883
 },
 "md/000169.content.md": {
 "mimeType": "text/markdown",
-"size": 4960
+"size": 4962
 },
 "md/000170.content.md": {
 "mimeType": "text/markdown",
-"size": 2695
+"size": 2697
 },
 "md/000171.content.md": {
 "mimeType": "text/markdown",
-"size": 5912
+"size": 5914
 },
 "md/000172.content.md": {
 "mimeType": "text/markdown",
-"size": 8160
+"size": 8162
 },
 "md/000173.content.md": {
 "mimeType": "text/markdown",
-"size": 17988
+"size": 17990
 },
 "md/000174.content.md": {
 "mimeType": "text/markdown",
-"size": 1987
+"size": 1989
 },
 "md/000175.content.md": {
 "mimeType": "text/markdown",
-"size": 5625
+"size": 5627
 },
 "md/000176.content.md": {
 "mimeType": "text/markdown",
-"size": 5470
+"size": 5472
 },
 "md/000177.content.md": {
 "mimeType": "text/markdown",
-"size": 22266
+"size": 22268
 },
 "md/000178.content.md": {
 "mimeType": "text/markdown",
-"size": 7742
+"size": 7744
 },
 "md/000179.content.md": {
 "mimeType": "text/markdown",
-"size": 15034
+"size": 15036
 },
 "md/000180.content.md": {
 "mimeType": "text/markdown",
-"size": 9434
+"size": 9436
 },
 "md/000181.content.md": {
 "mimeType": "text/markdown",
-"size": 10537
+"size": 10539
 },
 "md/000182.content.md": {
 "mimeType": "text/markdown",
-"size": 74461
+"size": 74463
 },
 "md/000183.content.md": {
 "mimeType": "text/markdown",
-"size": 6102
+"size": 6104
 },
 "md/000184.content.md": {
 "mimeType": "text/markdown",
-"size": 31163
+"size": 31165
 },
 "md/000185.content.md": {
 "mimeType": "text/markdown",
-"size": 5988
+"size": 5990
 },
 "md/000186.content.md": {
 "mimeType": "text/markdown",
-"size": 2051
+"size": 2053
 },
 "md/000187.content.md": {
 "mimeType": "text/markdown",
-"size": 8892
+"size": 8894
 },
 "md/000188.content.md": {
 "mimeType": "text/markdown",
-"size": 9886
+"size": 9888
 },
 "md/000189.content.md": {
 "mimeType": "text/markdown",
-"size": 1887
+"size": 1889
 },
 "md/000190.content.md": {
 "mimeType": "text/markdown",
-"size": 2859
+"size": 2861
 },
 "md/000191.content.md": {
 "mimeType": "text/markdown",
-"size": 3044
+"size": 3046
 },
 "md/000192.content.md": {
 "mimeType": "text/markdown",
-"size": 2832
+"size": 2834
 },
 "md/000193.content.md": {
 "mimeType": "text/markdown",
-"size": 2726
+"size": 2728
 },
 "md/000194.content.md": {
 "mimeType": "text/markdown",
-"size": 2276
+"size": 2278
 },
 "md/000195.content.md": {
 "mimeType": "text/markdown",
-"size": 1850
+"size": 1852
 },
 "md/000196.content.md": {
 "mimeType": "text/markdown",
-"size": 2382
+"size": 2384
 },
 "md/000197.content.md": {
 "mimeType": "text/markdown",
-"size": 2818
+"size": 2820
 },
 "md/000198.content.md": {
 "mimeType": "text/markdown",
-"size": 3474
+"size": 3476
 },
 "md/000199.content.md": {
 "mimeType": "text/markdown",
-"size": 1571
+"size": 1573
 },
 "md/000200.content.md": {
 "mimeType": "text/markdown",
-"size": 4242
+"size": 4244
 },
 "md/000201.content.md": {
 "mimeType": "text/markdown",
-"size": 3973
+"size": 3975
 },
 "md/000202.content.md": {
 "mimeType": "text/markdown",
-"size": 3988
+"size": 3990
 },
 "md/000203.content.md": {
 "mimeType": "text/markdown",
-"size": 3730
+"size": 3732
 },
 "md/000204.content.md": {
 "mimeType": "text/markdown",
-"size": 1694
+"size": 1696
 },
 "md/000205.content.md": {
 "mimeType": "text/markdown",
-"size": 1816
+"size": 1818
 },
 "md/000206.content.md": {
 "mimeType": "text/markdown",
-"size": 7198
+"size": 7200
 },
 "md/000207.content.md": {
 "mimeType": "text/markdown",
-"size": 1744
+"size": 1746
 },
 "md/000208.content.md": {
 "mimeType": "text/markdown",
-"size": 6434
+"size": 6436
 },
 "md/000209.content.md": {
 "mimeType": "text/markdown",
-"size": 2698
+"size": 2700
 },
 "md/000210.content.md": {
 "mimeType": "text/markdown",
-"size": 5686
+"size": 5688
 },
 "md/000211.content.md": {
 "mimeType": "text/markdown",
-"size": 3714
+"size": 3716
 },
 "md/000212.content.md": {
 "mimeType": "text/markdown",
-"size": 3241
+"size": 3243
 },
 "md/000213.content.md": {
 "mimeType": "text/markdown",
-"size": 1753
+"size": 1755
 },
 "md/000214.content.md": {
 "mimeType": "text/markdown",
-"size": 1520
+"size": 1522
 },
 "md/000215.content.md": {
 "mimeType": "text/markdown",
-"size": 2830
+"size": 2832
 },
 "md/000216.content.md": {
 "mimeType": "text/markdown",
-"size": 1765
+"size": 1767
 },
 "md/000217.content.md": {
 "mimeType": "text/markdown",
-"size": 4450
+"size": 4452
 },
 "md/000218.content.md": {
 "mimeType": "text/markdown",
-"size": 2227
+"size": 2229
 },
 "md/000219.content.md": {
 "mimeType": "text/markdown",
-"size": 9599
+"size": 9601
 },
 "md/000220.content.md": {
 "mimeType": "text/markdown",
-"size": 3003
+"size": 3005
 },
 "md/000221.content.md": {
 "mimeType": "text/markdown",
-"size": 3988
+"size": 3990
 },
 "md/000222.content.md": {
 "mimeType": "text/markdown",
-"size": 3949
+"size": 3951
 },
 "md/000223.content.md": {
 "mimeType": "text/markdown",
-"size": 1754
+"size": 1756
 },
 "md/000224.content.md": {
 "mimeType": "text/markdown",
-"size": 2769
+"size": 2771
 },
 "md/000225.content.md": {
 "mimeType": "text/markdown",
-"size": 3835
+"size": 3837
 },
 "md/000226.content.md": {
 "mimeType": "text/markdown",
-"size": 2449
+"size": 2451
 },
 "md/000227.content.md": {
 "mimeType": "text/markdown",
-"size": 2681
+"size": 2683
 },
 "md/000228.content.md": {
 "mimeType": "text/markdown",
-"size": 4385
+"size": 4387
 },
 "md/000229.content.md": {
 "mimeType": "text/markdown",
-"size": 2660
+"size": 2662
 },
 "md/000230.content.md": {
 "mimeType": "text/markdown",
-"size": 6006
+"size": 6008
 },
 "md/000231.content.md": {
 "mimeType": "text/markdown",
-"size": 3982
+"size": 3984
 },
 "md/000232.content.md": {
 "mimeType": "text/markdown",
-"size": 5468
+"size": 5470
 },
 "md/000233.content.md": {
 "mimeType": "text/markdown",
-"size": 2947
+"size": 2949
 },
 "md/000234.content.md": {
 "mimeType": "text/markdown",
-"size": 1795
+"size": 1797
 },
 "md/000235.content.md": {
 "mimeType": "text/markdown",
-"size": 5942
+"size": 5944
 },
 "md/000236.content.md": {
 "mimeType": "text/markdown",
-"size": 5809
+"size": 5811
 },
 "md/000237.content.md": {
 "mimeType": "text/markdown",
-"size": 3250
+"size": 3252
 },
 "md/000238.content.md": {
 "mimeType": "text/markdown",
-"size": 2192
+"size": 2194
 },
 "md/000239.content.md": {
 "mimeType": "text/markdown",
-"size": 3115
+"size": 3117
 },
 "md/000240.content.md": {
 "mimeType": "text/markdown",
-"size": 10544
+"size": 10546
 },
 "md/000241.content.md": {
 "mimeType": "text/markdown",
-"size": 4308
-},
-"pdf/000001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2643264
+"size": 4310
 },
 "docx/000001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 480897
+"size": 480885
+},
+"pdf/000001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 3875755
 }
 },
 "copyright": {
@@ -2047,7 +2047,7 @@
 },
 "article_metadata": {
 "33243": {
-"content_id": 33243,
+"content_id": "33243",
 "reference_id": 26657,
 "index_reference": "biblical imagery",
 "localizations": {
@@ -2089,9 +2089,9 @@
 }
 },
 "33244": {
-"content_id": 33244,
+"content_id": "33244",
 "reference_id": 26658,
-"index_reference": "biblical imagery — animals",
+"index_reference": "biblical imagery  animals",
 "localizations": {
 "arb": {
 "content_id": 781583,
@@ -2126,9 +2126,9 @@
 }
 },
 "33245": {
-"content_id": 33245,
+"content_id": "33245",
 "reference_id": 26659,
-"index_reference": "biblical imagery — farming",
+"index_reference": "biblical imagery  farming",
 "localizations": {
 "arb": {
 "content_id": 781584,
@@ -2163,9 +2163,9 @@
 }
 },
 "33246": {
-"content_id": 33246,
+"content_id": "33246",
 "reference_id": 26660,
-"index_reference": "biblical imagery — body parts and human qualities",
+"index_reference": "biblical imagery  body parts and human qualities",
 "localizations": {
 "arb": {
 "content_id": 781585,
@@ -2200,9 +2200,9 @@
 }
 },
 "33247": {
-"content_id": 33247,
+"content_id": "33247",
 "reference_id": 26661,
-"index_reference": "biblical imagery — human behavior",
+"index_reference": "biblical imagery  human behavior",
 "localizations": {
 "arb": {
 "content_id": 781586,
@@ -2237,9 +2237,9 @@
 }
 },
 "33248": {
-"content_id": 33248,
+"content_id": "33248",
 "reference_id": 26662,
-"index_reference": "biblical imagery — man-made objects",
+"index_reference": "biblical imagery  manmade objects",
 "localizations": {
 "arb": {
 "content_id": 781587,
@@ -2274,9 +2274,9 @@
 }
 },
 "33249": {
-"content_id": 33249,
+"content_id": "33249",
 "reference_id": 26663,
-"index_reference": "biblical imagery — common patterns",
+"index_reference": "biblical imagery  common patterns",
 "localizations": {
 "arb": {
 "content_id": 781588,
@@ -2311,9 +2311,9 @@
 }
 },
 "33250": {
-"content_id": 33250,
+"content_id": "33250",
 "reference_id": 26664,
-"index_reference": "biblical imagery — common metonymies",
+"index_reference": "biblical imagery  common metonymies",
 "localizations": {
 "arb": {
 "content_id": 781589,
@@ -2348,9 +2348,9 @@
 }
 },
 "33251": {
-"content_id": 33251,
+"content_id": "33251",
 "reference_id": 26665,
-"index_reference": "biblical imagery — cultural models",
+"index_reference": "biblical imagery  cultural models",
 "localizations": {
 "arb": {
 "content_id": 781590,
@@ -2385,9 +2385,9 @@
 }
 },
 "33252": {
-"content_id": 33252,
+"content_id": "33252",
 "reference_id": 26666,
-"index_reference": "biblical imagery — natural phenomena",
+"index_reference": "biblical imagery  natural phenomena",
 "localizations": {
 "arb": {
 "content_id": 781591,
@@ -2422,9 +2422,9 @@
 }
 },
 "33253": {
-"content_id": 33253,
+"content_id": "33253",
 "reference_id": 26667,
-"index_reference": "biblical imagery — plants",
+"index_reference": "biblical imagery  plants",
 "localizations": {
 "arb": {
 "content_id": 781592,
@@ -2459,7 +2459,7 @@
 }
 },
 "33254": {
-"content_id": 33254,
+"content_id": "33254",
 "reference_id": 26668,
 "index_reference": "choosing a translation style",
 "localizations": {
@@ -2486,7 +2486,7 @@
 }
 },
 "33255": {
-"content_id": 33255,
+"content_id": "33255",
 "reference_id": 26669,
 "index_reference": "choosing a translation team",
 "localizations": {
@@ -2518,9 +2518,9 @@
 }
 },
 "33256": {
-"content_id": 33256,
+"content_id": "33256",
 "reference_id": 26670,
-"index_reference": "first, second or third person",
+"index_reference": "first second or third person",
 "localizations": {
 "arb": {
 "content_id": 781595,
@@ -2555,7 +2555,7 @@
 }
 },
 "33257": {
-"content_id": 33257,
+"content_id": "33257",
 "reference_id": 26671,
 "index_reference": "abstract nouns",
 "localizations": {
@@ -2597,7 +2597,7 @@
 }
 },
 "33258": {
-"content_id": 33258,
+"content_id": "33258",
 "reference_id": 26672,
 "index_reference": "active or passive",
 "localizations": {
@@ -2634,7 +2634,7 @@
 }
 },
 "33259": {
-"content_id": 33259,
+"content_id": "33259",
 "reference_id": 26673,
 "index_reference": "apostrophe",
 "localizations": {
@@ -2666,7 +2666,7 @@
 }
 },
 "33260": {
-"content_id": 33260,
+"content_id": "33260",
 "reference_id": 26674,
 "index_reference": "aside",
 "localizations": {
@@ -2698,7 +2698,7 @@
 }
 },
 "33261": {
-"content_id": 33261,
+"content_id": "33261",
 "reference_id": 26675,
 "index_reference": "complex metaphor",
 "localizations": {
@@ -2725,7 +2725,7 @@
 }
 },
 "33262": {
-"content_id": 33262,
+"content_id": "33262",
 "reference_id": 26676,
 "index_reference": "crowd",
 "localizations": {
@@ -2747,9 +2747,9 @@
 }
 },
 "33263": {
-"content_id": 33263,
+"content_id": "33263",
 "reference_id": 26677,
-"index_reference": "statements — other uses",
+"index_reference": "statements  other uses",
 "localizations": {
 "arb": {
 "content_id": 781602,
@@ -2784,7 +2784,7 @@
 }
 },
 "33264": {
-"content_id": 33264,
+"content_id": "33264",
 "reference_id": 26678,
 "index_reference": "distinguishing versus informing or reminding",
 "localizations": {
@@ -2821,7 +2821,7 @@
 }
 },
 "33265": {
-"content_id": 33265,
+"content_id": "33265",
 "reference_id": 26679,
 "index_reference": "double negatives",
 "localizations": {
@@ -2858,7 +2858,7 @@
 }
 },
 "33266": {
-"content_id": 33266,
+"content_id": "33266",
 "reference_id": 26680,
 "index_reference": "doublet",
 "localizations": {
@@ -2895,7 +2895,7 @@
 }
 },
 "33267": {
-"content_id": 33267,
+"content_id": "33267",
 "reference_id": 26681,
 "index_reference": "ellipsis",
 "localizations": {
@@ -2937,7 +2937,7 @@
 }
 },
 "33268": {
-"content_id": 33268,
+"content_id": "33268",
 "reference_id": 26682,
 "index_reference": "euphemism",
 "localizations": {
@@ -2974,7 +2974,7 @@
 }
 },
 "33269": {
-"content_id": 33269,
+"content_id": "33269",
 "reference_id": 26683,
 "index_reference": "order of events",
 "localizations": {
@@ -3011,7 +3011,7 @@
 }
 },
 "33270": {
-"content_id": 33270,
+"content_id": "33270",
 "reference_id": 26684,
 "index_reference": "exclamations",
 "localizations": {
@@ -3048,9 +3048,9 @@
 }
 },
 "33271": {
-"content_id": 33271,
+"content_id": "33271",
 "reference_id": 26685,
-"index_reference": "exclusive and inclusive ‘we’",
+"index_reference": "exclusive and inclusive we",
 "localizations": {
 "arb": {
 "content_id": 781610,
@@ -3090,9 +3090,9 @@
 }
 },
 "33272": {
-"content_id": 33272,
+"content_id": "33272",
 "reference_id": 26686,
-"index_reference": "biblical imagery — extended metaphors",
+"index_reference": "biblical imagery  extended metaphors",
 "localizations": {
 "arb": {
 "content_id": 781611,
@@ -3127,7 +3127,7 @@
 }
 },
 "33273": {
-"content_id": 33273,
+"content_id": "33273",
 "reference_id": 26687,
 "index_reference": "assumed knowledge and implicit information",
 "localizations": {
@@ -3164,7 +3164,7 @@
 }
 },
 "33274": {
-"content_id": 33274,
+"content_id": "33274",
 "reference_id": 26688,
 "index_reference": "making assumed knowledge and implicit information explicit",
 "localizations": {
@@ -3201,7 +3201,7 @@
 }
 },
 "33275": {
-"content_id": 33275,
+"content_id": "33275",
 "reference_id": 26689,
 "index_reference": "when to keep information implicit",
 "localizations": {
@@ -3238,7 +3238,7 @@
 }
 },
 "33276": {
-"content_id": 33276,
+"content_id": "33276",
 "reference_id": 26690,
 "index_reference": "when masculine words include women",
 "localizations": {
@@ -3275,7 +3275,7 @@
 }
 },
 "33277": {
-"content_id": 33277,
+"content_id": "33277",
 "reference_id": 26691,
 "index_reference": "generic noun phrases",
 "localizations": {
@@ -3312,7 +3312,7 @@
 }
 },
 "33278": {
-"content_id": 33278,
+"content_id": "33278",
 "reference_id": 26692,
 "index_reference": "go and come",
 "localizations": {
@@ -3349,7 +3349,7 @@
 }
 },
 "33279": {
-"content_id": 33279,
+"content_id": "33279",
 "reference_id": 26693,
 "index_reference": "grammar topics",
 "localizations": {
@@ -3381,7 +3381,7 @@
 }
 },
 "33280": {
-"content_id": 33280,
+"content_id": "33280",
 "reference_id": 26694,
 "index_reference": "hendiadys",
 "localizations": {
@@ -3418,7 +3418,7 @@
 }
 },
 "33281": {
-"content_id": 33281,
+"content_id": "33281",
 "reference_id": 26695,
 "index_reference": "hyperbole",
 "localizations": {
@@ -3455,7 +3455,7 @@
 }
 },
 "33282": {
-"content_id": 33282,
+"content_id": "33282",
 "reference_id": 26696,
 "index_reference": "hypothetical situations",
 "localizations": {
@@ -3492,7 +3492,7 @@
 }
 },
 "33283": {
-"content_id": 33283,
+"content_id": "33283",
 "reference_id": 26697,
 "index_reference": "idiom",
 "localizations": {
@@ -3529,9 +3529,9 @@
 }
 },
 "33284": {
-"content_id": 33284,
+"content_id": "33284",
 "reference_id": 26698,
-"index_reference": "imperatives — other uses",
+"index_reference": "imperatives  other uses",
 "localizations": {
 "arb": {
 "content_id": 781623,
@@ -3561,9 +3561,9 @@
 }
 },
 "33285": {
-"content_id": 33285,
+"content_id": "33285",
 "reference_id": 26699,
-"index_reference": "third-person imperatives",
+"index_reference": "thirdperson imperatives",
 "localizations": {
 "arb": {
 "content_id": 781624,
@@ -3588,7 +3588,7 @@
 }
 },
 "33286": {
-"content_id": 33286,
+"content_id": "33286",
 "reference_id": 26700,
 "index_reference": "information structure",
 "localizations": {
@@ -3625,7 +3625,7 @@
 }
 },
 "33287": {
-"content_id": 33287,
+"content_id": "33287",
 "reference_id": 26701,
 "index_reference": "figures of speech",
 "localizations": {
@@ -3657,7 +3657,7 @@
 }
 },
 "33288": {
-"content_id": 33288,
+"content_id": "33288",
 "reference_id": 26702,
 "index_reference": "irony",
 "localizations": {
@@ -3694,7 +3694,7 @@
 }
 },
 "33289": {
-"content_id": 33289,
+"content_id": "33289",
 "reference_id": 26703,
 "index_reference": "litany",
 "localizations": {
@@ -3726,7 +3726,7 @@
 }
 },
 "33290": {
-"content_id": 33290,
+"content_id": "33290",
 "reference_id": 26704,
 "index_reference": "litotes",
 "localizations": {
@@ -3763,7 +3763,7 @@
 }
 },
 "33291": {
-"content_id": 33291,
+"content_id": "33291",
 "reference_id": 26705,
 "index_reference": "merism",
 "localizations": {
@@ -3800,7 +3800,7 @@
 }
 },
 "33292": {
-"content_id": 33292,
+"content_id": "33292",
 "reference_id": 26706,
 "index_reference": "metaphor",
 "localizations": {
@@ -3837,7 +3837,7 @@
 }
 },
 "33293": {
-"content_id": 33293,
+"content_id": "33293",
 "reference_id": 26707,
 "index_reference": "metonymy",
 "localizations": {
@@ -3874,7 +3874,7 @@
 }
 },
 "33294": {
-"content_id": 33294,
+"content_id": "33294",
 "reference_id": 26708,
 "index_reference": "nominal adjectives",
 "localizations": {
@@ -3911,7 +3911,7 @@
 }
 },
 "33295": {
-"content_id": 33295,
+"content_id": "33295",
 "reference_id": 26709,
 "index_reference": "word order",
 "localizations": {
@@ -3948,7 +3948,7 @@
 }
 },
 "33296": {
-"content_id": 33296,
+"content_id": "33296",
 "reference_id": 26710,
 "index_reference": "word order",
 "localizations": {
@@ -3975,7 +3975,7 @@
 }
 },
 "33297": {
-"content_id": 33297,
+"content_id": "33297",
 "reference_id": 26711,
 "index_reference": "word order",
 "localizations": {
@@ -4002,7 +4002,7 @@
 }
 },
 "33298": {
-"content_id": 33298,
+"content_id": "33298",
 "reference_id": 26712,
 "index_reference": "parables",
 "localizations": {
@@ -4034,7 +4034,7 @@
 }
 },
 "33299": {
-"content_id": 33299,
+"content_id": "33299",
 "reference_id": 26713,
 "index_reference": "parallelism",
 "localizations": {
@@ -4071,7 +4071,7 @@
 }
 },
 "33300": {
-"content_id": 33300,
+"content_id": "33300",
 "reference_id": 26714,
 "index_reference": "parts of speech",
 "localizations": {
@@ -4103,7 +4103,7 @@
 }
 },
 "33301": {
-"content_id": 33301,
+"content_id": "33301",
 "reference_id": 26715,
 "index_reference": "predictive past",
 "localizations": {
@@ -4140,7 +4140,7 @@
 }
 },
 "33302": {
-"content_id": 33302,
+"content_id": "33302",
 "reference_id": 26716,
 "index_reference": "personification",
 "localizations": {
@@ -4177,7 +4177,7 @@
 }
 },
 "33303": {
-"content_id": 33303,
+"content_id": "33303",
 "reference_id": 26717,
 "index_reference": "possession",
 "localizations": {
@@ -4214,7 +4214,7 @@
 }
 },
 "33304": {
-"content_id": 33304,
+"content_id": "33304",
 "reference_id": 26718,
 "index_reference": "pronouns",
 "localizations": {
@@ -4251,7 +4251,7 @@
 }
 },
 "33305": {
-"content_id": 33305,
+"content_id": "33305",
 "reference_id": 26719,
 "index_reference": "direct and indirect quotations",
 "localizations": {
@@ -4288,7 +4288,7 @@
 }
 },
 "33306": {
-"content_id": 33306,
+"content_id": "33306",
 "reference_id": 26720,
 "index_reference": "quote markings",
 "localizations": {
@@ -4325,7 +4325,7 @@
 }
 },
 "33307": {
-"content_id": 33307,
+"content_id": "33307",
 "reference_id": 26721,
 "index_reference": "quotes within quotes",
 "localizations": {
@@ -4357,7 +4357,7 @@
 }
 },
 "33308": {
-"content_id": 33308,
+"content_id": "33308",
 "reference_id": 26722,
 "index_reference": "reduplication",
 "localizations": {
@@ -4379,7 +4379,7 @@
 }
 },
 "33309": {
-"content_id": 33309,
+"content_id": "33309",
 "reference_id": 26723,
 "index_reference": "reflexive pronouns",
 "localizations": {
@@ -4416,7 +4416,7 @@
 }
 },
 "33310": {
-"content_id": 33310,
+"content_id": "33310",
 "reference_id": 26724,
 "index_reference": "rhetorical question",
 "localizations": {
@@ -4453,7 +4453,7 @@
 }
 },
 "33311": {
-"content_id": 33311,
+"content_id": "33311",
 "reference_id": 26725,
 "index_reference": "sentence structure",
 "localizations": {
@@ -4485,7 +4485,7 @@
 }
 },
 "33312": {
-"content_id": 33312,
+"content_id": "33312",
 "reference_id": 26726,
 "index_reference": "sentence types",
 "localizations": {
@@ -4517,7 +4517,7 @@
 }
 },
 "33313": {
-"content_id": 33313,
+"content_id": "33313",
 "reference_id": 26727,
 "index_reference": "simple metaphor",
 "localizations": {
@@ -4544,7 +4544,7 @@
 }
 },
 "33314": {
-"content_id": 33314,
+"content_id": "33314",
 "reference_id": 26728,
 "index_reference": "simile",
 "localizations": {
@@ -4581,7 +4581,7 @@
 }
 },
 "33315": {
-"content_id": 33315,
+"content_id": "33315",
 "reference_id": 26729,
 "index_reference": "synecdoche",
 "localizations": {
@@ -4618,7 +4618,7 @@
 }
 },
 "33316": {
-"content_id": 33316,
+"content_id": "33316",
 "reference_id": 26730,
 "index_reference": "verbs",
 "localizations": {
@@ -4650,7 +4650,7 @@
 }
 },
 "33317": {
-"content_id": 33317,
+"content_id": "33317",
 "reference_id": 26731,
 "index_reference": "forms of you",
 "localizations": {
@@ -4687,7 +4687,7 @@
 }
 },
 "33318": {
-"content_id": 33318,
+"content_id": "33318",
 "reference_id": 26732,
 "index_reference": "singular pronouns that refer to groups",
 "localizations": {
@@ -4724,9 +4724,9 @@
 }
 },
 "33319": {
-"content_id": 33319,
+"content_id": "33319",
 "reference_id": 26733,
-"index_reference": "forms of ‘you’ — dual/plural",
+"index_reference": "forms of you  dualplural",
 "localizations": {
 "arb": {
 "content_id": 781658,
@@ -4756,9 +4756,9 @@
 }
 },
 "33320": {
-"content_id": 33320,
+"content_id": "33320",
 "reference_id": 26734,
-"index_reference": "forms of ‘you’ — formal or informal",
+"index_reference": "forms of you  formal or informal",
 "localizations": {
 "arb": {
 "content_id": 781659,
@@ -4788,9 +4788,9 @@
 }
 },
 "33321": {
-"content_id": 33321,
+"content_id": "33321",
 "reference_id": 26735,
-"index_reference": "forms of ‘you’ — singular",
+"index_reference": "forms of you  singular",
 "localizations": {
 "arb": {
 "content_id": 781660,
@@ -4825,7 +4825,7 @@
 }
 },
 "33322": {
-"content_id": 33322,
+"content_id": "33322",
 "reference_id": 26736,
 "index_reference": "file formats",
 "localizations": {
@@ -4862,7 +4862,7 @@
 }
 },
 "33323": {
-"content_id": 33323,
+"content_id": "33323",
 "reference_id": 26737,
 "index_reference": "first draft",
 "localizations": {
@@ -4894,7 +4894,7 @@
 }
 },
 "33324": {
-"content_id": 33324,
+"content_id": "33324",
 "reference_id": 26738,
 "index_reference": "collective nouns",
 "localizations": {
@@ -4926,9 +4926,9 @@
 }
 },
 "33325": {
-"content_id": 33325,
+"content_id": "33325",
 "reference_id": 26739,
-"index_reference": "connect — contrary to fact conditions",
+"index_reference": "connect  contrary to fact conditions",
 "localizations": {
 "arb": {
 "content_id": 781664,
@@ -4963,9 +4963,9 @@
 }
 },
 "33326": {
-"content_id": 33326,
+"content_id": "33326",
 "reference_id": 26740,
-"index_reference": "connect — factual conditions",
+"index_reference": "connect  factual conditions",
 "localizations": {
 "arb": {
 "content_id": 781665,
@@ -4995,9 +4995,9 @@
 }
 },
 "33327": {
-"content_id": 33327,
+"content_id": "33327",
 "reference_id": 26741,
-"index_reference": "connect — hypothetical conditions",
+"index_reference": "connect  hypothetical conditions",
 "localizations": {
 "arb": {
 "content_id": 781666,
@@ -5027,9 +5027,9 @@
 }
 },
 "33328": {
-"content_id": 33328,
+"content_id": "33328",
 "reference_id": 26742,
-"index_reference": "connect — exception clauses",
+"index_reference": "connect  exception clauses",
 "localizations": {
 "arb": {
 "content_id": 781667,
@@ -5064,9 +5064,9 @@
 }
 },
 "33329": {
-"content_id": 33329,
+"content_id": "33329",
 "reference_id": 26743,
-"index_reference": "connect — contrast relationship",
+"index_reference": "connect  contrast relationship",
 "localizations": {
 "arb": {
 "content_id": 781668,
@@ -5101,9 +5101,9 @@
 }
 },
 "33330": {
-"content_id": 33330,
+"content_id": "33330",
 "reference_id": 26744,
-"index_reference": "connect — goal (purpose) relationship",
+"index_reference": "connect  goal purpose relationship",
 "localizations": {
 "arb": {
 "content_id": 781669,
@@ -5138,9 +5138,9 @@
 }
 },
 "33331": {
-"content_id": 33331,
+"content_id": "33331",
 "reference_id": 26745,
-"index_reference": "connect — reason-and-result relationship",
+"index_reference": "connect  reasonandresult relationship",
 "localizations": {
 "arb": {
 "content_id": 781670,
@@ -5175,9 +5175,9 @@
 }
 },
 "33332": {
-"content_id": 33332,
+"content_id": "33332",
 "reference_id": 26746,
-"index_reference": "connect — background information",
+"index_reference": "connect  background information",
 "localizations": {
 "arb": {
 "content_id": 781671,
@@ -5212,9 +5212,9 @@
 }
 },
 "33333": {
-"content_id": 33333,
+"content_id": "33333",
 "reference_id": 26747,
-"index_reference": "connect — sequential time relationship",
+"index_reference": "connect  sequential time relationship",
 "localizations": {
 "arb": {
 "content_id": 781672,
@@ -5249,9 +5249,9 @@
 }
 },
 "33334": {
-"content_id": 33334,
+"content_id": "33334",
 "reference_id": 26748,
-"index_reference": "connect — simultaneous time relationship",
+"index_reference": "connect  simultaneous time relationship",
 "localizations": {
 "arb": {
 "content_id": 781673,
@@ -5281,7 +5281,7 @@
 }
 },
 "33335": {
-"content_id": 33335,
+"content_id": "33335",
 "reference_id": 26749,
 "index_reference": "connecting words and phrases",
 "localizations": {
@@ -5313,7 +5313,7 @@
 }
 },
 "33336": {
-"content_id": 33336,
+"content_id": "33336",
 "reference_id": 26750,
 "index_reference": "honorifics",
 "localizations": {
@@ -5335,7 +5335,7 @@
 }
 },
 "33337": {
-"content_id": 33337,
+"content_id": "33337",
 "reference_id": 26751,
 "index_reference": "create accurate translations",
 "localizations": {
@@ -5367,7 +5367,7 @@
 }
 },
 "33338": {
-"content_id": 33338,
+"content_id": "33338",
 "reference_id": 26752,
 "index_reference": "create authoritative translations",
 "localizations": {
@@ -5399,9 +5399,9 @@
 }
 },
 "33339": {
-"content_id": 33339,
+"content_id": "33339",
 "reference_id": 26753,
-"index_reference": "create church-approved translations",
+"index_reference": "create churchapproved translations",
 "localizations": {
 "arb": {
 "content_id": 781678,
@@ -5431,7 +5431,7 @@
 }
 },
 "33340": {
-"content_id": 33340,
+"content_id": "33340",
 "reference_id": 26754,
 "index_reference": "create clear translations",
 "localizations": {
@@ -5463,7 +5463,7 @@
 }
 },
 "33341": {
-"content_id": 33341,
+"content_id": "33341",
 "reference_id": 26755,
 "index_reference": "create collaborative translations",
 "localizations": {
@@ -5495,7 +5495,7 @@
 }
 },
 "33342": {
-"content_id": 33342,
+"content_id": "33342",
 "reference_id": 26756,
 "index_reference": "create equal translations",
 "localizations": {
@@ -5527,7 +5527,7 @@
 }
 },
 "33343": {
-"content_id": 33343,
+"content_id": "33343",
 "reference_id": 26757,
 "index_reference": "create faithful translations",
 "localizations": {
@@ -5559,7 +5559,7 @@
 }
 },
 "33344": {
-"content_id": 33344,
+"content_id": "33344",
 "reference_id": 26758,
 "index_reference": "create historical translations",
 "localizations": {
@@ -5591,9 +5591,9 @@
 }
 },
 "33345": {
-"content_id": 33345,
+"content_id": "33345",
 "reference_id": 26759,
-"index_reference": "the qualities of a good translation",
+"index_reference": "qualities of a good translation",
 "localizations": {
 "arb": {
 "content_id": 781684,
@@ -5623,7 +5623,7 @@
 }
 },
 "33346": {
-"content_id": 33346,
+"content_id": "33346",
 "reference_id": 26760,
 "index_reference": "create natural translations",
 "localizations": {
@@ -5655,7 +5655,7 @@
 }
 },
 "33347": {
-"content_id": 33347,
+"content_id": "33347",
 "reference_id": 26761,
 "index_reference": "create ongoing translations",
 "localizations": {
@@ -5687,7 +5687,7 @@
 }
 },
 "33348": {
-"content_id": 33348,
+"content_id": "33348",
 "reference_id": 26762,
 "index_reference": "son of god and god the father",
 "localizations": {
@@ -5719,7 +5719,7 @@
 }
 },
 "33349": {
-"content_id": 33349,
+"content_id": "33349",
 "reference_id": 26763,
 "index_reference": "translating son and father",
 "localizations": {
@@ -5756,7 +5756,7 @@
 }
 },
 "33350": {
-"content_id": 33350,
+"content_id": "33350",
 "reference_id": 26764,
 "index_reference": "translator qualifications",
 "localizations": {
@@ -5788,7 +5788,7 @@
 }
 },
 "33351": {
-"content_id": 33351,
+"content_id": "33351",
 "reference_id": 26765,
 "index_reference": "notes with alternate translations",
 "localizations": {
@@ -5820,7 +5820,7 @@
 }
 },
 "33352": {
-"content_id": 33352,
+"content_id": "33352",
 "reference_id": 26766,
 "index_reference": "notes that have alternate meanings",
 "localizations": {
@@ -5852,7 +5852,7 @@
 }
 },
 "33353": {
-"content_id": 33353,
+"content_id": "33353",
 "reference_id": 26767,
 "index_reference": "notes that clarify the ust translation",
 "localizations": {
@@ -5884,7 +5884,7 @@
 }
 },
 "33354": {
-"content_id": 33354,
+"content_id": "33354",
 "reference_id": 26768,
 "index_reference": "connecting statement and general information in the notes",
 "localizations": {
@@ -5921,7 +5921,7 @@
 }
 },
 "33355": {
-"content_id": 33355,
+"content_id": "33355",
 "reference_id": 26769,
 "index_reference": "notes with definitions",
 "localizations": {
@@ -5953,7 +5953,7 @@
 }
 },
 "33356": {
-"content_id": 33356,
+"content_id": "33356",
 "reference_id": 26770,
 "index_reference": "notes that explain",
 "localizations": {
@@ -5985,7 +5985,7 @@
 }
 },
 "33357": {
-"content_id": 33357,
+"content_id": "33357",
 "reference_id": 26771,
 "index_reference": "notes that identify figures of speech",
 "localizations": {
@@ -6017,7 +6017,7 @@
 }
 },
 "33358": {
-"content_id": 33358,
+"content_id": "33358",
 "reference_id": 26772,
 "index_reference": "notes that identify indirect and direct quotes",
 "localizations": {
@@ -6049,7 +6049,7 @@
 }
 },
 "33359": {
-"content_id": 33359,
+"content_id": "33359",
 "reference_id": 26773,
 "index_reference": "notes with links",
 "localizations": {
@@ -6081,7 +6081,7 @@
 }
 },
 "33360": {
-"content_id": 33360,
+"content_id": "33360",
 "reference_id": 26774,
 "index_reference": "notes for long ult phrases",
 "localizations": {
@@ -6113,7 +6113,7 @@
 }
 },
 "33361": {
-"content_id": 33361,
+"content_id": "33361",
 "reference_id": 26775,
 "index_reference": "notes with probable or possible meanings",
 "localizations": {
@@ -6145,7 +6145,7 @@
 }
 },
 "33362": {
-"content_id": 33362,
+"content_id": "33362",
 "reference_id": 26776,
 "index_reference": "using unfoldingword® translation questions",
 "localizations": {
@@ -6177,7 +6177,7 @@
 }
 },
 "33363": {
-"content_id": 33363,
+"content_id": "33363",
 "reference_id": 26777,
 "index_reference": "notes with synonyms and equivalent phrases",
 "localizations": {
@@ -6209,7 +6209,7 @@
 }
 },
 "33364": {
-"content_id": 33364,
+"content_id": "33364",
 "reference_id": 26778,
 "index_reference": "using the unfoldingword® translation notes",
 "localizations": {
@@ -6241,7 +6241,7 @@
 }
 },
 "33365": {
-"content_id": 33365,
+"content_id": "33365",
 "reference_id": 26779,
 "index_reference": "using unfoldingword® translation words",
 "localizations": {
@@ -6273,7 +6273,7 @@
 }
 },
 "33366": {
-"content_id": 33366,
+"content_id": "33366",
 "reference_id": 26780,
 "index_reference": "how to aim your bible translation",
 "localizations": {
@@ -6310,9 +6310,9 @@
 }
 },
 "33367": {
-"content_id": 33367,
+"content_id": "33367",
 "reference_id": 26781,
-"index_reference": "alphabet/orthography",
+"index_reference": "alphabetorthography",
 "localizations": {
 "arb": {
 "content_id": 781706,
@@ -6347,7 +6347,7 @@
 }
 },
 "33368": {
-"content_id": 33368,
+"content_id": "33368",
 "reference_id": 26782,
 "index_reference": "alphabet development",
 "localizations": {
@@ -6389,7 +6389,7 @@
 }
 },
 "33369": {
-"content_id": 33369,
+"content_id": "33369",
 "reference_id": 26783,
 "index_reference": "biblical distance",
 "localizations": {
@@ -6426,7 +6426,7 @@
 }
 },
 "33370": {
-"content_id": 33370,
+"content_id": "33370",
 "reference_id": 26784,
 "index_reference": "structure of the bible",
 "localizations": {
@@ -6458,7 +6458,7 @@
 }
 },
 "33371": {
-"content_id": 33371,
+"content_id": "33371",
 "reference_id": 26785,
 "index_reference": "blessings",
 "localizations": {
@@ -6485,7 +6485,7 @@
 }
 },
 "33372": {
-"content_id": 33372,
+"content_id": "33372",
 "reference_id": 26786,
 "index_reference": "biblical money",
 "localizations": {
@@ -6522,7 +6522,7 @@
 }
 },
 "33373": {
-"content_id": 33373,
+"content_id": "33373",
 "reference_id": 26787,
 "index_reference": "biblical volume",
 "localizations": {
@@ -6559,7 +6559,7 @@
 }
 },
 "33374": {
-"content_id": 33374,
+"content_id": "33374",
 "reference_id": 26788,
 "index_reference": "biblical weight",
 "localizations": {
@@ -6596,7 +6596,7 @@
 }
 },
 "33375": {
-"content_id": 33375,
+"content_id": "33375",
 "reference_id": 26789,
 "index_reference": "chapter and verse numbers",
 "localizations": {
@@ -6628,7 +6628,7 @@
 }
 },
 "33376": {
-"content_id": 33376,
+"content_id": "33376",
 "reference_id": 26790,
 "index_reference": "discover the meaning of the text",
 "localizations": {
@@ -6660,9 +6660,9 @@
 }
 },
 "33377": {
-"content_id": 33377,
+"content_id": "33377",
 "reference_id": 26791,
-"index_reference": "meaning-based translations",
+"index_reference": "meaningbased translations",
 "localizations": {
 "arb": {
 "content_id": 781716,
@@ -6692,7 +6692,7 @@
 }
 },
 "33378": {
-"content_id": 33378,
+"content_id": "33378",
 "reference_id": 26792,
 "index_reference": "form and meaning",
 "localizations": {
@@ -6724,9 +6724,9 @@
 }
 },
 "33379": {
-"content_id": 33379,
+"content_id": "33379",
 "reference_id": 26793,
-"index_reference": "the importance of form",
+"index_reference": "importance of form",
 "localizations": {
 "arb": {
 "content_id": 781718,
@@ -6756,9 +6756,9 @@
 }
 },
 "33380": {
-"content_id": 33380,
+"content_id": "33380",
 "reference_id": 26794,
-"index_reference": "unfoldingword® literal text (ult) and unfoldingword® simplified text (ust) formatting signals",
+"index_reference": "unfoldingword® literal text ult and unfoldingword® simplified text ust formatting signals",
 "localizations": {
 "arb": {
 "content_id": 781719,
@@ -6788,7 +6788,7 @@
 }
 },
 "33381": {
-"content_id": 33381,
+"content_id": "33381",
 "reference_id": 26795,
 "index_reference": "fractions",
 "localizations": {
@@ -6825,7 +6825,7 @@
 }
 },
 "33382": {
-"content_id": 33382,
+"content_id": "33382",
 "reference_id": 26796,
 "index_reference": "hebrew months",
 "localizations": {
@@ -6857,7 +6857,7 @@
 }
 },
 "33383": {
-"content_id": 33383,
+"content_id": "33383",
 "reference_id": 26797,
 "index_reference": "help with translating",
 "localizations": {
@@ -6889,7 +6889,7 @@
 }
 },
 "33384": {
-"content_id": 33384,
+"content_id": "33384",
 "reference_id": 26798,
 "index_reference": "making a key terms spreadsheet",
 "localizations": {
@@ -6916,7 +6916,7 @@
 }
 },
 "33385": {
-"content_id": 33385,
+"content_id": "33385",
 "reference_id": 26799,
 "index_reference": "kinship",
 "localizations": {
@@ -6948,7 +6948,7 @@
 }
 },
 "33386": {
-"content_id": 33386,
+"content_id": "33386",
 "reference_id": 26800,
 "index_reference": "levels of meaning",
 "localizations": {
@@ -6980,7 +6980,7 @@
 }
 },
 "33387": {
-"content_id": 33387,
+"content_id": "33387",
 "reference_id": 26801,
 "index_reference": "literal translations",
 "localizations": {
@@ -7012,7 +7012,7 @@
 }
 },
 "33388": {
-"content_id": 33388,
+"content_id": "33388",
 "reference_id": 26802,
 "index_reference": "introduction to the translation manual",
 "localizations": {
@@ -7049,7 +7049,7 @@
 }
 },
 "33389": {
-"content_id": 33389,
+"content_id": "33389",
 "reference_id": 26803,
 "index_reference": "original manuscripts",
 "localizations": {
@@ -7081,7 +7081,7 @@
 }
 },
 "33390": {
-"content_id": 33390,
+"content_id": "33390",
 "reference_id": 26804,
 "index_reference": "more about translation",
 "localizations": {
@@ -7113,7 +7113,7 @@
 }
 },
 "33391": {
-"content_id": 33391,
+"content_id": "33391",
 "reference_id": 26805,
 "index_reference": "how to translate names",
 "localizations": {
@@ -7150,7 +7150,7 @@
 }
 },
 "33392": {
-"content_id": 33392,
+"content_id": "33392",
 "reference_id": 26806,
 "index_reference": "numbers",
 "localizations": {
@@ -7182,7 +7182,7 @@
 }
 },
 "33393": {
-"content_id": 33393,
+"content_id": "33393",
 "reference_id": 26807,
 "index_reference": "ordinal numbers",
 "localizations": {
@@ -7219,9 +7219,9 @@
 }
 },
 "33394": {
-"content_id": 33394,
+"content_id": "33394",
 "reference_id": 26808,
-"index_reference": "the original and source languages",
+"index_reference": "original and source languages",
 "localizations": {
 "arb": {
 "content_id": 781733,
@@ -7251,7 +7251,7 @@
 }
 },
 "33395": {
-"content_id": 33395,
+"content_id": "33395",
 "reference_id": 26809,
 "index_reference": "unusual uses of the plural",
 "localizations": {
@@ -7273,7 +7273,7 @@
 }
 },
 "33396": {
-"content_id": 33396,
+"content_id": "33396",
 "reference_id": 26810,
 "index_reference": "problems with literal translations",
 "localizations": {
@@ -7305,9 +7305,9 @@
 }
 },
 "33397": {
-"content_id": 33397,
+"content_id": "33397",
 "reference_id": 26811,
-"index_reference": "the translation process",
+"index_reference": "translation process",
 "localizations": {
 "arb": {
 "content_id": 781736,
@@ -7337,9 +7337,9 @@
 }
 },
 "33398": {
-"content_id": 33398,
+"content_id": "33398",
 "reference_id": 26812,
-"index_reference": "re-telling the meaning",
+"index_reference": "retelling the meaning",
 "localizations": {
 "arb": {
 "content_id": 781737,
@@ -7369,9 +7369,9 @@
 }
 },
 "33399": {
-"content_id": 33399,
+"content_id": "33399",
 "reference_id": 26813,
-"index_reference": "copyrights, licensing, and source texts",
+"index_reference": "copyrights licensing and source texts",
 "localizations": {
 "arb": {
 "content_id": 781738,
@@ -7401,7 +7401,7 @@
 }
 },
 "33400": {
-"content_id": 33400,
+"content_id": "33400",
 "reference_id": 26814,
 "index_reference": "choosing a source text",
 "localizations": {
@@ -7433,7 +7433,7 @@
 }
 },
 "33401": {
-"content_id": 33401,
+"content_id": "33401",
 "reference_id": 26815,
 "index_reference": "source texts and version numbers",
 "localizations": {
@@ -7465,7 +7465,7 @@
 }
 },
 "33402": {
-"content_id": 33402,
+"content_id": "33402",
 "reference_id": 26816,
 "index_reference": "symbolic action",
 "localizations": {
@@ -7502,7 +7502,7 @@
 }
 },
 "33403": {
-"content_id": 33403,
+"content_id": "33403",
 "reference_id": 26817,
 "index_reference": "irregular use of tenses",
 "localizations": {
@@ -7529,7 +7529,7 @@
 }
 },
 "33404": {
-"content_id": 33404,
+"content_id": "33404",
 "reference_id": 26818,
 "index_reference": "terms to know",
 "localizations": {
@@ -7561,7 +7561,7 @@
 }
 },
 "33405": {
-"content_id": 33405,
+"content_id": "33405",
 "reference_id": 26819,
 "index_reference": "textual variants",
 "localizations": {
@@ -7598,7 +7598,7 @@
 }
 },
 "33406": {
-"content_id": 33406,
+"content_id": "33406",
 "reference_id": 26820,
 "index_reference": "translate for meaning",
 "localizations": {
@@ -7630,7 +7630,7 @@
 }
 },
 "33407": {
-"content_id": 33407,
+"content_id": "33407",
 "reference_id": 26821,
 "index_reference": "copy or borrow words",
 "localizations": {
@@ -7662,7 +7662,7 @@
 }
 },
 "33408": {
-"content_id": 33408,
+"content_id": "33408",
 "reference_id": 26822,
 "index_reference": "translate unknowns",
 "localizations": {
@@ -7699,7 +7699,7 @@
 }
 },
 "33409": {
-"content_id": 33409,
+"content_id": "33409",
 "reference_id": 26823,
 "index_reference": "how to use the ult and ust when translating the bible",
 "localizations": {
@@ -7726,7 +7726,7 @@
 }
 },
 "33410": {
-"content_id": 33410,
+"content_id": "33410",
 "reference_id": 26824,
 "index_reference": "verse bridges",
 "localizations": {
@@ -7763,7 +7763,7 @@
 }
 },
 "33411": {
-"content_id": 33411,
+"content_id": "33411",
 "reference_id": 26825,
 "index_reference": "word for word substitution",
 "localizations": {
@@ -7795,7 +7795,7 @@
 }
 },
 "33412": {
-"content_id": 33412,
+"content_id": "33412",
 "reference_id": 26826,
 "index_reference": "what is translation",
 "localizations": {
@@ -7827,7 +7827,7 @@
 }
 },
 "33413": {
-"content_id": 33413,
+"content_id": "33413",
 "reference_id": 26827,
 "index_reference": "choosing what to translate",
 "localizations": {
@@ -7864,7 +7864,7 @@
 }
 },
 "33414": {
-"content_id": 33414,
+"content_id": "33414",
 "reference_id": 26828,
 "index_reference": "symbolic prophecy",
 "localizations": {
@@ -7891,7 +7891,7 @@
 }
 },
 "33415": {
-"content_id": 33415,
+"content_id": "33415",
 "reference_id": 26829,
 "index_reference": "background information",
 "localizations": {
@@ -7928,7 +7928,7 @@
 }
 },
 "33416": {
-"content_id": 33416,
+"content_id": "33416",
 "reference_id": 26830,
 "index_reference": "decisions for writing your language",
 "localizations": {
@@ -7960,7 +7960,7 @@
 }
 },
 "33417": {
-"content_id": 33417,
+"content_id": "33417",
 "reference_id": 26831,
 "index_reference": "end of story",
 "localizations": {
@@ -7992,7 +7992,7 @@
 }
 },
 "33418": {
-"content_id": 33418,
+"content_id": "33418",
 "reference_id": 26832,
 "index_reference": "writing styles",
 "localizations": {
@@ -8024,7 +8024,7 @@
 }
 },
 "33419": {
-"content_id": 33419,
+"content_id": "33419",
 "reference_id": 26833,
 "index_reference": "introduction of a new event",
 "localizations": {
@@ -8056,7 +8056,7 @@
 }
 },
 "33420": {
-"content_id": 33420,
+"content_id": "33420",
 "reference_id": 26834,
 "index_reference": "oath formulas",
 "localizations": {
@@ -8083,7 +8083,7 @@
 }
 },
 "33421": {
-"content_id": 33421,
+"content_id": "33421",
 "reference_id": 26835,
 "index_reference": "introduction of new and old participants",
 "localizations": {
@@ -8115,7 +8115,7 @@
 }
 },
 "33422": {
-"content_id": 33422,
+"content_id": "33422",
 "reference_id": 26836,
 "index_reference": "poetry",
 "localizations": {
@@ -8152,7 +8152,7 @@
 }
 },
 "33423": {
-"content_id": 33423,
+"content_id": "33423",
 "reference_id": 26837,
 "index_reference": "politeness",
 "localizations": {
@@ -8179,9 +8179,9 @@
 }
 },
 "33424": {
-"content_id": 33424,
+"content_id": "33424",
 "reference_id": 26838,
-"index_reference": "pronouns — when to use them",
+"index_reference": "pronouns  when to use them",
 "localizations": {
 "arb": {
 "content_id": 781763,
@@ -8216,7 +8216,7 @@
 }
 },
 "33425": {
-"content_id": 33425,
+"content_id": "33425",
 "reference_id": 26839,
 "index_reference": "proverbs",
 "localizations": {
@@ -8253,7 +8253,7 @@
 }
 },
 "33426": {
-"content_id": 33426,
+"content_id": "33426",
 "reference_id": 26840,
 "index_reference": "quotations and quote margins",
 "localizations": {
@@ -8290,7 +8290,7 @@
 }
 },
 "33427": {
-"content_id": 33427,
+"content_id": "33427",
 "reference_id": 26841,
 "index_reference": "symbolic language",
 "localizations": {
@@ -8327,7 +8327,7 @@
 }
 },
 "689628": {
-"content_id": 689628,
+"content_id": "689628",
 "reference_id": 209448,
 "index_reference": "acceptable style",
 "localizations": {
@@ -8369,7 +8369,7 @@
 }
 },
 "689629": {
-"content_id": 689629,
+"content_id": "689629",
 "reference_id": 209449,
 "index_reference": "checking the translation for accuracy",
 "localizations": {
@@ -8406,7 +8406,7 @@
 }
 },
 "689630": {
-"content_id": 689630,
+"content_id": "689630",
 "reference_id": 209450,
 "index_reference": "alignment checking",
 "localizations": {
@@ -8438,7 +8438,7 @@
 }
 },
 "689631": {
-"content_id": 689631,
+"content_id": "689631",
 "reference_id": 209451,
 "index_reference": "appropriate alphabet",
 "localizations": {
@@ -8475,7 +8475,7 @@
 }
 },
 "689632": {
-"content_id": 689632,
+"content_id": "689632",
 "reference_id": 209452,
 "index_reference": "checking authority and process",
 "localizations": {
@@ -8512,7 +8512,7 @@
 }
 },
 "689633": {
-"content_id": 689633,
+"content_id": "689633",
 "reference_id": 209453,
 "index_reference": "accuracy checking by church leaders",
 "localizations": {
@@ -8554,7 +8554,7 @@
 }
 },
 "689634": {
-"content_id": 689634,
+"content_id": "689634",
 "reference_id": 209454,
 "index_reference": "clear translation",
 "localizations": {
@@ -8591,7 +8591,7 @@
 }
 },
 "689635": {
-"content_id": 689635,
+"content_id": "689635",
 "reference_id": 209455,
 "index_reference": "language community evaluation questions",
 "localizations": {
@@ -8628,7 +8628,7 @@
 }
 },
 "689636": {
-"content_id": 689636,
+"content_id": "689636",
 "reference_id": 209456,
 "index_reference": "complete translation",
 "localizations": {
@@ -8665,7 +8665,7 @@
 }
 },
 "689637": {
-"content_id": 689637,
+"content_id": "689637",
 "reference_id": 209457,
 "index_reference": "finding answers",
 "localizations": {
@@ -8702,7 +8702,7 @@
 }
 },
 "689638": {
-"content_id": 689638,
+"content_id": "689638",
 "reference_id": 209458,
 "index_reference": "how to check for good formatting",
 "localizations": {
@@ -8739,7 +8739,7 @@
 }
 },
 "689639": {
-"content_id": 689639,
+"content_id": "689639",
 "reference_id": 209459,
 "index_reference": "gateway languages strategy",
 "localizations": {
@@ -8776,9 +8776,9 @@
 }
 },
 "689640": {
-"content_id": 689640,
+"content_id": "689640",
 "reference_id": 209460,
-"index_reference": "the goal of checking",
+"index_reference": "goal of checking",
 "localizations": {
 "arb": {
 "content_id": 781779,
@@ -8813,7 +8813,7 @@
 }
 },
 "689641": {
-"content_id": 689641,
+"content_id": "689641",
 "reference_id": 209461,
 "index_reference": "affirmation of accuracy and community acceptance",
 "localizations": {
@@ -8850,7 +8850,7 @@
 }
 },
 "689642": {
-"content_id": 689642,
+"content_id": "689642",
 "reference_id": 209462,
 "index_reference": "section headings",
 "localizations": {
@@ -8887,7 +8887,7 @@
 }
 },
 "689643": {
-"content_id": 689643,
+"content_id": "689643",
 "reference_id": 209463,
 "index_reference": "translationwords check in tc",
 "localizations": {
@@ -8924,7 +8924,7 @@
 }
 },
 "689644": {
-"content_id": 689644,
+"content_id": "689644",
 "reference_id": 209464,
 "index_reference": "introduction to the checking manual",
 "localizations": {
@@ -8961,7 +8961,7 @@
 }
 },
 "689645": {
-"content_id": 689645,
+"content_id": "689645",
 "reference_id": 209465,
 "index_reference": "introduction to translation checking",
 "localizations": {
@@ -8998,7 +8998,7 @@
 }
 },
 "689646": {
-"content_id": 689646,
+"content_id": "689646",
 "reference_id": 209466,
 "index_reference": "introduction to publishing",
 "localizations": {
@@ -9035,7 +9035,7 @@
 }
 },
 "689647": {
-"content_id": 689647,
+"content_id": "689647",
 "reference_id": 209467,
 "index_reference": "introduction to distribution",
 "localizations": {
@@ -9072,7 +9072,7 @@
 }
 },
 "689648": {
-"content_id": 689648,
+"content_id": "689648",
 "reference_id": 209468,
 "index_reference": "checking the translation for clarity and naturalness",
 "localizations": {
@@ -9109,7 +9109,7 @@
 }
 },
 "689649": {
-"content_id": 689649,
+"content_id": "689649",
 "reference_id": 209469,
 "index_reference": "quality checker evaluation form",
 "localizations": {
@@ -9146,7 +9146,7 @@
 }
 },
 "689650": {
-"content_id": 689650,
+"content_id": "689650",
 "reference_id": 209470,
 "index_reference": "questions for quality checkers",
 "localizations": {
@@ -9183,7 +9183,7 @@
 }
 },
 "689651": {
-"content_id": 689651,
+"content_id": "689651",
 "reference_id": 209471,
 "index_reference": "natural translation",
 "localizations": {
@@ -9220,7 +9220,7 @@
 }
 },
 "689652": {
-"content_id": 689652,
+"content_id": "689652",
 "reference_id": 209472,
 "index_reference": "open license",
 "localizations": {
@@ -9257,7 +9257,7 @@
 }
 },
 "689653": {
-"content_id": 689653,
+"content_id": "689653",
 "reference_id": 209473,
 "index_reference": "other methods",
 "localizations": {
@@ -9294,7 +9294,7 @@
 }
 },
 "689654": {
-"content_id": 689654,
+"content_id": "689654",
 "reference_id": 209474,
 "index_reference": "oral partner check",
 "localizations": {
@@ -9331,7 +9331,7 @@
 }
 },
 "689655": {
-"content_id": 689655,
+"content_id": "689655",
 "reference_id": 209475,
 "index_reference": "choosing a translation platform",
 "localizations": {
@@ -9368,7 +9368,7 @@
 }
 },
 "689656": {
-"content_id": 689656,
+"content_id": "689656",
 "reference_id": 209476,
 "index_reference": "training before checking begins",
 "localizations": {
@@ -9405,7 +9405,7 @@
 }
 },
 "689657": {
-"content_id": 689657,
+"content_id": "689657",
 "reference_id": 209477,
 "index_reference": "training before translation begins",
 "localizations": {
@@ -9442,7 +9442,7 @@
 }
 },
 "689658": {
-"content_id": 689658,
+"content_id": "689658",
 "reference_id": 209478,
 "index_reference": "introduction to the process manual",
 "localizations": {
@@ -9474,7 +9474,7 @@
 }
 },
 "689659": {
-"content_id": 689659,
+"content_id": "689659",
 "reference_id": 209479,
 "index_reference": "publishing",
 "localizations": {
@@ -9506,7 +9506,7 @@
 }
 },
 "689660": {
-"content_id": 689660,
+"content_id": "689660",
 "reference_id": 209480,
 "index_reference": "consistent punctuation",
 "localizations": {
@@ -9543,9 +9543,9 @@
 }
 },
 "689661": {
-"content_id": 689661,
+"content_id": "689661",
 "reference_id": 209481,
-"index_reference": "self-assessment rubric",
+"index_reference": "selfassessment rubric",
 "localizations": {
 "arb": {
 "content_id": 781800,
@@ -9580,7 +9580,7 @@
 }
 },
 "689662": {
-"content_id": 689662,
+"content_id": "689662",
 "reference_id": 209482,
 "index_reference": "setting up translationcore®",
 "localizations": {
@@ -9612,7 +9612,7 @@
 }
 },
 "689663": {
-"content_id": 689663,
+"content_id": "689663",
 "reference_id": 209483,
 "index_reference": "setting up a translation team",
 "localizations": {
@@ -9644,7 +9644,7 @@
 }
 },
 "689664": {
-"content_id": 689664,
+"content_id": "689664",
 "reference_id": 209484,
 "index_reference": "setting up translationstudio",
 "localizations": {
@@ -9676,7 +9676,7 @@
 }
 },
 "689665": {
-"content_id": 689665,
+"content_id": "689665",
 "reference_id": 209485,
 "index_reference": "how to share content",
 "localizations": {
@@ -9713,7 +9713,7 @@
 }
 },
 "689666": {
-"content_id": 689666,
+"content_id": "689666",
 "reference_id": 209486,
 "index_reference": "consistent spelling",
 "localizations": {
@@ -9750,7 +9750,7 @@
 }
 },
 "689667": {
-"content_id": 689667,
+"content_id": "689667",
 "reference_id": 209487,
 "index_reference": "statement of faith",
 "localizations": {
@@ -9787,7 +9787,7 @@
 }
 },
 "689668": {
-"content_id": 689668,
+"content_id": "689668",
 "reference_id": 209488,
 "index_reference": "introduction to unfoldingword® translation academy",
 "localizations": {
@@ -9824,7 +9824,7 @@
 }
 },
 "689669": {
-"content_id": 689669,
+"content_id": "689669",
 "reference_id": 209489,
 "index_reference": "team oral chunk check",
 "localizations": {
@@ -9856,7 +9856,7 @@
 }
 },
 "689670": {
-"content_id": 689670,
+"content_id": "689670",
 "reference_id": 209490,
 "index_reference": "translationnotes check in tc",
 "localizations": {
@@ -9888,7 +9888,7 @@
 }
 },
 "689671": {
-"content_id": 689671,
+"content_id": "689671",
 "reference_id": 209491,
 "index_reference": "why we translate the bible",
 "localizations": {
@@ -9925,7 +9925,7 @@
 }
 },
 "689672": {
-"content_id": 689672,
+"content_id": "689672",
 "reference_id": 209492,
 "index_reference": "translation guidelines",
 "localizations": {
@@ -9962,7 +9962,7 @@
 }
 },
 "689673": {
-"content_id": 689673,
+"content_id": "689673",
 "reference_id": 209493,
 "index_reference": "translation overview",
 "localizations": {
@@ -9994,9 +9994,9 @@
 }
 },
 "689674": {
-"content_id": 689674,
+"content_id": "689674",
 "reference_id": 209494,
-"index_reference": "the unfoldingword project",
+"index_reference": "unfoldingword project",
 "localizations": {
 "arb": {
 "content_id": 781813,
@@ -10031,7 +10031,7 @@
 }
 },
 "689675": {
-"content_id": 689675,
+"content_id": "689675",
 "reference_id": 209495,
 "index_reference": "complete versification",
 "localizations": {
@@ -10068,7 +10068,7 @@
 }
 },
 "689676": {
-"content_id": 689676,
+"content_id": "689676",
 "reference_id": 209496,
 "index_reference": "back translation",
 "localizations": {
@@ -10105,7 +10105,7 @@
 }
 },
 "689677": {
-"content_id": 689677,
+"content_id": "689677",
 "reference_id": 209497,
 "index_reference": "guidelines for creating a good back translation",
 "localizations": {
@@ -10142,7 +10142,7 @@
 }
 },
 "689678": {
-"content_id": 689678,
+"content_id": "689678",
 "reference_id": 209498,
 "index_reference": "kinds of back translations",
 "localizations": {
@@ -10179,9 +10179,9 @@
 }
 },
 "689679": {
-"content_id": 689679,
+"content_id": "689679",
 "reference_id": 209499,
-"index_reference": "the purpose of the back translation",
+"index_reference": "purpose of the back translation",
 "localizations": {
 "arb": {
 "content_id": 781818,
@@ -10216,9 +10216,9 @@
 }
 },
 "689680": {
-"content_id": 689680,
+"content_id": "689680",
 "reference_id": 209500,
-"index_reference": "the back translator",
+"index_reference": "back translator",
 "localizations": {
 "arb": {
 "content_id": 781819,
@@ -10253,7 +10253,7 @@
 }
 },
 "689681": {
-"content_id": 689681,
+"content_id": "689681",
 "reference_id": 209501,
 "index_reference": "kinds of written back translations",
 "localizations": {
@@ -10290,7 +10290,7 @@
 }
 },
 "689682": {
-"content_id": 689682,
+"content_id": "689682",
 "reference_id": 209502,
 "index_reference": "steps for quality checkers",
 "localizations": {
@@ -10327,7 +10327,7 @@
 }
 },
 "689683": {
-"content_id": 689683,
+"content_id": "689683",
 "reference_id": 209503,
 "index_reference": "types of things to check",
 "localizations": {

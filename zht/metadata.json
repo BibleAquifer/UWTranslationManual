@@ -4,7 +4,7 @@
 "resource_type": "Bible Translation Manual",
 "title": "unfoldingWord® Translation Academy",
 "aquifer_name": "翻譯手冊 (unfoldingWord)",
-"version": "1.0.1",
+"version": "1.1.2",
 "collection_title": "Translation Manual (unfoldingWord)",
 "short_name": "UWTM",
 "license_info": {
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>unfoldingWord® Translation Academy</b> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license. <cite>unfoldingWord® Translation Academy</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from <cite>unfoldingWord® Translation Academy</cite> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license by Mission Mutual",
 "resource_code": "UWTranslationManual",
-"date_created": "2025-12-05",
+"date_created": "2026-03-30",
 "language": "zht",
 "localizations": [
 "eng",
@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2025-12-05T06:33:10.604675"
+"dateCreated": "2026-03-30T09:31:20.799873"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "UWTranslationManual": {
-"timestamp": "2025-12-05T06:33:10.604675"
+"timestamp": "2026-03-30T09:31:20.799873"
 }
 }
 },
@@ -95,1091 +95,1099 @@
 "ingredients": {
 "json/000001.content.json": {
 "mimeType": "text/json",
-"size": 164191
+"size": 113043
 },
 "json/000002.content.json": {
 "mimeType": "text/json",
-"size": 267863
+"size": 183451
 },
 "json/000003.content.json": {
 "mimeType": "text/json",
-"size": 4784
+"size": 4126
 },
 "json/000004.content.json": {
 "mimeType": "text/json",
-"size": 3882
+"size": 3620
 },
 "json/000005.content.json": {
 "mimeType": "text/json",
-"size": 599320
+"size": 409374
 },
 "json/000006.content.json": {
 "mimeType": "text/json",
-"size": 3940
+"size": 3881
 },
 "json/000007.content.json": {
 "mimeType": "text/json",
-"size": 8777
+"size": 8719
 },
 "json/000008.content.json": {
 "mimeType": "text/json",
-"size": 1640
+"size": 1582
 },
 "json/000009.content.json": {
 "mimeType": "text/json",
-"size": 8835
+"size": 8705
 },
 "json/000010.content.json": {
 "mimeType": "text/json",
-"size": 1486
+"size": 1427
 },
 "json/000011.content.json": {
 "mimeType": "text/json",
-"size": 3128
+"size": 2932
 },
 "json/000012.content.json": {
 "mimeType": "text/json",
-"size": 1439
+"size": 1381
 },
 "json/000013.content.json": {
 "mimeType": "text/json",
-"size": 1183
+"size": 1125
 },
 "json/000014.content.json": {
 "mimeType": "text/json",
-"size": 8706
+"size": 8312
 },
 "json/000015.content.json": {
 "mimeType": "text/json",
-"size": 39693
+"size": 29201
 },
 "json/000016.content.json": {
 "mimeType": "text/json",
-"size": 12227
+"size": 10249
 },
 "json/000017.content.json": {
 "mimeType": "text/json",
-"size": 4834
+"size": 4775
 },
 "json/000018.content.json": {
 "mimeType": "text/json",
-"size": 12153
+"size": 12022
 },
 "json/000019.content.json": {
 "mimeType": "text/json",
-"size": 4252
+"size": 4193
 },
 "json/000020.content.json": {
 "mimeType": "text/json",
-"size": 9701
+"size": 9042
 },
 "json/000021.content.json": {
 "mimeType": "text/json",
-"size": 10443
+"size": 10312
 },
 "json/000022.content.json": {
 "mimeType": "text/json",
-"size": 16966
+"size": 13997
 },
 "json/000023.content.json": {
 "mimeType": "text/json",
-"size": 5063
+"size": 5004
 },
 "json/000024.content.json": {
 "mimeType": "text/json",
-"size": 15684
+"size": 15625
 },
 "json/000025.content.json": {
 "mimeType": "text/json",
-"size": 4820
+"size": 4761
 },
 "json/000026.content.json": {
 "mimeType": "text/json",
-"size": 7582
+"size": 7523
 },
 "json/000027.content.json": {
 "mimeType": "text/json",
-"size": 3441
+"size": 3382
 },
 "json/000028.content.json": {
 "mimeType": "text/json",
-"size": 12645
+"size": 9941
 },
 "json/000029.content.json": {
 "mimeType": "text/json",
-"size": 9484
+"size": 8892
 },
 "json/000030.content.json": {
 "mimeType": "text/json",
-"size": 7021
+"size": 6231
 },
 "json/000031.content.json": {
 "mimeType": "text/json",
-"size": 8393
+"size": 7207
 },
 "json/000032.content.json": {
 "mimeType": "text/json",
-"size": 3584
+"size": 3526
 },
 "json/000033.content.json": {
 "mimeType": "text/json",
-"size": 2100
+"size": 2042
 },
 "json/000034.content.json": {
 "mimeType": "text/json",
-"size": 8070
+"size": 7808
 },
 "json/000035.content.json": {
 "mimeType": "text/json",
-"size": 5959
+"size": 5829
 },
 "json/000036.content.json": {
 "mimeType": "text/json",
-"size": 3042
+"size": 2912
 },
 "json/000037.content.json": {
 "mimeType": "text/json",
-"size": 1443
+"size": 1385
 },
 "json/000038.content.json": {
 "mimeType": "text/json",
-"size": 4385
+"size": 4327
 },
 "json/000039.content.json": {
 "mimeType": "text/json",
-"size": 7415
+"size": 7219
 },
 "json/000040.content.json": {
 "mimeType": "text/json",
-"size": 5973
+"size": 5915
 },
 "json/000041.content.json": {
 "mimeType": "text/json",
-"size": 2252
+"size": 2194
 },
 "json/000042.content.json": {
 "mimeType": "text/json",
-"size": 33445
+"size": 25791
 },
 "json/000043.content.json": {
 "mimeType": "text/json",
-"size": 1730
+"size": 1600
 },
 "json/000044.content.json": {
 "mimeType": "text/json",
-"size": 2869
+"size": 2739
 },
 "json/000045.content.json": {
 "mimeType": "text/json",
-"size": 9435
+"size": 9107
 },
 "json/000046.content.json": {
 "mimeType": "text/json",
-"size": 14054
+"size": 11745
 },
 "json/000047.content.json": {
 "mimeType": "text/json",
-"size": 12559
+"size": 10910
 },
 "json/000048.content.json": {
 "mimeType": "text/json",
-"size": 36623
+"size": 26196
 },
 "json/000049.content.json": {
 "mimeType": "text/json",
-"size": 14000
+"size": 10899
 },
 "json/000050.content.json": {
 "mimeType": "text/json",
-"size": 11169
+"size": 8926
 },
 "json/000051.content.json": {
 "mimeType": "text/json",
-"size": 22709
+"size": 17160
 },
 "json/000052.content.json": {
 "mimeType": "text/json",
-"size": 12933
+"size": 10162
 },
 "json/000053.content.json": {
 "mimeType": "text/json",
-"size": 97652
+"size": 68019
 },
 "json/000054.content.json": {
 "mimeType": "text/json",
-"size": 16886
+"size": 13059
 },
 "json/000055.content.json": {
 "mimeType": "text/json",
-"size": 12142
+"size": 9635
 },
 "json/000056.content.json": {
 "mimeType": "text/json",
-"size": 88038
+"size": 63224
 },
 "json/000057.content.json": {
 "mimeType": "text/json",
-"size": 1671
+"size": 1613
 },
 "json/000058.content.json": {
 "mimeType": "text/json",
-"size": 2392
+"size": 2262
 },
 "json/000059.content.json": {
 "mimeType": "text/json",
-"size": 10180
+"size": 8202
 },
 "json/000060.content.json": {
 "mimeType": "text/json",
-"size": 3506
+"size": 3445
 },
 "json/000061.content.json": {
 "mimeType": "text/json",
-"size": 3577
+"size": 3519
 },
 "json/000062.content.json": {
 "mimeType": "text/json",
-"size": 4546
+"size": 4416
 },
 "json/000063.content.json": {
 "mimeType": "text/json",
-"size": 2481
+"size": 2423
 },
 "json/000064.content.json": {
 "mimeType": "text/json",
-"size": 3603
+"size": 3341
 },
 "json/000065.content.json": {
 "mimeType": "text/json",
-"size": 7010
+"size": 6682
 },
 "json/000066.content.json": {
 "mimeType": "text/json",
-"size": 1680
+"size": 1622
 },
 "json/000067.content.json": {
 "mimeType": "text/json",
-"size": 6126
+"size": 5996
 },
 "json/000068.content.json": {
 "mimeType": "text/json",
-"size": 5035
+"size": 4905
 },
 "json/000069.content.json": {
 "mimeType": "text/json",
-"size": 4543
+"size": 4413
 },
 "json/000070.content.json": {
 "mimeType": "text/json",
-"size": 4090
+"size": 4032
 },
 "json/000071.content.json": {
 "mimeType": "text/json",
-"size": 1615
+"size": 1557
 },
 "json/000072.content.json": {
 "mimeType": "text/json",
-"size": 650
+"size": 592
 },
 "json/000073.content.json": {
 "mimeType": "text/json",
-"size": 1532
+"size": 1474
 },
 "json/000074.content.json": {
 "mimeType": "text/json",
-"size": 47209
+"size": 33681
 },
 "json/000075.content.json": {
 "mimeType": "text/json",
-"size": 1712
+"size": 1654
 },
 "json/000076.content.json": {
 "mimeType": "text/json",
-"size": 10009
+"size": 9087
 },
 "json/000077.content.json": {
 "mimeType": "text/json",
-"size": 34787
+"size": 25681
 },
 "json/000078.content.json": {
 "mimeType": "text/json",
-"size": 48672
+"size": 34286
 },
 "json/000079.content.json": {
 "mimeType": "text/json",
-"size": 79273
+"size": 55515
 },
 "json/000080.content.json": {
 "mimeType": "text/json",
-"size": 9974
+"size": 7798
 },
 "json/000081.content.json": {
 "mimeType": "text/json",
-"size": 18431
+"size": 13351
 },
 "json/000082.content.json": {
 "mimeType": "text/json",
-"size": 23386
+"size": 17382
 },
 "json/000083.content.json": {
 "mimeType": "text/json",
-"size": 36623
+"size": 25927
 },
 "json/000084.content.json": {
 "mimeType": "text/json",
-"size": 8829
+"size": 8105
 },
 "json/000085.content.json": {
 "mimeType": "text/json",
-"size": 4655
+"size": 4597
 },
 "json/000086.content.json": {
 "mimeType": "text/json",
-"size": 2653
+"size": 2325
 },
 "json/000087.content.json": {
 "mimeType": "text/json",
-"size": 7779
+"size": 7583
 },
 "json/000088.content.json": {
 "mimeType": "text/json",
-"size": 44516
+"size": 31843
 },
 "json/000089.content.json": {
 "mimeType": "text/json",
-"size": 2889
+"size": 2831
 },
 "json/000090.content.json": {
 "mimeType": "text/json",
-"size": 12979
+"size": 9483
 },
 "json/000091.content.json": {
 "mimeType": "text/json",
-"size": 17415
+"size": 12987
 },
 "json/000092.content.json": {
 "mimeType": "text/json",
-"size": 6527
+"size": 5796
 },
 "json/000093.content.json": {
 "mimeType": "text/json",
-"size": 61321
+"size": 43166
 },
 "json/000094.content.json": {
 "mimeType": "text/json",
-"size": 7179
+"size": 6521
 },
 "json/000095.content.json": {
 "mimeType": "text/json",
-"size": 2322
+"size": 2264
 },
 "json/000096.content.json": {
 "mimeType": "text/json",
-"size": 24470
+"size": 17872
 },
 "json/000097.content.json": {
 "mimeType": "text/json",
-"size": 65875
+"size": 46341
 },
 "json/000098.content.json": {
 "mimeType": "text/json",
-"size": 3531
+"size": 3335
 },
 "json/000099.content.json": {
 "mimeType": "text/json",
-"size": 4311
+"size": 4253
 },
 "json/000100.content.json": {
 "mimeType": "text/json",
-"size": 8748
+"size": 8090
 },
 "json/000101.content.json": {
 "mimeType": "text/json",
-"size": 2022
+"size": 1964
 },
 "json/000102.content.json": {
 "mimeType": "text/json",
-"size": 24157
+"size": 18087
 },
 "json/000103.content.json": {
 "mimeType": "text/json",
-"size": 1674
+"size": 1280
 },
 "json/000104.content.json": {
 "mimeType": "text/json",
-"size": 5525
+"size": 5329
 },
 "json/000105.content.json": {
 "mimeType": "text/json",
-"size": 3082
+"size": 2754
 },
 "json/000106.content.json": {
 "mimeType": "text/json",
-"size": 1540
+"size": 1482
 },
 "json/000107.content.json": {
 "mimeType": "text/json",
-"size": 94997
+"size": 67213
 },
 "json/000108.content.json": {
 "mimeType": "text/json",
-"size": 51384
+"size": 37724
 },
 "json/000109.content.json": {
 "mimeType": "text/json",
-"size": 18689
+"size": 14599
 },
 "json/000110.content.json": {
 "mimeType": "text/json",
-"size": 230957
+"size": 158095
 },
 "json/000111.content.json": {
 "mimeType": "text/json",
-"size": 22595
+"size": 16986
 },
 "json/000112.content.json": {
 "mimeType": "text/json",
-"size": 43440
+"size": 30968
 },
 "json/000113.content.json": {
 "mimeType": "text/json",
-"size": 62334
+"size": 44714
 },
 "json/000114.content.json": {
 "mimeType": "text/json",
-"size": 35193
+"size": 25757
 },
 "json/000115.content.json": {
 "mimeType": "text/json",
-"size": 1821
+"size": 1691
 },
 "json/000116.content.json": {
 "mimeType": "text/json",
-"size": 1584
+"size": 1454
 },
 "json/000117.content.json": {
 "mimeType": "text/json",
-"size": 4473
+"size": 4145
 },
 "json/000118.content.json": {
 "mimeType": "text/json",
-"size": 1265
+"size": 1207
 },
 "json/000119.content.json": {
 "mimeType": "text/json",
-"size": 2153
+"size": 1957
 },
 "json/000120.content.json": {
 "mimeType": "text/json",
-"size": 2927
+"size": 2869
 },
 "json/000121.content.json": {
 "mimeType": "text/json",
-"size": 2890
+"size": 2562
 },
 "json/000122.content.json": {
 "mimeType": "text/json",
-"size": 11451
+"size": 9671
 },
 "json/000123.content.json": {
 "mimeType": "text/json",
-"size": 31189
+"size": 23667
 },
 "json/000124.content.json": {
 "mimeType": "text/json",
-"size": 4273
+"size": 4143
 },
 "json/000125.content.json": {
 "mimeType": "text/json",
-"size": 1924
+"size": 1866
 },
 "json/000126.content.json": {
 "mimeType": "text/json",
-"size": 19532
+"size": 14980
 },
 "json/000127.content.json": {
 "mimeType": "text/json",
-"size": 2029
+"size": 1971
 },
 "json/000128.content.json": {
 "mimeType": "text/json",
-"size": 1867
+"size": 1809
 },
 "json/000129.content.json": {
 "mimeType": "text/json",
-"size": 6385
+"size": 5991
 },
 "json/000130.content.json": {
 "mimeType": "text/json",
-"size": 2588
+"size": 2530
 },
 "json/000131.content.json": {
 "mimeType": "text/json",
-"size": 13788
+"size": 10358
 },
 "json/000132.content.json": {
 "mimeType": "text/json",
-"size": 8811
+"size": 6569
 },
 "json/000133.content.json": {
 "mimeType": "text/json",
-"size": 22003
+"size": 16593
 },
 "json/000134.content.json": {
 "mimeType": "text/json",
-"size": 4463
+"size": 4405
 },
 "json/000135.content.json": {
 "mimeType": "text/json",
-"size": 17931
+"size": 13181
+},
+"json/000136.content.json": {
+"mimeType": "text/json",
+"size": 3234
 },
 "md/000001.content.md": {
 "mimeType": "text/markdown",
-"size": 41733
+"size": 41735
 },
 "md/000002.content.md": {
 "mimeType": "text/markdown",
-"size": 65727
+"size": 65729
 },
 "md/000003.content.md": {
 "mimeType": "text/markdown",
-"size": 3508
+"size": 3510
 },
 "md/000004.content.md": {
 "mimeType": "text/markdown",
-"size": 3635
+"size": 3637
 },
 "md/000005.content.md": {
 "mimeType": "text/markdown",
-"size": 144537
+"size": 144539
 },
 "md/000006.content.md": {
 "mimeType": "text/markdown",
-"size": 4112
+"size": 4114
 },
 "md/000007.content.md": {
 "mimeType": "text/markdown",
-"size": 7398
+"size": 7400
 },
 "md/000008.content.md": {
 "mimeType": "text/markdown",
-"size": 1826
+"size": 1828
 },
 "md/000009.content.md": {
 "mimeType": "text/markdown",
-"size": 8028
+"size": 8030
 },
 "md/000010.content.md": {
 "mimeType": "text/markdown",
-"size": 1686
+"size": 1688
 },
 "md/000011.content.md": {
 "mimeType": "text/markdown",
-"size": 2271
+"size": 2273
 },
 "md/000012.content.md": {
 "mimeType": "text/markdown",
-"size": 1413
+"size": 1415
 },
 "md/000013.content.md": {
 "mimeType": "text/markdown",
-"size": 1445
+"size": 1447
 },
 "md/000014.content.md": {
 "mimeType": "text/markdown",
-"size": 6818
+"size": 6820
 },
 "md/000015.content.md": {
 "mimeType": "text/markdown",
-"size": 14457
+"size": 14459
 },
 "md/000016.content.md": {
 "mimeType": "text/markdown",
-"size": 7155
+"size": 7157
 },
 "md/000017.content.md": {
 "mimeType": "text/markdown",
-"size": 4584
+"size": 4586
 },
 "md/000018.content.md": {
 "mimeType": "text/markdown",
-"size": 11194
+"size": 11196
 },
 "md/000019.content.md": {
 "mimeType": "text/markdown",
-"size": 4268
+"size": 4270
 },
 "md/000020.content.md": {
 "mimeType": "text/markdown",
-"size": 5772
+"size": 5774
 },
 "md/000021.content.md": {
 "mimeType": "text/markdown",
-"size": 9634
+"size": 9636
 },
 "md/000022.content.md": {
 "mimeType": "text/markdown",
-"size": 9311
+"size": 9313
 },
 "md/000023.content.md": {
 "mimeType": "text/markdown",
-"size": 4858
+"size": 4860
 },
 "md/000024.content.md": {
 "mimeType": "text/markdown",
-"size": 15054
+"size": 15056
 },
 "md/000025.content.md": {
 "mimeType": "text/markdown",
-"size": 4562
+"size": 4564
 },
 "md/000026.content.md": {
 "mimeType": "text/markdown",
-"size": 7035
+"size": 7037
 },
 "md/000027.content.md": {
 "mimeType": "text/markdown",
-"size": 3221
+"size": 3223
 },
 "md/000028.content.md": {
 "mimeType": "text/markdown",
-"size": 5763
+"size": 5765
 },
 "md/000029.content.md": {
 "mimeType": "text/markdown",
-"size": 7424
+"size": 7426
 },
 "md/000030.content.md": {
 "mimeType": "text/markdown",
-"size": 5217
+"size": 5219
 },
 "md/000031.content.md": {
 "mimeType": "text/markdown",
-"size": 5643
+"size": 5645
 },
 "md/000032.content.md": {
 "mimeType": "text/markdown",
-"size": 3688
+"size": 3690
 },
 "md/000033.content.md": {
 "mimeType": "text/markdown",
-"size": 2332
+"size": 2334
 },
 "md/000034.content.md": {
 "mimeType": "text/markdown",
-"size": 6919
+"size": 6921
 },
 "md/000035.content.md": {
 "mimeType": "text/markdown",
-"size": 5499
+"size": 5501
 },
 "md/000036.content.md": {
 "mimeType": "text/markdown",
-"size": 2175
+"size": 2177
 },
 "md/000037.content.md": {
 "mimeType": "text/markdown",
-"size": 1500
+"size": 1502
 },
 "md/000038.content.md": {
 "mimeType": "text/markdown",
-"size": 4187
+"size": 4189
 },
 "md/000039.content.md": {
 "mimeType": "text/markdown",
-"size": 6576
+"size": 6578
 },
 "md/000040.content.md": {
 "mimeType": "text/markdown",
-"size": 5605
+"size": 5607
 },
 "md/000041.content.md": {
 "mimeType": "text/markdown",
-"size": 2346
+"size": 2348
 },
 "md/000042.content.md": {
 "mimeType": "text/markdown",
-"size": 14066
+"size": 14068
 },
 "md/000043.content.md": {
 "mimeType": "text/markdown",
-"size": 1741
+"size": 1743
 },
 "md/000044.content.md": {
 "mimeType": "text/markdown",
-"size": 2580
+"size": 2582
 },
 "md/000045.content.md": {
 "mimeType": "text/markdown",
-"size": 7324
+"size": 7326
 },
 "md/000046.content.md": {
 "mimeType": "text/markdown",
-"size": 8531
+"size": 8533
 },
 "md/000047.content.md": {
 "mimeType": "text/markdown",
-"size": 8380
+"size": 8382
 },
 "md/000048.content.md": {
 "mimeType": "text/markdown",
-"size": 11798
+"size": 11800
 },
 "md/000049.content.md": {
 "mimeType": "text/markdown",
-"size": 6648
+"size": 6650
 },
 "md/000050.content.md": {
 "mimeType": "text/markdown",
-"size": 6100
+"size": 6102
 },
 "md/000051.content.md": {
 "mimeType": "text/markdown",
-"size": 9499
+"size": 9501
 },
 "md/000052.content.md": {
 "mimeType": "text/markdown",
-"size": 6482
+"size": 6484
 },
 "md/000053.content.md": {
 "mimeType": "text/markdown",
-"size": 26548
+"size": 26550
 },
 "md/000054.content.md": {
 "mimeType": "text/markdown",
-"size": 7776
+"size": 7778
 },
 "md/000055.content.md": {
 "mimeType": "text/markdown",
-"size": 6187
+"size": 6189
 },
 "md/000056.content.md": {
 "mimeType": "text/markdown",
-"size": 27154
+"size": 27156
 },
 "md/000057.content.md": {
 "mimeType": "text/markdown",
-"size": 1955
+"size": 1957
 },
 "md/000058.content.md": {
 "mimeType": "text/markdown",
-"size": 2375
+"size": 2377
 },
 "md/000059.content.md": {
 "mimeType": "text/markdown",
-"size": 5567
+"size": 5569
 },
 "md/000060.content.md": {
 "mimeType": "text/markdown",
-"size": 3381
+"size": 3383
 },
 "md/000061.content.md": {
 "mimeType": "text/markdown",
-"size": 3664
+"size": 3666
 },
 "md/000062.content.md": {
 "mimeType": "text/markdown",
-"size": 4301
+"size": 4303
 },
 "md/000063.content.md": {
 "mimeType": "text/markdown",
-"size": 2717
+"size": 2719
 },
 "md/000064.content.md": {
 "mimeType": "text/markdown",
-"size": 2988
+"size": 2990
 },
 "md/000065.content.md": {
 "mimeType": "text/markdown",
-"size": 5701
+"size": 5703
 },
 "md/000066.content.md": {
 "mimeType": "text/markdown",
-"size": 1927
+"size": 1929
 },
 "md/000067.content.md": {
 "mimeType": "text/markdown",
-"size": 5713
+"size": 5715
 },
 "md/000068.content.md": {
 "mimeType": "text/markdown",
-"size": 4840
+"size": 4842
 },
 "md/000069.content.md": {
 "mimeType": "text/markdown",
-"size": 4450
+"size": 4452
 },
 "md/000070.content.md": {
 "mimeType": "text/markdown",
-"size": 4374
+"size": 4376
 },
 "md/000071.content.md": {
 "mimeType": "text/markdown",
-"size": 1865
+"size": 1867
 },
 "md/000072.content.md": {
 "mimeType": "text/markdown",
-"size": 947
+"size": 949
 },
 "md/000073.content.md": {
 "mimeType": "text/markdown",
-"size": 1777
+"size": 1779
 },
 "md/000074.content.md": {
 "mimeType": "text/markdown",
-"size": 14913
+"size": 14915
 },
 "md/000075.content.md": {
 "mimeType": "text/markdown",
-"size": 1945
+"size": 1947
 },
 "md/000076.content.md": {
 "mimeType": "text/markdown",
-"size": 7756
+"size": 7758
 },
 "md/000077.content.md": {
 "mimeType": "text/markdown",
-"size": 12811
+"size": 12813
 },
 "md/000078.content.md": {
 "mimeType": "text/markdown",
-"size": 14292
+"size": 14294
 },
 "md/000079.content.md": {
 "mimeType": "text/markdown",
-"size": 22525
+"size": 22527
 },
 "md/000080.content.md": {
 "mimeType": "text/markdown",
-"size": 4910
+"size": 4912
 },
 "md/000081.content.md": {
 "mimeType": "text/markdown",
-"size": 6515
+"size": 6517
 },
 "md/000082.content.md": {
 "mimeType": "text/markdown",
-"size": 9248
+"size": 9250
 },
 "md/000083.content.md": {
 "mimeType": "text/markdown",
-"size": 11278
+"size": 11280
 },
 "md/000084.content.md": {
 "mimeType": "text/markdown",
-"size": 5034
+"size": 5036
 },
 "md/000085.content.md": {
 "mimeType": "text/markdown",
-"size": 5041
+"size": 5043
 },
 "md/000086.content.md": {
 "mimeType": "text/markdown",
-"size": 1715
+"size": 1717
 },
 "md/000087.content.md": {
 "mimeType": "text/markdown",
-"size": 6798
+"size": 6800
 },
 "md/000088.content.md": {
 "mimeType": "text/markdown",
-"size": 14282
+"size": 14284
 },
 "md/000089.content.md": {
 "mimeType": "text/markdown",
-"size": 3078
+"size": 3080
 },
 "md/000090.content.md": {
 "mimeType": "text/markdown",
-"size": 4690
+"size": 4692
 },
 "md/000091.content.md": {
 "mimeType": "text/markdown",
-"size": 7179
+"size": 7181
 },
 "md/000092.content.md": {
 "mimeType": "text/markdown",
-"size": 5014
+"size": 5016
 },
 "md/000093.content.md": {
 "mimeType": "text/markdown",
-"size": 17923
+"size": 17925
 },
 "md/000094.content.md": {
 "mimeType": "text/markdown",
-"size": 5431
+"size": 5433
 },
 "md/000095.content.md": {
 "mimeType": "text/markdown",
-"size": 2572
+"size": 2574
 },
 "md/000096.content.md": {
 "mimeType": "text/markdown",
-"size": 8793
+"size": 8795
 },
 "md/000097.content.md": {
 "mimeType": "text/markdown",
-"size": 19262
+"size": 19264
 },
 "md/000098.content.md": {
 "mimeType": "text/markdown",
-"size": 2238
+"size": 2240
 },
 "md/000099.content.md": {
 "mimeType": "text/markdown",
-"size": 4587
+"size": 4589
 },
 "md/000100.content.md": {
 "mimeType": "text/markdown",
-"size": 6884
+"size": 6886
 },
 "md/000101.content.md": {
 "mimeType": "text/markdown",
-"size": 2202
+"size": 2204
 },
 "md/000102.content.md": {
 "mimeType": "text/markdown",
-"size": 9546
+"size": 9548
 },
 "md/000103.content.md": {
 "mimeType": "text/markdown",
-"size": 1175
+"size": 1177
 },
 "md/000104.content.md": {
 "mimeType": "text/markdown",
-"size": 5166
+"size": 5168
 },
 "md/000105.content.md": {
 "mimeType": "text/markdown",
-"size": 2097
+"size": 2099
 },
 "md/000106.content.md": {
 "mimeType": "text/markdown",
-"size": 1772
+"size": 1774
 },
 "md/000107.content.md": {
 "mimeType": "text/markdown",
-"size": 28039
+"size": 28041
 },
 "md/000108.content.md": {
 "mimeType": "text/markdown",
-"size": 18228
+"size": 18230
 },
 "md/000109.content.md": {
 "mimeType": "text/markdown",
-"size": 8892
+"size": 8894
 },
 "md/000110.content.md": {
 "mimeType": "text/markdown",
-"size": 56483
+"size": 56485
 },
 "md/000111.content.md": {
 "mimeType": "text/markdown",
-"size": 9113
+"size": 9115
 },
 "md/000112.content.md": {
 "mimeType": "text/markdown",
-"size": 13883
+"size": 13885
 },
 "md/000113.content.md": {
 "mimeType": "text/markdown",
-"size": 20112
+"size": 20114
 },
 "md/000114.content.md": {
 "mimeType": "text/markdown",
-"size": 12698
+"size": 12700
 },
 "md/000115.content.md": {
 "mimeType": "text/markdown",
-"size": 1637
+"size": 1639
 },
 "md/000116.content.md": {
 "mimeType": "text/markdown",
-"size": 1561
+"size": 1563
 },
 "md/000117.content.md": {
 "mimeType": "text/markdown",
-"size": 2929
+"size": 2931
 },
 "md/000118.content.md": {
 "mimeType": "text/markdown",
-"size": 1447
+"size": 1449
 },
 "md/000119.content.md": {
 "mimeType": "text/markdown",
-"size": 1579
+"size": 1581
 },
 "md/000120.content.md": {
 "mimeType": "text/markdown",
-"size": 3067
+"size": 3069
 },
 "md/000121.content.md": {
 "mimeType": "text/markdown",
-"size": 2045
+"size": 2047
 },
 "md/000122.content.md": {
 "mimeType": "text/markdown",
-"size": 7310
+"size": 7312
 },
 "md/000123.content.md": {
 "mimeType": "text/markdown",
-"size": 13210
+"size": 13212
 },
 "md/000124.content.md": {
 "mimeType": "text/markdown",
-"size": 4309
+"size": 4311
 },
 "md/000125.content.md": {
 "mimeType": "text/markdown",
-"size": 2216
+"size": 2218
 },
 "md/000126.content.md": {
 "mimeType": "text/markdown",
-"size": 8913
+"size": 8915
 },
 "md/000127.content.md": {
 "mimeType": "text/markdown",
-"size": 2209
+"size": 2211
 },
 "md/000128.content.md": {
 "mimeType": "text/markdown",
-"size": 1995
+"size": 1997
 },
 "md/000129.content.md": {
 "mimeType": "text/markdown",
-"size": 5576
+"size": 5578
 },
 "md/000130.content.md": {
 "mimeType": "text/markdown",
-"size": 2758
+"size": 2760
 },
 "md/000131.content.md": {
 "mimeType": "text/markdown",
-"size": 5763
+"size": 5765
 },
 "md/000132.content.md": {
 "mimeType": "text/markdown",
-"size": 3871
+"size": 3873
 },
 "md/000133.content.md": {
 "mimeType": "text/markdown",
-"size": 9296
+"size": 9298
 },
 "md/000134.content.md": {
 "mimeType": "text/markdown",
-"size": 4348
+"size": 4350
 },
 "md/000135.content.md": {
 "mimeType": "text/markdown",
-"size": 6747
+"size": 6749
 },
-"pdf/000001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2794863
+"md/000136.content.md": {
+"mimeType": "text/markdown",
+"size": 3525
 },
 "docx/000001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 253094
+"size": 254297
+},
+"pdf/000001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 2589470
 }
 },
 "copyright": {
@@ -1199,7 +1207,7 @@
 },
 "article_metadata": {
 "806680": {
-"content_id": 806680,
+"content_id": "806680",
 "reference_id": 26671,
 "index_reference": "抽象名詞",
 "localizations": {
@@ -1241,7 +1249,7 @@
 }
 },
 "806681": {
-"content_id": 806681,
+"content_id": "806681",
 "reference_id": 26672,
 "index_reference": "主動或被動",
 "localizations": {
@@ -1283,7 +1291,7 @@
 }
 },
 "806682": {
-"content_id": 806682,
+"content_id": "806682",
 "reference_id": 26673,
 "index_reference": "頓呼法",
 "localizations": {
@@ -1320,7 +1328,7 @@
 }
 },
 "806683": {
-"content_id": 806683,
+"content_id": "806683",
 "reference_id": 26674,
 "index_reference": "獨白",
 "localizations": {
@@ -1357,7 +1365,7 @@
 }
 },
 "806686": {
-"content_id": 806686,
+"content_id": "806686",
 "reference_id": 26687,
 "index_reference": "預設的知識和隱含的資訊",
 "localizations": {
@@ -1399,9 +1407,9 @@
 }
 },
 "806700": {
-"content_id": 806700,
+"content_id": "806700",
 "reference_id": 26781,
-"index_reference": "字母/拼寫法",
+"index_reference": "字母拼寫法",
 "localizations": {
 "eng": {
 "content_id": 33367,
@@ -1441,7 +1449,7 @@
 }
 },
 "806701": {
-"content_id": 806701,
+"content_id": "806701",
 "reference_id": 26782,
 "index_reference": "字母發展",
 "localizations": {
@@ -1483,7 +1491,7 @@
 }
 },
 "806711": {
-"content_id": 806711,
+"content_id": "806711",
 "reference_id": 209448,
 "index_reference": "可接受的風格",
 "localizations": {
@@ -1525,7 +1533,7 @@
 }
 },
 "806713": {
-"content_id": 806713,
+"content_id": "806713",
 "reference_id": 209450,
 "index_reference": "對齊檢查",
 "localizations": {
@@ -1562,9 +1570,9 @@
 }
 },
 "806714": {
-"content_id": 806714,
+"content_id": "806714",
 "reference_id": 209451,
-"index_reference": "適合的字母/文字系統",
+"index_reference": "適合的字母文字系統",
 "localizations": {
 "eng": {
 "content_id": 689631,
@@ -1604,7 +1612,7 @@
 }
 },
 "806716": {
-"content_id": 806716,
+"content_id": "806716",
 "reference_id": 209453,
 "index_reference": "由教會領袖進行的準確性審查",
 "localizations": {
@@ -1646,7 +1654,7 @@
 }
 },
 "806719": {
-"content_id": 806719,
+"content_id": "806719",
 "reference_id": 209461,
 "index_reference": "準確性及社群審核確認文件",
 "localizations": {
@@ -1688,7 +1696,7 @@
 }
 },
 "806725": {
-"content_id": 806725,
+"content_id": "806725",
 "reference_id": 209496,
 "index_reference": "回譯",
 "localizations": {
@@ -1730,7 +1738,7 @@
 }
 },
 "806667": {
-"content_id": 806667,
+"content_id": "806667",
 "reference_id": 26657,
 "index_reference": "聖經意象",
 "localizations": {
@@ -1772,7 +1780,7 @@
 }
 },
 "806710": {
-"content_id": 806710,
+"content_id": "806710",
 "reference_id": 26829,
 "index_reference": "背景資料",
 "localizations": {
@@ -1814,7 +1822,7 @@
 }
 },
 "806702": {
-"content_id": 806702,
+"content_id": "806702",
 "reference_id": 26783,
 "index_reference": "聖經中的距離單位",
 "localizations": {
@@ -1851,9 +1859,9 @@
 }
 },
 "806668": {
-"content_id": 806668,
+"content_id": "806668",
 "reference_id": 26658,
-"index_reference": "聖經意象-動物",
+"index_reference": "聖經意象動物",
 "localizations": {
 "eng": {
 "content_id": 33244,
@@ -1893,9 +1901,9 @@
 }
 },
 "806670": {
-"content_id": 806670,
+"content_id": "806670",
 "reference_id": 26660,
-"index_reference": "聖經意象-身體部位和人的特質",
+"index_reference": "聖經意象身體部位和人的特質",
 "localizations": {
 "eng": {
 "content_id": 33246,
@@ -1935,9 +1943,9 @@
 }
 },
 "806674": {
-"content_id": 806674,
+"content_id": "806674",
 "reference_id": 26664,
-"index_reference": "聖經圖像-常見的轉喻",
+"index_reference": "聖經圖像常見的轉喻",
 "localizations": {
 "eng": {
 "content_id": 33250,
@@ -1977,9 +1985,9 @@
 }
 },
 "806673": {
-"content_id": 806673,
+"content_id": "806673",
 "reference_id": 26663,
-"index_reference": "聖經意象-常見的模式",
+"index_reference": "聖經意象常見的模式",
 "localizations": {
 "eng": {
 "content_id": 33249,
@@ -2019,9 +2027,9 @@
 }
 },
 "806675": {
-"content_id": 806675,
+"content_id": "806675",
 "reference_id": 26665,
-"index_reference": "聖經意象-文化模式",
+"index_reference": "聖經意象文化模式",
 "localizations": {
 "eng": {
 "content_id": 33251,
@@ -2061,9 +2069,9 @@
 }
 },
 "806685": {
-"content_id": 806685,
+"content_id": "806685",
 "reference_id": 26686,
-"index_reference": "聖經意象-延伸的隱喻",
+"index_reference": "聖經意象延伸的隱喻",
 "localizations": {
 "eng": {
 "content_id": 33272,
@@ -2103,9 +2111,9 @@
 }
 },
 "806669": {
-"content_id": 806669,
+"content_id": "806669",
 "reference_id": 26659,
-"index_reference": "聖經意象-農業",
+"index_reference": "聖經意象農業",
 "localizations": {
 "eng": {
 "content_id": 33245,
@@ -2145,9 +2153,9 @@
 }
 },
 "806671": {
-"content_id": 806671,
+"content_id": "806671",
 "reference_id": 26661,
-"index_reference": "聖經意象-人類行為",
+"index_reference": "聖經意象人類行為",
 "localizations": {
 "eng": {
 "content_id": 33247,
@@ -2187,9 +2195,9 @@
 }
 },
 "806672": {
-"content_id": 806672,
+"content_id": "806672",
 "reference_id": 26662,
-"index_reference": "聖經意象-人造物品",
+"index_reference": "聖經意象人造物品",
 "localizations": {
 "eng": {
 "content_id": 33248,
@@ -2229,9 +2237,9 @@
 }
 },
 "806676": {
-"content_id": 806676,
+"content_id": "806676",
 "reference_id": 26666,
-"index_reference": "聖經意象-自然現象",
+"index_reference": "聖經意象自然現象",
 "localizations": {
 "eng": {
 "content_id": 33252,
@@ -2271,9 +2279,9 @@
 }
 },
 "806677": {
-"content_id": 806677,
+"content_id": "806677",
 "reference_id": 26667,
-"index_reference": "聖經意象-植物",
+"index_reference": "聖經意象植物",
 "localizations": {
 "eng": {
 "content_id": 33253,
@@ -2313,7 +2321,7 @@
 }
 },
 "806704": {
-"content_id": 806704,
+"content_id": "806704",
 "reference_id": 26786,
 "index_reference": "聖經中的錢",
 "localizations": {
@@ -2350,7 +2358,7 @@
 }
 },
 "806705": {
-"content_id": 806705,
+"content_id": "806705",
 "reference_id": 26787,
 "index_reference": "聖經中的體積",
 "localizations": {
@@ -2387,7 +2395,7 @@
 }
 },
 "806706": {
-"content_id": 806706,
+"content_id": "806706",
 "reference_id": 26788,
 "index_reference": "聖經中的重量",
 "localizations": {
@@ -2424,7 +2432,7 @@
 }
 },
 "806703": {
-"content_id": 806703,
+"content_id": "806703",
 "reference_id": 26785,
 "index_reference": "祝福",
 "localizations": {
@@ -2456,7 +2464,7 @@
 }
 },
 "806707": {
-"content_id": 806707,
+"content_id": "806707",
 "reference_id": 26789,
 "index_reference": "章節編號",
 "localizations": {
@@ -2493,7 +2501,7 @@
 }
 },
 "806715": {
-"content_id": 806715,
+"content_id": "806715",
 "reference_id": 209452,
 "index_reference": "檢查翻譯的權柄和過程",
 "localizations": {
@@ -2535,7 +2543,7 @@
 }
 },
 "806712": {
-"content_id": 806712,
+"content_id": "806712",
 "reference_id": 209449,
 "index_reference": "檢查翻譯的準確性",
 "localizations": {
@@ -2577,7 +2585,7 @@
 }
 },
 "806720": {
-"content_id": 806720,
+"content_id": "806720",
 "reference_id": 209468,
 "index_reference": "檢查翻譯的清晰及自然度",
 "localizations": {
@@ -2619,7 +2627,7 @@
 }
 },
 "806708": {
-"content_id": 806708,
+"content_id": "806708",
 "reference_id": 26814,
 "index_reference": "選擇源語文本",
 "localizations": {
@@ -2656,7 +2664,7 @@
 }
 },
 "806721": {
-"content_id": 806721,
+"content_id": "806721",
 "reference_id": 209475,
 "index_reference": "選擇翻譯平台",
 "localizations": {
@@ -2698,7 +2706,7 @@
 }
 },
 "806678": {
-"content_id": 806678,
+"content_id": "806678",
 "reference_id": 26668,
 "index_reference": "選擇一個翻譯風格",
 "localizations": {
@@ -2730,7 +2738,7 @@
 }
 },
 "806679": {
-"content_id": 806679,
+"content_id": "806679",
 "reference_id": 26669,
 "index_reference": "選擇一個翻譯團隊",
 "localizations": {
@@ -2767,7 +2775,7 @@
 }
 },
 "806709": {
-"content_id": 806709,
+"content_id": "806709",
 "reference_id": 26827,
 "index_reference": "選擇翻譯的內容",
 "localizations": {
@@ -2804,7 +2812,7 @@
 }
 },
 "806717": {
-"content_id": 806717,
+"content_id": "806717",
 "reference_id": 209454,
 "index_reference": "清晰的翻譯",
 "localizations": {
@@ -2846,7 +2854,7 @@
 }
 },
 "806687": {
-"content_id": 806687,
+"content_id": "806687",
 "reference_id": 26738,
 "index_reference": "集合名詞",
 "localizations": {
@@ -2883,7 +2891,7 @@
 }
 },
 "806718": {
-"content_id": 806718,
+"content_id": "806718",
 "reference_id": 209456,
 "index_reference": "完整的翻譯",
 "localizations": {
@@ -2925,7 +2933,7 @@
 }
 },
 "806724": {
-"content_id": 806724,
+"content_id": "806724",
 "reference_id": 209495,
 "index_reference": "完整的經文章節",
 "localizations": {
@@ -2967,7 +2975,7 @@
 }
 },
 "806684": {
-"content_id": 806684,
+"content_id": "806684",
 "reference_id": 26675,
 "index_reference": "複雜的隱喻",
 "localizations": {
@@ -2999,9 +3007,9 @@
 }
 },
 "806695": {
-"content_id": 806695,
+"content_id": "806695",
 "reference_id": 26746,
-"index_reference": "連接-背景資訊",
+"index_reference": "連接背景資訊",
 "localizations": {
 "eng": {
 "content_id": 33332,
@@ -3036,9 +3044,9 @@
 }
 },
 "806688": {
-"content_id": 806688,
+"content_id": "806688",
 "reference_id": 26739,
-"index_reference": "連接-與事實相反的條件",
+"index_reference": "連接與事實相反的條件",
 "localizations": {
 "eng": {
 "content_id": 33325,
@@ -3078,9 +3086,9 @@
 }
 },
 "806692": {
-"content_id": 806692,
+"content_id": "806692",
 "reference_id": 26743,
-"index_reference": "連接-對比關係",
+"index_reference": "連接對比關係",
 "localizations": {
 "eng": {
 "content_id": 33329,
@@ -3120,9 +3128,9 @@
 }
 },
 "806691": {
-"content_id": 806691,
+"content_id": "806691",
 "reference_id": 26742,
-"index_reference": "連接-例外子句",
+"index_reference": "連接例外子句",
 "localizations": {
 "eng": {
 "content_id": 33328,
@@ -3162,9 +3170,9 @@
 }
 },
 "806689": {
-"content_id": 806689,
+"content_id": "806689",
 "reference_id": 26740,
-"index_reference": "連接-事實條件",
+"index_reference": "連接事實條件",
 "localizations": {
 "eng": {
 "content_id": 33326,
@@ -3199,9 +3207,9 @@
 }
 },
 "806693": {
-"content_id": 806693,
+"content_id": "806693",
 "reference_id": 26744,
-"index_reference": "連接-目標（目的）關係",
+"index_reference": "連接目標目的關係",
 "localizations": {
 "eng": {
 "content_id": 33330,
@@ -3241,9 +3249,9 @@
 }
 },
 "806690": {
-"content_id": 806690,
+"content_id": "806690",
 "reference_id": 26741,
-"index_reference": "連接-假設條件",
+"index_reference": "連接假設條件",
 "localizations": {
 "eng": {
 "content_id": 33327,
@@ -3278,9 +3286,9 @@
 }
 },
 "806694": {
-"content_id": 806694,
+"content_id": "806694",
 "reference_id": 26745,
-"index_reference": "連接-因果關係",
+"index_reference": "連接因果關係",
 "localizations": {
 "eng": {
 "content_id": 33331,
@@ -3320,9 +3328,9 @@
 }
 },
 "806696": {
-"content_id": 806696,
+"content_id": "806696",
 "reference_id": 26747,
-"index_reference": "連接-連續時間關係",
+"index_reference": "連接連續時間關係",
 "localizations": {
 "eng": {
 "content_id": 33333,
@@ -3362,9 +3370,9 @@
 }
 },
 "806697": {
-"content_id": 806697,
+"content_id": "806697",
 "reference_id": 26748,
-"index_reference": "連接-同步時間關係",
+"index_reference": "連接同步時間關係",
 "localizations": {
 "eng": {
 "content_id": 33334,
@@ -3399,7 +3407,7 @@
 }
 },
 "806698": {
-"content_id": 806698,
+"content_id": "806698",
 "reference_id": 26749,
 "index_reference": "連接詞和片語",
 "localizations": {
@@ -3436,7 +3444,7 @@
 }
 },
 "806722": {
-"content_id": 806722,
+"content_id": "806722",
 "reference_id": 209480,
 "index_reference": "一致的標點符號",
 "localizations": {
@@ -3478,7 +3486,7 @@
 }
 },
 "806723": {
-"content_id": 806723,
+"content_id": "806723",
 "reference_id": 209486,
 "index_reference": "一致的拼寫",
 "localizations": {
@@ -3520,7 +3528,7 @@
 }
 },
 "817752": {
-"content_id": 817752,
+"content_id": "817752",
 "reference_id": 26821,
 "index_reference": "複製或借用詞彙",
 "localizations": {
@@ -3557,9 +3565,9 @@
 }
 },
 "817750": {
-"content_id": 817750,
+"content_id": "817750",
 "reference_id": 26813,
-"index_reference": "版權、授權與源語文本",
+"index_reference": "版權授權與源語文本",
 "localizations": {
 "eng": {
 "content_id": 33399,
@@ -3594,7 +3602,7 @@
 }
 },
 "817727": {
-"content_id": 817727,
+"content_id": "817727",
 "reference_id": 26751,
 "index_reference": "建立準確的翻譯",
 "localizations": {
@@ -3631,7 +3639,7 @@
 }
 },
 "806699": {
-"content_id": 806699,
+"content_id": "806699",
 "reference_id": 26768,
 "index_reference": "附註中的連結陳述和一般資訊",
 "localizations": {
@@ -3668,7 +3676,7 @@
 }
 },
 "817728": {
-"content_id": 817728,
+"content_id": "817728",
 "reference_id": 26752,
 "index_reference": "建立具權威性的翻譯",
 "localizations": {
@@ -3705,7 +3713,7 @@
 }
 },
 "817729": {
-"content_id": 817729,
+"content_id": "817729",
 "reference_id": 26753,
 "index_reference": "建立教會認可的翻譯",
 "localizations": {
@@ -3742,7 +3750,7 @@
 }
 },
 "817730": {
-"content_id": 817730,
+"content_id": "817730",
 "reference_id": 26754,
 "index_reference": "建立清晰的翻譯",
 "localizations": {
@@ -3779,7 +3787,7 @@
 }
 },
 "817731": {
-"content_id": 817731,
+"content_id": "817731",
 "reference_id": 26755,
 "index_reference": "建立合作性的翻譯",
 "localizations": {
@@ -3816,7 +3824,7 @@
 }
 },
 "817732": {
-"content_id": 817732,
+"content_id": "817732",
 "reference_id": 26756,
 "index_reference": "建立對等的翻譯",
 "localizations": {
@@ -3853,7 +3861,7 @@
 }
 },
 "817733": {
-"content_id": 817733,
+"content_id": "817733",
 "reference_id": 26757,
 "index_reference": "建立忠實的翻譯",
 "localizations": {
@@ -3890,7 +3898,7 @@
 }
 },
 "817734": {
-"content_id": 817734,
+"content_id": "817734",
 "reference_id": 26758,
 "index_reference": "建立歷史性的翻譯",
 "localizations": {
@@ -3927,7 +3935,7 @@
 }
 },
 "817735": {
-"content_id": 817735,
+"content_id": "817735",
 "reference_id": 26760,
 "index_reference": "建立自然的翻譯",
 "localizations": {
@@ -3964,7 +3972,7 @@
 }
 },
 "817736": {
-"content_id": 817736,
+"content_id": "817736",
 "reference_id": 26761,
 "index_reference": "建立持續不斷的翻譯",
 "localizations": {
@@ -4001,7 +4009,7 @@
 }
 },
 "817696": {
-"content_id": 817696,
+"content_id": "817696",
 "reference_id": 26676,
 "index_reference": "眾人",
 "localizations": {
@@ -4023,7 +4031,7 @@
 }
 },
 "817754": {
-"content_id": 817754,
+"content_id": "817754",
 "reference_id": 26830,
 "index_reference": "書寫語言的決定",
 "localizations": {
@@ -4060,7 +4068,7 @@
 }
 },
 "817719": {
-"content_id": 817719,
+"content_id": "817719",
 "reference_id": 26719,
 "index_reference": "直接和間接引文",
 "localizations": {
@@ -4102,7 +4110,7 @@
 }
 },
 "817738": {
-"content_id": 817738,
+"content_id": "817738",
 "reference_id": 26790,
 "index_reference": "發現經文的意義",
 "localizations": {
@@ -4139,7 +4147,7 @@
 }
 },
 "817697": {
-"content_id": 817697,
+"content_id": "817697",
 "reference_id": 26678,
 "index_reference": "區分相對於告知或提醒",
 "localizations": {
@@ -4181,7 +4189,7 @@
 }
 },
 "817698": {
-"content_id": 817698,
+"content_id": "817698",
 "reference_id": 26679,
 "index_reference": "雙重否定",
 "localizations": {
@@ -4223,7 +4231,7 @@
 }
 },
 "817699": {
-"content_id": 817699,
+"content_id": "817699",
 "reference_id": 26680,
 "index_reference": "同義連用",
 "localizations": {
@@ -4265,7 +4273,7 @@
 }
 },
 "817700": {
-"content_id": 817700,
+"content_id": "817700",
 "reference_id": 26681,
 "index_reference": "省略",
 "localizations": {
@@ -4307,7 +4315,7 @@
 }
 },
 "817755": {
-"content_id": 817755,
+"content_id": "817755",
 "reference_id": 26831,
 "index_reference": "故事結尾",
 "localizations": {
@@ -4344,7 +4352,7 @@
 }
 },
 "817701": {
-"content_id": 817701,
+"content_id": "817701",
 "reference_id": 26682,
 "index_reference": "委婉的說法",
 "localizations": {
@@ -4386,7 +4394,7 @@
 }
 },
 "817702": {
-"content_id": 817702,
+"content_id": "817702",
 "reference_id": 26684,
 "index_reference": "感嘆詞",
 "localizations": {
@@ -4428,9 +4436,9 @@
 }
 },
 "817703": {
-"content_id": 817703,
+"content_id": "817703",
 "reference_id": 26685,
-"index_reference": "排他性和包容性的「我們」",
+"index_reference": "排他性和包容性的我們",
 "localizations": {
 "eng": {
 "content_id": 33271,
@@ -4470,7 +4478,7 @@
 }
 },
 "817714": {
-"content_id": 817714,
+"content_id": "817714",
 "reference_id": 26701,
 "index_reference": "修辭法",
 "localizations": {
@@ -4507,7 +4515,7 @@
 }
 },
 "817724": {
-"content_id": 817724,
+"content_id": "817724",
 "reference_id": 26736,
 "index_reference": "檔案格式",
 "localizations": {
@@ -4544,7 +4552,7 @@
 }
 },
 "817759": {
-"content_id": 817759,
+"content_id": "817759",
 "reference_id": 209457,
 "index_reference": "尋找答案",
 "localizations": {
@@ -4586,7 +4594,7 @@
 }
 },
 "817725": {
-"content_id": 817725,
+"content_id": "817725",
 "reference_id": 26737,
 "index_reference": "初稿",
 "localizations": {
@@ -4623,9 +4631,9 @@
 }
 },
 "817695": {
-"content_id": 817695,
+"content_id": "817695",
 "reference_id": 26670,
-"index_reference": "第一、第二或第三人稱",
+"index_reference": "第一第二或第三人稱",
 "localizations": {
 "eng": {
 "content_id": 33256,
@@ -4665,7 +4673,7 @@
 }
 },
 "817740": {
-"content_id": 817740,
+"content_id": "817740",
 "reference_id": 26792,
 "index_reference": "形式與意義",
 "localizations": {
@@ -4702,7 +4710,7 @@
 }
 },
 "817720": {
-"content_id": 817720,
+"content_id": "817720",
 "reference_id": 26731,
 "index_reference": "你的形式",
 "localizations": {
@@ -4744,9 +4752,9 @@
 }
 },
 "817721": {
-"content_id": 817721,
+"content_id": "817721",
 "reference_id": 26733,
-"index_reference": "「你」的形式-雙重/複數",
+"index_reference": "你的形式雙重複數",
 "localizations": {
 "eng": {
 "content_id": 33319,
@@ -4781,9 +4789,9 @@
 }
 },
 "817722": {
-"content_id": 817722,
+"content_id": "817722",
 "reference_id": 26734,
-"index_reference": "「你」的形式-正式或非正式",
+"index_reference": "你的形式正式或非正式",
 "localizations": {
 "eng": {
 "content_id": 33320,
@@ -4818,9 +4826,9 @@
 }
 },
 "817723": {
-"content_id": 817723,
+"content_id": "817723",
 "reference_id": 26735,
-"index_reference": "「你」的形式-單數",
+"index_reference": "你的形式單數",
 "localizations": {
 "eng": {
 "content_id": 33321,
@@ -4860,7 +4868,7 @@
 }
 },
 "817741": {
-"content_id": 817741,
+"content_id": "817741",
 "reference_id": 26795,
 "index_reference": "分數",
 "localizations": {
@@ -4897,7 +4905,7 @@
 }
 },
 "817761": {
-"content_id": 817761,
+"content_id": "817761",
 "reference_id": 209459,
 "index_reference": "門戶語言的方法",
 "localizations": {
@@ -4939,7 +4947,7 @@
 }
 },
 "817705": {
-"content_id": 817705,
+"content_id": "817705",
 "reference_id": 26691,
 "index_reference": "通用名詞片語",
 "localizations": {
@@ -4981,7 +4989,7 @@
 }
 },
 "817706": {
-"content_id": 817706,
+"content_id": "817706",
 "reference_id": 26692,
 "index_reference": "去和來",
 "localizations": {
@@ -5023,7 +5031,7 @@
 }
 },
 "817707": {
-"content_id": 817707,
+"content_id": "817707",
 "reference_id": 26693,
 "index_reference": "文法主題",
 "localizations": {
@@ -5060,7 +5068,7 @@
 }
 },
 "817769": {
-"content_id": 817769,
+"content_id": "817769",
 "reference_id": 209497,
 "index_reference": "建立良好回譯的指南",
 "localizations": {
@@ -5102,7 +5110,7 @@
 }
 },
 "817742": {
-"content_id": 817742,
+"content_id": "817742",
 "reference_id": 26796,
 "index_reference": "希伯來月分",
 "localizations": {
@@ -5139,7 +5147,7 @@
 }
 },
 "817743": {
-"content_id": 817743,
+"content_id": "817743",
 "reference_id": 26797,
 "index_reference": "協助翻譯",
 "localizations": {
@@ -5176,7 +5184,7 @@
 }
 },
 "817708": {
-"content_id": 817708,
+"content_id": "817708",
 "reference_id": 26694,
 "index_reference": "二詞一義",
 "localizations": {
@@ -5218,7 +5226,7 @@
 }
 },
 "817726": {
-"content_id": 817726,
+"content_id": "817726",
 "reference_id": 26750,
 "index_reference": "尊稱",
 "localizations": {
@@ -5240,7 +5248,7 @@
 }
 },
 "817737": {
-"content_id": 817737,
+"content_id": "817737",
 "reference_id": 26780,
 "index_reference": "如何對焦你的聖經翻譯",
 "localizations": {
@@ -5282,7 +5290,7 @@
 }
 },
 "817760": {
-"content_id": 817760,
+"content_id": "817760",
 "reference_id": 209458,
 "index_reference": "如何檢查是否為良好的格式",
 "localizations": {
@@ -5324,7 +5332,7 @@
 }
 },
 "817767": {
-"content_id": 817767,
+"content_id": "817767",
 "reference_id": 209485,
 "index_reference": "如何分享內容",
 "localizations": {
@@ -5366,7 +5374,7 @@
 }
 },
 "817749": {
-"content_id": 817749,
+"content_id": "817749",
 "reference_id": 26805,
 "index_reference": "如何翻譯名字",
 "localizations": {
@@ -5408,7 +5416,7 @@
 }
 },
 "817709": {
-"content_id": 817709,
+"content_id": "817709",
 "reference_id": 26695,
 "index_reference": "誇張法",
 "localizations": {
@@ -5450,7 +5458,7 @@
 }
 },
 "817710": {
-"content_id": 817710,
+"content_id": "817710",
 "reference_id": 26696,
 "index_reference": "假設情況",
 "localizations": {
@@ -5492,7 +5500,7 @@
 }
 },
 "817711": {
-"content_id": 817711,
+"content_id": "817711",
 "reference_id": 26697,
 "index_reference": "慣用語",
 "localizations": {
@@ -5534,9 +5542,9 @@
 }
 },
 "817712": {
-"content_id": 817712,
+"content_id": "817712",
 "reference_id": 26698,
-"index_reference": "命令語氣-其它用法",
+"index_reference": "命令語氣其它用法",
 "localizations": {
 "eng": {
 "content_id": 33284,
@@ -5571,7 +5579,7 @@
 }
 },
 "817713": {
-"content_id": 817713,
+"content_id": "817713",
 "reference_id": 26700,
 "index_reference": "資訊結構",
 "localizations": {
@@ -5613,7 +5621,7 @@
 }
 },
 "817756": {
-"content_id": 817756,
+"content_id": "817756",
 "reference_id": 26833,
 "index_reference": "介紹新事件",
 "localizations": {
@@ -5650,7 +5658,7 @@
 }
 },
 "817757": {
-"content_id": 817757,
+"content_id": "817757",
 "reference_id": 26835,
 "index_reference": "介紹新舊角色",
 "localizations": {
@@ -5687,7 +5695,7 @@
 }
 },
 "817765": {
-"content_id": 817765,
+"content_id": "817765",
 "reference_id": 209467,
 "index_reference": "發佈的簡介",
 "localizations": {
@@ -5729,7 +5737,7 @@
 }
 },
 "817764": {
-"content_id": 817764,
+"content_id": "817764",
 "reference_id": 209466,
 "index_reference": "出版簡介",
 "localizations": {
@@ -5771,7 +5779,7 @@
 }
 },
 "817762": {
-"content_id": 817762,
+"content_id": "817762",
 "reference_id": 209464,
 "index_reference": "檢查手冊簡介",
 "localizations": {
@@ -5813,7 +5821,7 @@
 }
 },
 "817766": {
-"content_id": 817766,
+"content_id": "817766",
 "reference_id": 209478,
 "index_reference": "過程手冊簡介",
 "localizations": {
@@ -5850,7 +5858,7 @@
 }
 },
 "817748": {
-"content_id": 817748,
+"content_id": "817748",
 "reference_id": 26802,
 "index_reference": "翻譯手冊簡介",
 "localizations": {
@@ -5892,7 +5900,7 @@
 }
 },
 "817763": {
-"content_id": 817763,
+"content_id": "817763",
 "reference_id": 209465,
 "index_reference": "翻譯檢查簡介",
 "localizations": {
@@ -5934,7 +5942,7 @@
 }
 },
 "817768": {
-"content_id": 817768,
+"content_id": "817768",
 "reference_id": 209488,
 "index_reference": "unfoldingWord®翻譯學院簡介",
 "localizations": {
@@ -5976,7 +5984,7 @@
 }
 },
 "817715": {
-"content_id": 817715,
+"content_id": "817715",
 "reference_id": 26702,
 "index_reference": "諷刺",
 "localizations": {
@@ -6018,7 +6026,7 @@
 }
 },
 "817751": {
-"content_id": 817751,
+"content_id": "817751",
 "reference_id": 26817,
 "index_reference": "時態的不規則使用",
 "localizations": {
@@ -6050,7 +6058,7 @@
 }
 },
 "817770": {
-"content_id": 817770,
+"content_id": "817770",
 "reference_id": 209498,
 "index_reference": "回譯的種類",
 "localizations": {
@@ -6092,7 +6100,7 @@
 }
 },
 "817771": {
-"content_id": 817771,
+"content_id": "817771",
 "reference_id": 209501,
 "index_reference": "書面回譯的種類",
 "localizations": {
@@ -6134,7 +6142,7 @@
 }
 },
 "817745": {
-"content_id": 817745,
+"content_id": "817745",
 "reference_id": 26799,
 "index_reference": "親緣關係",
 "localizations": {
@@ -6171,7 +6179,7 @@
 }
 },
 "817758": {
-"content_id": 817758,
+"content_id": "817758",
 "reference_id": 209455,
 "index_reference": "語言群體的評估問題",
 "localizations": {
@@ -6213,7 +6221,7 @@
 }
 },
 "817746": {
-"content_id": 817746,
+"content_id": "817746",
 "reference_id": 26800,
 "index_reference": "意義的層次",
 "localizations": {
@@ -6250,7 +6258,7 @@
 }
 },
 "817716": {
-"content_id": 817716,
+"content_id": "817716",
 "reference_id": 26703,
 "index_reference": "連禱文",
 "localizations": {
@@ -6287,7 +6295,7 @@
 }
 },
 "817747": {
-"content_id": 817747,
+"content_id": "817747",
 "reference_id": 26801,
 "index_reference": "字面翻譯",
 "localizations": {
@@ -6324,7 +6332,7 @@
 }
 },
 "817717": {
-"content_id": 817717,
+"content_id": "817717",
 "reference_id": 26704,
 "index_reference": "間接肯定法",
 "localizations": {
@@ -6366,7 +6374,7 @@
 }
 },
 "817744": {
-"content_id": 817744,
+"content_id": "817744",
 "reference_id": 26798,
 "index_reference": "製作關鍵詞表",
 "localizations": {
@@ -6398,7 +6406,7 @@
 }
 },
 "817704": {
-"content_id": 817704,
+"content_id": "817704",
 "reference_id": 26688,
 "index_reference": "使假定知識和隱含資訊明確化",
 "localizations": {
@@ -6440,7 +6448,7 @@
 }
 },
 "817739": {
-"content_id": 817739,
+"content_id": "817739",
 "reference_id": 26791,
 "index_reference": "以意義為基礎的翻譯",
 "localizations": {
@@ -6477,7 +6485,7 @@
 }
 },
 "817718": {
-"content_id": 817718,
+"content_id": "817718",
 "reference_id": 26705,
 "index_reference": "兩極統詞",
 "localizations": {
@@ -6515,6 +6523,48 @@
 "content_id": 727705,
 "language": "nep",
 "title": "मेरिज्म"
+}
+}
+},
+"831935": {
+"content_id": "831935",
+"reference_id": 209462,
+"index_reference": "章節標題",
+"localizations": {
+"eng": {
+"content_id": 689642,
+"language": "eng",
+"title": "Section Headings"
+},
+"arb": {
+"content_id": 781781,
+"language": "arb",
+"title": "عناوين الأقسام"
+},
+"hin": {
+"content_id": 727257,
+"language": "hin",
+"title": "भागों के शीर्षक"
+},
+"ind": {
+"content_id": 727573,
+"language": "ind",
+"title": "Judul Perikop"
+},
+"por": {
+"content_id": 800221,
+"language": "por",
+"title": "Títulos de seções"
+},
+"spa": {
+"content_id": 727997,
+"language": "spa",
+"title": "Section Headings"
+},
+"nep": {
+"content_id": 727760,
+"language": "nep",
+"title": "खण्डका शीर्षकहरू"
 }
 }
 }

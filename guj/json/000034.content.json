@@ -1,0 +1,81 @@
+[
+{
+"content_id": "884192",
+"reference_id": 26693,
+"version": "1.0.4",
+"title": "વ્યાકરણના વિષયો",
+"media_type": "Text",
+"index_reference": "વ્યાકરણના વિષયો",
+"language": "guj",
+"review_level": "Professional",
+"content": "<p>વ્યાકરણમાં મુખત્વે બે ભાગ છે: શબ્દો અને બંધારણ. બંધારણમાં સમાવેશ થાય છે કે આપણે શબ્દોને સાથે મૂકીને કેવી રીતે શબ્દ સમૂહ, કલમો અને વાક્યો બનાવીએ છીએ.</p><p><strong>વાણીનો ભાગ</strong> - ભાષાના દરેક શબ્દોને એક શ્રેણીમાં મુકવામાં આવે છે જેણે વાણીનો ભાગ કહે છે. (જુઓ \\વાણીનો ભાગ](../figs-partsofspeech/01.md)).</p><p><strong>વાક્યો</strong> જ્યારે આપણે બોલીએ, આપણે આપણા વિચારોને વાક્યોમાં ગોઠવીએ છીએ. એક વાક્યમાં સામાન્ય રીતે ઘટના અથવા સ્થિતિ અથવા હોવાની સ્થિતિનો સંપૂર્ણ વિચાર હોય છે. (જુઓ <span data-bnType=\"resourceReference\" data-resourceId=\"26725\" data-resourceType=\"UWTranslationManual\">વાક્ય બંધારણ</span>)</p><ul><li><p>વાક્યો નિવેદનો, પ્રશ્નો, આજ્ઞાઓ અથવા ઉદ્દગાર હોઈ શકે છે. (જુઓ <span data-bnType=\"resourceReference\" data-resourceId=\"26726\" data-resourceType=\"UWTranslationManual\">ઉદ્દગારો</span>)</p></li><li><p>વાક્યોમાં એક કરતાં વધારે કલમ હોઈ શકે છે. (જુઓ <span data-bnType=\"resourceReference\" data-resourceId=\"26725\" data-resourceType=\"UWTranslationManual\">વાક્ય બંધારણ</span>) કેટલીક ભાષાઓમાં બંને સક્રિય અને નિષ્ક્રિય વાક્યો હોઈ છે. (જુઓ <span data-bnType=\"resourceReference\" data-resourceId=\"26672\" data-resourceType=\"UWTranslationManual\">સક્રિય અથવા નિષ્ક્રિય</span>)</p></li></ul><p><strong>સંપત્તિ</strong> - આ બતાવે છે કે બે નામો વચ્ચે સંબંધ છે. અંગ્રેજીમાં તે “ના” થી ચિહ્નિત થયેલ છે જેમ કે “ઈશ્વરના પ્રેમ” અથવા “s/ના” જેમ કે “ઈશ્વરનો પ્રેમ,” અથવા સર્વનામ તરીકે જેમ કે “તેમનો પ્રેમ.” (જુઓ <span data-bnType=\"resourceReference\" data-resourceId=\"26717\" data-resourceType=\"UWTranslationManual\">સંપત્તિ</span>)</p><p>** અવતરણ** - એક અવતરણ એ કોઈ અહેવાલ છે જે બીજા કોઈએ કહ્યું છે.</p><ul><li><p>અવતરણના સામાન્ય રીતે બે ભાગ હોય છે. વ્યક્તિએ કંઈક કહ્યું છે તે વિષેની માહિતી અને તે વ્યક્તિએ શું કહ્યું છે. (જુઓ <span data-bnType=\"resourceReference\" data-resourceId=\"26840\" data-resourceType=\"UWTranslationManual\">અવતરણ અને વાક્ય ગાળો</span>)</p></li><li><p>અવતરણ પ્રત્યક્ષ અથવા પરોક્ષ વાક્યો હોઈ શકે છે. (જુઓ <span data-bnType=\"resourceReference\" data-resourceId=\"26719\" data-resourceType=\"UWTranslationManual\">પ્રત્યક્ષ અને પરોક્ષ અવતરણો</span>)</p></li><li><p>વાક્યોની અંદર વાક્યો હોઈ શકે છે. (જુઓ <span data-bnType=\"resourceReference\" data-resourceId=\"26721\" data-resourceType=\"UWTranslationManual\">વાક્યોની અંદર વાક્યો</span>)</p></li><li><p>વાક્યોની ચિહ્નિત એટલા માટે કરવામાં આવે છે કે જેથી વાચકો સમજી શકે કે કોણે શું કહ્યું છે. (જુઓ [વાક્ય ચિહ્ન]</p></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": 26672,
+"content_id": 884173,
+"resource_code": "UWTranslationManual",
+"label": "﻿﻿સક્રિય (પ્રત્યક્ષ) અથવા નિષ્ક્રિય (પરોક્ષ)",
+"language": "guj"
+},
+{
+"reference_id": 26714,
+"content_id": 884212,
+"resource_code": "Unknown",
+"label": "ભાષાલંકાર",
+"language": "guj"
+},
+{
+"reference_id": 26717,
+"content_id": 884215,
+"resource_code": "UWTranslationManual",
+"label": "માલિકી",
+"language": "guj"
+},
+{
+"reference_id": 26719,
+"content_id": 884217,
+"resource_code": "UWTranslationManual",
+"label": "પ્રત્યક્ષ અને પરોક્ષ અવતરણો",
+"language": "guj"
+},
+{
+"reference_id": 26720,
+"content_id": 884218,
+"resource_code": "Unknown",
+"label": "અવતરણ ચિહ્નો",
+"language": "guj"
+},
+{
+"reference_id": 26721,
+"content_id": 884219,
+"resource_code": "UWTranslationManual",
+"label": "અવતરણોની અંદર અવતરણો",
+"language": "guj"
+},
+{
+"reference_id": 26725,
+"content_id": 884222,
+"resource_code": "UWTranslationManual",
+"label": "વાક્યનું માળખું",
+"language": "guj"
+},
+{
+"reference_id": 26726,
+"content_id": 884223,
+"resource_code": "UWTranslationManual",
+"label": "વાક્યોના પ્રકારો",
+"language": "guj"
+},
+{
+"reference_id": 26840,
+"content_id": 884335,
+"resource_code": "UWTranslationManual",
+"label": "અવતરણો અને અવતરણ શબ્દો",
+"language": "guj"
+}
+]
+}
+}
+]
