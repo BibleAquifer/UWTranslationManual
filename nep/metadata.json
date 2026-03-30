@@ -4,7 +4,7 @@
 "resource_type": "Bible Translation Manual",
 "title": "unfoldingWord® Translation Academy",
 "aquifer_name": "Translation Manual (unfoldingWord)",
-"version": "1.0.1",
+"version": "1.1.2",
 "collection_title": "Translation Manual (unfoldingWord)",
 "short_name": "UWTM",
 "license_info": {
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>unfoldingWord® Translation Academy</b> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license. <cite>unfoldingWord® Translation Academy</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from <cite>unfoldingWord® Translation Academy</cite> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license by Mission Mutual",
 "resource_code": "UWTranslationManual",
-"date_created": "2025-12-05",
+"date_created": "2026-03-30",
 "language": "nep",
 "localizations": [
 "eng",
@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2025-12-05T06:33:08.409701"
+"dateCreated": "2026-03-30T09:31:19.783843"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "UWTranslationManual": {
-"timestamp": "2025-12-05T06:33:08.409701"
+"timestamp": "2026-03-30T09:31:19.783843"
 }
 }
 },
@@ -95,1843 +95,1843 @@
 "ingredients": {
 "json/000001.content.json": {
 "mimeType": "text/json",
-"size": 9757
+"size": 9231
 },
 "json/000002.content.json": {
 "mimeType": "text/json",
-"size": 13554
+"size": 13357
 },
 "json/000003.content.json": {
 "mimeType": "text/json",
-"size": 12905
+"size": 12708
 },
 "json/000004.content.json": {
 "mimeType": "text/json",
-"size": 20400
+"size": 20137
 },
 "json/000005.content.json": {
 "mimeType": "text/json",
-"size": 38035
+"size": 37772
 },
 "json/000006.content.json": {
 "mimeType": "text/json",
-"size": 6955
+"size": 6758
 },
 "json/000007.content.json": {
 "mimeType": "text/json",
-"size": 16828
+"size": 16169
 },
 "json/000008.content.json": {
 "mimeType": "text/json",
-"size": 9656
+"size": 9525
 },
 "json/000009.content.json": {
 "mimeType": "text/json",
-"size": 39141
+"size": 39010
 },
 "json/000010.content.json": {
 "mimeType": "text/json",
-"size": 16813
+"size": 16616
 },
 "json/000011.content.json": {
 "mimeType": "text/json",
-"size": 7467
+"size": 7270
 },
 "json/000012.content.json": {
 "mimeType": "text/json",
-"size": 11094
+"size": 10766
 },
 "json/000013.content.json": {
 "mimeType": "text/json",
-"size": 11894
+"size": 11835
 },
 "json/000014.content.json": {
 "mimeType": "text/json",
-"size": 13694
+"size": 13636
 },
 "json/000015.content.json": {
 "mimeType": "text/json",
-"size": 12577
+"size": 12519
 },
 "json/000016.content.json": {
 "mimeType": "text/json",
-"size": 6711
+"size": 6653
 },
 "json/000017.content.json": {
 "mimeType": "text/json",
-"size": 8884
+"size": 8826
 },
 "json/000018.content.json": {
 "mimeType": "text/json",
-"size": 12729
+"size": 12670
 },
 "json/000019.content.json": {
 "mimeType": "text/json",
-"size": 17010
+"size": 16952
 },
 "json/000020.content.json": {
 "mimeType": "text/json",
-"size": 15083
+"size": 14953
 },
 "json/000021.content.json": {
 "mimeType": "text/json",
-"size": 10374
+"size": 10244
 },
 "json/000022.content.json": {
 "mimeType": "text/json",
-"size": 12573
+"size": 12515
 },
 "json/000023.content.json": {
 "mimeType": "text/json",
-"size": 6740
+"size": 6682
 },
 "json/000024.content.json": {
 "mimeType": "text/json",
-"size": 13698
+"size": 13502
 },
 "json/000025.content.json": {
 "mimeType": "text/json",
-"size": 12663
+"size": 12605
 },
 "json/000026.content.json": {
 "mimeType": "text/json",
-"size": 7427
+"size": 7365
 },
 "json/000027.content.json": {
 "mimeType": "text/json",
-"size": 21831
+"size": 21773
 },
 "json/000028.content.json": {
 "mimeType": "text/json",
-"size": 23271
+"size": 23213
 },
 "json/000029.content.json": {
 "mimeType": "text/json",
-"size": 12568
+"size": 12510
 },
 "json/000030.content.json": {
 "mimeType": "text/json",
-"size": 7592
+"size": 7534
 },
 "json/000031.content.json": {
 "mimeType": "text/json",
-"size": 11330
+"size": 11272
 },
 "json/000032.content.json": {
 "mimeType": "text/json",
-"size": 8986
+"size": 8928
 },
 "json/000033.content.json": {
 "mimeType": "text/json",
-"size": 12056
+"size": 11998
 },
 "json/000034.content.json": {
 "mimeType": "text/json",
-"size": 8279
+"size": 7621
 },
 "json/000035.content.json": {
 "mimeType": "text/json",
-"size": 13191
+"size": 13131
 },
 "json/000036.content.json": {
 "mimeType": "text/json",
-"size": 23909
+"size": 23851
 },
 "json/000037.content.json": {
 "mimeType": "text/json",
-"size": 16108
+"size": 16048
 },
 "json/000038.content.json": {
 "mimeType": "text/json",
-"size": 10951
+"size": 10893
 },
 "json/000039.content.json": {
 "mimeType": "text/json",
-"size": 15282
+"size": 15223
 },
 "json/000040.content.json": {
 "mimeType": "text/json",
-"size": 13079
+"size": 13021
 },
 "json/000041.content.json": {
 "mimeType": "text/json",
-"size": 17952
+"size": 16700
 },
 "json/000042.content.json": {
 "mimeType": "text/json",
-"size": 17642
+"size": 17584
 },
 "json/000043.content.json": {
 "mimeType": "text/json",
-"size": 15152
+"size": 15094
 },
 "json/000044.content.json": {
 "mimeType": "text/json",
-"size": 8515
+"size": 8385
 },
 "json/000045.content.json": {
 "mimeType": "text/json",
-"size": 8251
+"size": 8193
 },
 "json/000046.content.json": {
 "mimeType": "text/json",
-"size": 45811
+"size": 45549
 },
 "json/000047.content.json": {
 "mimeType": "text/json",
-"size": 9475
+"size": 9345
 },
 "json/000048.content.json": {
 "mimeType": "text/json",
-"size": 6474
+"size": 6416
 },
 "json/000049.content.json": {
 "mimeType": "text/json",
-"size": 6913
+"size": 6855
 },
 "json/000050.content.json": {
 "mimeType": "text/json",
-"size": 14535
+"size": 14405
 },
 "json/000051.content.json": {
 "mimeType": "text/json",
-"size": 15676
+"size": 15546
 },
 "json/000052.content.json": {
 "mimeType": "text/json",
-"size": 11045
+"size": 10651
 },
 "json/000053.content.json": {
 "mimeType": "text/json",
-"size": 8515
+"size": 8457
 },
 "json/000054.content.json": {
 "mimeType": "text/json",
-"size": 9167
+"size": 9109
 },
 "json/000055.content.json": {
 "mimeType": "text/json",
-"size": 9570
+"size": 9512
 },
 "json/000056.content.json": {
 "mimeType": "text/json",
-"size": 9469
+"size": 9141
 },
 "json/000057.content.json": {
 "mimeType": "text/json",
-"size": 10640
+"size": 10582
 },
 "json/000058.content.json": {
 "mimeType": "text/json",
-"size": 16449
+"size": 16319
 },
 "json/000059.content.json": {
 "mimeType": "text/json",
-"size": 16544
+"size": 16414
 },
 "json/000060.content.json": {
 "mimeType": "text/json",
-"size": 14406
+"size": 14348
 },
 "json/000061.content.json": {
 "mimeType": "text/json",
-"size": 22257
+"size": 22199
 },
 "json/000062.content.json": {
 "mimeType": "text/json",
-"size": 10943
+"size": 10615
 },
 "json/000063.content.json": {
 "mimeType": "text/json",
-"size": 15926
+"size": 15598
 },
 "json/000064.content.json": {
 "mimeType": "text/json",
-"size": 14143
+"size": 14085
 },
 "json/000065.content.json": {
 "mimeType": "text/json",
-"size": 5289
+"size": 5231
 },
 "json/000066.content.json": {
 "mimeType": "text/json",
-"size": 12562
+"size": 12504
 },
 "json/000067.content.json": {
 "mimeType": "text/json",
-"size": 4248
+"size": 4052
 },
 "json/000068.content.json": {
 "mimeType": "text/json",
-"size": 13106
+"size": 13048
 },
 "json/000069.content.json": {
 "mimeType": "text/json",
-"size": 10661
+"size": 10598
 },
 "json/000070.content.json": {
 "mimeType": "text/json",
-"size": 11439
+"size": 11376
 },
 "json/000071.content.json": {
 "mimeType": "text/json",
-"size": 10951
+"size": 10816
 },
 "json/000072.content.json": {
 "mimeType": "text/json",
-"size": 9702
+"size": 9644
 },
 "json/000073.content.json": {
 "mimeType": "text/json",
-"size": 6985
+"size": 6591
 },
 "json/000074.content.json": {
 "mimeType": "text/json",
-"size": 19884
+"size": 19826
 },
 "json/000075.content.json": {
 "mimeType": "text/json",
-"size": 20073
+"size": 19876
 },
 "json/000076.content.json": {
 "mimeType": "text/json",
-"size": 10108
+"size": 10049
 },
 "json/000077.content.json": {
 "mimeType": "text/json",
-"size": 11477
+"size": 11418
 },
 "json/000078.content.json": {
 "mimeType": "text/json",
-"size": 15376
+"size": 15315
 },
 "json/000079.content.json": {
 "mimeType": "text/json",
-"size": 13974
+"size": 13843
 },
 "json/000080.content.json": {
 "mimeType": "text/json",
-"size": 12344
+"size": 12213
 },
 "json/000081.content.json": {
 "mimeType": "text/json",
-"size": 10679
+"size": 10621
 },
 "json/000082.content.json": {
 "mimeType": "text/json",
-"size": 7075
+"size": 7017
 },
 "json/000083.content.json": {
 "mimeType": "text/json",
-"size": 9230
+"size": 8967
 },
 "json/000084.content.json": {
 "mimeType": "text/json",
-"size": 16211
+"size": 15619
 },
 "json/000085.content.json": {
 "mimeType": "text/json",
-"size": 5478
+"size": 5420
 },
 "json/000086.content.json": {
 "mimeType": "text/json",
-"size": 18635
+"size": 18439
 },
 "json/000087.content.json": {
 "mimeType": "text/json",
-"size": 14623
+"size": 14493
 },
 "json/000088.content.json": {
 "mimeType": "text/json",
-"size": 12787
+"size": 12657
 },
 "json/000089.content.json": {
 "mimeType": "text/json",
-"size": 12201
+"size": 11477
 },
 "json/000090.content.json": {
 "mimeType": "text/json",
-"size": 13310
+"size": 13252
 },
 "json/000091.content.json": {
 "mimeType": "text/json",
-"size": 5077
+"size": 5019
 },
 "json/000092.content.json": {
 "mimeType": "text/json",
-"size": 8270
+"size": 8212
 },
 "json/000093.content.json": {
 "mimeType": "text/json",
-"size": 12823
+"size": 12765
 },
 "json/000094.content.json": {
 "mimeType": "text/json",
-"size": 7408
+"size": 7350
 },
 "json/000095.content.json": {
 "mimeType": "text/json",
-"size": 7285
+"size": 7225
 },
 "json/000096.content.json": {
 "mimeType": "text/json",
-"size": 5980
+"size": 5922
 },
 "json/000097.content.json": {
 "mimeType": "text/json",
-"size": 4581
+"size": 4451
 },
 "json/000098.content.json": {
 "mimeType": "text/json",
-"size": 11679
+"size": 11549
 },
 "json/000099.content.json": {
 "mimeType": "text/json",
-"size": 4118
+"size": 3988
 },
 "json/000100.content.json": {
 "mimeType": "text/json",
-"size": 5500
+"size": 5442
 },
 "json/000101.content.json": {
 "mimeType": "text/json",
-"size": 7101
+"size": 7043
 },
 "json/000102.content.json": {
 "mimeType": "text/json",
-"size": 7677
+"size": 7481
 },
 "json/000103.content.json": {
 "mimeType": "text/json",
-"size": 9286
+"size": 9024
 },
 "json/000104.content.json": {
 "mimeType": "text/json",
-"size": 3632
+"size": 3574
 },
 "json/000105.content.json": {
 "mimeType": "text/json",
-"size": 5398
+"size": 5340
 },
 "json/000106.content.json": {
 "mimeType": "text/json",
-"size": 8206
+"size": 8148
 },
 "json/000107.content.json": {
 "mimeType": "text/json",
-"size": 3876
+"size": 3818
 },
 "json/000108.content.json": {
 "mimeType": "text/json",
-"size": 17512
+"size": 16722
 },
 "json/000109.content.json": {
 "mimeType": "text/json",
-"size": 10756
+"size": 10626
 },
 "json/000110.content.json": {
 "mimeType": "text/json",
-"size": 15544
+"size": 15347
 },
 "json/000111.content.json": {
 "mimeType": "text/json",
-"size": 11618
+"size": 11560
 },
 "json/000112.content.json": {
 "mimeType": "text/json",
-"size": 15430
+"size": 15372
 },
 "json/000113.content.json": {
 "mimeType": "text/json",
-"size": 16650
+"size": 16520
 },
 "json/000114.content.json": {
 "mimeType": "text/json",
-"size": 5153
+"size": 5095
 },
 "json/000115.content.json": {
 "mimeType": "text/json",
-"size": 10782
+"size": 10586
 },
 "json/000116.content.json": {
 "mimeType": "text/json",
-"size": 19149
+"size": 19019
 },
 "json/000117.content.json": {
 "mimeType": "text/json",
-"size": 12843
+"size": 12713
 },
 "json/000118.content.json": {
 "mimeType": "text/json",
-"size": 9637
+"size": 9579
 },
 "json/000119.content.json": {
 "mimeType": "text/json",
-"size": 4116
+"size": 4058
 },
 "json/000120.content.json": {
 "mimeType": "text/json",
-"size": 10073
+"size": 9943
 },
 "json/000121.content.json": {
 "mimeType": "text/json",
-"size": 6243
+"size": 6185
 },
 "json/000122.content.json": {
 "mimeType": "text/json",
-"size": 10081
+"size": 10023
 },
 "json/000123.content.json": {
 "mimeType": "text/json",
-"size": 12623
+"size": 12565
 },
 "json/000124.content.json": {
 "mimeType": "text/json",
-"size": 13622
+"size": 13563
 },
 "json/000125.content.json": {
 "mimeType": "text/json",
-"size": 17436
+"size": 17306
 },
 "json/000126.content.json": {
 "mimeType": "text/json",
-"size": 5018
+"size": 4960
 },
 "json/000127.content.json": {
 "mimeType": "text/json",
-"size": 14601
+"size": 14543
 },
 "json/000128.content.json": {
 "mimeType": "text/json",
-"size": 4679
+"size": 4621
 },
 "json/000129.content.json": {
 "mimeType": "text/json",
-"size": 7772
+"size": 7714
 },
 "json/000130.content.json": {
 "mimeType": "text/json",
-"size": 4592
+"size": 4264
 },
 "json/000131.content.json": {
 "mimeType": "text/json",
-"size": 4494
+"size": 4436
 },
 "json/000132.content.json": {
 "mimeType": "text/json",
-"size": 9494
+"size": 9436
 },
 "json/000133.content.json": {
 "mimeType": "text/json",
-"size": 23123
+"size": 22993
 },
 "json/000134.content.json": {
 "mimeType": "text/json",
-"size": 15198
+"size": 15140
 },
 "json/000135.content.json": {
 "mimeType": "text/json",
-"size": 12017
+"size": 11959
 },
 "json/000136.content.json": {
 "mimeType": "text/json",
-"size": 7346
+"size": 7288
 },
 "json/000137.content.json": {
 "mimeType": "text/json",
-"size": 8550
+"size": 8492
 },
 "json/000138.content.json": {
 "mimeType": "text/json",
-"size": 2267
+"size": 2071
 },
 "json/000139.content.json": {
 "mimeType": "text/json",
-"size": 5607
+"size": 5549
 },
 "json/000140.content.json": {
 "mimeType": "text/json",
-"size": 7878
+"size": 7818
 },
 "json/000141.content.json": {
 "mimeType": "text/json",
-"size": 6339
+"size": 5813
 },
 "json/000142.content.json": {
 "mimeType": "text/json",
-"size": 6411
+"size": 6353
 },
 "json/000143.content.json": {
 "mimeType": "text/json",
-"size": 11223
+"size": 11165
 },
 "json/000144.content.json": {
 "mimeType": "text/json",
-"size": 19047
+"size": 18989
 },
 "json/000145.content.json": {
 "mimeType": "text/json",
-"size": 12371
+"size": 12313
 },
 "json/000146.content.json": {
 "mimeType": "text/json",
-"size": 5088
+"size": 5030
 },
 "json/000147.content.json": {
 "mimeType": "text/json",
-"size": 11667
+"size": 11537
 },
 "json/000148.content.json": {
 "mimeType": "text/json",
-"size": 17803
+"size": 17673
 },
 "json/000149.content.json": {
 "mimeType": "text/json",
-"size": 12227
+"size": 12169
 },
 "json/000150.content.json": {
 "mimeType": "text/json",
-"size": 12193
+"size": 12063
 },
 "json/000151.content.json": {
 "mimeType": "text/json",
-"size": 5595
+"size": 5536
 },
 "json/000152.content.json": {
 "mimeType": "text/json",
-"size": 14071
+"size": 14013
 },
 "json/000153.content.json": {
 "mimeType": "text/json",
-"size": 14574
+"size": 14378
 },
 "json/000154.content.json": {
 "mimeType": "text/json",
-"size": 18904
+"size": 18846
 },
 "json/000155.content.json": {
 "mimeType": "text/json",
-"size": 4005
+"size": 3947
 },
 "json/000156.content.json": {
 "mimeType": "text/json",
-"size": 8733
+"size": 8675
 },
 "json/000157.content.json": {
 "mimeType": "text/json",
-"size": 15280
+"size": 14490
 },
 "json/000158.content.json": {
 "mimeType": "text/json",
-"size": 21114
+"size": 21056
 },
 "json/000159.content.json": {
 "mimeType": "text/json",
-"size": 16987
+"size": 16857
 },
 "json/000160.content.json": {
 "mimeType": "text/json",
-"size": 16527
+"size": 16265
 },
 "json/000161.content.json": {
 "mimeType": "text/json",
-"size": 16726
+"size": 16595
 },
 "json/000162.content.json": {
 "mimeType": "text/json",
-"size": 10567
+"size": 10509
 },
 "json/000163.content.json": {
 "mimeType": "text/json",
-"size": 10273
+"size": 10215
 },
 "json/000164.content.json": {
 "mimeType": "text/json",
-"size": 12957
+"size": 12899
 },
 "json/000165.content.json": {
 "mimeType": "text/json",
-"size": 3373
+"size": 3315
 },
 "json/000166.content.json": {
 "mimeType": "text/json",
-"size": 14965
+"size": 14571
 },
 "json/000167.content.json": {
 "mimeType": "text/json",
-"size": 3186
+"size": 3128
 },
 "json/000168.content.json": {
 "mimeType": "text/json",
-"size": 4106
+"size": 4048
 },
 "json/000169.content.json": {
 "mimeType": "text/json",
-"size": 7373
+"size": 6913
 },
 "json/000170.content.json": {
 "mimeType": "text/json",
-"size": 4120
+"size": 3990
 },
 "json/000171.content.json": {
 "mimeType": "text/json",
-"size": 5055
+"size": 4997
 },
 "json/000172.content.json": {
 "mimeType": "text/json",
-"size": 3366
+"size": 3236
 },
 "json/000173.content.json": {
 "mimeType": "text/json",
-"size": 4381
+"size": 4119
 },
 "json/000174.content.json": {
 "mimeType": "text/json",
-"size": 5068
+"size": 4674
 },
 "json/000175.content.json": {
 "mimeType": "text/json",
-"size": 5110
+"size": 5052
 },
 "json/000176.content.json": {
 "mimeType": "text/json",
-"size": 7450
+"size": 7122
 },
 "json/000177.content.json": {
 "mimeType": "text/json",
-"size": 2195
+"size": 2137
 },
 "json/000178.content.json": {
 "mimeType": "text/json",
-"size": 8817
+"size": 8759
 },
 "json/000179.content.json": {
 "mimeType": "text/json",
-"size": 9064
+"size": 9006
 },
 "json/000180.content.json": {
 "mimeType": "text/json",
-"size": 7270
+"size": 6742
 },
 "json/000181.content.json": {
 "mimeType": "text/json",
-"size": 6613
+"size": 6483
 },
 "json/000182.content.json": {
 "mimeType": "text/json",
-"size": 2603
+"size": 2473
 },
 "json/000183.content.json": {
 "mimeType": "text/json",
-"size": 2770
+"size": 2574
 },
 "json/000184.content.json": {
 "mimeType": "text/json",
-"size": 11454
+"size": 11126
 },
 "json/000185.content.json": {
 "mimeType": "text/json",
-"size": 2688
+"size": 2630
 },
 "json/000186.content.json": {
 "mimeType": "text/json",
-"size": 12603
+"size": 12209
 },
 "json/000187.content.json": {
 "mimeType": "text/json",
-"size": 4624
+"size": 4566
 },
 "json/000188.content.json": {
 "mimeType": "text/json",
-"size": 11179
+"size": 11049
 },
 "json/000189.content.json": {
 "mimeType": "text/json",
-"size": 7113
+"size": 6917
 },
 "json/000190.content.json": {
 "mimeType": "text/json",
-"size": 3711
+"size": 3449
 },
 "json/000191.content.json": {
 "mimeType": "text/json",
-"size": 2557
+"size": 2425
 },
 "json/000192.content.json": {
 "mimeType": "text/json",
-"size": 2095
+"size": 1833
 },
 "json/000193.content.json": {
 "mimeType": "text/json",
-"size": 5664
+"size": 5072
 },
 "json/000194.content.json": {
 "mimeType": "text/json",
-"size": 3741
+"size": 3683
 },
 "json/000195.content.json": {
 "mimeType": "text/json",
-"size": 20275
+"size": 20079
 },
 "json/000196.content.json": {
 "mimeType": "text/json",
-"size": 2469
+"size": 2411
 },
 "json/000197.content.json": {
 "mimeType": "text/json",
-"size": 5091
+"size": 4961
 },
 "json/000198.content.json": {
 "mimeType": "text/json",
-"size": 9159
+"size": 9101
 },
 "json/000199.content.json": {
 "mimeType": "text/json",
-"size": 3727
+"size": 3465
 },
 "json/000200.content.json": {
 "mimeType": "text/json",
-"size": 5013
+"size": 4954
 },
 "json/000201.content.json": {
 "mimeType": "text/json",
-"size": 15018
+"size": 14294
 },
 "json/000202.content.json": {
 "mimeType": "text/json",
-"size": 11965
+"size": 11637
 },
 "json/000203.content.json": {
 "mimeType": "text/json",
-"size": 6438
+"size": 6176
 },
 "json/000204.content.json": {
 "mimeType": "text/json",
-"size": 2160
+"size": 2102
 },
 "json/000205.content.json": {
 "mimeType": "text/json",
-"size": 10983
+"size": 10925
 },
 "json/000206.content.json": {
 "mimeType": "text/json",
-"size": 8256
+"size": 8126
 },
 "json/000207.content.json": {
 "mimeType": "text/json",
-"size": 5333
+"size": 5275
 },
 "json/000208.content.json": {
 "mimeType": "text/json",
-"size": 2954
+"size": 2896
 },
 "json/000209.content.json": {
 "mimeType": "text/json",
-"size": 4389
+"size": 4331
 },
 "json/000210.content.json": {
 "mimeType": "text/json",
-"size": 17689
+"size": 17493
 },
 "json/000211.content.json": {
 "mimeType": "text/json",
-"size": 7870
+"size": 7608
 },
 "json/000212.content.json": {
 "mimeType": "text/json",
-"size": 1665
+"size": 1607
 },
 "json/000213.content.json": {
 "mimeType": "text/json",
-"size": 2691
+"size": 2633
 },
 "json/000214.content.json": {
 "mimeType": "text/json",
-"size": 3415
+"size": 3357
 },
 "json/000215.content.json": {
 "mimeType": "text/json",
-"size": 2487
+"size": 2429
 },
 "json/000216.content.json": {
 "mimeType": "text/json",
-"size": 7384
+"size": 7326
 },
 "json/000217.content.json": {
 "mimeType": "text/json",
-"size": 7210
+"size": 7151
 },
 "json/000218.content.json": {
 "mimeType": "text/json",
-"size": 2240
+"size": 2182
 },
 "json/000219.content.json": {
 "mimeType": "text/json",
-"size": 2749
+"size": 2690
 },
 "json/000220.content.json": {
 "mimeType": "text/json",
-"size": 4200
+"size": 4141
 },
 "json/000221.content.json": {
 "mimeType": "text/json",
-"size": 3286
+"size": 3228
 },
 "json/000222.content.json": {
 "mimeType": "text/json",
-"size": 4828
+"size": 4767
 },
 "json/000223.content.json": {
 "mimeType": "text/json",
-"size": 4268
+"size": 4204
 },
 "json/000224.content.json": {
 "mimeType": "text/json",
-"size": 13521
+"size": 13463
 },
 "json/000225.content.json": {
 "mimeType": "text/json",
-"size": 14133
+"size": 14075
 },
 "json/000226.content.json": {
 "mimeType": "text/json",
-"size": 7524
+"size": 7466
 },
 "json/000227.content.json": {
 "mimeType": "text/json",
-"size": 11337
+"size": 11279
 },
 "json/000228.content.json": {
 "mimeType": "text/json",
-"size": 33654
+"size": 33596
 },
 "json/000229.content.json": {
 "mimeType": "text/json",
-"size": 19860
+"size": 19802
 },
 "md/000001.content.md": {
 "mimeType": "text/markdown",
-"size": 8402
+"size": 8404
 },
 "md/000002.content.md": {
 "mimeType": "text/markdown",
-"size": 12926
+"size": 12928
 },
 "md/000003.content.md": {
 "mimeType": "text/markdown",
-"size": 12387
+"size": 12389
 },
 "md/000004.content.md": {
 "mimeType": "text/markdown",
-"size": 18937
+"size": 18939
 },
 "md/000005.content.md": {
 "mimeType": "text/markdown",
-"size": 35462
+"size": 35464
 },
 "md/000006.content.md": {
 "mimeType": "text/markdown",
-"size": 6363
+"size": 6365
 },
 "md/000007.content.md": {
 "mimeType": "text/markdown",
-"size": 14114
+"size": 14116
 },
 "md/000008.content.md": {
 "mimeType": "text/markdown",
-"size": 9260
+"size": 9262
 },
 "md/000009.content.md": {
 "mimeType": "text/markdown",
-"size": 36865
+"size": 36867
 },
 "md/000010.content.md": {
 "mimeType": "text/markdown",
-"size": 15391
+"size": 15393
 },
 "md/000011.content.md": {
 "mimeType": "text/markdown",
-"size": 6965
+"size": 6967
 },
 "md/000012.content.md": {
 "mimeType": "text/markdown",
-"size": 10506
+"size": 10508
 },
 "md/000013.content.md": {
 "mimeType": "text/markdown",
-"size": 11290
+"size": 11292
 },
 "md/000014.content.md": {
 "mimeType": "text/markdown",
-"size": 13301
+"size": 13303
 },
 "md/000015.content.md": {
 "mimeType": "text/markdown",
-"size": 12076
+"size": 12078
 },
 "md/000016.content.md": {
 "mimeType": "text/markdown",
-"size": 6729
+"size": 6731
 },
 "md/000017.content.md": {
 "mimeType": "text/markdown",
-"size": 9049
+"size": 9051
 },
 "md/000018.content.md": {
 "mimeType": "text/markdown",
-"size": 12284
+"size": 12286
 },
 "md/000019.content.md": {
 "mimeType": "text/markdown",
-"size": 16234
+"size": 16236
 },
 "md/000020.content.md": {
 "mimeType": "text/markdown",
-"size": 13841
+"size": 13843
 },
 "md/000021.content.md": {
 "mimeType": "text/markdown",
-"size": 9887
+"size": 9889
 },
 "md/000022.content.md": {
 "mimeType": "text/markdown",
-"size": 11928
+"size": 11930
 },
 "md/000023.content.md": {
 "mimeType": "text/markdown",
-"size": 6683
+"size": 6685
 },
 "md/000024.content.md": {
 "mimeType": "text/markdown",
-"size": 13117
+"size": 13119
 },
 "md/000025.content.md": {
 "mimeType": "text/markdown",
-"size": 12126
+"size": 12128
 },
 "md/000026.content.md": {
 "mimeType": "text/markdown",
-"size": 7164
+"size": 7166
 },
 "md/000027.content.md": {
 "mimeType": "text/markdown",
-"size": 20972
+"size": 20974
 },
 "md/000028.content.md": {
 "mimeType": "text/markdown",
-"size": 22606
+"size": 22608
 },
 "md/000029.content.md": {
 "mimeType": "text/markdown",
-"size": 12367
+"size": 12369
 },
 "md/000030.content.md": {
 "mimeType": "text/markdown",
-"size": 7628
+"size": 7630
 },
 "md/000031.content.md": {
 "mimeType": "text/markdown",
-"size": 10793
+"size": 10795
 },
 "md/000032.content.md": {
 "mimeType": "text/markdown",
-"size": 8694
+"size": 8696
 },
 "md/000033.content.md": {
 "mimeType": "text/markdown",
-"size": 11504
+"size": 11506
 },
 "md/000034.content.md": {
 "mimeType": "text/markdown",
-"size": 5775
+"size": 5777
 },
 "md/000035.content.md": {
 "mimeType": "text/markdown",
-"size": 12455
+"size": 12457
 },
 "md/000036.content.md": {
 "mimeType": "text/markdown",
-"size": 22239
+"size": 22241
 },
 "md/000037.content.md": {
 "mimeType": "text/markdown",
-"size": 15779
+"size": 15781
 },
 "md/000038.content.md": {
 "mimeType": "text/markdown",
-"size": 10573
+"size": 10575
 },
 "md/000039.content.md": {
 "mimeType": "text/markdown",
-"size": 14661
+"size": 14663
 },
 "md/000040.content.md": {
 "mimeType": "text/markdown",
-"size": 12992
+"size": 12994
 },
 "md/000041.content.md": {
 "mimeType": "text/markdown",
-"size": 13026
+"size": 13028
 },
 "md/000042.content.md": {
 "mimeType": "text/markdown",
-"size": 17439
+"size": 17441
 },
 "md/000043.content.md": {
 "mimeType": "text/markdown",
-"size": 14831
+"size": 14833
 },
 "md/000044.content.md": {
 "mimeType": "text/markdown",
-"size": 8162
+"size": 8164
 },
 "md/000045.content.md": {
 "mimeType": "text/markdown",
-"size": 8006
+"size": 8008
 },
 "md/000046.content.md": {
 "mimeType": "text/markdown",
-"size": 43618
+"size": 43620
 },
 "md/000047.content.md": {
 "mimeType": "text/markdown",
-"size": 9075
+"size": 9077
 },
 "md/000048.content.md": {
 "mimeType": "text/markdown",
-"size": 6234
+"size": 6236
 },
 "md/000049.content.md": {
 "mimeType": "text/markdown",
-"size": 6674
+"size": 6676
 },
 "md/000050.content.md": {
 "mimeType": "text/markdown",
-"size": 14191
+"size": 14193
 },
 "md/000051.content.md": {
 "mimeType": "text/markdown",
-"size": 15077
+"size": 15079
 },
 "md/000052.content.md": {
 "mimeType": "text/markdown",
-"size": 9643
+"size": 9645
 },
 "md/000053.content.md": {
 "mimeType": "text/markdown",
-"size": 8446
+"size": 8448
 },
 "md/000054.content.md": {
 "mimeType": "text/markdown",
-"size": 8928
+"size": 8930
 },
 "md/000055.content.md": {
 "mimeType": "text/markdown",
-"size": 9060
+"size": 9062
 },
 "md/000056.content.md": {
 "mimeType": "text/markdown",
-"size": 8071
+"size": 8073
 },
 "md/000057.content.md": {
 "mimeType": "text/markdown",
-"size": 10337
+"size": 10339
 },
 "md/000058.content.md": {
 "mimeType": "text/markdown",
-"size": 15955
+"size": 15957
 },
 "md/000059.content.md": {
 "mimeType": "text/markdown",
-"size": 15981
+"size": 15983
 },
 "md/000060.content.md": {
 "mimeType": "text/markdown",
-"size": 13852
+"size": 13854
 },
 "md/000061.content.md": {
 "mimeType": "text/markdown",
-"size": 21758
+"size": 21760
 },
 "md/000062.content.md": {
 "mimeType": "text/markdown",
-"size": 9435
+"size": 9437
 },
 "md/000063.content.md": {
 "mimeType": "text/markdown",
-"size": 13810
+"size": 13812
 },
 "md/000064.content.md": {
 "mimeType": "text/markdown",
-"size": 13707
+"size": 13709
 },
 "md/000065.content.md": {
 "mimeType": "text/markdown",
-"size": 5238
+"size": 5240
 },
 "md/000066.content.md": {
 "mimeType": "text/markdown",
-"size": 11686
+"size": 11688
 },
 "md/000067.content.md": {
 "mimeType": "text/markdown",
-"size": 3799
+"size": 3801
 },
 "md/000068.content.md": {
 "mimeType": "text/markdown",
-"size": 12541
+"size": 12543
 },
 "md/000069.content.md": {
 "mimeType": "text/markdown",
-"size": 10461
+"size": 10463
 },
 "md/000070.content.md": {
 "mimeType": "text/markdown",
-"size": 11094
+"size": 11096
 },
 "md/000071.content.md": {
 "mimeType": "text/markdown",
-"size": 10488
+"size": 10490
 },
 "md/000072.content.md": {
 "mimeType": "text/markdown",
-"size": 9798
+"size": 9800
 },
 "md/000073.content.md": {
 "mimeType": "text/markdown",
-"size": 6394
+"size": 6396
 },
 "md/000074.content.md": {
 "mimeType": "text/markdown",
-"size": 19111
+"size": 19113
 },
 "md/000075.content.md": {
 "mimeType": "text/markdown",
-"size": 19099
+"size": 19101
 },
 "md/000076.content.md": {
 "mimeType": "text/markdown",
-"size": 9898
+"size": 9900
 },
 "md/000077.content.md": {
 "mimeType": "text/markdown",
-"size": 11104
+"size": 11106
 },
 "md/000078.content.md": {
 "mimeType": "text/markdown",
-"size": 14834
+"size": 14836
 },
 "md/000079.content.md": {
 "mimeType": "text/markdown",
-"size": 12896
+"size": 12898
 },
 "md/000080.content.md": {
 "mimeType": "text/markdown",
-"size": 11889
+"size": 11891
 },
 "md/000081.content.md": {
 "mimeType": "text/markdown",
-"size": 10591
+"size": 10593
 },
 "md/000082.content.md": {
 "mimeType": "text/markdown",
-"size": 7275
+"size": 7277
 },
 "md/000083.content.md": {
 "mimeType": "text/markdown",
-"size": 8563
+"size": 8565
 },
 "md/000084.content.md": {
 "mimeType": "text/markdown",
-"size": 14650
+"size": 14652
 },
 "md/000085.content.md": {
 "mimeType": "text/markdown",
-"size": 5641
+"size": 5643
 },
 "md/000086.content.md": {
 "mimeType": "text/markdown",
-"size": 17921
+"size": 17923
 },
 "md/000087.content.md": {
 "mimeType": "text/markdown",
-"size": 14456
+"size": 14458
 },
 "md/000088.content.md": {
 "mimeType": "text/markdown",
-"size": 12609
+"size": 12611
 },
 "md/000089.content.md": {
 "mimeType": "text/markdown",
-"size": 9170
+"size": 9172
 },
 "md/000090.content.md": {
 "mimeType": "text/markdown",
-"size": 13519
+"size": 13521
 },
 "md/000091.content.md": {
 "mimeType": "text/markdown",
-"size": 5229
+"size": 5231
 },
 "md/000092.content.md": {
 "mimeType": "text/markdown",
-"size": 8057
+"size": 8059
 },
 "md/000093.content.md": {
 "mimeType": "text/markdown",
-"size": 12546
+"size": 12548
 },
 "md/000094.content.md": {
 "mimeType": "text/markdown",
-"size": 7524
+"size": 7526
 },
 "md/000095.content.md": {
 "mimeType": "text/markdown",
-"size": 7152
+"size": 7154
 },
 "md/000096.content.md": {
 "mimeType": "text/markdown",
-"size": 6006
+"size": 6008
 },
 "md/000097.content.md": {
 "mimeType": "text/markdown",
-"size": 4177
+"size": 4179
 },
 "md/000098.content.md": {
 "mimeType": "text/markdown",
-"size": 11071
+"size": 11073
 },
 "md/000099.content.md": {
 "mimeType": "text/markdown",
-"size": 3917
+"size": 3919
 },
 "md/000100.content.md": {
 "mimeType": "text/markdown",
-"size": 5535
+"size": 5537
 },
 "md/000101.content.md": {
 "mimeType": "text/markdown",
-"size": 6854
+"size": 6856
 },
 "md/000102.content.md": {
 "mimeType": "text/markdown",
-"size": 6767
+"size": 6769
 },
 "md/000103.content.md": {
 "mimeType": "text/markdown",
-"size": 8804
+"size": 8806
 },
 "md/000104.content.md": {
 "mimeType": "text/markdown",
-"size": 3362
+"size": 3364
 },
 "md/000105.content.md": {
 "mimeType": "text/markdown",
-"size": 5499
+"size": 5501
 },
 "md/000106.content.md": {
 "mimeType": "text/markdown",
-"size": 8445
+"size": 8447
 },
 "md/000107.content.md": {
 "mimeType": "text/markdown",
-"size": 3836
+"size": 3838
 },
 "md/000108.content.md": {
 "mimeType": "text/markdown",
-"size": 14531
+"size": 14533
 },
 "md/000109.content.md": {
 "mimeType": "text/markdown",
-"size": 10491
+"size": 10493
 },
 "md/000110.content.md": {
 "mimeType": "text/markdown",
-"size": 15089
+"size": 15091
 },
 "md/000111.content.md": {
 "mimeType": "text/markdown",
-"size": 11776
+"size": 11778
 },
 "md/000112.content.md": {
 "mimeType": "text/markdown",
-"size": 15528
+"size": 15530
 },
 "md/000113.content.md": {
 "mimeType": "text/markdown",
-"size": 15465
+"size": 15467
 },
 "md/000114.content.md": {
 "mimeType": "text/markdown",
-"size": 5348
+"size": 5350
 },
 "md/000115.content.md": {
 "mimeType": "text/markdown",
-"size": 9560
+"size": 9562
 },
 "md/000116.content.md": {
 "mimeType": "text/markdown",
-"size": 17245
+"size": 17247
 },
 "md/000117.content.md": {
 "mimeType": "text/markdown",
-"size": 12018
+"size": 12020
 },
 "md/000118.content.md": {
 "mimeType": "text/markdown",
-"size": 9469
+"size": 9471
 },
 "md/000119.content.md": {
 "mimeType": "text/markdown",
-"size": 4348
+"size": 4350
 },
 "md/000120.content.md": {
 "mimeType": "text/markdown",
-"size": 9541
+"size": 9543
 },
 "md/000121.content.md": {
 "mimeType": "text/markdown",
-"size": 6313
+"size": 6315
 },
 "md/000122.content.md": {
 "mimeType": "text/markdown",
-"size": 10083
+"size": 10085
 },
 "md/000123.content.md": {
 "mimeType": "text/markdown",
-"size": 12395
+"size": 12397
 },
 "md/000124.content.md": {
 "mimeType": "text/markdown",
-"size": 13114
+"size": 13116
 },
 "md/000125.content.md": {
 "mimeType": "text/markdown",
-"size": 16906
+"size": 16908
 },
 "md/000126.content.md": {
 "mimeType": "text/markdown",
-"size": 5191
+"size": 5193
 },
 "md/000127.content.md": {
 "mimeType": "text/markdown",
-"size": 14363
+"size": 14365
 },
 "md/000128.content.md": {
 "mimeType": "text/markdown",
-"size": 4794
+"size": 4796
 },
 "md/000129.content.md": {
 "mimeType": "text/markdown",
-"size": 7733
+"size": 7735
 },
 "md/000130.content.md": {
 "mimeType": "text/markdown",
-"size": 3704
+"size": 3706
 },
 "md/000131.content.md": {
 "mimeType": "text/markdown",
-"size": 4763
+"size": 4765
 },
 "md/000132.content.md": {
 "mimeType": "text/markdown",
-"size": 9728
+"size": 9730
 },
 "md/000133.content.md": {
 "mimeType": "text/markdown",
-"size": 22341
+"size": 22343
 },
 "md/000134.content.md": {
 "mimeType": "text/markdown",
-"size": 14926
+"size": 14928
 },
 "md/000135.content.md": {
 "mimeType": "text/markdown",
-"size": 11158
+"size": 11160
 },
 "md/000136.content.md": {
 "mimeType": "text/markdown",
-"size": 7575
+"size": 7577
 },
 "md/000137.content.md": {
 "mimeType": "text/markdown",
-"size": 8764
+"size": 8766
 },
 "md/000138.content.md": {
 "mimeType": "text/markdown",
-"size": 2016
+"size": 2018
 },
 "md/000139.content.md": {
 "mimeType": "text/markdown",
-"size": 5872
+"size": 5874
 },
 "md/000140.content.md": {
 "mimeType": "text/markdown",
-"size": 7832
+"size": 7834
 },
 "md/000141.content.md": {
 "mimeType": "text/markdown",
-"size": 4553
+"size": 4555
 },
 "md/000142.content.md": {
 "mimeType": "text/markdown",
-"size": 6616
+"size": 6618
 },
 "md/000143.content.md": {
 "mimeType": "text/markdown",
-"size": 11192
+"size": 11194
 },
 "md/000144.content.md": {
 "mimeType": "text/markdown",
-"size": 18831
+"size": 18833
 },
 "md/000145.content.md": {
 "mimeType": "text/markdown",
-"size": 12206
+"size": 12208
 },
 "md/000146.content.md": {
 "mimeType": "text/markdown",
-"size": 5258
+"size": 5260
 },
 "md/000147.content.md": {
 "mimeType": "text/markdown",
-"size": 11267
+"size": 11269
 },
 "md/000148.content.md": {
 "mimeType": "text/markdown",
-"size": 16983
+"size": 16985
 },
 "md/000149.content.md": {
 "mimeType": "text/markdown",
-"size": 12108
+"size": 12110
 },
 "md/000150.content.md": {
 "mimeType": "text/markdown",
-"size": 11951
+"size": 11953
 },
 "md/000151.content.md": {
 "mimeType": "text/markdown",
-"size": 5767
+"size": 5769
 },
 "md/000152.content.md": {
 "mimeType": "text/markdown",
-"size": 13805
+"size": 13807
 },
 "md/000153.content.md": {
 "mimeType": "text/markdown",
-"size": 14248
+"size": 14250
 },
 "md/000154.content.md": {
 "mimeType": "text/markdown",
-"size": 18485
+"size": 18487
 },
 "md/000155.content.md": {
 "mimeType": "text/markdown",
-"size": 4149
+"size": 4151
 },
 "md/000156.content.md": {
 "mimeType": "text/markdown",
-"size": 8571
+"size": 8573
 },
 "md/000157.content.md": {
 "mimeType": "text/markdown",
-"size": 11894
+"size": 11896
 },
 "md/000158.content.md": {
 "mimeType": "text/markdown",
-"size": 20602
+"size": 20604
 },
 "md/000159.content.md": {
 "mimeType": "text/markdown",
-"size": 16338
+"size": 16340
 },
 "md/000160.content.md": {
 "mimeType": "text/markdown",
-"size": 15119
+"size": 15121
 },
 "md/000161.content.md": {
 "mimeType": "text/markdown",
-"size": 15829
+"size": 15831
 },
 "md/000162.content.md": {
 "mimeType": "text/markdown",
-"size": 10529
+"size": 10531
 },
 "md/000163.content.md": {
 "mimeType": "text/markdown",
-"size": 9514
+"size": 9516
 },
 "md/000164.content.md": {
 "mimeType": "text/markdown",
-"size": 12762
+"size": 12764
 },
 "md/000165.content.md": {
 "mimeType": "text/markdown",
-"size": 3656
+"size": 3658
 },
 "md/000166.content.md": {
 "mimeType": "text/markdown",
-"size": 14074
+"size": 14076
 },
 "md/000167.content.md": {
 "mimeType": "text/markdown",
-"size": 3464
+"size": 3466
 },
 "md/000168.content.md": {
 "mimeType": "text/markdown",
-"size": 3960
+"size": 3962
 },
 "md/000169.content.md": {
 "mimeType": "text/markdown",
-"size": 5988
+"size": 5990
 },
 "md/000170.content.md": {
 "mimeType": "text/markdown",
-"size": 4238
+"size": 4240
 },
 "md/000171.content.md": {
 "mimeType": "text/markdown",
-"size": 5156
+"size": 5158
 },
 "md/000172.content.md": {
 "mimeType": "text/markdown",
-"size": 3506
+"size": 3508
 },
 "md/000173.content.md": {
 "mimeType": "text/markdown",
-"size": 3528
+"size": 3530
 },
 "md/000174.content.md": {
 "mimeType": "text/markdown",
-"size": 3967
+"size": 3969
 },
 "md/000175.content.md": {
 "mimeType": "text/markdown",
-"size": 5319
+"size": 5321
 },
 "md/000176.content.md": {
 "mimeType": "text/markdown",
-"size": 6657
+"size": 6659
 },
 "md/000177.content.md": {
 "mimeType": "text/markdown",
-"size": 2317
+"size": 2319
 },
 "md/000178.content.md": {
 "mimeType": "text/markdown",
-"size": 9006
+"size": 9008
 },
 "md/000179.content.md": {
 "mimeType": "text/markdown",
-"size": 8972
+"size": 8974
 },
 "md/000180.content.md": {
 "mimeType": "text/markdown",
-"size": 6417
+"size": 6419
 },
 "md/000181.content.md": {
 "mimeType": "text/markdown",
-"size": 6705
+"size": 6707
 },
 "md/000182.content.md": {
 "mimeType": "text/markdown",
-"size": 2705
+"size": 2707
 },
 "md/000183.content.md": {
 "mimeType": "text/markdown",
-"size": 2586
+"size": 2588
 },
 "md/000184.content.md": {
 "mimeType": "text/markdown",
-"size": 10800
+"size": 10802
 },
 "md/000185.content.md": {
 "mimeType": "text/markdown",
-"size": 2791
+"size": 2793
 },
 "md/000186.content.md": {
 "mimeType": "text/markdown",
-"size": 11668
+"size": 11670
 },
 "md/000187.content.md": {
 "mimeType": "text/markdown",
-"size": 4896
+"size": 4898
 },
 "md/000188.content.md": {
 "mimeType": "text/markdown",
-"size": 10408
+"size": 10410
 },
 "md/000189.content.md": {
 "mimeType": "text/markdown",
-"size": 6977
+"size": 6979
 },
 "md/000190.content.md": {
 "mimeType": "text/markdown",
-"size": 3436
+"size": 3438
 },
 "md/000191.content.md": {
 "mimeType": "text/markdown",
-"size": 2474
+"size": 2476
 },
 "md/000192.content.md": {
 "mimeType": "text/markdown",
-"size": 1785
+"size": 1787
 },
 "md/000193.content.md": {
 "mimeType": "text/markdown",
-"size": 3657
+"size": 3659
 },
 "md/000194.content.md": {
 "mimeType": "text/markdown",
-"size": 3997
+"size": 3999
 },
 "md/000195.content.md": {
 "mimeType": "text/markdown",
-"size": 18925
+"size": 18927
 },
 "md/000196.content.md": {
 "mimeType": "text/markdown",
-"size": 2711
+"size": 2713
 },
 "md/000197.content.md": {
 "mimeType": "text/markdown",
-"size": 5114
+"size": 5116
 },
 "md/000198.content.md": {
 "mimeType": "text/markdown",
-"size": 8888
+"size": 8890
 },
 "md/000199.content.md": {
 "mimeType": "text/markdown",
-"size": 3015
+"size": 3017
 },
 "md/000200.content.md": {
 "mimeType": "text/markdown",
-"size": 5209
+"size": 5211
 },
 "md/000201.content.md": {
 "mimeType": "text/markdown",
-"size": 12395
+"size": 12397
 },
 "md/000202.content.md": {
 "mimeType": "text/markdown",
-"size": 10649
+"size": 10651
 },
 "md/000203.content.md": {
 "mimeType": "text/markdown",
-"size": 5859
+"size": 5861
 },
 "md/000204.content.md": {
 "mimeType": "text/markdown",
-"size": 2445
+"size": 2447
 },
 "md/000205.content.md": {
 "mimeType": "text/markdown",
-"size": 11092
+"size": 11094
 },
 "md/000206.content.md": {
 "mimeType": "text/markdown",
-"size": 8367
+"size": 8369
 },
 "md/000207.content.md": {
 "mimeType": "text/markdown",
-"size": 5580
+"size": 5582
 },
 "md/000208.content.md": {
 "mimeType": "text/markdown",
-"size": 3246
+"size": 3248
 },
 "md/000209.content.md": {
 "mimeType": "text/markdown",
-"size": 4647
+"size": 4649
 },
 "md/000210.content.md": {
 "mimeType": "text/markdown",
-"size": 17572
+"size": 17574
 },
 "md/000211.content.md": {
 "mimeType": "text/markdown",
-"size": 7495
+"size": 7497
 },
 "md/000212.content.md": {
 "mimeType": "text/markdown",
-"size": 1814
+"size": 1816
 },
 "md/000213.content.md": {
 "mimeType": "text/markdown",
-"size": 2753
+"size": 2755
 },
 "md/000214.content.md": {
 "mimeType": "text/markdown",
-"size": 3419
+"size": 3421
 },
 "md/000215.content.md": {
 "mimeType": "text/markdown",
-"size": 2778
+"size": 2780
 },
 "md/000216.content.md": {
 "mimeType": "text/markdown",
-"size": 6944
+"size": 6946
 },
 "md/000217.content.md": {
 "mimeType": "text/markdown",
-"size": 6372
+"size": 6374
 },
 "md/000218.content.md": {
 "mimeType": "text/markdown",
-"size": 2341
+"size": 2343
 },
 "md/000219.content.md": {
 "mimeType": "text/markdown",
-"size": 2596
+"size": 2598
 },
 "md/000220.content.md": {
 "mimeType": "text/markdown",
-"size": 4275
+"size": 4277
 },
 "md/000221.content.md": {
 "mimeType": "text/markdown",
-"size": 3413
+"size": 3415
 },
 "md/000222.content.md": {
 "mimeType": "text/markdown",
-"size": 4978
+"size": 4980
 },
 "md/000223.content.md": {
 "mimeType": "text/markdown",
-"size": 4316
+"size": 4318
 },
 "md/000224.content.md": {
 "mimeType": "text/markdown",
-"size": 13087
+"size": 13089
 },
 "md/000225.content.md": {
 "mimeType": "text/markdown",
-"size": 13412
+"size": 13414
 },
 "md/000226.content.md": {
 "mimeType": "text/markdown",
-"size": 7070
+"size": 7072
 },
 "md/000227.content.md": {
 "mimeType": "text/markdown",
-"size": 10421
+"size": 10423
 },
 "md/000228.content.md": {
 "mimeType": "text/markdown",
-"size": 31977
+"size": 31979
 },
 "md/000229.content.md": {
 "mimeType": "text/markdown",
-"size": 19355
-},
-"pdf/000001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 5427920
+"size": 19357
 },
 "docx/000001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 420072
+"size": 420059
+},
+"pdf/000001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 10826046
 }
 },
 "copyright": {
@@ -1951,7 +1951,7 @@
 },
 "article_metadata": {
 "727655": {
-"content_id": 727655,
+"content_id": "727655",
 "reference_id": 26657,
 "index_reference": "बाइबलीय बिम्बविधान",
 "localizations": {
@@ -1993,9 +1993,9 @@
 }
 },
 "727656": {
-"content_id": 727656,
+"content_id": "727656",
 "reference_id": 26658,
-"index_reference": "बाइबलीय बिम्बविधान - जनावरहरू",
+"index_reference": "बाइबलीय बिम्बविधान  जनावरहरू",
 "localizations": {
 "eng": {
 "content_id": 33244,
@@ -2030,9 +2030,9 @@
 }
 },
 "727657": {
-"content_id": 727657,
+"content_id": "727657",
 "reference_id": 26659,
-"index_reference": "बाइबलीय बिम्बविधान - खेती",
+"index_reference": "बाइबलीय बिम्बविधान  खेती",
 "localizations": {
 "eng": {
 "content_id": 33245,
@@ -2067,9 +2067,9 @@
 }
 },
 "727658": {
-"content_id": 727658,
+"content_id": "727658",
 "reference_id": 26660,
-"index_reference": "बाइबलीय बिम्बविधान - शरीरका अङ्‍गहरू र मानवीय गुणहरू",
+"index_reference": "बाइबलीय बिम्बविधान  शरीरका अङ्‍गहरू र मानवीय गुणहरू",
 "localizations": {
 "eng": {
 "content_id": 33246,
@@ -2104,9 +2104,9 @@
 }
 },
 "727659": {
-"content_id": 727659,
+"content_id": "727659",
 "reference_id": 26661,
-"index_reference": "बाइबलीय बिम्बविधान - मानवीय व्यवहार",
+"index_reference": "बाइबलीय बिम्बविधान  मानवीय व्यवहार",
 "localizations": {
 "eng": {
 "content_id": 33247,
@@ -2141,9 +2141,9 @@
 }
 },
 "727660": {
-"content_id": 727660,
+"content_id": "727660",
 "reference_id": 26662,
-"index_reference": "बाइबलीय बिम्बविधान - मानव निर्मित वस्तुहरू",
+"index_reference": "बाइबलीय बिम्बविधान  मानव निर्मित वस्तुहरू",
 "localizations": {
 "eng": {
 "content_id": 33248,
@@ -2178,9 +2178,9 @@
 }
 },
 "727661": {
-"content_id": 727661,
+"content_id": "727661",
 "reference_id": 26663,
-"index_reference": "बाइबलीय बिम्बविधान - साझा ढाँचाहरू",
+"index_reference": "बाइबलीय बिम्बविधान  साझा ढाँचाहरू",
 "localizations": {
 "eng": {
 "content_id": 33249,
@@ -2215,9 +2215,9 @@
 }
 },
 "727662": {
-"content_id": 727662,
+"content_id": "727662",
 "reference_id": 26664,
-"index_reference": "बाइबलीय बिम्बविधान - साझा लक्षणाहरू",
+"index_reference": "बाइबलीय बिम्बविधान  साझा लक्षणाहरू",
 "localizations": {
 "eng": {
 "content_id": 33250,
@@ -2252,9 +2252,9 @@
 }
 },
 "727663": {
-"content_id": 727663,
+"content_id": "727663",
 "reference_id": 26665,
-"index_reference": "बाइबलीय बिम्बविधान - सांस्कृतिक नमुनाहरू",
+"index_reference": "बाइबलीय बिम्बविधान  सांस्कृतिक नमुनाहरू",
 "localizations": {
 "eng": {
 "content_id": 33251,
@@ -2289,9 +2289,9 @@
 }
 },
 "727664": {
-"content_id": 727664,
+"content_id": "727664",
 "reference_id": 26666,
-"index_reference": "बाइबलीय बिम्बविधान - प्राकृतिक घटनाहरू",
+"index_reference": "बाइबलीय बिम्बविधान  प्राकृतिक घटनाहरू",
 "localizations": {
 "eng": {
 "content_id": 33252,
@@ -2326,9 +2326,9 @@
 }
 },
 "727665": {
-"content_id": 727665,
+"content_id": "727665",
 "reference_id": 26667,
-"index_reference": "बाइबलीय बिम्बविधान - बोटबिरूवाहरू",
+"index_reference": "बाइबलीय बिम्बविधान  बोटबिरूवाहरू",
 "localizations": {
 "eng": {
 "content_id": 33253,
@@ -2363,7 +2363,7 @@
 }
 },
 "727666": {
-"content_id": 727666,
+"content_id": "727666",
 "reference_id": 26669,
 "index_reference": "अनुवाद समूहको छनौट",
 "localizations": {
@@ -2395,9 +2395,9 @@
 }
 },
 "727671": {
-"content_id": 727671,
+"content_id": "727671",
 "reference_id": 26670,
-"index_reference": "प्रथम, दोस्रो वा तेस्रो पुरुष",
+"index_reference": "प्रथम दोस्रो वा तेस्रो पुरुष",
 "localizations": {
 "eng": {
 "content_id": 33256,
@@ -2432,7 +2432,7 @@
 }
 },
 "727672": {
-"content_id": 727672,
+"content_id": "727672",
 "reference_id": 26671,
 "index_reference": "भाववाचक नाम",
 "localizations": {
@@ -2474,7 +2474,7 @@
 }
 },
 "727673": {
-"content_id": 727673,
+"content_id": "727673",
 "reference_id": 26672,
 "index_reference": "कर्तृवाच्य र कर्मवाच्य",
 "localizations": {
@@ -2516,7 +2516,7 @@
 }
 },
 "727674": {
-"content_id": 727674,
+"content_id": "727674",
 "reference_id": 26673,
 "index_reference": "सम्बोधन चिन्ह",
 "localizations": {
@@ -2553,7 +2553,7 @@
 }
 },
 "727675": {
-"content_id": 727675,
+"content_id": "727675",
 "reference_id": 26674,
 "index_reference": "असाइड",
 "localizations": {
@@ -2590,9 +2590,9 @@
 }
 },
 "727676": {
-"content_id": 727676,
+"content_id": "727676",
 "reference_id": 26677,
-"index_reference": "अभिव्यक्तिहरू - अन्य प्रयोगहरू",
+"index_reference": "अभिव्यक्तिहरू  अन्य प्रयोगहरू",
 "localizations": {
 "eng": {
 "content_id": 33263,
@@ -2627,7 +2627,7 @@
 }
 },
 "727677": {
-"content_id": 727677,
+"content_id": "727677",
 "reference_id": 26678,
 "index_reference": "जानकारी दिने वा स्मरण गराउने वाक्यांश बिच फरक",
 "localizations": {
@@ -2664,7 +2664,7 @@
 }
 },
 "727678": {
-"content_id": 727678,
+"content_id": "727678",
 "reference_id": 26679,
 "index_reference": "दोहोरो नकारात्मक",
 "localizations": {
@@ -2701,7 +2701,7 @@
 }
 },
 "727679": {
-"content_id": 727679,
+"content_id": "727679",
 "reference_id": 26680,
 "index_reference": "प्रतिरूपी",
 "localizations": {
@@ -2738,7 +2738,7 @@
 }
 },
 "727680": {
-"content_id": 727680,
+"content_id": "727680",
 "reference_id": 26681,
 "index_reference": "शब्दलोप",
 "localizations": {
@@ -2775,7 +2775,7 @@
 }
 },
 "727681": {
-"content_id": 727681,
+"content_id": "727681",
 "reference_id": 26682,
 "index_reference": "व्यञ्‍जना",
 "localizations": {
@@ -2812,7 +2812,7 @@
 }
 },
 "727682": {
-"content_id": 727682,
+"content_id": "727682",
 "reference_id": 26683,
 "index_reference": "घटनाक्रमहरू",
 "localizations": {
@@ -2849,7 +2849,7 @@
 }
 },
 "727683": {
-"content_id": 727683,
+"content_id": "727683",
 "reference_id": 26684,
 "index_reference": "विस्मयादि",
 "localizations": {
@@ -2886,9 +2886,9 @@
 }
 },
 "727684": {
-"content_id": 727684,
+"content_id": "727684",
 "reference_id": 26685,
-"index_reference": "\"हामी\" को समावेशी र असमावेशी रूप",
+"index_reference": "हामी को समावेशी र असमावेशी रूप",
 "localizations": {
 "eng": {
 "content_id": 33271,
@@ -2923,7 +2923,7 @@
 }
 },
 "727685": {
-"content_id": 727685,
+"content_id": "727685",
 "reference_id": 26686,
 "index_reference": "विस्तारित रूपक",
 "localizations": {
@@ -2960,7 +2960,7 @@
 }
 },
 "727686": {
-"content_id": 727686,
+"content_id": "727686",
 "reference_id": 26687,
 "index_reference": "ग्रहण गरिएको ज्ञान र अन्तर्निहित जानकारी",
 "localizations": {
@@ -3002,7 +3002,7 @@
 }
 },
 "727687": {
-"content_id": 727687,
+"content_id": "727687",
 "reference_id": 26688,
 "index_reference": "अनावश्यकप्रत्यक्ष जानकरीहरूलाई कतिबेला अस्वभाविक बनउने",
 "localizations": {
@@ -3039,7 +3039,7 @@
 }
 },
 "727688": {
-"content_id": 727688,
+"content_id": "727688",
 "reference_id": 26689,
 "index_reference": "अप्रत्यक्ष जानकारीलाई कहिले राख्ने",
 "localizations": {
@@ -3076,7 +3076,7 @@
 }
 },
 "727689": {
-"content_id": 727689,
+"content_id": "727689",
 "reference_id": 26690,
 "index_reference": "पुलिङ्गी शब्दहरूले स्त्रीलाई पनि जनाउने अवस्थाहरू",
 "localizations": {
@@ -3113,7 +3113,7 @@
 }
 },
 "727690": {
-"content_id": 727690,
+"content_id": "727690",
 "reference_id": 26691,
 "index_reference": "नाम प्रयोग भएका आम वाक्यांशहरू",
 "localizations": {
@@ -3150,7 +3150,7 @@
 }
 },
 "727691": {
-"content_id": 727691,
+"content_id": "727691",
 "reference_id": 26692,
 "index_reference": "जानु र आउनु",
 "localizations": {
@@ -3187,7 +3187,7 @@
 }
 },
 "727692": {
-"content_id": 727692,
+"content_id": "727692",
 "reference_id": 26693,
 "index_reference": "व्याकरण सम्बन्धि विषय",
 "localizations": {
@@ -3219,9 +3219,9 @@
 }
 },
 "727693": {
-"content_id": 727693,
+"content_id": "727693",
 "reference_id": 26694,
-"index_reference": "दुई शब्दको बिचमा 'र' राखेर एउटै विचार व्यक्त गर्ने अभिव्यञ्‍जना",
+"index_reference": "दुई शब्दको बिचमा र राखेर एउटै विचार व्यक्त गर्ने अभिव्यञ्‍जना",
 "localizations": {
 "eng": {
 "content_id": 33280,
@@ -3256,7 +3256,7 @@
 }
 },
 "727694": {
-"content_id": 727694,
+"content_id": "727694",
 "reference_id": 26695,
 "index_reference": "अतिशयोक्ति र सामान्यीकरण",
 "localizations": {
@@ -3293,9 +3293,9 @@
 }
 },
 "727695": {
-"content_id": 727695,
+"content_id": "727695",
 "reference_id": 26696,
-"index_reference": "काल्पनिक परिस्थितिहरू (प्राक्कल्पना)",
+"index_reference": "काल्पनिक परिस्थितिहरू प्राक्कल्पना",
 "localizations": {
 "eng": {
 "content_id": 33282,
@@ -3330,7 +3330,7 @@
 }
 },
 "727696": {
-"content_id": 727696,
+"content_id": "727696",
 "reference_id": 26697,
 "index_reference": "टुक्काहरू",
 "localizations": {
@@ -3367,9 +3367,9 @@
 }
 },
 "727697": {
-"content_id": 727697,
+"content_id": "727697",
 "reference_id": 26698,
-"index_reference": "आज्ञार्थका- अन्य प्रयोगहरू",
+"index_reference": "आज्ञार्थका अन्य प्रयोगहरू",
 "localizations": {
 "eng": {
 "content_id": 33284,
@@ -3399,7 +3399,7 @@
 }
 },
 "727700": {
-"content_id": 727700,
+"content_id": "727700",
 "reference_id": 26700,
 "index_reference": "जानकारी संरचना",
 "localizations": {
@@ -3436,7 +3436,7 @@
 }
 },
 "727701": {
-"content_id": 727701,
+"content_id": "727701",
 "reference_id": 26701,
 "index_reference": "अलङ्‍कारहरू",
 "localizations": {
@@ -3468,7 +3468,7 @@
 }
 },
 "727702": {
-"content_id": 727702,
+"content_id": "727702",
 "reference_id": 26702,
 "index_reference": "व्यङ्ग्य",
 "localizations": {
@@ -3505,7 +3505,7 @@
 }
 },
 "727703": {
-"content_id": 727703,
+"content_id": "727703",
 "reference_id": 26703,
 "index_reference": "व्यङ्ग्य",
 "localizations": {
@@ -3537,7 +3537,7 @@
 }
 },
 "727704": {
-"content_id": 727704,
+"content_id": "727704",
 "reference_id": 26704,
 "index_reference": "निषेधात्मक",
 "localizations": {
@@ -3574,7 +3574,7 @@
 }
 },
 "727705": {
-"content_id": 727705,
+"content_id": "727705",
 "reference_id": 26705,
 "index_reference": "मेरिज्म",
 "localizations": {
@@ -3611,7 +3611,7 @@
 }
 },
 "727706": {
-"content_id": 727706,
+"content_id": "727706",
 "reference_id": 26706,
 "index_reference": "रूपक",
 "localizations": {
@@ -3648,7 +3648,7 @@
 }
 },
 "727707": {
-"content_id": 727707,
+"content_id": "727707",
 "reference_id": 26707,
 "index_reference": "लक्षणा",
 "localizations": {
@@ -3685,7 +3685,7 @@
 }
 },
 "727708": {
-"content_id": 727708,
+"content_id": "727708",
 "reference_id": 26708,
 "index_reference": "नामको काम गर्ने विशेषण",
 "localizations": {
@@ -3722,7 +3722,7 @@
 }
 },
 "727709": {
-"content_id": 727709,
+"content_id": "727709",
 "reference_id": 26709,
 "index_reference": "शब्द क्रम",
 "localizations": {
@@ -3759,7 +3759,7 @@
 }
 },
 "727710": {
-"content_id": 727710,
+"content_id": "727710",
 "reference_id": 26712,
 "index_reference": "दृष्टान्त",
 "localizations": {
@@ -3791,7 +3791,7 @@
 }
 },
 "727711": {
-"content_id": 727711,
+"content_id": "727711",
 "reference_id": 26713,
 "index_reference": "समान्तरता",
 "localizations": {
@@ -3828,7 +3828,7 @@
 }
 },
 "727712": {
-"content_id": 727712,
+"content_id": "727712",
 "reference_id": 26714,
 "index_reference": "शब्दवर्ग",
 "localizations": {
@@ -3860,7 +3860,7 @@
 }
 },
 "727713": {
-"content_id": 727713,
+"content_id": "727713",
 "reference_id": 26715,
 "index_reference": "भविष्यवाणीयुक्त भूत",
 "localizations": {
@@ -3897,7 +3897,7 @@
 }
 },
 "727714": {
-"content_id": 727714,
+"content_id": "727714",
 "reference_id": 26716,
 "index_reference": "मानवीकरण",
 "localizations": {
@@ -3934,7 +3934,7 @@
 }
 },
 "727715": {
-"content_id": 727715,
+"content_id": "727715",
 "reference_id": 26717,
 "index_reference": "स्वामित्व",
 "localizations": {
@@ -3971,7 +3971,7 @@
 }
 },
 "727716": {
-"content_id": 727716,
+"content_id": "727716",
 "reference_id": 26718,
 "index_reference": "सर्वनामहरू",
 "localizations": {
@@ -4008,7 +4008,7 @@
 }
 },
 "727717": {
-"content_id": 727717,
+"content_id": "727717",
 "reference_id": 26719,
 "index_reference": "प्रत्यक्ष र अप्रत्यक्ष कथनहरू",
 "localizations": {
@@ -4045,7 +4045,7 @@
 }
 },
 "727718": {
-"content_id": 727718,
+"content_id": "727718",
 "reference_id": 26720,
 "index_reference": "उद्धरण चिन्हहरू",
 "localizations": {
@@ -4082,7 +4082,7 @@
 }
 },
 "727719": {
-"content_id": 727719,
+"content_id": "727719",
 "reference_id": 26721,
 "index_reference": "उद्धरणभित्रका उद्धरणहरू",
 "localizations": {
@@ -4114,7 +4114,7 @@
 }
 },
 "727720": {
-"content_id": 727720,
+"content_id": "727720",
 "reference_id": 26723,
 "index_reference": "निजवाचक सर्वनाम",
 "localizations": {
@@ -4151,7 +4151,7 @@
 }
 },
 "727721": {
-"content_id": 727721,
+"content_id": "727721",
 "reference_id": 26724,
 "index_reference": "आलङ्‍कारिक प्रश्‍न",
 "localizations": {
@@ -4188,7 +4188,7 @@
 }
 },
 "727722": {
-"content_id": 727722,
+"content_id": "727722",
 "reference_id": 26725,
 "index_reference": "वाक्य संरचना",
 "localizations": {
@@ -4220,7 +4220,7 @@
 }
 },
 "727723": {
-"content_id": 727723,
+"content_id": "727723",
 "reference_id": 26726,
 "index_reference": "वाक्यका प्रकारहरू",
 "localizations": {
@@ -4252,7 +4252,7 @@
 }
 },
 "727724": {
-"content_id": 727724,
+"content_id": "727724",
 "reference_id": 26728,
 "index_reference": "उपमा",
 "localizations": {
@@ -4289,7 +4289,7 @@
 }
 },
 "727725": {
-"content_id": 727725,
+"content_id": "727725",
 "reference_id": 26729,
 "index_reference": "उपलक्षण",
 "localizations": {
@@ -4326,7 +4326,7 @@
 }
 },
 "727727": {
-"content_id": 727727,
+"content_id": "727727",
 "reference_id": 26730,
 "index_reference": "क्रियापदहरू",
 "localizations": {
@@ -4358,7 +4358,7 @@
 }
 },
 "727728": {
-"content_id": 727728,
+"content_id": "727728",
 "reference_id": 26731,
 "index_reference": "तिमीका रूपहरू",
 "localizations": {
@@ -4395,7 +4395,7 @@
 }
 },
 "727729": {
-"content_id": 727729,
+"content_id": "727729",
 "reference_id": 26732,
 "index_reference": "समूहलाई जनाउने एकवचन सर्वनामहरू",
 "localizations": {
@@ -4432,9 +4432,9 @@
 }
 },
 "727730": {
-"content_id": 727730,
+"content_id": "727730",
 "reference_id": 26733,
-"index_reference": "\"तिमी\" शब्द - दोहोरो वा बहुवचन",
+"index_reference": "तिमी शब्द  दोहोरो वा बहुवचन",
 "localizations": {
 "eng": {
 "content_id": 33319,
@@ -4464,9 +4464,9 @@
 }
 },
 "727731": {
-"content_id": 727731,
+"content_id": "727731",
 "reference_id": 26734,
-"index_reference": "\"तिमी\" का रूपहरू - औपचारिक वा अनौपचारिक",
+"index_reference": "तिमी का रूपहरू  औपचारिक वा अनौपचारिक",
 "localizations": {
 "eng": {
 "content_id": 33320,
@@ -4496,9 +4496,9 @@
 }
 },
 "727732": {
-"content_id": 727732,
+"content_id": "727732",
 "reference_id": 26735,
-"index_reference": "\"तिमी\" का रूपहरू - एकवचन",
+"index_reference": "तिमी का रूपहरू  एकवचन",
 "localizations": {
 "eng": {
 "content_id": 33321,
@@ -4533,7 +4533,7 @@
 }
 },
 "727733": {
-"content_id": 727733,
+"content_id": "727733",
 "reference_id": 26736,
 "index_reference": "फाइल ढाँचाहरू",
 "localizations": {
@@ -4565,7 +4565,7 @@
 }
 },
 "727735": {
-"content_id": 727735,
+"content_id": "727735",
 "reference_id": 26737,
 "index_reference": "पहिलो खेस्रा बनाउने",
 "localizations": {
@@ -4597,7 +4597,7 @@
 }
 },
 "727740": {
-"content_id": 727740,
+"content_id": "727740",
 "reference_id": 26738,
 "index_reference": "सामूहिक संज्ञाहरू",
 "localizations": {
@@ -4629,9 +4629,9 @@
 }
 },
 "727741": {
-"content_id": 727741,
+"content_id": "727741",
 "reference_id": 26739,
-"index_reference": "जडान गर्नुहोस् - तथ्य सर्तहरूको विपरीत",
+"index_reference": "जडान गर्नुहोस्  तथ्य सर्तहरूको विपरीत",
 "localizations": {
 "eng": {
 "content_id": 33325,
@@ -4666,9 +4666,9 @@
 }
 },
 "727742": {
-"content_id": 727742,
+"content_id": "727742",
 "reference_id": 26742,
-"index_reference": "जडान - अपवाद खण्डहरू",
+"index_reference": "जडान  अपवाद खण्डहरू",
 "localizations": {
 "eng": {
 "content_id": 33328,
@@ -4703,9 +4703,9 @@
 }
 },
 "727743": {
-"content_id": 727743,
+"content_id": "727743",
 "reference_id": 26743,
-"index_reference": "जडान - विरोधावास सम्बन्ध",
+"index_reference": "जडान  विरोधावास सम्बन्ध",
 "localizations": {
 "eng": {
 "content_id": 33329,
@@ -4740,9 +4740,9 @@
 }
 },
 "727744": {
-"content_id": 727744,
+"content_id": "727744",
 "reference_id": 26744,
-"index_reference": "जडान - लक्ष्य (उद्देश्य) सम्बन्ध",
+"index_reference": "जडान  लक्ष्य उद्देश्य सम्बन्ध",
 "localizations": {
 "eng": {
 "content_id": 33330,
@@ -4777,9 +4777,9 @@
 }
 },
 "727745": {
-"content_id": 727745,
+"content_id": "727745",
 "reference_id": 26745,
-"index_reference": "जडान - कारण र परिणाम सम्बन्ध",
+"index_reference": "जडान  कारण र परिणाम सम्बन्ध",
 "localizations": {
 "eng": {
 "content_id": 33331,
@@ -4814,9 +4814,9 @@
 }
 },
 "727746": {
-"content_id": 727746,
+"content_id": "727746",
 "reference_id": 26747,
-"index_reference": "जडान - अनुक्रमिक समय सम्बन्ध",
+"index_reference": "जडान  अनुक्रमिक समय सम्बन्ध",
 "localizations": {
 "eng": {
 "content_id": 33333,
@@ -4851,7 +4851,7 @@
 }
 },
 "727747": {
-"content_id": 727747,
+"content_id": "727747",
 "reference_id": 26751,
 "index_reference": "ठ्याक्‍कै मिलेका अनुवादहरू बनाउनुहोस्",
 "localizations": {
@@ -4883,7 +4883,7 @@
 }
 },
 "727748": {
-"content_id": 727748,
+"content_id": "727748",
 "reference_id": 26752,
 "index_reference": "आधिकारिक अनुवादहरू बनाउनुहोस्",
 "localizations": {
@@ -4915,9 +4915,9 @@
 }
 },
 "727749": {
-"content_id": 727749,
+"content_id": "727749",
 "reference_id": 26753,
-"index_reference": "मण्‍डली-अनुमोदित अनुवादहरू बनाउनुहोस्",
+"index_reference": "मण्‍डलीअनुमोदित अनुवादहरू बनाउनुहोस्",
 "localizations": {
 "eng": {
 "content_id": 33339,
@@ -4947,7 +4947,7 @@
 }
 },
 "727750": {
-"content_id": 727750,
+"content_id": "727750",
 "reference_id": 26754,
 "index_reference": "स्‍पष्‍ट अनुवादहरू बनाउनुहोस्",
 "localizations": {
@@ -4979,7 +4979,7 @@
 }
 },
 "727751": {
-"content_id": 727751,
+"content_id": "727751",
 "reference_id": 26755,
 "index_reference": "समन्वयमा गरिएका अनुवादहरू बनाउनुहोस्",
 "localizations": {
@@ -5011,7 +5011,7 @@
 }
 },
 "727752": {
-"content_id": 727752,
+"content_id": "727752",
 "reference_id": 26756,
 "index_reference": "समान अनुवादहरू बनाउनुहोस्",
 "localizations": {
@@ -5043,7 +5043,7 @@
 }
 },
 "727753": {
-"content_id": 727753,
+"content_id": "727753",
 "reference_id": 26757,
 "index_reference": "विश्‍वासयोग्‍य अनुवादहरू बनाउनुहोस्",
 "localizations": {
@@ -5075,7 +5075,7 @@
 }
 },
 "727754": {
-"content_id": 727754,
+"content_id": "727754",
 "reference_id": 26758,
 "index_reference": "ऐतिहासिक अनुवादहरू बनाउनुहोस्",
 "localizations": {
@@ -5107,7 +5107,7 @@
 }
 },
 "727755": {
-"content_id": 727755,
+"content_id": "727755",
 "reference_id": 26759,
 "index_reference": "असल अनुवादका विशेषताहरू",
 "localizations": {
@@ -5139,7 +5139,7 @@
 }
 },
 "727756": {
-"content_id": 727756,
+"content_id": "727756",
 "reference_id": 26760,
 "index_reference": "स्वभाविक अनुवादहरू बनाउनुहोस्",
 "localizations": {
@@ -5171,7 +5171,7 @@
 }
 },
 "727757": {
-"content_id": 727757,
+"content_id": "727757",
 "reference_id": 26761,
 "index_reference": "निरन्तर अगाडि बढिरहने अनुवादहरू बनाउनुहोस्",
 "localizations": {
@@ -5203,7 +5203,7 @@
 }
 },
 "727758": {
-"content_id": 727758,
+"content_id": "727758",
 "reference_id": 26762,
 "index_reference": "परमेश्‍वरको पुत्र र परमेश्‍वर पिता",
 "localizations": {
@@ -5235,7 +5235,7 @@
 }
 },
 "727759": {
-"content_id": 727759,
+"content_id": "727759",
 "reference_id": 26763,
 "index_reference": "पुत्र र पिताको अनुवाद",
 "localizations": {
@@ -5272,7 +5272,7 @@
 }
 },
 "727782": {
-"content_id": 727782,
+"content_id": "727782",
 "reference_id": 26764,
 "index_reference": "अनुवादकका दक्षताहरू",
 "localizations": {
@@ -5304,9 +5304,9 @@
 }
 },
 "727783": {
-"content_id": 727783,
+"content_id": "727783",
 "reference_id": 26765,
-"index_reference": "वैकल्पिक अनुवाद सहितका टिप्पणीहरू (वैकल्पिक अनुवादः)",
+"index_reference": "वैकल्पिक अनुवाद सहितका टिप्पणीहरू वैकल्पिक अनुवादः",
 "localizations": {
 "eng": {
 "content_id": 33351,
@@ -5336,7 +5336,7 @@
 }
 },
 "727784": {
-"content_id": 727784,
+"content_id": "727784",
 "reference_id": 26766,
 "index_reference": "वैकल्पिक अर्थहरू भएका टिप्पणीहरू",
 "localizations": {
@@ -5368,7 +5368,7 @@
 }
 },
 "727785": {
-"content_id": 727785,
+"content_id": "727785",
 "reference_id": 26767,
 "index_reference": "यूएसटीबाट कसैको भनाइ समावेश गरिएका टिप्पणीहरू",
 "localizations": {
@@ -5400,7 +5400,7 @@
 }
 },
 "727786": {
-"content_id": 727786,
+"content_id": "727786",
 "reference_id": 26768,
 "index_reference": "टिप्पणीहरूमा सम्बन्धवाचक अभिव्यक्ती र सामान्य जानकारी",
 "localizations": {
@@ -5437,7 +5437,7 @@
 }
 },
 "727787": {
-"content_id": 727787,
+"content_id": "727787",
 "reference_id": 26769,
 "index_reference": "परिभषाहरू सहितका टिप्पणीहरू",
 "localizations": {
@@ -5469,7 +5469,7 @@
 }
 },
 "727788": {
-"content_id": 727788,
+"content_id": "727788",
 "reference_id": 26770,
 "index_reference": "व्याख्या गर्ने टिप्पणीहरू",
 "localizations": {
@@ -5501,7 +5501,7 @@
 }
 },
 "727789": {
-"content_id": 727789,
+"content_id": "727789",
 "reference_id": 26771,
 "index_reference": "अलङकार पहिचान गर्ने टिप्पणीहरू",
 "localizations": {
@@ -5533,7 +5533,7 @@
 }
 },
 "727790": {
-"content_id": 727790,
+"content_id": "727790",
 "reference_id": 26772,
 "index_reference": "प्रत्यक्ष र अप्रत्यक्ष उद्धरणहरूलाई पहिचान गर्ने टिप्पणीहरू",
 "localizations": {
@@ -5565,7 +5565,7 @@
 }
 },
 "727791": {
-"content_id": 727791,
+"content_id": "727791",
 "reference_id": 26773,
 "index_reference": "लिङ्क सहितका टिप्पणीहरू",
 "localizations": {
@@ -5597,7 +5597,7 @@
 }
 },
 "727792": {
-"content_id": 727792,
+"content_id": "727792",
 "reference_id": 26774,
 "index_reference": "लामो यूएलटी वाक्यांशहरूका लागि टिप्पणीहरू",
 "localizations": {
@@ -5629,7 +5629,7 @@
 }
 },
 "727793": {
-"content_id": 727793,
+"content_id": "727793",
 "reference_id": 26775,
 "index_reference": "सम्भावित अर्थ सहितका टिप्पणीहरू",
 "localizations": {
@@ -5661,7 +5661,7 @@
 }
 },
 "727794": {
-"content_id": 727794,
+"content_id": "727794",
 "reference_id": 26776,
 "index_reference": "अनुवाद प्रश्‍नहरूको प्रयोग",
 "localizations": {
@@ -5693,7 +5693,7 @@
 }
 },
 "727795": {
-"content_id": 727795,
+"content_id": "727795",
 "reference_id": 26777,
 "index_reference": "पर्यायवाची र समानार्थी वाक्यांशहरू सहितका टिप्पणीहरू",
 "localizations": {
@@ -5725,7 +5725,7 @@
 }
 },
 "727796": {
-"content_id": 727796,
+"content_id": "727796",
 "reference_id": 26778,
 "index_reference": "अनुवाद टिप्पणीहरूको प्रयोग",
 "localizations": {
@@ -5757,7 +5757,7 @@
 }
 },
 "727797": {
-"content_id": 727797,
+"content_id": "727797",
 "reference_id": 26779,
 "index_reference": "अनुवाद शब्दहरूको प्रयोग",
 "localizations": {
@@ -5789,9 +5789,9 @@
 }
 },
 "727805": {
-"content_id": 727805,
+"content_id": "727805",
 "reference_id": 26780,
-"index_reference": "तपाईंको बाइबल अनुवादको उद्देश्य कसरी राख्‍ने?",
+"index_reference": "तपाईंको बाइबल अनुवादको उद्देश्य कसरी राख्‍ने",
 "localizations": {
 "eng": {
 "content_id": 33366,
@@ -5826,7 +5826,7 @@
 }
 },
 "727806": {
-"content_id": 727806,
+"content_id": "727806",
 "reference_id": 26781,
 "index_reference": "वर्णमाला र हिज्जे सम्बन्धी नियम",
 "localizations": {
@@ -5868,7 +5868,7 @@
 }
 },
 "727807": {
-"content_id": 727807,
+"content_id": "727807",
 "reference_id": 26782,
 "index_reference": "वर्णमालाको विकास",
 "localizations": {
@@ -5910,7 +5910,7 @@
 }
 },
 "727808": {
-"content_id": 727808,
+"content_id": "727808",
 "reference_id": 26783,
 "index_reference": "बाइबलीय दुरी",
 "localizations": {
@@ -5942,7 +5942,7 @@
 }
 },
 "727809": {
-"content_id": 727809,
+"content_id": "727809",
 "reference_id": 26784,
 "index_reference": "बाइबलको संचरना",
 "localizations": {
@@ -5974,7 +5974,7 @@
 }
 },
 "727810": {
-"content_id": 727810,
+"content_id": "727810",
 "reference_id": 26786,
 "index_reference": "बाइबलीय पैसा",
 "localizations": {
@@ -6006,7 +6006,7 @@
 }
 },
 "727811": {
-"content_id": 727811,
+"content_id": "727811",
 "reference_id": 26787,
 "index_reference": "बाइबलीय आयतन",
 "localizations": {
@@ -6038,7 +6038,7 @@
 }
 },
 "727812": {
-"content_id": 727812,
+"content_id": "727812",
 "reference_id": 26788,
 "index_reference": "बाइबलीय तौल",
 "localizations": {
@@ -6070,7 +6070,7 @@
 }
 },
 "727813": {
-"content_id": 727813,
+"content_id": "727813",
 "reference_id": 26789,
 "index_reference": "अध्याय र पद सङ्ख्याहरू",
 "localizations": {
@@ -6102,7 +6102,7 @@
 }
 },
 "727815": {
-"content_id": 727815,
+"content_id": "727815",
 "reference_id": 26790,
 "index_reference": "पाठको अर्थ पत्ता लगाउने",
 "localizations": {
@@ -6134,7 +6134,7 @@
 }
 },
 "727816": {
-"content_id": 727816,
+"content_id": "727816",
 "reference_id": 26791,
 "index_reference": "अर्थमा आधारित अनुवाद",
 "localizations": {
@@ -6166,7 +6166,7 @@
 }
 },
 "727817": {
-"content_id": 727817,
+"content_id": "727817",
 "reference_id": 26792,
 "index_reference": "संरचना र अर्थ",
 "localizations": {
@@ -6198,7 +6198,7 @@
 }
 },
 "727818": {
-"content_id": 727818,
+"content_id": "727818",
 "reference_id": 26793,
 "index_reference": "संचरनाको महत्त्व",
 "localizations": {
@@ -6230,7 +6230,7 @@
 }
 },
 "727819": {
-"content_id": 727819,
+"content_id": "727819",
 "reference_id": 26794,
 "index_reference": "यूएलटी र यूएसटीमा भएका ढाँचाका सङ्केत चिन्हहरू",
 "localizations": {
@@ -6262,9 +6262,9 @@
 }
 },
 "727820": {
-"content_id": 727820,
+"content_id": "727820",
 "reference_id": 26795,
-"index_reference": "भाग-सङ्ख्याहरू",
+"index_reference": "भागसङ्ख्याहरू",
 "localizations": {
 "eng": {
 "content_id": 33381,
@@ -6294,7 +6294,7 @@
 }
 },
 "727821": {
-"content_id": 727821,
+"content_id": "727821",
 "reference_id": 26796,
 "index_reference": "हिब्रू महिनाहरू",
 "localizations": {
@@ -6326,7 +6326,7 @@
 }
 },
 "727822": {
-"content_id": 727822,
+"content_id": "727822",
 "reference_id": 26797,
 "index_reference": "अनुवादको लागि सहयोग",
 "localizations": {
@@ -6358,7 +6358,7 @@
 }
 },
 "727823": {
-"content_id": 727823,
+"content_id": "727823",
 "reference_id": 26799,
 "index_reference": "नातागोता",
 "localizations": {
@@ -6390,7 +6390,7 @@
 }
 },
 "727824": {
-"content_id": 727824,
+"content_id": "727824",
 "reference_id": 26800,
 "index_reference": "अर्थका तहहरू",
 "localizations": {
@@ -6422,7 +6422,7 @@
 }
 },
 "727825": {
-"content_id": 727825,
+"content_id": "727825",
 "reference_id": 26801,
 "index_reference": "अक्षरशः गरिएका अनुवादहरू",
 "localizations": {
@@ -6454,7 +6454,7 @@
 }
 },
 "727826": {
-"content_id": 727826,
+"content_id": "727826",
 "reference_id": 26802,
 "index_reference": "अनुवादको निर्देशन पुस्तिकाको परिचय",
 "localizations": {
@@ -6491,7 +6491,7 @@
 }
 },
 "727827": {
-"content_id": 727827,
+"content_id": "727827",
 "reference_id": 26803,
 "index_reference": "मूल पाण्‍डुलिपिहरू",
 "localizations": {
@@ -6523,7 +6523,7 @@
 }
 },
 "727828": {
-"content_id": 727828,
+"content_id": "727828",
 "reference_id": 26804,
 "index_reference": "अनुवादको बारेमा थप कुराहरू",
 "localizations": {
@@ -6555,7 +6555,7 @@
 }
 },
 "727829": {
-"content_id": 727829,
+"content_id": "727829",
 "reference_id": 26805,
 "index_reference": "नाउँहरूको अनुवाद कसरी गर्ने",
 "localizations": {
@@ -6592,7 +6592,7 @@
 }
 },
 "727830": {
-"content_id": 727830,
+"content_id": "727830",
 "reference_id": 26806,
 "index_reference": "सङ्ख्याहरू",
 "localizations": {
@@ -6624,7 +6624,7 @@
 }
 },
 "727831": {
-"content_id": 727831,
+"content_id": "727831",
 "reference_id": 26807,
 "index_reference": "क्रमसङ्ख्याहरू",
 "localizations": {
@@ -6661,7 +6661,7 @@
 }
 },
 "727832": {
-"content_id": 727832,
+"content_id": "727832",
 "reference_id": 26808,
 "index_reference": "मूल र स्रोत भाषाहरू",
 "localizations": {
@@ -6693,7 +6693,7 @@
 }
 },
 "727833": {
-"content_id": 727833,
+"content_id": "727833",
 "reference_id": 26810,
 "index_reference": "अक्षरशः रहेका अनुवादहरूका समस्याहरू",
 "localizations": {
@@ -6725,7 +6725,7 @@
 }
 },
 "727834": {
-"content_id": 727834,
+"content_id": "727834",
 "reference_id": 26811,
 "index_reference": "अनुवादको प्रक्रिया",
 "localizations": {
@@ -6757,7 +6757,7 @@
 }
 },
 "727835": {
-"content_id": 727835,
+"content_id": "727835",
 "reference_id": 26812,
 "index_reference": "अर्थलाई पुनः बताउने",
 "localizations": {
@@ -6789,9 +6789,9 @@
 }
 },
 "727836": {
-"content_id": 727836,
+"content_id": "727836",
 "reference_id": 26813,
-"index_reference": "प्रतिलिपि अधिकारहरू, अनुमतिपत्रहरू, र स्रोत खण्‍डहरू",
+"index_reference": "प्रतिलिपि अधिकारहरू अनुमतिपत्रहरू र स्रोत खण्‍डहरू",
 "localizations": {
 "eng": {
 "content_id": 33399,
@@ -6821,7 +6821,7 @@
 }
 },
 "727837": {
-"content_id": 727837,
+"content_id": "727837",
 "reference_id": 26814,
 "index_reference": "स्रोत खण्‍डको छनोट",
 "localizations": {
@@ -6853,7 +6853,7 @@
 }
 },
 "727838": {
-"content_id": 727838,
+"content_id": "727838",
 "reference_id": 26815,
 "index_reference": "स्रोत खण्‍डहरू र संस्करण सङ्ख्याहरू",
 "localizations": {
@@ -6885,7 +6885,7 @@
 }
 },
 "727839": {
-"content_id": 727839,
+"content_id": "727839",
 "reference_id": 26816,
 "index_reference": "प्रतीकात्मक कार्य",
 "localizations": {
@@ -6922,7 +6922,7 @@
 }
 },
 "727840": {
-"content_id": 727840,
+"content_id": "727840",
 "reference_id": 26818,
 "index_reference": "जान्‍नुपर्ने पदावलीहरू",
 "localizations": {
@@ -6954,7 +6954,7 @@
 }
 },
 "727841": {
-"content_id": 727841,
+"content_id": "727841",
 "reference_id": 26819,
 "index_reference": "खण्‍डमा भएका भिन्‍नताहरू",
 "localizations": {
@@ -6991,7 +6991,7 @@
 }
 },
 "727842": {
-"content_id": 727842,
+"content_id": "727842",
 "reference_id": 26820,
 "index_reference": "अर्थको लागि अनुवाद गर्नुहोस्",
 "localizations": {
@@ -7023,7 +7023,7 @@
 }
 },
 "727843": {
-"content_id": 727843,
+"content_id": "727843",
 "reference_id": 26821,
 "index_reference": "शब्दहरूलाई सार्ने वा सापटी लिने",
 "localizations": {
@@ -7055,7 +7055,7 @@
 }
 },
 "727844": {
-"content_id": 727844,
+"content_id": "727844",
 "reference_id": 26822,
 "index_reference": "अज्ञातहरूको अनुवाद गर्नुहोस्",
 "localizations": {
@@ -7092,7 +7092,7 @@
 }
 },
 "727846": {
-"content_id": 727846,
+"content_id": "727846",
 "reference_id": 26824,
 "index_reference": "पदका पुलहरू",
 "localizations": {
@@ -7129,7 +7129,7 @@
 }
 },
 "727847": {
-"content_id": 727847,
+"content_id": "727847",
 "reference_id": 26825,
 "index_reference": "शब्दको लागि शब्दको प्रतिस्थापन",
 "localizations": {
@@ -7161,9 +7161,9 @@
 }
 },
 "727848": {
-"content_id": 727848,
+"content_id": "727848",
 "reference_id": 26826,
-"index_reference": "अनुवाद भनेको के हो ?",
+"index_reference": "अनुवाद भनेको के हो ",
 "localizations": {
 "eng": {
 "content_id": 33412,
@@ -7193,7 +7193,7 @@
 }
 },
 "727850": {
-"content_id": 727850,
+"content_id": "727850",
 "reference_id": 26827,
 "index_reference": "पहिला के को अनुवाद गर्ने भनेर छान्‍ने",
 "localizations": {
@@ -7230,7 +7230,7 @@
 }
 },
 "727863": {
-"content_id": 727863,
+"content_id": "727863",
 "reference_id": 26828,
 "index_reference": "साङ्‍केतिक अगमवाणी",
 "localizations": {
@@ -7257,7 +7257,7 @@
 }
 },
 "727864": {
-"content_id": 727864,
+"content_id": "727864",
 "reference_id": 26829,
 "index_reference": "पृष्ठभूमिको जानकारी",
 "localizations": {
@@ -7294,7 +7294,7 @@
 }
 },
 "727866": {
-"content_id": 727866,
+"content_id": "727866",
 "reference_id": 26830,
 "index_reference": "तपाईंको भाषा लेख्नका गर्नुपर्ने लागि निर्णयहरू",
 "localizations": {
@@ -7326,7 +7326,7 @@
 }
 },
 "727867": {
-"content_id": 727867,
+"content_id": "727867",
 "reference_id": 26831,
 "index_reference": "कथाको समापन",
 "localizations": {
@@ -7358,7 +7358,7 @@
 }
 },
 "727868": {
-"content_id": 727868,
+"content_id": "727868",
 "reference_id": 26832,
 "index_reference": "लेखनका प्रकारहरू",
 "localizations": {
@@ -7390,7 +7390,7 @@
 }
 },
 "727869": {
-"content_id": 727869,
+"content_id": "727869",
 "reference_id": 26833,
 "index_reference": "नयाँ घटनाको परिचय",
 "localizations": {
@@ -7422,7 +7422,7 @@
 }
 },
 "727870": {
-"content_id": 727870,
+"content_id": "727870",
 "reference_id": 26835,
 "index_reference": "नयाँ र पुराना सहभागीहरूको परिचय",
 "localizations": {
@@ -7454,7 +7454,7 @@
 }
 },
 "727871": {
-"content_id": 727871,
+"content_id": "727871",
 "reference_id": 26836,
 "index_reference": "कविता",
 "localizations": {
@@ -7491,9 +7491,9 @@
 }
 },
 "727872": {
-"content_id": 727872,
+"content_id": "727872",
 "reference_id": 26838,
-"index_reference": "सर्वनामहरू - यिनीहरूको प्रयोग कहिले गर्ने",
+"index_reference": "सर्वनामहरू  यिनीहरूको प्रयोग कहिले गर्ने",
 "localizations": {
 "eng": {
 "content_id": 33424,
@@ -7528,7 +7528,7 @@
 }
 },
 "727873": {
-"content_id": 727873,
+"content_id": "727873",
 "reference_id": 26839,
 "index_reference": "हितोपदेश",
 "localizations": {
@@ -7565,7 +7565,7 @@
 }
 },
 "727874": {
-"content_id": 727874,
+"content_id": "727874",
 "reference_id": 26840,
 "index_reference": "उद्धारण र उद्धारण मार्जिनहरू",
 "localizations": {
@@ -7602,7 +7602,7 @@
 }
 },
 "727875": {
-"content_id": 727875,
+"content_id": "727875",
 "reference_id": 26841,
 "index_reference": "प्रतीकात्मक भाषा",
 "localizations": {
@@ -7639,7 +7639,7 @@
 }
 },
 "727647": {
-"content_id": 727647,
+"content_id": "727647",
 "reference_id": 209448,
 "index_reference": "स्वीकार्य शैली",
 "localizations": {
@@ -7681,7 +7681,7 @@
 }
 },
 "727648": {
-"content_id": 727648,
+"content_id": "727648",
 "reference_id": 209449,
 "index_reference": "शुद्धताको जाँच",
 "localizations": {
@@ -7718,7 +7718,7 @@
 }
 },
 "727650": {
-"content_id": 727650,
+"content_id": "727650",
 "reference_id": 209451,
 "index_reference": "उपयुक्त वर्णमाला",
 "localizations": {
@@ -7760,7 +7760,7 @@
 }
 },
 "727654": {
-"content_id": 727654,
+"content_id": "727654",
 "reference_id": 209452,
 "index_reference": "जाँचको अधिकार र प्रक्रिया",
 "localizations": {
@@ -7797,7 +7797,7 @@
 }
 },
 "727667": {
-"content_id": 727667,
+"content_id": "727667",
 "reference_id": 209453,
 "index_reference": "मण्डली नेतृत्वद्वारा गरिने जाँच",
 "localizations": {
@@ -7839,7 +7839,7 @@
 }
 },
 "727668": {
-"content_id": 727668,
+"content_id": "727668",
 "reference_id": 209454,
 "index_reference": "स्पष्ट अनुवाद",
 "localizations": {
@@ -7876,7 +7876,7 @@
 }
 },
 "727669": {
-"content_id": 727669,
+"content_id": "727669",
 "reference_id": 209455,
 "index_reference": "भाषा समुदायका निम्ति मूल्याङ्‍कन प्रश्‍नहरू",
 "localizations": {
@@ -7913,7 +7913,7 @@
 }
 },
 "727670": {
-"content_id": 727670,
+"content_id": "727670",
 "reference_id": 209456,
 "index_reference": "अनुवादको पूर्णता",
 "localizations": {
@@ -7950,7 +7950,7 @@
 }
 },
 "727734": {
-"content_id": 727734,
+"content_id": "727734",
 "reference_id": 209457,
 "index_reference": "उत्तरहरू पत्ता लगाउने",
 "localizations": {
@@ -7987,7 +7987,7 @@
 }
 },
 "727736": {
-"content_id": 727736,
+"content_id": "727736",
 "reference_id": 209458,
 "index_reference": "ढाँचाको जाँच कसरी गर्ने",
 "localizations": {
@@ -8024,7 +8024,7 @@
 }
 },
 "727737": {
-"content_id": 727737,
+"content_id": "727737",
 "reference_id": 209459,
 "index_reference": "गेटवे भाषाहरूको रणनीति",
 "localizations": {
@@ -8061,7 +8061,7 @@
 }
 },
 "727738": {
-"content_id": 727738,
+"content_id": "727738",
 "reference_id": 209460,
 "index_reference": "जाँचको लक्ष्य्य",
 "localizations": {
@@ -8098,7 +8098,7 @@
 }
 },
 "727739": {
-"content_id": 727739,
+"content_id": "727739",
 "reference_id": 209461,
 "index_reference": "तह २ पुष्टि",
 "localizations": {
@@ -8140,7 +8140,7 @@
 }
 },
 "727760": {
-"content_id": 727760,
+"content_id": "727760",
 "reference_id": 209462,
 "index_reference": "खण्डका शीर्षकहरू",
 "localizations": {
@@ -8177,7 +8177,7 @@
 }
 },
 "727761": {
-"content_id": 727761,
+"content_id": "727761",
 "reference_id": 209463,
 "index_reference": "शब्द अनुवादको जाँच",
 "localizations": {
@@ -8214,9 +8214,9 @@
 }
 },
 "727762": {
-"content_id": 727762,
+"content_id": "727762",
 "reference_id": 209464,
-"index_reference": "जाँच निर्देशन (नियमावली) को परिचय",
+"index_reference": "जाँच निर्देशन नियमावली को परिचय",
 "localizations": {
 "eng": {
 "content_id": 689644,
@@ -8251,7 +8251,7 @@
 }
 },
 "727763": {
-"content_id": 727763,
+"content_id": "727763",
 "reference_id": 209465,
 "index_reference": "अनुवाद जाँचको परिचय",
 "localizations": {
@@ -8288,7 +8288,7 @@
 }
 },
 "727765": {
-"content_id": 727765,
+"content_id": "727765",
 "reference_id": 209466,
 "index_reference": "प्रकाशन परिचय",
 "localizations": {
@@ -8325,7 +8325,7 @@
 }
 },
 "727766": {
-"content_id": 727766,
+"content_id": "727766",
 "reference_id": 209467,
 "index_reference": "वितरणको परिचय",
 "localizations": {
@@ -8362,7 +8362,7 @@
 }
 },
 "727767": {
-"content_id": 727767,
+"content_id": "727767",
 "reference_id": 209468,
 "index_reference": "भाषा समुदायको जाँच",
 "localizations": {
@@ -8399,7 +8399,7 @@
 }
 },
 "727772": {
-"content_id": 727772,
+"content_id": "727772",
 "reference_id": 209469,
 "index_reference": "तह ३ को अनुमोदन",
 "localizations": {
@@ -8436,7 +8436,7 @@
 }
 },
 "727773": {
-"content_id": 727773,
+"content_id": "727773",
 "reference_id": 209470,
 "index_reference": "तह तीनको जाँचका निम्ती प्रश्‍नहरू",
 "localizations": {
@@ -8473,7 +8473,7 @@
 }
 },
 "727774": {
-"content_id": 727774,
+"content_id": "727774",
 "reference_id": 209471,
 "index_reference": "स्वभाविक अनुवाद",
 "localizations": {
@@ -8510,7 +8510,7 @@
 }
 },
 "727775": {
-"content_id": 727775,
+"content_id": "727775",
 "reference_id": 209472,
 "index_reference": "खुला अनुमति पत्र",
 "localizations": {
@@ -8547,7 +8547,7 @@
 }
 },
 "727776": {
-"content_id": 727776,
+"content_id": "727776",
 "reference_id": 209473,
 "index_reference": "अन्य तरिकाहरू",
 "localizations": {
@@ -8584,7 +8584,7 @@
 }
 },
 "727777": {
-"content_id": 727777,
+"content_id": "727777",
 "reference_id": 209474,
 "index_reference": "सहपाठीसँग गरिने मौखिक जाँच",
 "localizations": {
@@ -8621,9 +8621,9 @@
 }
 },
 "727778": {
-"content_id": 727778,
+"content_id": "727778",
 "reference_id": 209475,
-"index_reference": "मंच (platform) को छनौट",
+"index_reference": "मंच platform को छनौट",
 "localizations": {
 "eng": {
 "content_id": 689655,
@@ -8658,7 +8658,7 @@
 }
 },
 "727779": {
-"content_id": 727779,
+"content_id": "727779",
 "reference_id": 209476,
 "index_reference": "जाँच सुरु हुनुअघिको तालिम",
 "localizations": {
@@ -8695,7 +8695,7 @@
 }
 },
 "727780": {
-"content_id": 727780,
+"content_id": "727780",
 "reference_id": 209477,
 "index_reference": "अनुवाद सुरु गर्नुअघिको तालिम",
 "localizations": {
@@ -8732,7 +8732,7 @@
 }
 },
 "727781": {
-"content_id": 727781,
+"content_id": "727781",
 "reference_id": 209480,
 "index_reference": "विराम चिन्हको एकरूपता",
 "localizations": {
@@ -8769,7 +8769,7 @@
 }
 },
 "727798": {
-"content_id": 727798,
+"content_id": "727798",
 "reference_id": 209481,
 "index_reference": "आफैंले गरिने जाँचको फाराम",
 "localizations": {
@@ -8806,7 +8806,7 @@
 }
 },
 "727800": {
-"content_id": 727800,
+"content_id": "727800",
 "reference_id": 209485,
 "index_reference": "सामाग्रीलाई कसरी सेयर गर्ने",
 "localizations": {
@@ -8843,7 +8843,7 @@
 }
 },
 "727802": {
-"content_id": 727802,
+"content_id": "727802",
 "reference_id": 209486,
 "index_reference": "हिज्‍जेको एकरूपता",
 "localizations": {
@@ -8880,7 +8880,7 @@
 }
 },
 "727803": {
-"content_id": 727803,
+"content_id": "727803",
 "reference_id": 209487,
 "index_reference": "विश्‍वासको अभिव्यक्ति",
 "localizations": {
@@ -8917,7 +8917,7 @@
 }
 },
 "727804": {
-"content_id": 727804,
+"content_id": "727804",
 "reference_id": 209488,
 "index_reference": "अनुवादएकेडेमीको परिचय",
 "localizations": {
@@ -8954,9 +8954,9 @@
 }
 },
 "727849": {
-"content_id": 727849,
+"content_id": "727849",
 "reference_id": 209491,
-"index_reference": "हामी किन बाइबल अनुवाद गर्छौँ?",
+"index_reference": "हामी किन बाइबल अनुवाद गर्छौँ",
 "localizations": {
 "eng": {
 "content_id": 689671,
@@ -8991,7 +8991,7 @@
 }
 },
 "727851": {
-"content_id": 727851,
+"content_id": "727851",
 "reference_id": 209492,
 "index_reference": "अनुवाद मार्गनिर्देशनहरू",
 "localizations": {
@@ -9028,7 +9028,7 @@
 }
 },
 "727852": {
-"content_id": 727852,
+"content_id": "727852",
 "reference_id": 209494,
 "index_reference": "वचन प्रकटीकरण परियोजना",
 "localizations": {
@@ -9065,7 +9065,7 @@
 }
 },
 "727853": {
-"content_id": 727853,
+"content_id": "727853",
 "reference_id": 209495,
 "index_reference": "पदहरूको पूर्ण विन्यास",
 "localizations": {
@@ -9102,7 +9102,7 @@
 }
 },
 "727854": {
-"content_id": 727854,
+"content_id": "727854",
 "reference_id": 209496,
 "index_reference": "वापस अनुवाद",
 "localizations": {
@@ -9144,7 +9144,7 @@
 }
 },
 "727855": {
-"content_id": 727855,
+"content_id": "727855",
 "reference_id": 209497,
 "index_reference": "असल वापस अनुवाद सृजनाको निम्ति मार्गनिर्देशनहरू",
 "localizations": {
@@ -9181,7 +9181,7 @@
 }
 },
 "727856": {
-"content_id": 727856,
+"content_id": "727856",
 "reference_id": 209498,
 "index_reference": "वापस अनुवादका किसिमहरू",
 "localizations": {
@@ -9218,7 +9218,7 @@
 }
 },
 "727857": {
-"content_id": 727857,
+"content_id": "727857",
 "reference_id": 209499,
 "index_reference": "वापस अनुवादको उद्देश्य",
 "localizations": {
@@ -9255,7 +9255,7 @@
 }
 },
 "727858": {
-"content_id": 727858,
+"content_id": "727858",
 "reference_id": 209500,
 "index_reference": "वापस अनुवादक",
 "localizations": {
@@ -9292,7 +9292,7 @@
 }
 },
 "727859": {
-"content_id": 727859,
+"content_id": "727859",
 "reference_id": 209501,
 "index_reference": "वापस अनुवादका प्रकारहरू",
 "localizations": {
@@ -9329,7 +9329,7 @@
 }
 },
 "727861": {
-"content_id": 727861,
+"content_id": "727861",
 "reference_id": 209502,
 "index_reference": "अनुवाद जाँचका चरणहरू",
 "localizations": {
@@ -9366,7 +9366,7 @@
 }
 },
 "727862": {
-"content_id": 727862,
+"content_id": "727862",
 "reference_id": 209503,
 "index_reference": "कस्ता किसिमका कुराहरूको जाँच गर्ने",
 "localizations": {
@@ -9403,7 +9403,7 @@
 }
 },
 "727649": {
-"content_id": 727649,
+"content_id": "727649",
 "reference_id": 209690,
 "index_reference": "शुद्ध वा सही अनुवाद",
 "localizations": {
@@ -9415,7 +9415,7 @@
 }
 },
 "727651": {
-"content_id": 727651,
+"content_id": "727651",
 "reference_id": 209691,
 "index_reference": "अधिकार तह १",
 "localizations": {
@@ -9427,7 +9427,7 @@
 }
 },
 "727652": {
-"content_id": 727652,
+"content_id": "727652",
 "reference_id": 209692,
 "index_reference": "अधिकार तह २",
 "localizations": {
@@ -9439,7 +9439,7 @@
 }
 },
 "727653": {
-"content_id": 727653,
+"content_id": "727653",
 "reference_id": 209693,
 "index_reference": "अधिकार तह ३",
 "localizations": {
@@ -9451,7 +9451,7 @@
 }
 },
 "727764": {
-"content_id": 727764,
+"content_id": "727764",
 "reference_id": 209694,
 "index_reference": "जाँचका तहहरूको परिचय",
 "localizations": {
@@ -9463,9 +9463,9 @@
 }
 },
 "727768": {
-"content_id": 727768,
+"content_id": "727768",
 "reference_id": 209695,
-"index_reference": "जाँच तह एक - अनुवाद समुदायबाट गरिने पुष्टि",
+"index_reference": "जाँच तह एक  अनुवाद समुदायबाट गरिने पुष्टि",
 "localizations": {
 "hin": {
 "content_id": 727284,
@@ -9475,7 +9475,7 @@
 }
 },
 "727769": {
-"content_id": 727769,
+"content_id": "727769",
 "reference_id": 209696,
 "index_reference": "तह १ को पुष्टि",
 "localizations": {
@@ -9487,9 +9487,9 @@
 }
 },
 "727770": {
-"content_id": 727770,
+"content_id": "727770",
 "reference_id": 209697,
-"index_reference": "तह दुईको जाँच - समुदायबाट गरिने पुष्टि",
+"index_reference": "तह दुईको जाँच  समुदायबाट गरिने पुष्टि",
 "localizations": {
 "hin": {
 "content_id": 727286,
@@ -9499,9 +9499,9 @@
 }
 },
 "727771": {
-"content_id": 727771,
+"content_id": "727771",
 "reference_id": 209698,
-"index_reference": "तह तीनको जाँच - मण्डलीको नेतृत्वबाट गरिने पुष्टि",
+"index_reference": "तह तीनको जाँच  मण्डलीको नेतृत्वबाट गरिने पुष्टि",
 "localizations": {
 "hin": {
 "content_id": 727287,
@@ -9511,7 +9511,7 @@
 }
 },
 "727799": {
-"content_id": 727799,
+"content_id": "727799",
 "reference_id": 209699,
 "index_reference": "आफैंले गर्ने जाँच",
 "localizations": {
@@ -9523,9 +9523,9 @@
 }
 },
 "727860": {
-"content_id": 727860,
+"content_id": "727860",
 "reference_id": 209700,
-"index_reference": "### कुनै खण्डको सामूहिक मौखिक जाँच",
+"index_reference": " कुनै खण्डको सामूहिक मौखिक जाँच",
 "localizations": {
 "hin": {
 "content_id": 727289,
@@ -9535,9 +9535,9 @@
 }
 },
 "727698": {
-"content_id": 727698,
+"content_id": "727698",
 "reference_id": 209701,
-"index_reference": "समावेशी “हामी”",
+"index_reference": "समावेशी हामी",
 "localizations": {
 "hin": {
 "content_id": 727475,
@@ -9552,7 +9552,7 @@
 }
 },
 "727699": {
-"content_id": 727699,
+"content_id": "727699",
 "reference_id": 209702,
 "index_reference": "जानकारी दिने र सम्झाउने वाक्यांशहरू",
 "localizations": {
@@ -9569,7 +9569,7 @@
 }
 },
 "727726": {
-"content_id": 727726,
+"content_id": "727726",
 "reference_id": 209703,
 "index_reference": "उस्तै अर्थ भएका समानान्तरता",
 "localizations": {
@@ -9586,7 +9586,7 @@
 }
 },
 "727801": {
-"content_id": 727801,
+"content_id": "727801",
 "reference_id": 209705,
 "index_reference": "स्रोत पाठ प्रक्रिया",
 "localizations": {
@@ -9598,7 +9598,7 @@
 }
 },
 "727814": {
-"content_id": 727814,
+"content_id": "727814",
 "reference_id": 209706,
 "index_reference": "दशमलब सङ्ख्या",
 "localizations": {
@@ -9610,7 +9610,7 @@
 }
 },
 "727845": {
-"content_id": 727845,
+"content_id": "727845",
 "reference_id": 209707,
 "index_reference": "बाइबललाई अनुवाद गर्दा यूएलटी र यूएसटीलाई कसरी प्रयोग गर्ने",
 "localizations": {
@@ -9622,7 +9622,7 @@
 }
 },
 "727865": {
-"content_id": 727865,
+"content_id": "727865",
 "reference_id": 209709,
 "index_reference": "संयोजक शब्दहरू",
 "localizations": {

@@ -4,7 +4,7 @@
 "resource_type": "Bible Translation Manual",
 "title": "unfoldingWord® Translation Academy",
 "aquifer_name": "Manual Terjemahan (unfoldingWord)",
-"version": "1.0.1",
+"version": "1.1.2",
 "collection_title": "Translation Manual (unfoldingWord)",
 "short_name": "UWTM",
 "license_info": {
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>unfoldingWord® Translation Academy</b> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license. <cite>unfoldingWord® Translation Academy</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from <cite>unfoldingWord® Translation Academy</cite> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license by Mission Mutual",
 "resource_code": "UWTranslationManual",
-"date_created": "2025-12-05",
+"date_created": "2026-03-30",
 "language": "ind",
 "localizations": [
 "eng",
@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2025-12-05T06:33:07.794041"
+"dateCreated": "2026-03-30T09:31:19.467843"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "UWTranslationManual": {
-"timestamp": "2025-12-05T06:33:07.794041"
+"timestamp": "2026-03-30T09:31:19.467843"
 }
 }
 },
@@ -95,1179 +95,1179 @@
 "ingredients": {
 "json/000001.content.json": {
 "mimeType": "text/json",
-"size": 11015
+"size": 10489
 },
 "json/000002.content.json": {
 "mimeType": "text/json",
-"size": 7026
+"size": 6826
 },
 "json/000003.content.json": {
 "mimeType": "text/json",
-"size": 6811
+"size": 6612
 },
 "json/000004.content.json": {
 "mimeType": "text/json",
-"size": 13768
+"size": 13505
 },
 "json/000005.content.json": {
 "mimeType": "text/json",
-"size": 20191
+"size": 19926
 },
 "json/000006.content.json": {
 "mimeType": "text/json",
-"size": 6018
+"size": 5821
 },
 "json/000007.content.json": {
 "mimeType": "text/json",
-"size": 10103
+"size": 9444
 },
 "json/000008.content.json": {
 "mimeType": "text/json",
-"size": 4925
+"size": 4794
 },
 "json/000009.content.json": {
 "mimeType": "text/json",
-"size": 13295
+"size": 13161
 },
 "json/000010.content.json": {
 "mimeType": "text/json",
-"size": 9316
+"size": 9119
 },
 "json/000011.content.json": {
 "mimeType": "text/json",
-"size": 9306
+"size": 9109
 },
 "json/000012.content.json": {
 "mimeType": "text/json",
-"size": 8806
+"size": 7751
 },
 "json/000013.content.json": {
 "mimeType": "text/json",
-"size": 86468
+"size": 60268
 },
 "json/000014.content.json": {
 "mimeType": "text/json",
-"size": 57438
+"size": 40676
 },
 "json/000015.content.json": {
 "mimeType": "text/json",
-"size": 8006
+"size": 7281
 },
 "json/000016.content.json": {
 "mimeType": "text/json",
-"size": 13119
+"size": 11801
 },
 "json/000017.content.json": {
 "mimeType": "text/json",
-"size": 14468
+"size": 12490
 },
 "json/000018.content.json": {
 "mimeType": "text/json",
-"size": 19620
+"size": 14868
 },
 "json/000019.content.json": {
 "mimeType": "text/json",
-"size": 24978
+"size": 19038
 },
 "json/000020.content.json": {
 "mimeType": "text/json",
-"size": 6197
+"size": 5405
 },
 "json/000021.content.json": {
 "mimeType": "text/json",
-"size": 8311
+"size": 7785
 },
 "json/000022.content.json": {
 "mimeType": "text/json",
-"size": 7440
+"size": 6980
 },
 "json/000023.content.json": {
 "mimeType": "text/json",
-"size": 17882
+"size": 13326
 },
 "json/000024.content.json": {
 "mimeType": "text/json",
-"size": 11801
+"size": 11406
 },
 "json/000025.content.json": {
 "mimeType": "text/json",
-"size": 131239
+"size": 91839
 },
 "json/000026.content.json": {
 "mimeType": "text/json",
-"size": 8989
+"size": 8265
 },
 "json/000027.content.json": {
 "mimeType": "text/json",
-"size": 5591
+"size": 4933
 },
 "json/000028.content.json": {
 "mimeType": "text/json",
-"size": 17258
+"size": 13564
 },
 "json/000029.content.json": {
 "mimeType": "text/json",
-"size": 7712
+"size": 6592
 },
 "json/000030.content.json": {
 "mimeType": "text/json",
-"size": 15575
+"size": 12343
 },
 "json/000031.content.json": {
 "mimeType": "text/json",
-"size": 11673
+"size": 9761
 },
 "json/000032.content.json": {
 "mimeType": "text/json",
-"size": 20079
+"size": 17243
 },
 "json/000033.content.json": {
 "mimeType": "text/json",
-"size": 10367
+"size": 9641
 },
 "json/000034.content.json": {
 "mimeType": "text/json",
-"size": 47936
+"size": 33946
 },
 "json/000035.content.json": {
 "mimeType": "text/json",
-"size": 2152
+"size": 1626
 },
 "json/000036.content.json": {
 "mimeType": "text/json",
-"size": 12879
+"size": 10769
 },
 "json/000037.content.json": {
 "mimeType": "text/json",
-"size": 9308
+"size": 9046
 },
 "json/000038.content.json": {
 "mimeType": "text/json",
-"size": 5531
+"size": 5005
 },
 "json/000039.content.json": {
 "mimeType": "text/json",
-"size": 4983
+"size": 4589
 },
 "json/000040.content.json": {
 "mimeType": "text/json",
-"size": 111770
+"size": 82402
 },
 "json/000041.content.json": {
 "mimeType": "text/json",
-"size": 32186
+"size": 23146
 },
 "json/000042.content.json": {
 "mimeType": "text/json",
-"size": 14996
+"size": 11236
 },
 "json/000043.content.json": {
 "mimeType": "text/json",
-"size": 4654
+"size": 4596
 },
 "json/000044.content.json": {
 "mimeType": "text/json",
-"size": 12904
+"size": 11586
 },
 "json/000045.content.json": {
 "mimeType": "text/json",
-"size": 5159
+"size": 4831
 },
 "json/000046.content.json": {
 "mimeType": "text/json",
-"size": 12475
+"size": 9969
 },
 "json/000047.content.json": {
 "mimeType": "text/json",
-"size": 34277
+"size": 26359
 },
 "json/000048.content.json": {
 "mimeType": "text/json",
-"size": 7185
+"size": 6527
 },
 "json/000049.content.json": {
 "mimeType": "text/json",
-"size": 11487
+"size": 9641
 },
 "json/000050.content.json": {
 "mimeType": "text/json",
-"size": 9912
+"size": 9518
 },
 "json/000051.content.json": {
 "mimeType": "text/json",
-"size": 9113
+"size": 8587
 },
 "json/000052.content.json": {
 "mimeType": "text/json",
-"size": 18517
+"size": 16077
 },
 "json/000053.content.json": {
 "mimeType": "text/json",
-"size": 9965
+"size": 8911
 },
 "json/000054.content.json": {
 "mimeType": "text/json",
-"size": 9211
+"size": 7101
 },
 "json/000055.content.json": {
 "mimeType": "text/json",
-"size": 4410
+"size": 3818
 },
 "json/000056.content.json": {
 "mimeType": "text/json",
-"size": 6819
+"size": 6761
 },
 "json/000057.content.json": {
 "mimeType": "text/json",
-"size": 12068
+"size": 10147
 },
 "json/000058.content.json": {
 "mimeType": "text/json",
-"size": 12706
+"size": 11718
 },
 "json/000059.content.json": {
 "mimeType": "text/json",
-"size": 10572
+"size": 10310
 },
 "json/000060.content.json": {
 "mimeType": "text/json",
-"size": 9042
+"size": 7855
 },
 "json/000061.content.json": {
 "mimeType": "text/json",
-"size": 6383
+"size": 6054
 },
 "json/000062.content.json": {
 "mimeType": "text/json",
-"size": 7570
+"size": 6845
 },
 "json/000063.content.json": {
 "mimeType": "text/json",
-"size": 13856
+"size": 11083
 },
 "json/000064.content.json": {
 "mimeType": "text/json",
-"size": 17246
+"size": 14077
 },
 "json/000065.content.json": {
 "mimeType": "text/json",
-"size": 35755
+"size": 26252
 },
 "json/000066.content.json": {
 "mimeType": "text/json",
-"size": 9251
+"size": 8922
 },
 "json/000067.content.json": {
 "mimeType": "text/json",
-"size": 8639
+"size": 7782
 },
 "json/000068.content.json": {
 "mimeType": "text/json",
-"size": 8581
+"size": 7592
 },
 "json/000069.content.json": {
 "mimeType": "text/json",
-"size": 35104
+"size": 28308
 },
 "json/000070.content.json": {
 "mimeType": "text/json",
-"size": 8879
+"size": 7755
 },
 "json/000071.content.json": {
 "mimeType": "text/json",
-"size": 7274
+"size": 7216
 },
 "json/000072.content.json": {
 "mimeType": "text/json",
-"size": 4610
+"size": 4551
 },
 "json/000073.content.json": {
 "mimeType": "text/json",
-"size": 9611
+"size": 9553
 },
 "json/000074.content.json": {
 "mimeType": "text/json",
-"size": 10655
+"size": 9205
 },
 "json/000075.content.json": {
 "mimeType": "text/json",
-"size": 10070
+"size": 9016
 },
 "json/000076.content.json": {
 "mimeType": "text/json",
-"size": 1924
+"size": 1866
 },
 "json/000077.content.json": {
 "mimeType": "text/json",
-"size": 22173
+"size": 18479
 },
 "json/000078.content.json": {
 "mimeType": "text/json",
-"size": 6342
+"size": 6146
 },
 "json/000079.content.json": {
 "mimeType": "text/json",
-"size": 7986
+"size": 7064
 },
 "json/000080.content.json": {
 "mimeType": "text/json",
-"size": 12657
+"size": 12197
 },
 "json/000081.content.json": {
 "mimeType": "text/json",
-"size": 12434
+"size": 10192
 },
 "json/000082.content.json": {
 "mimeType": "text/json",
-"size": 31932
+"size": 23948
 },
 "json/000083.content.json": {
 "mimeType": "text/json",
-"size": 6515
+"size": 5857
 },
 "json/000084.content.json": {
 "mimeType": "text/json",
-"size": 12731
+"size": 11545
 },
 "json/000085.content.json": {
 "mimeType": "text/json",
-"size": 9083
+"size": 8557
 },
 "json/000086.content.json": {
 "mimeType": "text/json",
-"size": 10352
+"size": 10090
 },
 "json/000087.content.json": {
 "mimeType": "text/json",
-"size": 35508
+"size": 26465
 },
 "json/000088.content.json": {
 "mimeType": "text/json",
-"size": 7202
+"size": 6676
 },
 "json/000089.content.json": {
 "mimeType": "text/json",
-"size": 9256
+"size": 7938
 },
 "json/000090.content.json": {
 "mimeType": "text/json",
-"size": 6458
+"size": 6400
 },
 "json/000091.content.json": {
 "mimeType": "text/json",
-"size": 2014
+"size": 1956
 },
 "json/000092.content.json": {
 "mimeType": "text/json",
-"size": 11048
+"size": 10654
 },
 "json/000093.content.json": {
 "mimeType": "text/json",
-"size": 11809
+"size": 11481
 },
 "json/000094.content.json": {
 "mimeType": "text/json",
-"size": 1773
+"size": 1715
 },
 "json/000095.content.json": {
 "mimeType": "text/json",
-"size": 2908
+"size": 2850
 },
 "json/000096.content.json": {
 "mimeType": "text/json",
-"size": 4340
+"size": 3946
 },
 "json/000097.content.json": {
 "mimeType": "text/json",
-"size": 3219
+"size": 3089
 },
 "json/000098.content.json": {
 "mimeType": "text/json",
-"size": 2763
+"size": 2705
 },
 "json/000099.content.json": {
 "mimeType": "text/json",
-"size": 2299
+"size": 2169
 },
 "json/000100.content.json": {
 "mimeType": "text/json",
-"size": 2861
+"size": 2533
 },
 "json/000101.content.json": {
 "mimeType": "text/json",
-"size": 3633
+"size": 3239
 },
 "json/000102.content.json": {
 "mimeType": "text/json",
-"size": 2753
+"size": 2693
 },
 "json/000103.content.json": {
 "mimeType": "text/json",
-"size": 3593
+"size": 3535
 },
 "json/000104.content.json": {
 "mimeType": "text/json",
-"size": 1485
+"size": 1427
 },
 "json/000105.content.json": {
 "mimeType": "text/json",
-"size": 4552
+"size": 4494
 },
 "json/000106.content.json": {
 "mimeType": "text/json",
-"size": 4014
+"size": 3956
 },
 "json/000107.content.json": {
 "mimeType": "text/json",
-"size": 10424
+"size": 9700
 },
 "json/000108.content.json": {
 "mimeType": "text/json",
-"size": 4054
+"size": 3924
 },
 "json/000109.content.json": {
 "mimeType": "text/json",
-"size": 1795
+"size": 1665
 },
 "json/000110.content.json": {
 "mimeType": "text/json",
-"size": 2373
+"size": 2177
 },
 "json/000111.content.json": {
 "mimeType": "text/json",
-"size": 8578
+"size": 8250
 },
 "json/000112.content.json": {
 "mimeType": "text/json",
-"size": 1597
+"size": 1539
 },
 "json/000113.content.json": {
 "mimeType": "text/json",
-"size": 8207
+"size": 7813
 },
 "json/000114.content.json": {
 "mimeType": "text/json",
-"size": 2609
+"size": 2551
 },
 "json/000115.content.json": {
 "mimeType": "text/json",
-"size": 6388
+"size": 6330
 },
 "json/000116.content.json": {
 "mimeType": "text/json",
-"size": 4384
+"size": 4187
 },
 "json/000117.content.json": {
 "mimeType": "text/json",
-"size": 3733
+"size": 3537
 },
 "json/000118.content.json": {
 "mimeType": "text/json",
-"size": 1864
+"size": 1734
 },
 "json/000119.content.json": {
 "mimeType": "text/json",
-"size": 2092
+"size": 1830
 },
 "json/000120.content.json": {
 "mimeType": "text/json",
-"size": 4341
+"size": 4013
 },
 "json/000121.content.json": {
 "mimeType": "text/json",
-"size": 1810
+"size": 1680
 },
 "json/000122.content.json": {
 "mimeType": "text/json",
-"size": 5643
+"size": 5249
 },
 "json/000123.content.json": {
 "mimeType": "text/json",
-"size": 2092
+"size": 2034
 },
 "json/000124.content.json": {
 "mimeType": "text/json",
-"size": 10674
+"size": 10478
 },
 "json/000125.content.json": {
 "mimeType": "text/json",
-"size": 4065
+"size": 3737
 },
 "json/000126.content.json": {
 "mimeType": "text/json",
-"size": 6304
+"size": 5778
 },
 "json/000127.content.json": {
 "mimeType": "text/json",
-"size": 6270
+"size": 5744
 },
 "json/000128.content.json": {
 "mimeType": "text/json",
-"size": 1588
+"size": 1530
 },
 "json/000129.content.json": {
 "mimeType": "text/json",
-"size": 2721
+"size": 2591
 },
 "json/000130.content.json": {
 "mimeType": "text/json",
-"size": 4340
+"size": 4282
 },
 "json/000131.content.json": {
 "mimeType": "text/json",
-"size": 3523
+"size": 3195
 },
 "json/000132.content.json": {
 "mimeType": "text/json",
-"size": 2584
+"size": 2526
 },
 "json/000133.content.json": {
 "mimeType": "text/json",
-"size": 4541
+"size": 4483
 },
 "json/000134.content.json": {
 "mimeType": "text/json",
-"size": 2615
+"size": 2557
 },
 "json/000135.content.json": {
 "mimeType": "text/json",
-"size": 6702
+"size": 6644
 },
 "json/000136.content.json": {
 "mimeType": "text/json",
-"size": 9143
+"size": 8221
 },
 "json/000137.content.json": {
 "mimeType": "text/json",
-"size": 7084
+"size": 6756
 },
 "json/000138.content.json": {
 "mimeType": "text/json",
-"size": 3498
+"size": 3302
 },
 "json/000139.content.json": {
 "mimeType": "text/json",
-"size": 1437
+"size": 1379
 },
 "json/000140.content.json": {
 "mimeType": "text/json",
-"size": 5885
+"size": 5827
 },
 "json/000141.content.json": {
 "mimeType": "text/json",
-"size": 6035
+"size": 5904
 },
 "json/000142.content.json": {
 "mimeType": "text/json",
-"size": 2991
+"size": 2933
 },
 "json/000143.content.json": {
 "mimeType": "text/json",
-"size": 1987
+"size": 1929
 },
 "json/000144.content.json": {
 "mimeType": "text/json",
-"size": 2820
+"size": 2761
 },
 "json/000145.content.json": {
 "mimeType": "text/json",
-"size": 12362
+"size": 12099
 },
 "json/000146.content.json": {
 "mimeType": "text/json",
-"size": 5304
+"size": 5041
 },
 "md/000001.content.md": {
 "mimeType": "text/markdown",
-"size": 8688
+"size": 8690
 },
 "md/000002.content.md": {
 "mimeType": "text/markdown",
-"size": 5999
+"size": 6001
 },
 "md/000003.content.md": {
 "mimeType": "text/markdown",
-"size": 6029
+"size": 6031
 },
 "md/000004.content.md": {
 "mimeType": "text/markdown",
-"size": 11831
+"size": 11833
 },
 "md/000005.content.md": {
 "mimeType": "text/markdown",
-"size": 17514
+"size": 17516
 },
 "md/000006.content.md": {
 "mimeType": "text/markdown",
-"size": 5213
+"size": 5215
 },
 "md/000007.content.md": {
 "mimeType": "text/markdown",
-"size": 7134
+"size": 7136
 },
 "md/000008.content.md": {
 "mimeType": "text/markdown",
-"size": 4613
+"size": 4615
 },
 "md/000009.content.md": {
 "mimeType": "text/markdown",
-"size": 11764
+"size": 11766
 },
 "md/000010.content.md": {
 "mimeType": "text/markdown",
-"size": 7982
+"size": 7984
 },
 "md/000011.content.md": {
 "mimeType": "text/markdown",
-"size": 7977
+"size": 7979
 },
 "md/000012.content.md": {
 "mimeType": "text/markdown",
-"size": 6516
+"size": 6518
 },
 "md/000013.content.md": {
 "mimeType": "text/markdown",
-"size": 23518
+"size": 23520
 },
 "md/000014.content.md": {
 "mimeType": "text/markdown",
-"size": 17071
+"size": 17073
 },
 "md/000015.content.md": {
 "mimeType": "text/markdown",
-"size": 6241
+"size": 6243
 },
 "md/000016.content.md": {
 "mimeType": "text/markdown",
-"size": 9552
+"size": 9554
 },
 "md/000017.content.md": {
 "mimeType": "text/markdown",
-"size": 8730
+"size": 8732
 },
 "md/000018.content.md": {
 "mimeType": "text/markdown",
-"size": 7875
+"size": 7877
 },
 "md/000019.content.md": {
 "mimeType": "text/markdown",
-"size": 10484
+"size": 10486
 },
 "md/000020.content.md": {
 "mimeType": "text/markdown",
-"size": 4305
+"size": 4307
 },
 "md/000021.content.md": {
 "mimeType": "text/markdown",
-"size": 6961
+"size": 6963
 },
 "md/000022.content.md": {
 "mimeType": "text/markdown",
-"size": 6273
+"size": 6275
 },
 "md/000023.content.md": {
 "mimeType": "text/markdown",
-"size": 6929
+"size": 6931
 },
 "md/000024.content.md": {
 "mimeType": "text/markdown",
-"size": 10011
+"size": 10013
 },
 "md/000025.content.md": {
 "mimeType": "text/markdown",
-"size": 36548
+"size": 36550
 },
 "md/000026.content.md": {
 "mimeType": "text/markdown",
-"size": 7111
+"size": 7113
 },
 "md/000027.content.md": {
 "mimeType": "text/markdown",
-"size": 4322
+"size": 4324
 },
 "md/000028.content.md": {
 "mimeType": "text/markdown",
-"size": 8287
+"size": 8289
 },
 "md/000029.content.md": {
 "mimeType": "text/markdown",
-"size": 5006
+"size": 5008
 },
 "md/000030.content.md": {
 "mimeType": "text/markdown",
-"size": 7446
+"size": 7448
 },
 "md/000031.content.md": {
 "mimeType": "text/markdown",
-"size": 7057
+"size": 7059
 },
 "md/000032.content.md": {
 "mimeType": "text/markdown",
-"size": 12356
+"size": 12358
 },
 "md/000033.content.md": {
 "mimeType": "text/markdown",
-"size": 8590
+"size": 8592
 },
 "md/000034.content.md": {
 "mimeType": "text/markdown",
-"size": 14074
+"size": 14076
 },
 "md/000035.content.md": {
 "mimeType": "text/markdown",
-"size": 1351
+"size": 1353
 },
 "md/000036.content.md": {
 "mimeType": "text/markdown",
-"size": 8009
+"size": 8011
 },
 "md/000037.content.md": {
 "mimeType": "text/markdown",
-"size": 8538
+"size": 8540
 },
 "md/000038.content.md": {
 "mimeType": "text/markdown",
-"size": 4265
+"size": 4267
 },
 "md/000039.content.md": {
 "mimeType": "text/markdown",
-"size": 4022
+"size": 4024
 },
 "md/000040.content.md": {
 "mimeType": "text/markdown",
-"size": 39054
+"size": 39056
 },
 "md/000041.content.md": {
 "mimeType": "text/markdown",
-"size": 10333
+"size": 10335
 },
 "md/000042.content.md": {
 "mimeType": "text/markdown",
-"size": 5938
+"size": 5940
 },
 "md/000043.content.md": {
 "mimeType": "text/markdown",
-"size": 4017
+"size": 4019
 },
 "md/000044.content.md": {
 "mimeType": "text/markdown",
-"size": 9316
+"size": 9318
 },
 "md/000045.content.md": {
 "mimeType": "text/markdown",
-"size": 4481
+"size": 4483
 },
 "md/000046.content.md": {
 "mimeType": "text/markdown",
-"size": 6396
+"size": 6398
 },
 "md/000047.content.md": {
 "mimeType": "text/markdown",
-"size": 14397
+"size": 14399
 },
 "md/000048.content.md": {
 "mimeType": "text/markdown",
-"size": 4906
+"size": 4908
 },
 "md/000049.content.md": {
 "mimeType": "text/markdown",
-"size": 7062
+"size": 7064
 },
 "md/000050.content.md": {
 "mimeType": "text/markdown",
-"size": 8696
+"size": 8698
 },
 "md/000051.content.md": {
 "mimeType": "text/markdown",
-"size": 7361
+"size": 7363
 },
 "md/000052.content.md": {
 "mimeType": "text/markdown",
-"size": 12006
+"size": 12008
 },
 "md/000053.content.md": {
 "mimeType": "text/markdown",
-"size": 7526
+"size": 7528
 },
 "md/000054.content.md": {
 "mimeType": "text/markdown",
-"size": 4324
+"size": 4326
 },
 "md/000055.content.md": {
 "mimeType": "text/markdown",
-"size": 3006
+"size": 3008
 },
 "md/000056.content.md": {
 "mimeType": "text/markdown",
-"size": 6204
+"size": 6206
 },
 "md/000057.content.md": {
 "mimeType": "text/markdown",
-"size": 7407
+"size": 7409
 },
 "md/000058.content.md": {
 "mimeType": "text/markdown",
-"size": 9803
+"size": 9805
 },
 "md/000059.content.md": {
 "mimeType": "text/markdown",
-"size": 9420
+"size": 9422
 },
 "md/000060.content.md": {
 "mimeType": "text/markdown",
-"size": 6328
+"size": 6330
 },
 "md/000061.content.md": {
 "mimeType": "text/markdown",
-"size": 5540
+"size": 5542
 },
 "md/000062.content.md": {
 "mimeType": "text/markdown",
-"size": 5608
+"size": 5610
 },
 "md/000063.content.md": {
 "mimeType": "text/markdown",
-"size": 7285
+"size": 7287
 },
 "md/000064.content.md": {
 "mimeType": "text/markdown",
-"size": 9303
+"size": 9305
 },
 "md/000065.content.md": {
 "mimeType": "text/markdown",
-"size": 12588
+"size": 12590
 },
 "md/000066.content.md": {
 "mimeType": "text/markdown",
-"size": 8564
+"size": 8566
 },
 "md/000067.content.md": {
 "mimeType": "text/markdown",
-"size": 6503
+"size": 6505
 },
 "md/000068.content.md": {
 "mimeType": "text/markdown",
-"size": 6176
+"size": 6178
 },
 "md/000069.content.md": {
 "mimeType": "text/markdown",
-"size": 16889
+"size": 16891
 },
 "md/000070.content.md": {
 "mimeType": "text/markdown",
-"size": 6088
+"size": 6090
 },
 "md/000071.content.md": {
 "mimeType": "text/markdown",
-"size": 7248
+"size": 7250
 },
 "md/000072.content.md": {
 "mimeType": "text/markdown",
-"size": 4836
+"size": 4838
 },
 "md/000073.content.md": {
 "mimeType": "text/markdown",
-"size": 8362
+"size": 8364
 },
 "md/000074.content.md": {
 "mimeType": "text/markdown",
-"size": 7257
+"size": 7259
 },
 "md/000075.content.md": {
 "mimeType": "text/markdown",
-"size": 7468
+"size": 7470
 },
 "md/000076.content.md": {
 "mimeType": "text/markdown",
-"size": 1700
+"size": 1702
 },
 "md/000077.content.md": {
 "mimeType": "text/markdown",
-"size": 12212
+"size": 12214
 },
 "md/000078.content.md": {
 "mimeType": "text/markdown",
-"size": 5837
+"size": 5839
 },
 "md/000079.content.md": {
 "mimeType": "text/markdown",
-"size": 5874
+"size": 5876
 },
 "md/000080.content.md": {
 "mimeType": "text/markdown",
-"size": 10944
+"size": 10946
 },
 "md/000081.content.md": {
 "mimeType": "text/markdown",
-"size": 7128
+"size": 7130
 },
 "md/000082.content.md": {
 "mimeType": "text/markdown",
-"size": 12401
+"size": 12403
 },
 "md/000083.content.md": {
 "mimeType": "text/markdown",
-"size": 5205
+"size": 5207
 },
 "md/000084.content.md": {
 "mimeType": "text/markdown",
-"size": 9556
+"size": 9558
 },
 "md/000085.content.md": {
 "mimeType": "text/markdown",
-"size": 7908
+"size": 7910
 },
 "md/000086.content.md": {
 "mimeType": "text/markdown",
-"size": 8584
+"size": 8586
 },
 "md/000087.content.md": {
 "mimeType": "text/markdown",
-"size": 13485
+"size": 13487
 },
 "md/000088.content.md": {
 "mimeType": "text/markdown",
-"size": 5929
+"size": 5931
 },
 "md/000089.content.md": {
 "mimeType": "text/markdown",
-"size": 5658
+"size": 5660
 },
 "md/000090.content.md": {
 "mimeType": "text/markdown",
-"size": 6182
+"size": 6184
 },
 "md/000091.content.md": {
 "mimeType": "text/markdown",
-"size": 2267
+"size": 2269
 },
 "md/000092.content.md": {
 "mimeType": "text/markdown",
-"size": 9587
+"size": 9589
 },
 "md/000093.content.md": {
 "mimeType": "text/markdown",
-"size": 10663
+"size": 10665
 },
 "md/000094.content.md": {
 "mimeType": "text/markdown",
-"size": 2049
+"size": 2051
 },
 "md/000095.content.md": {
 "mimeType": "text/markdown",
-"size": 3201
+"size": 3203
 },
 "md/000096.content.md": {
 "mimeType": "text/markdown",
-"size": 3063
+"size": 3065
 },
 "md/000097.content.md": {
 "mimeType": "text/markdown",
-"size": 3193
+"size": 3195
 },
 "md/000098.content.md": {
 "mimeType": "text/markdown",
-"size": 2968
+"size": 2970
 },
 "md/000099.content.md": {
 "mimeType": "text/markdown",
-"size": 2317
+"size": 2319
 },
 "md/000100.content.md": {
 "mimeType": "text/markdown",
-"size": 1933
+"size": 1935
 },
 "md/000101.content.md": {
 "mimeType": "text/markdown",
-"size": 2509
+"size": 2511
 },
 "md/000102.content.md": {
 "mimeType": "text/markdown",
-"size": 3011
+"size": 3013
 },
 "md/000103.content.md": {
 "mimeType": "text/markdown",
-"size": 3439
+"size": 3441
 },
 "md/000104.content.md": {
 "mimeType": "text/markdown",
-"size": 1521
+"size": 1523
 },
 "md/000105.content.md": {
 "mimeType": "text/markdown",
-"size": 4741
+"size": 4743
 },
 "md/000106.content.md": {
 "mimeType": "text/markdown",
-"size": 4064
+"size": 4066
 },
 "md/000107.content.md": {
 "mimeType": "text/markdown",
-"size": 7036
+"size": 7038
 },
 "md/000108.content.md": {
 "mimeType": "text/markdown",
-"size": 4049
+"size": 4051
 },
 "md/000109.content.md": {
 "mimeType": "text/markdown",
-"size": 1782
+"size": 1784
 },
 "md/000110.content.md": {
 "mimeType": "text/markdown",
-"size": 2010
+"size": 2012
 },
 "md/000111.content.md": {
 "mimeType": "text/markdown",
-"size": 7665
+"size": 7667
 },
 "md/000112.content.md": {
 "mimeType": "text/markdown",
-"size": 1730
+"size": 1732
 },
 "md/000113.content.md": {
 "mimeType": "text/markdown",
-"size": 6829
+"size": 6831
 },
 "md/000114.content.md": {
 "mimeType": "text/markdown",
-"size": 2912
+"size": 2914
 },
 "md/000115.content.md": {
 "mimeType": "text/markdown",
-"size": 5938
+"size": 5940
 },
 "md/000116.content.md": {
 "mimeType": "text/markdown",
-"size": 4041
+"size": 4043
 },
 "md/000117.content.md": {
 "mimeType": "text/markdown",
-"size": 3394
+"size": 3396
 },
 "md/000118.content.md": {
 "mimeType": "text/markdown",
-"size": 1792
+"size": 1794
 },
 "md/000119.content.md": {
 "mimeType": "text/markdown",
-"size": 1547
+"size": 1549
 },
 "md/000120.content.md": {
 "mimeType": "text/markdown",
-"size": 2399
+"size": 2401
 },
 "md/000121.content.md": {
 "mimeType": "text/markdown",
-"size": 1852
+"size": 1854
 },
 "md/000122.content.md": {
 "mimeType": "text/markdown",
-"size": 4685
+"size": 4687
 },
 "md/000123.content.md": {
 "mimeType": "text/markdown",
-"size": 2388
+"size": 2390
 },
 "md/000124.content.md": {
 "mimeType": "text/markdown",
-"size": 9596
+"size": 9598
 },
 "md/000125.content.md": {
 "mimeType": "text/markdown",
-"size": 3190
+"size": 3192
 },
 "md/000126.content.md": {
 "mimeType": "text/markdown",
-"size": 3495
+"size": 3497
 },
 "md/000127.content.md": {
 "mimeType": "text/markdown",
-"size": 4059
+"size": 4061
 },
 "md/000128.content.md": {
 "mimeType": "text/markdown",
-"size": 1885
+"size": 1887
 },
 "md/000129.content.md": {
 "mimeType": "text/markdown",
-"size": 2868
+"size": 2870
 },
 "md/000130.content.md": {
 "mimeType": "text/markdown",
-"size": 4216
+"size": 4218
 },
 "md/000131.content.md": {
 "mimeType": "text/markdown",
-"size": 2652
+"size": 2654
 },
 "md/000132.content.md": {
 "mimeType": "text/markdown",
-"size": 2792
+"size": 2794
 },
 "md/000133.content.md": {
 "mimeType": "text/markdown",
-"size": 4577
+"size": 4579
 },
 "md/000134.content.md": {
 "mimeType": "text/markdown",
-"size": 2889
+"size": 2891
 },
 "md/000135.content.md": {
 "mimeType": "text/markdown",
-"size": 5556
+"size": 5558
 },
 "md/000136.content.md": {
 "mimeType": "text/markdown",
-"size": 4238
+"size": 4240
 },
 "md/000137.content.md": {
 "mimeType": "text/markdown",
-"size": 5893
+"size": 5895
 },
 "md/000138.content.md": {
 "mimeType": "text/markdown",
-"size": 3095
+"size": 3097
 },
 "md/000139.content.md": {
 "mimeType": "text/markdown",
-"size": 1747
+"size": 1749
 },
 "md/000140.content.md": {
 "mimeType": "text/markdown",
-"size": 6161
+"size": 6163
 },
 "md/000141.content.md": {
 "mimeType": "text/markdown",
-"size": 6031
+"size": 6033
 },
 "md/000142.content.md": {
 "mimeType": "text/markdown",
-"size": 3276
+"size": 3278
 },
 "md/000143.content.md": {
 "mimeType": "text/markdown",
-"size": 2262
+"size": 2264
 },
 "md/000144.content.md": {
 "mimeType": "text/markdown",
-"size": 3104
+"size": 3106
 },
 "md/000145.content.md": {
 "mimeType": "text/markdown",
-"size": 11363
+"size": 11365
 },
 "md/000146.content.md": {
 "mimeType": "text/markdown",
-"size": 4675
-},
-"pdf/000001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2131304
+"size": 4677
 },
 "docx/000001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 266149
+"size": 266136
+},
+"pdf/000001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 2796181
 }
 },
 "copyright": {
@@ -1287,7 +1287,7 @@
 },
 "article_metadata": {
 "727494": {
-"content_id": 727494,
+"content_id": "727494",
 "reference_id": 26657,
 "index_reference": "gambaran kitab suci",
 "localizations": {
@@ -1329,9 +1329,9 @@
 }
 },
 "727495": {
-"content_id": 727495,
+"content_id": "727495",
 "reference_id": 26658,
-"index_reference": "gambar alkitab — binatang-binatang",
+"index_reference": "gambar alkitab  binatangbinatang",
 "localizations": {
 "eng": {
 "content_id": 33244,
@@ -1366,9 +1366,9 @@
 }
 },
 "727496": {
-"content_id": 727496,
+"content_id": "727496",
 "reference_id": 26659,
-"index_reference": "gambaran kitab suci — pertanian",
+"index_reference": "gambaran kitab suci  pertanian",
 "localizations": {
 "eng": {
 "content_id": 33245,
@@ -1403,9 +1403,9 @@
 }
 },
 "727497": {
-"content_id": 727497,
+"content_id": "727497",
 "reference_id": 26660,
-"index_reference": "gambaran kitab suci - bagian tubuh dan sifat manusia",
+"index_reference": "gambaran kitab suci  bagian tubuh dan sifat manusia",
 "localizations": {
 "eng": {
 "content_id": 33246,
@@ -1440,9 +1440,9 @@
 }
 },
 "727498": {
-"content_id": 727498,
+"content_id": "727498",
 "reference_id": 26661,
-"index_reference": "gambaran kitab suci  — perilaku manusia",
+"index_reference": "gambaran kitab suci   perilaku manusia",
 "localizations": {
 "eng": {
 "content_id": 33247,
@@ -1477,9 +1477,9 @@
 }
 },
 "727499": {
-"content_id": 727499,
+"content_id": "727499",
 "reference_id": 26662,
-"index_reference": "gambaran kitab suci - benda buatan manusia",
+"index_reference": "gambaran kitab suci  benda buatan manusia",
 "localizations": {
 "eng": {
 "content_id": 33248,
@@ -1514,9 +1514,9 @@
 }
 },
 "727500": {
-"content_id": 727500,
+"content_id": "727500",
 "reference_id": 26663,
-"index_reference": "gambaran alkitab - pola umum",
+"index_reference": "gambaran alkitab  pola umum",
 "localizations": {
 "eng": {
 "content_id": 33249,
@@ -1551,9 +1551,9 @@
 }
 },
 "727501": {
-"content_id": 727501,
+"content_id": "727501",
 "reference_id": 26664,
-"index_reference": "gambaran alkitab - metonimi umum",
+"index_reference": "gambaran alkitab  metonimi umum",
 "localizations": {
 "eng": {
 "content_id": 33250,
@@ -1588,9 +1588,9 @@
 }
 },
 "727502": {
-"content_id": 727502,
+"content_id": "727502",
 "reference_id": 26665,
-"index_reference": "gambaran alkitabiah — model-model budaya",
+"index_reference": "gambaran alkitabiah  modelmodel budaya",
 "localizations": {
 "eng": {
 "content_id": 33251,
@@ -1625,9 +1625,9 @@
 }
 },
 "727503": {
-"content_id": 727503,
+"content_id": "727503",
 "reference_id": 26666,
-"index_reference": "gambaran alkitab - fenomena alam",
+"index_reference": "gambaran alkitab  fenomena alam",
 "localizations": {
 "eng": {
 "content_id": 33252,
@@ -1662,9 +1662,9 @@
 }
 },
 "727504": {
-"content_id": 727504,
+"content_id": "727504",
 "reference_id": 26667,
-"index_reference": "gambaran alkitab - tumbuhan",
+"index_reference": "gambaran alkitab  tumbuhan",
 "localizations": {
 "eng": {
 "content_id": 33253,
@@ -1699,9 +1699,9 @@
 }
 },
 "727509": {
-"content_id": 727509,
+"content_id": "727509",
 "reference_id": 26670,
-"index_reference": "orang pertama, kedua atau ketiga",
+"index_reference": "orang pertama kedua atau ketiga",
 "localizations": {
 "eng": {
 "content_id": 33256,
@@ -1736,7 +1736,7 @@
 }
 },
 "727510": {
-"content_id": 727510,
+"content_id": "727510",
 "reference_id": 26671,
 "index_reference": "kata benda abstrak",
 "localizations": {
@@ -1778,7 +1778,7 @@
 }
 },
 "727511": {
-"content_id": 727511,
+"content_id": "727511",
 "reference_id": 26672,
 "index_reference": "aktif atau pasif",
 "localizations": {
@@ -1820,9 +1820,9 @@
 }
 },
 "727512": {
-"content_id": 727512,
+"content_id": "727512",
 "reference_id": 26677,
-"index_reference": "pernyataan - penggunaan lain",
+"index_reference": "pernyataan  penggunaan lain",
 "localizations": {
 "eng": {
 "content_id": 33263,
@@ -1857,7 +1857,7 @@
 }
 },
 "727513": {
-"content_id": 727513,
+"content_id": "727513",
 "reference_id": 26678,
 "index_reference": "membedakan antara menginformasikan atau mengingatkan",
 "localizations": {
@@ -1894,7 +1894,7 @@
 }
 },
 "727514": {
-"content_id": 727514,
+"content_id": "727514",
 "reference_id": 26679,
 "index_reference": "negatif ganda",
 "localizations": {
@@ -1931,9 +1931,9 @@
 }
 },
 "727515": {
-"content_id": 727515,
+"content_id": "727515",
 "reference_id": 26680,
-"index_reference": "doublet (jamak)",
+"index_reference": "doublet jamak",
 "localizations": {
 "eng": {
 "content_id": 33266,
@@ -1968,9 +1968,9 @@
 }
 },
 "727516": {
-"content_id": 727516,
+"content_id": "727516",
 "reference_id": 26681,
-"index_reference": "elipsis (penghilangan kata)",
+"index_reference": "elipsis penghilangan kata",
 "localizations": {
 "eng": {
 "content_id": 33267,
@@ -2005,9 +2005,9 @@
 }
 },
 "727517": {
-"content_id": 727517,
+"content_id": "727517",
 "reference_id": 26682,
-"index_reference": "eufimisme (penghalusan kata)",
+"index_reference": "eufimisme penghalusan kata",
 "localizations": {
 "eng": {
 "content_id": 33268,
@@ -2042,7 +2042,7 @@
 }
 },
 "727518": {
-"content_id": 727518,
+"content_id": "727518",
 "reference_id": 26683,
 "index_reference": "urutan peristiwa",
 "localizations": {
@@ -2079,7 +2079,7 @@
 }
 },
 "727519": {
-"content_id": 727519,
+"content_id": "727519",
 "reference_id": 26684,
 "index_reference": "seruan",
 "localizations": {
@@ -2116,9 +2116,9 @@
 }
 },
 "727520": {
-"content_id": 727520,
+"content_id": "727520",
 "reference_id": 26685,
-"index_reference": "\"kami\" yang eksklusif dan inklusif",
+"index_reference": "kami yang eksklusif dan inklusif",
 "localizations": {
 "eng": {
 "content_id": 33271,
@@ -2153,9 +2153,9 @@
 }
 },
 "727521": {
-"content_id": 727521,
+"content_id": "727521",
 "reference_id": 26686,
-"index_reference": "gambaran alkitabiah - metafora yang diperluas",
+"index_reference": "gambaran alkitabiah  metafora yang diperluas",
 "localizations": {
 "eng": {
 "content_id": 33272,
@@ -2190,7 +2190,7 @@
 }
 },
 "727522": {
-"content_id": 727522,
+"content_id": "727522",
 "reference_id": 26687,
 "index_reference": "asumsi pengetahuan dan informasi tersirat",
 "localizations": {
@@ -2232,7 +2232,7 @@
 }
 },
 "727523": {
-"content_id": 727523,
+"content_id": "727523",
 "reference_id": 26688,
 "index_reference": "membuat pengetahuan yang diasumsikan dan informasi tersirat menjadi jelas",
 "localizations": {
@@ -2269,7 +2269,7 @@
 }
 },
 "727524": {
-"content_id": 727524,
+"content_id": "727524",
 "reference_id": 26689,
 "index_reference": "kapan harus mempertahankan informasi tersirat",
 "localizations": {
@@ -2306,7 +2306,7 @@
 }
 },
 "727525": {
-"content_id": 727525,
+"content_id": "727525",
 "reference_id": 26690,
 "index_reference": "ketika istilah maskulin meliputi perempuan",
 "localizations": {
@@ -2343,7 +2343,7 @@
 }
 },
 "727526": {
-"content_id": 727526,
+"content_id": "727526",
 "reference_id": 26691,
 "index_reference": "frasa kata benda umum",
 "localizations": {
@@ -2380,7 +2380,7 @@
 }
 },
 "727527": {
-"content_id": 727527,
+"content_id": "727527",
 "reference_id": 26692,
 "index_reference": "pergi dan datang",
 "localizations": {
@@ -2417,7 +2417,7 @@
 }
 },
 "727528": {
-"content_id": 727528,
+"content_id": "727528",
 "reference_id": 26694,
 "index_reference": "hendiadis",
 "localizations": {
@@ -2454,7 +2454,7 @@
 }
 },
 "727529": {
-"content_id": 727529,
+"content_id": "727529",
 "reference_id": 26695,
 "index_reference": "hiperbola",
 "localizations": {
@@ -2491,9 +2491,9 @@
 }
 },
 "727530": {
-"content_id": 727530,
+"content_id": "727530",
 "reference_id": 26696,
-"index_reference": "situasi yang bersifat dugaan (hypothetical)",
+"index_reference": "situasi yang bersifat dugaan hypothetical",
 "localizations": {
 "eng": {
 "content_id": 33282,
@@ -2528,7 +2528,7 @@
 }
 },
 "727531": {
-"content_id": 727531,
+"content_id": "727531",
 "reference_id": 26697,
 "index_reference": "ungkapan",
 "localizations": {
@@ -2565,7 +2565,7 @@
 }
 },
 "727532": {
-"content_id": 727532,
+"content_id": "727532",
 "reference_id": 26699,
 "index_reference": "kalimat perintah orang ketiga",
 "localizations": {
@@ -2592,7 +2592,7 @@
 }
 },
 "727533": {
-"content_id": 727533,
+"content_id": "727533",
 "reference_id": 26700,
 "index_reference": "struktur informasi",
 "localizations": {
@@ -2629,7 +2629,7 @@
 }
 },
 "727534": {
-"content_id": 727534,
+"content_id": "727534",
 "reference_id": 26702,
 "index_reference": "ironi",
 "localizations": {
@@ -2666,7 +2666,7 @@
 }
 },
 "727535": {
-"content_id": 727535,
+"content_id": "727535",
 "reference_id": 26704,
 "index_reference": "litotes",
 "localizations": {
@@ -2703,7 +2703,7 @@
 }
 },
 "727536": {
-"content_id": 727536,
+"content_id": "727536",
 "reference_id": 26705,
 "index_reference": "merisme",
 "localizations": {
@@ -2740,7 +2740,7 @@
 }
 },
 "727537": {
-"content_id": 727537,
+"content_id": "727537",
 "reference_id": 26706,
 "index_reference": "metafora",
 "localizations": {
@@ -2777,7 +2777,7 @@
 }
 },
 "727538": {
-"content_id": 727538,
+"content_id": "727538",
 "reference_id": 26707,
 "index_reference": "metonimi",
 "localizations": {
@@ -2814,7 +2814,7 @@
 }
 },
 "727539": {
-"content_id": 727539,
+"content_id": "727539",
 "reference_id": 26708,
 "index_reference": "kata sifat nominal",
 "localizations": {
@@ -2851,7 +2851,7 @@
 }
 },
 "727540": {
-"content_id": 727540,
+"content_id": "727540",
 "reference_id": 26709,
 "index_reference": "susunan kata",
 "localizations": {
@@ -2888,7 +2888,7 @@
 }
 },
 "727541": {
-"content_id": 727541,
+"content_id": "727541",
 "reference_id": 26713,
 "index_reference": "paralelisme",
 "localizations": {
@@ -2925,7 +2925,7 @@
 }
 },
 "727542": {
-"content_id": 727542,
+"content_id": "727542",
 "reference_id": 26715,
 "index_reference": "bentuk lampau yang bersifat prediktif",
 "localizations": {
@@ -2962,7 +2962,7 @@
 }
 },
 "727543": {
-"content_id": 727543,
+"content_id": "727543",
 "reference_id": 26716,
 "index_reference": "personifikasi",
 "localizations": {
@@ -2999,7 +2999,7 @@
 }
 },
 "727544": {
-"content_id": 727544,
+"content_id": "727544",
 "reference_id": 26717,
 "index_reference": "kepemilikan",
 "localizations": {
@@ -3036,7 +3036,7 @@
 }
 },
 "727545": {
-"content_id": 727545,
+"content_id": "727545",
 "reference_id": 26718,
 "index_reference": "kata ganti",
 "localizations": {
@@ -3073,7 +3073,7 @@
 }
 },
 "727546": {
-"content_id": 727546,
+"content_id": "727546",
 "reference_id": 26719,
 "index_reference": "kutipan langsung dan tidak langsung",
 "localizations": {
@@ -3110,7 +3110,7 @@
 }
 },
 "727547": {
-"content_id": 727547,
+"content_id": "727547",
 "reference_id": 26720,
 "index_reference": "tanda kutipan",
 "localizations": {
@@ -3147,7 +3147,7 @@
 }
 },
 "727548": {
-"content_id": 727548,
+"content_id": "727548",
 "reference_id": 26723,
 "index_reference": "kata ganti yang bersifat refleksi",
 "localizations": {
@@ -3184,7 +3184,7 @@
 }
 },
 "727549": {
-"content_id": 727549,
+"content_id": "727549",
 "reference_id": 26724,
 "index_reference": "pertanyaan retoris",
 "localizations": {
@@ -3221,7 +3221,7 @@
 }
 },
 "727550": {
-"content_id": 727550,
+"content_id": "727550",
 "reference_id": 26728,
 "index_reference": "pembandingan",
 "localizations": {
@@ -3258,7 +3258,7 @@
 }
 },
 "727551": {
-"content_id": 727551,
+"content_id": "727551",
 "reference_id": 26729,
 "index_reference": "sinekdok",
 "localizations": {
@@ -3295,7 +3295,7 @@
 }
 },
 "727552": {
-"content_id": 727552,
+"content_id": "727552",
 "reference_id": 26731,
 "index_reference": "bentuk dari kamu",
 "localizations": {
@@ -3332,7 +3332,7 @@
 }
 },
 "727553": {
-"content_id": 727553,
+"content_id": "727553",
 "reference_id": 26732,
 "index_reference": "kata ganti tunggal yang merujuk pada kelompok",
 "localizations": {
@@ -3369,9 +3369,9 @@
 }
 },
 "727554": {
-"content_id": 727554,
+"content_id": "727554",
 "reference_id": 26735,
-"index_reference": "bentuk kata ‘kamu’ — tunggal",
+"index_reference": "bentuk kata kamu  tunggal",
 "localizations": {
 "eng": {
 "content_id": 33321,
@@ -3406,7 +3406,7 @@
 }
 },
 "727560": {
-"content_id": 727560,
+"content_id": "727560",
 "reference_id": 26738,
 "index_reference": "kata benda kolektif",
 "localizations": {
@@ -3438,7 +3438,7 @@
 }
 },
 "727561": {
-"content_id": 727561,
+"content_id": "727561",
 "reference_id": 26739,
 "index_reference": "kata benda kolektif",
 "localizations": {
@@ -3475,9 +3475,9 @@
 }
 },
 "727562": {
-"content_id": 727562,
+"content_id": "727562",
 "reference_id": 26740,
-"index_reference": "penghubung - kondisi faktual",
+"index_reference": "penghubung  kondisi faktual",
 "localizations": {
 "eng": {
 "content_id": 33326,
@@ -3507,9 +3507,9 @@
 }
 },
 "727563": {
-"content_id": 727563,
+"content_id": "727563",
 "reference_id": 26741,
-"index_reference": "menghubungkan - kondisi hipotetis",
+"index_reference": "menghubungkan  kondisi hipotetis",
 "localizations": {
 "eng": {
 "content_id": 33327,
@@ -3539,9 +3539,9 @@
 }
 },
 "727564": {
-"content_id": 727564,
+"content_id": "727564",
 "reference_id": 26742,
-"index_reference": "kata penghubung - klausa pengecualian",
+"index_reference": "kata penghubung  klausa pengecualian",
 "localizations": {
 "eng": {
 "content_id": 33328,
@@ -3576,9 +3576,9 @@
 }
 },
 "727565": {
-"content_id": 727565,
+"content_id": "727565",
 "reference_id": 26743,
-"index_reference": "hubungkan — hubungan kontras",
+"index_reference": "hubungkan  hubungan kontras",
 "localizations": {
 "eng": {
 "content_id": 33329,
@@ -3613,9 +3613,9 @@
 }
 },
 "727566": {
-"content_id": 727566,
+"content_id": "727566",
 "reference_id": 26744,
-"index_reference": "menghubungkan - maksud (tujuan) hubungan",
+"index_reference": "menghubungkan  maksud tujuan hubungan",
 "localizations": {
 "eng": {
 "content_id": 33330,
@@ -3650,9 +3650,9 @@
 }
 },
 "727567": {
-"content_id": 727567,
+"content_id": "727567",
 "reference_id": 26745,
-"index_reference": "keterhubungan - hubungan sebab dan akibat",
+"index_reference": "keterhubungan  hubungan sebab dan akibat",
 "localizations": {
 "eng": {
 "content_id": 33331,
@@ -3687,9 +3687,9 @@
 }
 },
 "727568": {
-"content_id": 727568,
+"content_id": "727568",
 "reference_id": 26746,
-"index_reference": "menghubungkan - informasi latar belakang",
+"index_reference": "menghubungkan  informasi latar belakang",
 "localizations": {
 "eng": {
 "content_id": 33332,
@@ -3719,9 +3719,9 @@
 }
 },
 "727569": {
-"content_id": 727569,
+"content_id": "727569",
 "reference_id": 26747,
-"index_reference": "menghubungkan - hubungan waktu berurutan",
+"index_reference": "menghubungkan  hubungan waktu berurutan",
 "localizations": {
 "eng": {
 "content_id": 33333,
@@ -3756,9 +3756,9 @@
 }
 },
 "727570": {
-"content_id": 727570,
+"content_id": "727570",
 "reference_id": 26748,
-"index_reference": "hubungan - keterkaitan waktu secara bersamaan",
+"index_reference": "hubungan  keterkaitan waktu secara bersamaan",
 "localizations": {
 "eng": {
 "content_id": 33334,
@@ -3788,7 +3788,7 @@
 }
 },
 "727571": {
-"content_id": 727571,
+"content_id": "727571",
 "reference_id": 26749,
 "index_reference": "kata dan frasa penghubung",
 "localizations": {
@@ -3820,9 +3820,9 @@
 }
 },
 "727572": {
-"content_id": 727572,
+"content_id": "727572",
 "reference_id": 26763,
-"index_reference": "menerjemahkan anak (allah) dan (allah) bapa",
+"index_reference": "menerjemahkan anak allah dan allah bapa",
 "localizations": {
 "eng": {
 "content_id": 33349,
@@ -3857,7 +3857,7 @@
 }
 },
 "727602": {
-"content_id": 727602,
+"content_id": "727602",
 "reference_id": 26780,
 "index_reference": "bagaimana mengarahkan terjemahan alkitab anda",
 "localizations": {
@@ -3894,9 +3894,9 @@
 }
 },
 "727603": {
-"content_id": 727603,
+"content_id": "727603",
 "reference_id": 26781,
-"index_reference": "alfabet/ortografi",
+"index_reference": "alfabetortografi",
 "localizations": {
 "eng": {
 "content_id": 33367,
@@ -3936,7 +3936,7 @@
 }
 },
 "727604": {
-"content_id": 727604,
+"content_id": "727604",
 "reference_id": 26782,
 "index_reference": "perkembangan alfabet",
 "localizations": {
@@ -3978,7 +3978,7 @@
 }
 },
 "727605": {
-"content_id": 727605,
+"content_id": "727605",
 "reference_id": 26785,
 "index_reference": "berkat",
 "localizations": {
@@ -4005,7 +4005,7 @@
 }
 },
 "727606": {
-"content_id": 727606,
+"content_id": "727606",
 "reference_id": 26799,
 "index_reference": "kekerabatan",
 "localizations": {
@@ -4037,7 +4037,7 @@
 }
 },
 "727607": {
-"content_id": 727607,
+"content_id": "727607",
 "reference_id": 26802,
 "index_reference": "pengantar ke manual penerjemahan",
 "localizations": {
@@ -4074,7 +4074,7 @@
 }
 },
 "727608": {
-"content_id": 727608,
+"content_id": "727608",
 "reference_id": 26805,
 "index_reference": "cara menerjemahkan nama",
 "localizations": {
@@ -4111,7 +4111,7 @@
 }
 },
 "727609": {
-"content_id": 727609,
+"content_id": "727609",
 "reference_id": 26807,
 "index_reference": "angka ordinal",
 "localizations": {
@@ -4148,7 +4148,7 @@
 }
 },
 "727610": {
-"content_id": 727610,
+"content_id": "727610",
 "reference_id": 26816,
 "index_reference": "tindakan simbolis",
 "localizations": {
@@ -4185,7 +4185,7 @@
 }
 },
 "727611": {
-"content_id": 727611,
+"content_id": "727611",
 "reference_id": 26817,
 "index_reference": "penggunaan bentuk kalimat yang tidak teratur",
 "localizations": {
@@ -4212,7 +4212,7 @@
 }
 },
 "727612": {
-"content_id": 727612,
+"content_id": "727612",
 "reference_id": 26819,
 "index_reference": "varian tekstual",
 "localizations": {
@@ -4249,7 +4249,7 @@
 }
 },
 "727613": {
-"content_id": 727613,
+"content_id": "727613",
 "reference_id": 26822,
 "index_reference": "terjemahkan hal yang tidak diketahui",
 "localizations": {
@@ -4286,7 +4286,7 @@
 }
 },
 "727614": {
-"content_id": 727614,
+"content_id": "727614",
 "reference_id": 26824,
 "index_reference": "jembatan ayat",
 "localizations": {
@@ -4323,7 +4323,7 @@
 }
 },
 "727628": {
-"content_id": 727628,
+"content_id": "727628",
 "reference_id": 26829,
 "index_reference": "informasi latar belakang",
 "localizations": {
@@ -4360,7 +4360,7 @@
 }
 },
 "727629": {
-"content_id": 727629,
+"content_id": "727629",
 "reference_id": 26834,
 "index_reference": "rumusan sumpah",
 "localizations": {
@@ -4387,7 +4387,7 @@
 }
 },
 "727630": {
-"content_id": 727630,
+"content_id": "727630",
 "reference_id": 26836,
 "index_reference": "puisi",
 "localizations": {
@@ -4424,9 +4424,9 @@
 }
 },
 "727631": {
-"content_id": 727631,
+"content_id": "727631",
 "reference_id": 26838,
-"index_reference": "kata ganti — kapan menggunakannya",
+"index_reference": "kata ganti  kapan menggunakannya",
 "localizations": {
 "eng": {
 "content_id": 33424,
@@ -4461,7 +4461,7 @@
 }
 },
 "727632": {
-"content_id": 727632,
+"content_id": "727632",
 "reference_id": 26839,
 "index_reference": "amsal",
 "localizations": {
@@ -4498,7 +4498,7 @@
 }
 },
 "727633": {
-"content_id": 727633,
+"content_id": "727633",
 "reference_id": 26840,
 "index_reference": "kutipan dan margin kutipan",
 "localizations": {
@@ -4535,7 +4535,7 @@
 }
 },
 "727634": {
-"content_id": 727634,
+"content_id": "727634",
 "reference_id": 26841,
 "index_reference": "bahasa simbolik",
 "localizations": {
@@ -4572,7 +4572,7 @@
 }
 },
 "727489": {
-"content_id": 727489,
+"content_id": "727489",
 "reference_id": 209448,
 "index_reference": "bentuk yang dapat diterima",
 "localizations": {
@@ -4614,7 +4614,7 @@
 }
 },
 "727490": {
-"content_id": 727490,
+"content_id": "727490",
 "reference_id": 209449,
 "index_reference": "memeriksa keakuratan terjemahan",
 "localizations": {
@@ -4651,7 +4651,7 @@
 }
 },
 "727491": {
-"content_id": 727491,
+"content_id": "727491",
 "reference_id": 209450,
 "index_reference": "pemeriksaan keselarasan",
 "localizations": {
@@ -4688,7 +4688,7 @@
 }
 },
 "727492": {
-"content_id": 727492,
+"content_id": "727492",
 "reference_id": 209451,
 "index_reference": "abjad yang sesuai",
 "localizations": {
@@ -4730,7 +4730,7 @@
 }
 },
 "727493": {
-"content_id": 727493,
+"content_id": "727493",
 "reference_id": 209452,
 "index_reference": "kewenangan dan proses pemeriksaan",
 "localizations": {
@@ -4767,7 +4767,7 @@
 }
 },
 "727505": {
-"content_id": 727505,
+"content_id": "727505",
 "reference_id": 209453,
 "index_reference": "pemeriksaan keakuratan oleh pemimpin gereja",
 "localizations": {
@@ -4809,7 +4809,7 @@
 }
 },
 "727506": {
-"content_id": 727506,
+"content_id": "727506",
 "reference_id": 209454,
 "index_reference": "terjemahan yang jelas",
 "localizations": {
@@ -4846,7 +4846,7 @@
 }
 },
 "727507": {
-"content_id": 727507,
+"content_id": "727507",
 "reference_id": 209455,
 "index_reference": "daftar pertanyaan evaluasi terhadap komunitas bahasa",
 "localizations": {
@@ -4883,7 +4883,7 @@
 }
 },
 "727508": {
-"content_id": 727508,
+"content_id": "727508",
 "reference_id": 209456,
 "index_reference": "terjemahan lengkap",
 "localizations": {
@@ -4920,7 +4920,7 @@
 }
 },
 "727555": {
-"content_id": 727555,
+"content_id": "727555",
 "reference_id": 209457,
 "index_reference": "menemukan jawaban",
 "localizations": {
@@ -4957,7 +4957,7 @@
 }
 },
 "727556": {
-"content_id": 727556,
+"content_id": "727556",
 "reference_id": 209458,
 "index_reference": "cara memeriksa format yang baik",
 "localizations": {
@@ -4994,9 +4994,9 @@
 }
 },
 "727557": {
-"content_id": 727557,
+"content_id": "727557",
 "reference_id": 209459,
-"index_reference": "strategi bahasa pengantar (gateway languages)",
+"index_reference": "strategi bahasa pengantar gateway languages",
 "localizations": {
 "eng": {
 "content_id": 689639,
@@ -5031,7 +5031,7 @@
 }
 },
 "727558": {
-"content_id": 727558,
+"content_id": "727558",
 "reference_id": 209460,
 "index_reference": "tujuan pemeriksaan",
 "localizations": {
@@ -5068,7 +5068,7 @@
 }
 },
 "727559": {
-"content_id": 727559,
+"content_id": "727559",
 "reference_id": 209461,
 "index_reference": "penegasan keakuratan dan penerimaan komunitas",
 "localizations": {
@@ -5110,7 +5110,7 @@
 }
 },
 "727573": {
-"content_id": 727573,
+"content_id": "727573",
 "reference_id": 209462,
 "index_reference": "judul perikop",
 "localizations": {
@@ -5147,7 +5147,7 @@
 }
 },
 "727574": {
-"content_id": 727574,
+"content_id": "727574",
 "reference_id": 209463,
 "index_reference": "pemeriksaan translationwords di tc",
 "localizations": {
@@ -5184,7 +5184,7 @@
 }
 },
 "727575": {
-"content_id": 727575,
+"content_id": "727575",
 "reference_id": 209464,
 "index_reference": "introduksi kepada manual pemeriksaan",
 "localizations": {
@@ -5221,7 +5221,7 @@
 }
 },
 "727576": {
-"content_id": 727576,
+"content_id": "727576",
 "reference_id": 209465,
 "index_reference": "introduksi kepada pemeriksaan terjemahan",
 "localizations": {
@@ -5258,7 +5258,7 @@
 }
 },
 "727577": {
-"content_id": 727577,
+"content_id": "727577",
 "reference_id": 209466,
 "index_reference": "pengantar penerbitan",
 "localizations": {
@@ -5295,7 +5295,7 @@
 }
 },
 "727578": {
-"content_id": 727578,
+"content_id": "727578",
 "reference_id": 209467,
 "index_reference": "pengantar distribusi",
 "localizations": {
@@ -5332,7 +5332,7 @@
 }
 },
 "727579": {
-"content_id": 727579,
+"content_id": "727579",
 "reference_id": 209468,
 "index_reference": "pemeriksaan kejelasan dan kealamian terjemahan",
 "localizations": {
@@ -5369,7 +5369,7 @@
 }
 },
 "727580": {
-"content_id": 727580,
+"content_id": "727580",
 "reference_id": 209469,
 "index_reference": "formulir evaluasi pemeriksa kualitas",
 "localizations": {
@@ -5406,7 +5406,7 @@
 }
 },
 "727581": {
-"content_id": 727581,
+"content_id": "727581",
 "reference_id": 209470,
 "index_reference": "pertanyaan untuk pemeriksa kualitas",
 "localizations": {
@@ -5443,7 +5443,7 @@
 }
 },
 "727582": {
-"content_id": 727582,
+"content_id": "727582",
 "reference_id": 209471,
 "index_reference": "terjemahan alamiah",
 "localizations": {
@@ -5480,7 +5480,7 @@
 }
 },
 "727583": {
-"content_id": 727583,
+"content_id": "727583",
 "reference_id": 209472,
 "index_reference": "lisensi terbuka",
 "localizations": {
@@ -5517,9 +5517,9 @@
 }
 },
 "727584": {
-"content_id": 727584,
+"content_id": "727584",
 "reference_id": 209473,
-"index_reference": "metode-metode yang lain",
+"index_reference": "metodemetode yang lain",
 "localizations": {
 "eng": {
 "content_id": 689653,
@@ -5554,7 +5554,7 @@
 }
 },
 "727585": {
-"content_id": 727585,
+"content_id": "727585",
 "reference_id": 209474,
 "index_reference": "pmereiksaan patner secara lisan",
 "localizations": {
@@ -5591,7 +5591,7 @@
 }
 },
 "727586": {
-"content_id": 727586,
+"content_id": "727586",
 "reference_id": 209475,
 "index_reference": "memilih platform penerjemahan",
 "localizations": {
@@ -5628,7 +5628,7 @@
 }
 },
 "727587": {
-"content_id": 727587,
+"content_id": "727587",
 "reference_id": 209476,
 "index_reference": "pelatihan sebelum memulai pemeriksaan",
 "localizations": {
@@ -5665,7 +5665,7 @@
 }
 },
 "727588": {
-"content_id": 727588,
+"content_id": "727588",
 "reference_id": 209477,
 "index_reference": "pelatihan sebelum penerjemahan dimulai",
 "localizations": {
@@ -5702,7 +5702,7 @@
 }
 },
 "727589": {
-"content_id": 727589,
+"content_id": "727589",
 "reference_id": 209478,
 "index_reference": "pengantar ke panduan proses",
 "localizations": {
@@ -5734,7 +5734,7 @@
 }
 },
 "727590": {
-"content_id": 727590,
+"content_id": "727590",
 "reference_id": 209479,
 "index_reference": "penerbitan",
 "localizations": {
@@ -5766,7 +5766,7 @@
 }
 },
 "727591": {
-"content_id": 727591,
+"content_id": "727591",
 "reference_id": 209480,
 "index_reference": "konsistensi penggunaan tanda baca",
 "localizations": {
@@ -5803,7 +5803,7 @@
 }
 },
 "727592": {
-"content_id": 727592,
+"content_id": "727592",
 "reference_id": 209481,
 "index_reference": "rubrik penilaian diri",
 "localizations": {
@@ -5840,7 +5840,7 @@
 }
 },
 "727593": {
-"content_id": 727593,
+"content_id": "727593",
 "reference_id": 209482,
 "index_reference": "mengatur translationcore®",
 "localizations": {
@@ -5872,7 +5872,7 @@
 }
 },
 "727594": {
-"content_id": 727594,
+"content_id": "727594",
 "reference_id": 209483,
 "index_reference": "membentuk tim penerjemah",
 "localizations": {
@@ -5904,7 +5904,7 @@
 }
 },
 "727595": {
-"content_id": 727595,
+"content_id": "727595",
 "reference_id": 209484,
 "index_reference": "menyiapkan translationstudio",
 "localizations": {
@@ -5936,7 +5936,7 @@
 }
 },
 "727596": {
-"content_id": 727596,
+"content_id": "727596",
 "reference_id": 209485,
 "index_reference": "cara membagikan konten",
 "localizations": {
@@ -5973,7 +5973,7 @@
 }
 },
 "727597": {
-"content_id": 727597,
+"content_id": "727597",
 "reference_id": 209486,
 "index_reference": "mengeja secara konsisten",
 "localizations": {
@@ -6010,7 +6010,7 @@
 }
 },
 "727598": {
-"content_id": 727598,
+"content_id": "727598",
 "reference_id": 209487,
 "index_reference": "pernyataan iman",
 "localizations": {
@@ -6047,7 +6047,7 @@
 }
 },
 "727599": {
-"content_id": 727599,
+"content_id": "727599",
 "reference_id": 209488,
 "index_reference": "pendahuluan untuk translation academy dari unfoldingword®",
 "localizations": {
@@ -6084,7 +6084,7 @@
 }
 },
 "727600": {
-"content_id": 727600,
+"content_id": "727600",
 "reference_id": 209489,
 "index_reference": "pemeriksaan potongan lisan secara tim",
 "localizations": {
@@ -6116,7 +6116,7 @@
 }
 },
 "727601": {
-"content_id": 727601,
+"content_id": "727601",
 "reference_id": 209490,
 "index_reference": "pemeriksaan terjemahancatatan  di tc",
 "localizations": {
@@ -6148,7 +6148,7 @@
 }
 },
 "727615": {
-"content_id": 727615,
+"content_id": "727615",
 "reference_id": 209491,
 "index_reference": "mengapa kita menerjemahkan alkitab",
 "localizations": {
@@ -6185,7 +6185,7 @@
 }
 },
 "727616": {
-"content_id": 727616,
+"content_id": "727616",
 "reference_id": 209492,
 "index_reference": "pedoman penerjemahan",
 "localizations": {
@@ -6222,7 +6222,7 @@
 }
 },
 "727617": {
-"content_id": 727617,
+"content_id": "727617",
 "reference_id": 209493,
 "index_reference": "gambaran umum penerjemahan",
 "localizations": {
@@ -6254,7 +6254,7 @@
 }
 },
 "727618": {
-"content_id": 727618,
+"content_id": "727618",
 "reference_id": 209494,
 "index_reference": "proyek unfoldingword",
 "localizations": {
@@ -6291,7 +6291,7 @@
 }
 },
 "727619": {
-"content_id": 727619,
+"content_id": "727619",
 "reference_id": 209495,
 "index_reference": "verifikasi lengkap",
 "localizations": {
@@ -6328,7 +6328,7 @@
 }
 },
 "727620": {
-"content_id": 727620,
+"content_id": "727620",
 "reference_id": 209496,
 "index_reference": "terjemahan balik",
 "localizations": {
@@ -6370,7 +6370,7 @@
 }
 },
 "727621": {
-"content_id": 727621,
+"content_id": "727621",
 "reference_id": 209497,
 "index_reference": "pedoman membuat terjemahan balik yang baik",
 "localizations": {
@@ -6407,9 +6407,9 @@
 }
 },
 "727622": {
-"content_id": 727622,
+"content_id": "727622",
 "reference_id": 209498,
-"index_reference": "jenis - jenis terjemahan balik",
+"index_reference": "jenis  jenis terjemahan balik",
 "localizations": {
 "eng": {
 "content_id": 689678,
@@ -6444,7 +6444,7 @@
 }
 },
 "727623": {
-"content_id": 727623,
+"content_id": "727623",
 "reference_id": 209499,
 "index_reference": "tujuan terjemahan balik",
 "localizations": {
@@ -6481,7 +6481,7 @@
 }
 },
 "727624": {
-"content_id": 727624,
+"content_id": "727624",
 "reference_id": 209500,
 "index_reference": "penerjemah balik",
 "localizations": {
@@ -6518,9 +6518,9 @@
 }
 },
 "727625": {
-"content_id": 727625,
+"content_id": "727625",
 "reference_id": 209501,
-"index_reference": "jenis - jenis terjemahan balik tertulis",
+"index_reference": "jenis  jenis terjemahan balik tertulis",
 "localizations": {
 "eng": {
 "content_id": 689681,
@@ -6555,9 +6555,9 @@
 }
 },
 "727626": {
-"content_id": 727626,
+"content_id": "727626",
 "reference_id": 209502,
-"index_reference": "langkah-langkah untuk para pemeriksa kualitas terjemahan",
+"index_reference": "langkahlangkah untuk para pemeriksa kualitas terjemahan",
 "localizations": {
 "eng": {
 "content_id": 689682,
@@ -6592,9 +6592,9 @@
 }
 },
 "727627": {
-"content_id": 727627,
+"content_id": "727627",
 "reference_id": 209503,
-"index_reference": "hal-hal yang perlu diperiksa",
+"index_reference": "halhal yang perlu diperiksa",
 "localizations": {
 "eng": {
 "content_id": 689683,
