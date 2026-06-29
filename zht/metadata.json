@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>unfoldingWord® Translation Academy</b> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license. <cite>unfoldingWord® Translation Academy</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from <cite>unfoldingWord® Translation Academy</cite> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license by Mission Mutual",
 "resource_code": "UWTranslationManual",
-"date_created": "2026-04-27",
+"date_created": "2026-06-29",
 "language": "zht",
 "localizations": [
 "eng",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-04-27T06:10:28.072068"
+"dateCreated": "2026-06-29T12:05:43.784585"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "UWTranslationManual": {
-"timestamp": "2026-04-27T06:10:28.072068"
+"timestamp": "2026-06-29T12:05:43.784585"
 }
 }
 },
@@ -96,19 +96,19 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 2876016
+"size": 4059171
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 1395028
+"size": 2096063
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 330223
+"size": 394472
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 3350612
+"size": 4090489
 }
 },
 "copyright": {
@@ -7892,6 +7892,1993 @@
 "content_id": 884327,
 "language": "guj",
 "title": "લખાણના પ્રકારો"
+}
+}
+},
+"825964": {
+"content_id": "825964",
+"reference_id": 26706,
+"index_reference": "隱喻",
+"localizations": {
+"eng": {
+"content_id": 33292,
+"language": "eng",
+"title": "Metaphor"
+},
+"arb": {
+"content_id": 781631,
+"language": "arb",
+"title": "الاستعارة"
+},
+"hin": {
+"content_id": 727335,
+"language": "hin",
+"title": "रूपक"
+},
+"ind": {
+"content_id": 727537,
+"language": "ind",
+"title": "Metafora"
+},
+"por": {
+"content_id": 800071,
+"language": "por",
+"title": "Metáfora"
+},
+"spa": {
+"content_id": 727936,
+"language": "spa",
+"title": "Metáfora"
+},
+"nep": {
+"content_id": 727706,
+"language": "nep",
+"title": "रूपक"
+},
+"guj": {
+"content_id": 884206,
+"language": "guj",
+"title": "રૂપક"
+}
+}
+},
+"825965": {
+"content_id": "825965",
+"reference_id": 26707,
+"index_reference": "轉喻",
+"localizations": {
+"eng": {
+"content_id": 33293,
+"language": "eng",
+"title": "Metonymy"
+},
+"arb": {
+"content_id": 781632,
+"language": "arb",
+"title": "مجاز مُرسل"
+},
+"hin": {
+"content_id": 727336,
+"language": "hin",
+"title": "लक्षणालंकार"
+},
+"ind": {
+"content_id": 727538,
+"language": "ind",
+"title": "Metonimi"
+},
+"por": {
+"content_id": 800072,
+"language": "por",
+"title": "Metonímia"
+},
+"spa": {
+"content_id": 727937,
+"language": "spa",
+"title": "Metonimia"
+},
+"nep": {
+"content_id": 727707,
+"language": "nep",
+"title": "लक्षणा"
+},
+"guj": {
+"content_id": 884207,
+"language": "guj",
+"title": "﻿ઉપનામ"
+}
+}
+},
+"825991": {
+"content_id": "825991",
+"reference_id": 26804,
+"index_reference": "更多關於翻譯",
+"localizations": {
+"eng": {
+"content_id": 33390,
+"language": "eng",
+"title": "More about Translation"
+},
+"arb": {
+"content_id": 781729,
+"language": "arb",
+"title": "عن الترجمة"
+},
+"hin": {
+"content_id": 727440,
+"language": "hin",
+"title": "अनुवाद के बारे में अधिक जानकारी"
+},
+"por": {
+"content_id": 800169,
+"language": "por",
+"title": "Mais sobre tradução"
+},
+"spa": {
+"content_id": 728064,
+"language": "spa",
+"title": "More about Translation"
+},
+"nep": {
+"content_id": 727828,
+"language": "nep",
+"title": "अनुवादको बारेमा थप कुराहरू"
+},
+"guj": {
+"content_id": 884300,
+"language": "guj",
+"title": "અનુવાદ વિષે વધુ"
+}
+}
+},
+"826004": {
+"content_id": "826004",
+"reference_id": 209471,
+"index_reference": "自然的翻譯",
+"localizations": {
+"eng": {
+"content_id": 689651,
+"language": "eng",
+"title": "Natural Translation"
+},
+"arb": {
+"content_id": 781790,
+"language": "arb",
+"title": "الترجمة الأصيلة"
+},
+"hin": {
+"content_id": 727264,
+"language": "hin",
+"title": "स्वाभाविक अनुवाद"
+},
+"ind": {
+"content_id": 727582,
+"language": "ind",
+"title": "Terjemahan Alamiah"
+},
+"por": {
+"content_id": 800230,
+"language": "por",
+"title": "Tradução natural"
+},
+"spa": {
+"content_id": 728006,
+"language": "spa",
+"title": "Natural Translation"
+},
+"nep": {
+"content_id": 727774,
+"language": "nep",
+"title": "स्वभाविक अनुवाद"
+}
+}
+},
+"825966": {
+"content_id": "825966",
+"reference_id": 26708,
+"index_reference": "名詞形容詞",
+"localizations": {
+"eng": {
+"content_id": 33294,
+"language": "eng",
+"title": "Nominal Adjectives"
+},
+"arb": {
+"content_id": 781633,
+"language": "arb",
+"title": "الصفات الاسمية"
+},
+"hin": {
+"content_id": 727337,
+"language": "hin",
+"title": "आम विशेषण"
+},
+"ind": {
+"content_id": 727539,
+"language": "ind",
+"title": "Kata Sifat Nominal"
+},
+"por": {
+"content_id": 800073,
+"language": "por",
+"title": "Adjetivos nominais"
+},
+"spa": {
+"content_id": 727938,
+"language": "spa",
+"title": "Adjetivos sustantivados"
+},
+"nep": {
+"content_id": 727708,
+"language": "nep",
+"title": "नामको काम गर्ने विशेषण"
+},
+"guj": {
+"content_id": 884208,
+"language": "guj",
+"title": "નામવાચક વિશેષણો"
+}
+}
+},
+"825987": {
+"content_id": "825987",
+"reference_id": 26774,
+"index_reference": "長ULT片語的附註",
+"localizations": {
+"eng": {
+"content_id": 33360,
+"language": "eng",
+"title": "Notes for Long ULT Phrases"
+},
+"arb": {
+"content_id": 781699,
+"language": "arb",
+"title": "ملاحظات حول العبارات الطويلة"
+},
+"hin": {
+"content_id": 727406,
+"language": "hin",
+"title": "ULB कथनों के साथ नोट्स"
+},
+"por": {
+"content_id": 800139,
+"language": "por",
+"title": "Notas para frases longas em uma tradução literal"
+},
+"spa": {
+"content_id": 728026,
+"language": "spa",
+"title": "Notes for Long TPL Phrases"
+},
+"nep": {
+"content_id": 727792,
+"language": "nep",
+"title": "लामो यूएलटी वाक्यांशहरूका लागि टिप्पणीहरू"
+},
+"guj": {
+"content_id": 884270,
+"language": "guj",
+"title": "ULB નાં લાંબા શબ્દસમૂહોને માટે નોંધો"
+}
+}
+},
+"825981": {
+"content_id": "825981",
+"reference_id": 26767,
+"index_reference": "闡明UST翻譯的附註",
+"localizations": {
+"eng": {
+"content_id": 33353,
+"language": "eng",
+"title": "Notes that Clarify the UST Translation"
+},
+"arb": {
+"content_id": 781692,
+"language": "arb",
+"title": "ملاحظات توضح ترجمة UST"
+},
+"hin": {
+"content_id": 727399,
+"language": "hin",
+"title": "UDB के उद्धरण को शामिल करने वाले नोट्स"
+},
+"por": {
+"content_id": 800132,
+"language": "por",
+"title": "Notas que esclarecem a tradução da UST — UnfoldingWord Simplified Text"
+},
+"spa": {
+"content_id": 728019,
+"language": "spa",
+"title": "Notes that Clarify the TPS Translation"
+},
+"nep": {
+"content_id": 727785,
+"language": "nep",
+"title": "यूएसटीबाट कसैको भनाइ समावेश गरिएका टिप्पणीहरू"
+},
+"guj": {
+"content_id": 884263,
+"language": "guj",
+"title": "નોંધો કે જે UDB માંના અવતરણનો સમાવેશ કરે છે"
+}
+}
+},
+"825983": {
+"content_id": "825983",
+"reference_id": 26770,
+"index_reference": "解釋的附註",
+"localizations": {
+"eng": {
+"content_id": 33356,
+"language": "eng",
+"title": "Notes that Explain"
+},
+"arb": {
+"content_id": 781695,
+"language": "arb",
+"title": "ملاحظات الشرح"
+},
+"hin": {
+"content_id": 727402,
+"language": "hin",
+"title": "वर्णन करने वाले नोट्स"
+},
+"por": {
+"content_id": 800135,
+"language": "por",
+"title": "Notas que explicam"
+},
+"spa": {
+"content_id": 728022,
+"language": "spa",
+"title": "Notes that Explain"
+},
+"nep": {
+"content_id": 727788,
+"language": "nep",
+"title": "व्याख्या गर्ने टिप्पणीहरू"
+},
+"guj": {
+"content_id": 884266,
+"language": "guj",
+"title": "નોંધો કે જે સમજાવે છે"
+}
+}
+},
+"825980": {
+"content_id": "825980",
+"reference_id": 26766,
+"index_reference": "具有其它涵義的附註",
+"localizations": {
+"eng": {
+"content_id": 33352,
+"language": "eng",
+"title": "Notes that have Alternate Meanings"
+},
+"arb": {
+"content_id": 781691,
+"language": "arb",
+"title": "ملاحظات دراسية تحمل معانٍ بديلة"
+},
+"hin": {
+"content_id": 727398,
+"language": "hin",
+"title": "वैकल्पिक अर्थ वाले नोट्स"
+},
+"por": {
+"content_id": 800131,
+"language": "por",
+"title": "Notas com significados alternativos"
+},
+"spa": {
+"content_id": 728018,
+"language": "spa",
+"title": "Notes that have Alternate Meanings"
+},
+"nep": {
+"content_id": 727784,
+"language": "nep",
+"title": "वैकल्पिक अर्थहरू भएका टिप्पणीहरू"
+},
+"guj": {
+"content_id": 884262,
+"language": "guj",
+"title": "નોંધો કે જેમાં વૈકલ્પિક અર્થો રહેલાં છે"
+}
+}
+},
+"825984": {
+"content_id": "825984",
+"reference_id": 26771,
+"index_reference": "識別修辭法的附註",
+"localizations": {
+"eng": {
+"content_id": 33357,
+"language": "eng",
+"title": "Notes that Identify Figures of Speech"
+},
+"arb": {
+"content_id": 781696,
+"language": "arb",
+"title": "ملاحظات تحدد المجازات"
+},
+"hin": {
+"content_id": 727403,
+"language": "hin",
+"title": "अलंकार के शब्दों को पहचानने वाले नोट्स"
+},
+"por": {
+"content_id": 800136,
+"language": "por",
+"title": "Notas que identificam figuras de linguagem"
+},
+"spa": {
+"content_id": 728023,
+"language": "spa",
+"title": "Notes that Identify Figures of Speech"
+},
+"nep": {
+"content_id": 727789,
+"language": "nep",
+"title": "अलङकार पहिचान गर्ने टिप्पणीहरू"
+},
+"guj": {
+"content_id": 884267,
+"language": "guj",
+"title": "નોંધો કે જે શબ્દાલંકારને ઓળખે છે"
+}
+}
+},
+"825985": {
+"content_id": "825985",
+"reference_id": 26772,
+"index_reference": "識別間接和直接引語的附註",
+"localizations": {
+"eng": {
+"content_id": 33358,
+"language": "eng",
+"title": "Notes that Identify Indirect and Direct Quotes"
+},
+"arb": {
+"content_id": 781697,
+"language": "arb",
+"title": "ملاحظات تبيّن الاقتباسات المباشرة وغير المباشرةرة"
+},
+"hin": {
+"content_id": 727404,
+"language": "hin",
+"title": "प्रत्यक्ष एवं अप्रत्यक्ष उद्धरणों को पहचानने वाले नोट्स"
+},
+"por": {
+"content_id": 800137,
+"language": "por",
+"title": "Notas que identificam citações indiretas e diretas"
+},
+"spa": {
+"content_id": 728024,
+"language": "spa",
+"title": "Notes that Identify Indirect and Direct Quotes"
+},
+"nep": {
+"content_id": 727790,
+"language": "nep",
+"title": "प्रत्यक्ष र अप्रत्यक्ष उद्धरणहरूलाई पहिचान गर्ने टिप्पणीहरू"
+},
+"guj": {
+"content_id": 884268,
+"language": "guj",
+"title": "નોંધો કે જે પ્રત્યક્ષ અને પરોક્ષ અવતરણોને ઓળખે છે"
+}
+}
+},
+"825979": {
+"content_id": "825979",
+"reference_id": 26765,
+"index_reference": "具有替代翻譯的附註",
+"localizations": {
+"eng": {
+"content_id": 33351,
+"language": "eng",
+"title": "Notes with Alternate Translations"
+},
+"arb": {
+"content_id": 781690,
+"language": "arb",
+"title": "ملاحظات دراسية مع ترجمات بديلة"
+},
+"hin": {
+"content_id": 727397,
+"language": "hin",
+"title": "वैकल्पिक अनुवाद (AT) वाले नोट्स"
+},
+"por": {
+"content_id": 800130,
+"language": "por",
+"title": "Notas com traduções alternativas"
+},
+"spa": {
+"content_id": 728017,
+"language": "spa",
+"title": "Notes with Alternate Translations"
+},
+"nep": {
+"content_id": 727783,
+"language": "nep",
+"title": "वैकल्पिक अनुवाद सहितका टिप्पणीहरू (वैकल्पिक अनुवादः)"
+},
+"guj": {
+"content_id": 884261,
+"language": "guj",
+"title": "નોંધો અને વૈકલ્પિક અનુવાદો (AT)"
+}
+}
+},
+"825982": {
+"content_id": "825982",
+"reference_id": 26769,
+"index_reference": "附有定義的附註",
+"localizations": {
+"eng": {
+"content_id": 33355,
+"language": "eng",
+"title": "Notes with Definitions"
+},
+"arb": {
+"content_id": 781694,
+"language": "arb",
+"title": "ملاحظات مع التعريفات"
+},
+"hin": {
+"content_id": 727401,
+"language": "hin",
+"title": "परिभाषा के साथ नोट्स"
+},
+"por": {
+"content_id": 800134,
+"language": "por",
+"title": "Notas com definições"
+},
+"spa": {
+"content_id": 728021,
+"language": "spa",
+"title": "Notes with Definitions"
+},
+"nep": {
+"content_id": 727787,
+"language": "nep",
+"title": "परिभषाहरू सहितका टिप्पणीहरू"
+},
+"guj": {
+"content_id": 884265,
+"language": "guj",
+"title": "વ્યાખ્યાઓ સાથે નોંધો"
+}
+}
+},
+"825986": {
+"content_id": "825986",
+"reference_id": 26773,
+"index_reference": "帶有連結的附註",
+"localizations": {
+"eng": {
+"content_id": 33359,
+"language": "eng",
+"title": "Notes with Links"
+},
+"arb": {
+"content_id": 781698,
+"language": "arb",
+"title": "ملاحظات متعلقة بالروابط"
+},
+"hin": {
+"content_id": 727405,
+"language": "hin",
+"title": "लिंक्स के साथ नोट्स"
+},
+"por": {
+"content_id": 800138,
+"language": "por",
+"title": "Notas com links"
+},
+"spa": {
+"content_id": 728025,
+"language": "spa",
+"title": "Notes with Links"
+},
+"nep": {
+"content_id": 727791,
+"language": "nep",
+"title": "लिङ्क सहितका टिप्पणीहरू"
+},
+"guj": {
+"content_id": 884269,
+"language": "guj",
+"title": "કડીઓ સાથે નોંધો"
+}
+}
+},
+"825988": {
+"content_id": "825988",
+"reference_id": 26775,
+"index_reference": "帶有可能或可能涵義的附註",
+"localizations": {
+"eng": {
+"content_id": 33361,
+"language": "eng",
+"title": "Notes with Probable or Possible Meanings"
+},
+"arb": {
+"content_id": 781700,
+"language": "arb",
+"title": "ملاحظات ذات معاني مرجحة أو محتملة"
+},
+"hin": {
+"content_id": 727407,
+"language": "hin",
+"title": "संभावित अर्थों के साथ नोट्स"
+},
+"por": {
+"content_id": 800140,
+"language": "por",
+"title": "Notas com significados prováveis ​​ou possíveis"
+},
+"spa": {
+"content_id": 728027,
+"language": "spa",
+"title": "Notes with Probable or Possible Meanings"
+},
+"nep": {
+"content_id": 727793,
+"language": "nep",
+"title": "सम्भावित अर्थ सहितका टिप्पणीहरू"
+},
+"guj": {
+"content_id": 884271,
+"language": "guj",
+"title": "શક્ય અર્થો સાથે નોંધો"
+}
+}
+},
+"825989": {
+"content_id": "825989",
+"reference_id": 26777,
+"index_reference": "同義詞和對等詞附註",
+"localizations": {
+"eng": {
+"content_id": 33363,
+"language": "eng",
+"title": "Notes with Synonyms and Equivalent Phrases"
+},
+"arb": {
+"content_id": 781702,
+"language": "arb",
+"title": "ملاحظات مع المرادفات والمكافئات"
+},
+"hin": {
+"content_id": 727409,
+"language": "hin",
+"title": "प्रयायवाची एवं समान कथनों के साथ नोट्स"
+},
+"por": {
+"content_id": 800142,
+"language": "por",
+"title": "Notas com sinônimos e frases equivalentes"
+},
+"spa": {
+"content_id": 728029,
+"language": "spa",
+"title": "Notes with Synonyms and Equivalent Phrases"
+},
+"nep": {
+"content_id": 727795,
+"language": "nep",
+"title": "पर्यायवाची र समानार्थी वाक्यांशहरू सहितका टिप्पणीहरू"
+},
+"guj": {
+"content_id": 884273,
+"language": "guj",
+"title": "સમાનાર્થી અને સમકક્ષ શબ્દસમૂહો સાથે નોંધો"
+}
+}
+},
+"825992": {
+"content_id": "825992",
+"reference_id": 26806,
+"index_reference": "數字",
+"localizations": {
+"eng": {
+"content_id": 33392,
+"language": "eng",
+"title": "Numbers"
+},
+"arb": {
+"content_id": 781731,
+"language": "arb",
+"title": "الأرقام"
+},
+"hin": {
+"content_id": 727442,
+"language": "hin",
+"title": "संख्याएँ"
+},
+"por": {
+"content_id": 800171,
+"language": "por",
+"title": "Números"
+},
+"spa": {
+"content_id": 728066,
+"language": "spa",
+"title": "Números"
+},
+"nep": {
+"content_id": 727830,
+"language": "nep",
+"title": "सङ्ख्याहरू"
+},
+"guj": {
+"content_id": 884302,
+"language": "guj",
+"title": "આંકડા/ગણના"
+}
+}
+},
+"825996": {
+"content_id": "825996",
+"reference_id": 26834,
+"index_reference": "誓言公式",
+"localizations": {
+"eng": {
+"content_id": 33420,
+"language": "eng",
+"title": "Oath Formulas"
+},
+"arb": {
+"content_id": 781759,
+"language": "arb",
+"title": "صيغ القسم"
+},
+"hin": {
+"content_id": 799951,
+"language": "hin",
+"title": "शपथ सूत्र"
+},
+"ind": {
+"content_id": 727629,
+"language": "ind",
+"title": "Rumusan Sumpah"
+},
+"por": {
+"content_id": 800199,
+"language": "por",
+"title": "Fórmulas de juramento"
+},
+"guj": {
+"content_id": 884329,
+"language": "guj",
+"title": "શપથ ફોર્મ્યુલા"
+}
+}
+},
+"826005": {
+"content_id": "826005",
+"reference_id": 209472,
+"index_reference": "開放授權",
+"localizations": {
+"eng": {
+"content_id": 689652,
+"language": "eng",
+"title": "Open License"
+},
+"arb": {
+"content_id": 781791,
+"language": "arb",
+"title": "التراخيص مفتوحة المصدر"
+},
+"hin": {
+"content_id": 727391,
+"language": "hin",
+"title": "खुला लार्इसेंस"
+},
+"ind": {
+"content_id": 727583,
+"language": "ind",
+"title": "Lisensi Terbuka"
+},
+"por": {
+"content_id": 800231,
+"language": "por",
+"title": "Licença aberta"
+},
+"spa": {
+"content_id": 728007,
+"language": "spa",
+"title": "Open License"
+},
+"nep": {
+"content_id": 727775,
+"language": "nep",
+"title": "खुला अनुमति पत्र"
+}
+}
+},
+"826007": {
+"content_id": "826007",
+"reference_id": 209474,
+"index_reference": "口述同工檢查",
+"localizations": {
+"eng": {
+"content_id": 689654,
+"language": "eng",
+"title": "Oral Partner Check"
+},
+"arb": {
+"content_id": 781793,
+"language": "arb",
+"title": "التدقيق الشفهي مع شريك العمل"
+},
+"hin": {
+"content_id": 727266,
+"language": "hin",
+"title": "समकक्ष जाँच"
+},
+"ind": {
+"content_id": 727585,
+"language": "ind",
+"title": "Pmereiksaan Patner secara Lisan"
+},
+"por": {
+"content_id": 800233,
+"language": "por",
+"title": "Verificação oral com um parceiro"
+},
+"spa": {
+"content_id": 728009,
+"language": "spa",
+"title": "Oral Partner Check"
+},
+"nep": {
+"content_id": 727777,
+"language": "nep",
+"title": "सहपाठीसँग गरिने मौखिक जाँच"
+}
+}
+},
+"825963": {
+"content_id": "825963",
+"reference_id": 26683,
+"index_reference": "事件的順序",
+"localizations": {
+"eng": {
+"content_id": 33269,
+"language": "eng",
+"title": "Order of Events"
+},
+"arb": {
+"content_id": 781608,
+"language": "arb",
+"title": "ترتيب الأحداث"
+},
+"hin": {
+"content_id": 727313,
+"language": "hin",
+"title": "घटनाओं का क्रम"
+},
+"ind": {
+"content_id": 727518,
+"language": "ind",
+"title": "Urutan Peristiwa"
+},
+"por": {
+"content_id": 800048,
+"language": "por",
+"title": "Ordem dos eventos"
+},
+"spa": {
+"content_id": 727912,
+"language": "spa",
+"title": "Orden de Acontecimientos"
+},
+"nep": {
+"content_id": 727682,
+"language": "nep",
+"title": "घटनाक्रमहरू"
+},
+"guj": {
+"content_id": 884182,
+"language": "guj",
+"title": "ઘટનાઓનો ક્રમ"
+}
+}
+},
+"825993": {
+"content_id": "825993",
+"reference_id": 26807,
+"index_reference": "序數",
+"localizations": {
+"eng": {
+"content_id": 33393,
+"language": "eng",
+"title": "Ordinal Numbers"
+},
+"arb": {
+"content_id": 781732,
+"language": "arb",
+"title": "الأعداد الترتيبية"
+},
+"hin": {
+"content_id": 727443,
+"language": "hin",
+"title": "क्रमसूचक संख्याएँ"
+},
+"ind": {
+"content_id": 727609,
+"language": "ind",
+"title": "Angka Ordinal"
+},
+"por": {
+"content_id": 800172,
+"language": "por",
+"title": "Números ordinais"
+},
+"spa": {
+"content_id": 728067,
+"language": "spa",
+"title": "Ordinal Numbers"
+},
+"nep": {
+"content_id": 727831,
+"language": "nep",
+"title": "क्रमसङ्ख्याहरू"
+},
+"guj": {
+"content_id": 884303,
+"language": "guj",
+"title": "ક્રમવાચક સંખ્યાઓ"
+}
+}
+},
+"825990": {
+"content_id": "825990",
+"reference_id": 26803,
+"index_reference": "原始抄本",
+"localizations": {
+"eng": {
+"content_id": 33389,
+"language": "eng",
+"title": "Original Manuscripts"
+},
+"arb": {
+"content_id": 781728,
+"language": "arb",
+"title": "المخطوطات الأصلية"
+},
+"hin": {
+"content_id": 727439,
+"language": "hin",
+"title": "मूल प्रतिलिपियाँ"
+},
+"por": {
+"content_id": 800168,
+"language": "por",
+"title": "Manuscritos originais"
+},
+"spa": {
+"content_id": 728063,
+"language": "spa",
+"title": "Original Manuscripts"
+},
+"nep": {
+"content_id": 727827,
+"language": "nep",
+"title": "मूल पाण्‍डुलिपिहरू"
+},
+"guj": {
+"content_id": 884299,
+"language": "guj",
+"title": "મૂળ હસ્તપ્રતો"
+}
+}
+},
+"826006": {
+"content_id": "826006",
+"reference_id": 209473,
+"index_reference": "其它方法",
+"localizations": {
+"eng": {
+"content_id": 689653,
+"language": "eng",
+"title": "Other Methods"
+},
+"arb": {
+"content_id": 781792,
+"language": "arb",
+"title": "أساليب أخرى"
+},
+"hin": {
+"content_id": 727265,
+"language": "hin",
+"title": "अन्य तरीके"
+},
+"ind": {
+"content_id": 727584,
+"language": "ind",
+"title": "Metode-metode yang lain"
+},
+"por": {
+"content_id": 800232,
+"language": "por",
+"title": "Outros métodos"
+},
+"spa": {
+"content_id": 728008,
+"language": "spa",
+"title": "Other Methods"
+},
+"nep": {
+"content_id": 727776,
+"language": "nep",
+"title": "अन्य तरिकाहरू"
+}
+}
+},
+"825967": {
+"content_id": "825967",
+"reference_id": 26712,
+"index_reference": "比喻",
+"localizations": {
+"eng": {
+"content_id": 33298,
+"language": "eng",
+"title": "Parables"
+},
+"arb": {
+"content_id": 781637,
+"language": "arb",
+"title": "الأمثال"
+},
+"hin": {
+"content_id": 727339,
+"language": "hin",
+"title": "दृष्टांत"
+},
+"por": {
+"content_id": 800077,
+"language": "por",
+"title": "Parábolas"
+},
+"spa": {
+"content_id": 727942,
+"language": "spa",
+"title": "Parábolas"
+},
+"nep": {
+"content_id": 727710,
+"language": "nep",
+"title": "दृष्टान्त"
+},
+"guj": {
+"content_id": 884210,
+"language": "guj",
+"title": "દ્રષ્ટાંતો"
+}
+}
+},
+"825968": {
+"content_id": "825968",
+"reference_id": 26713,
+"index_reference": "平行",
+"localizations": {
+"eng": {
+"content_id": 33299,
+"language": "eng",
+"title": "Parallelism"
+},
+"arb": {
+"content_id": 781638,
+"language": "arb",
+"title": "التوازي"
+},
+"hin": {
+"content_id": 727340,
+"language": "hin",
+"title": "समरूपता"
+},
+"ind": {
+"content_id": 727541,
+"language": "ind",
+"title": "Paralelisme"
+},
+"por": {
+"content_id": 800078,
+"language": "por",
+"title": "Paralelismo"
+},
+"spa": {
+"content_id": 727943,
+"language": "spa",
+"title": "Paralelismo"
+},
+"nep": {
+"content_id": 727711,
+"language": "nep",
+"title": "समान्तरता"
+},
+"guj": {
+"content_id": 884211,
+"language": "guj",
+"title": "સમાંતરણ"
+}
+}
+},
+"825969": {
+"content_id": "825969",
+"reference_id": 26714,
+"index_reference": "詞類",
+"localizations": {
+"eng": {
+"content_id": 33300,
+"language": "eng",
+"title": "Parts of Speech"
+},
+"arb": {
+"content_id": 781639,
+"language": "arb",
+"title": "أقسام الكلام"
+},
+"hin": {
+"content_id": 727341,
+"language": "hin",
+"title": "भाषा के भाग"
+},
+"por": {
+"content_id": 800079,
+"language": "por",
+"title": "Partes do discurso"
+},
+"spa": {
+"content_id": 727944,
+"language": "spa",
+"title": "Parts of Speech"
+},
+"nep": {
+"content_id": 727712,
+"language": "nep",
+"title": "शब्दवर्ग"
+},
+"guj": {
+"content_id": 884212,
+"language": "guj",
+"title": "ભાષાલંકાર"
+}
+}
+},
+"825971": {
+"content_id": "825971",
+"reference_id": 26716,
+"index_reference": "擬人化",
+"localizations": {
+"eng": {
+"content_id": 33302,
+"language": "eng",
+"title": "Personification"
+},
+"arb": {
+"content_id": 781641,
+"language": "arb",
+"title": "التشخيص"
+},
+"hin": {
+"content_id": 727343,
+"language": "hin",
+"title": "मानवीकरण"
+},
+"ind": {
+"content_id": 727543,
+"language": "ind",
+"title": "Personifikasi"
+},
+"por": {
+"content_id": 800081,
+"language": "por",
+"title": "Personificação"
+},
+"spa": {
+"content_id": 727946,
+"language": "spa",
+"title": "Personificación"
+},
+"nep": {
+"content_id": 727714,
+"language": "nep",
+"title": "मानवीकरण"
+},
+"guj": {
+"content_id": 884214,
+"language": "guj",
+"title": "વ્યક્તિનો અવતાર"
+}
+}
+},
+"825997": {
+"content_id": "825997",
+"reference_id": 26836,
+"index_reference": "詩歌",
+"localizations": {
+"eng": {
+"content_id": 33422,
+"language": "eng",
+"title": "Poetry"
+},
+"arb": {
+"content_id": 781761,
+"language": "arb",
+"title": "الشِّعْر"
+},
+"hin": {
+"content_id": 727470,
+"language": "hin",
+"title": "काव्य"
+},
+"ind": {
+"content_id": 727630,
+"language": "ind",
+"title": "Puisi"
+},
+"por": {
+"content_id": 800201,
+"language": "por",
+"title": "Poesia"
+},
+"spa": {
+"content_id": 728105,
+"language": "spa",
+"title": "Poesía"
+},
+"nep": {
+"content_id": 727871,
+"language": "nep",
+"title": "कविता"
+},
+"guj": {
+"content_id": 884331,
+"language": "guj",
+"title": "કવિતા"
+}
+}
+},
+"825998": {
+"content_id": "825998",
+"reference_id": 26837,
+"index_reference": "禮貌",
+"localizations": {
+"eng": {
+"content_id": 33423,
+"language": "eng",
+"title": "Politeness"
+},
+"arb": {
+"content_id": 781762,
+"language": "arb",
+"title": "اللباقة"
+},
+"hin": {
+"content_id": 799952,
+"language": "hin",
+"title": "विनम्रता"
+},
+"por": {
+"content_id": 800202,
+"language": "por",
+"title": "Polidez"
+},
+"spa": {
+"content_id": 728106,
+"language": "spa",
+"title": "Politeness"
+},
+"guj": {
+"content_id": 884332,
+"language": "guj",
+"title": "વિનયવિવેક"
+}
+}
+},
+"825972": {
+"content_id": "825972",
+"reference_id": 26717,
+"index_reference": "所有格",
+"localizations": {
+"eng": {
+"content_id": 33303,
+"language": "eng",
+"title": "Possession"
+},
+"arb": {
+"content_id": 781642,
+"language": "arb",
+"title": "أدوات الملكية"
+},
+"hin": {
+"content_id": 727344,
+"language": "hin",
+"title": "स्वत्वबोधन"
+},
+"ind": {
+"content_id": 727544,
+"language": "ind",
+"title": "Kepemilikan"
+},
+"por": {
+"content_id": 800082,
+"language": "por",
+"title": "Posse"
+},
+"spa": {
+"content_id": 727947,
+"language": "spa",
+"title": "Posesión"
+},
+"nep": {
+"content_id": 727715,
+"language": "nep",
+"title": "स्वामित्व"
+},
+"guj": {
+"content_id": 884215,
+"language": "guj",
+"title": "માલિકી"
+}
+}
+},
+"825970": {
+"content_id": "825970",
+"reference_id": 26715,
+"index_reference": "預言過去",
+"localizations": {
+"eng": {
+"content_id": 33301,
+"language": "eng",
+"title": "Predictive Past"
+},
+"arb": {
+"content_id": 781640,
+"language": "arb",
+"title": "الماضي التنبؤي"
+},
+"hin": {
+"content_id": 727342,
+"language": "hin",
+"title": "भविष्यसूचक अतीत"
+},
+"ind": {
+"content_id": 727542,
+"language": "ind",
+"title": "Bentuk Lampau yang Bersifat Prediktif"
+},
+"por": {
+"content_id": 800080,
+"language": "por",
+"title": "Passado preditivo"
+},
+"spa": {
+"content_id": 727945,
+"language": "spa",
+"title": "Predictive Past"
+},
+"nep": {
+"content_id": 727713,
+"language": "nep",
+"title": "भविष्यवाणीयुक्त भूत"
+},
+"guj": {
+"content_id": 884213,
+"language": "guj",
+"title": "આગાહીસુચક ભૂતકાળ"
+}
+}
+},
+"825994": {
+"content_id": "825994",
+"reference_id": 26810,
+"index_reference": "按字面翻譯的問題",
+"localizations": {
+"eng": {
+"content_id": 33396,
+"language": "eng",
+"title": "Problems with Literal Translations"
+},
+"arb": {
+"content_id": 781735,
+"language": "arb",
+"title": "مشكلات الترجمة الحرفية"
+},
+"hin": {
+"content_id": 727445,
+"language": "hin",
+"title": "आक्षरिक अनुवाद की समस्याएँ"
+},
+"por": {
+"content_id": 800175,
+"language": "por",
+"title": "Problemas com traduções literais"
+},
+"spa": {
+"content_id": 728069,
+"language": "spa",
+"title": "Problems with Literal Translations"
+},
+"nep": {
+"content_id": 727833,
+"language": "nep",
+"title": "अक्षरशः रहेका अनुवादहरूका समस्याहरू"
+},
+"guj": {
+"content_id": 884305,
+"language": "guj",
+"title": "શાબ્દિક અનુવાદો સાથેની સમસ્યાઓ"
+}
+}
+},
+"825973": {
+"content_id": "825973",
+"reference_id": 26718,
+"index_reference": "代名詞",
+"localizations": {
+"eng": {
+"content_id": 33304,
+"language": "eng",
+"title": "Pronouns"
+},
+"arb": {
+"content_id": 781643,
+"language": "arb",
+"title": "الضمائر"
+},
+"hin": {
+"content_id": 727345,
+"language": "hin",
+"title": "सर्वनाम"
+},
+"ind": {
+"content_id": 727545,
+"language": "ind",
+"title": "Kata Ganti"
+},
+"por": {
+"content_id": 800083,
+"language": "por",
+"title": "Pronomes"
+},
+"spa": {
+"content_id": 727948,
+"language": "spa",
+"title": "Pronombres"
+},
+"nep": {
+"content_id": 727716,
+"language": "nep",
+"title": "सर्वनामहरू"
+},
+"guj": {
+"content_id": 884216,
+"language": "guj",
+"title": "સર્વનામ"
+}
+}
+},
+"825999": {
+"content_id": "825999",
+"reference_id": 26838,
+"index_reference": "代名詞何時使用",
+"localizations": {
+"eng": {
+"content_id": 33424,
+"language": "eng",
+"title": "Pronouns — When to Use Them"
+},
+"arb": {
+"content_id": 781763,
+"language": "arb",
+"title": "الضمائر - متى تستخدمها"
+},
+"hin": {
+"content_id": 727471,
+"language": "hin",
+"title": "सर्वनाम - उनका कब उपयोग करें"
+},
+"ind": {
+"content_id": 727631,
+"language": "ind",
+"title": "Kata Ganti — Kapan Menggunakannya"
+},
+"por": {
+"content_id": 800203,
+"language": "por",
+"title": "Pronomes — Quando usá-los"
+},
+"spa": {
+"content_id": 728107,
+"language": "spa",
+"title": "Pronouns - When to Use Them"
+},
+"nep": {
+"content_id": 727872,
+"language": "nep",
+"title": "सर्वनामहरू - यिनीहरूको प्रयोग कहिले गर्ने"
+},
+"guj": {
+"content_id": 884333,
+"language": "guj",
+"title": "સર્વનામ - તેનો ઉપયોગ ક્યારે કરવો"
+}
+}
+},
+"826000": {
+"content_id": "826000",
+"reference_id": 26839,
+"index_reference": "箴言",
+"localizations": {
+"eng": {
+"content_id": 33425,
+"language": "eng",
+"title": "Proverbs"
+},
+"arb": {
+"content_id": 781764,
+"language": "arb",
+"title": "الأمثال"
+},
+"hin": {
+"content_id": 727472,
+"language": "hin",
+"title": "नीतिवचन"
+},
+"ind": {
+"content_id": 727632,
+"language": "ind",
+"title": "Amsal"
+},
+"por": {
+"content_id": 800204,
+"language": "por",
+"title": "Provérbios"
+},
+"spa": {
+"content_id": 728108,
+"language": "spa",
+"title": "Proverbios"
+},
+"nep": {
+"content_id": 727873,
+"language": "nep",
+"title": "हितोपदेश"
+},
+"guj": {
+"content_id": 884334,
+"language": "guj",
+"title": "નીતિવચનો"
+}
+}
+},
+"826008": {
+"content_id": "826008",
+"reference_id": 209479,
+"index_reference": "出版",
+"localizations": {
+"eng": {
+"content_id": 689659,
+"language": "eng",
+"title": "Publishing"
+},
+"arb": {
+"content_id": 781798,
+"language": "arb",
+"title": "النشر"
+},
+"hin": {
+"content_id": 799954,
+"language": "hin",
+"title": "प्रकाशन"
+},
+"ind": {
+"content_id": 727590,
+"language": "ind",
+"title": "Penerbitan"
+},
+"por": {
+"content_id": 800238,
+"language": "por",
+"title": "Publicando"
+},
+"spa": {
+"content_id": 728014,
+"language": "spa",
+"title": "Publishing"
+}
+}
+},
+"826002": {
+"content_id": "826002",
+"reference_id": 209469,
+"index_reference": "品質檢查員評估表格",
+"localizations": {
+"eng": {
+"content_id": 689649,
+"language": "eng",
+"title": "Quality Checker Evaluation Form"
+},
+"arb": {
+"content_id": 781788,
+"language": "arb",
+"title": "نموذج تقييم فحص الجودة"
+},
+"hin": {
+"content_id": 727262,
+"language": "hin",
+"title": "स्तर 3 पुष्टिकरण"
+},
+"ind": {
+"content_id": 727580,
+"language": "ind",
+"title": "Formulir Evaluasi Pemeriksa Kualitas"
+},
+"por": {
+"content_id": 800228,
+"language": "por",
+"title": "Formulário de avaliação do Verificador de Qualidade"
+},
+"spa": {
+"content_id": 728004,
+"language": "spa",
+"title": "Translation Evaluation Form"
+},
+"nep": {
+"content_id": 727772,
+"language": "nep",
+"title": "तह ३ को अनुमोदन"
+}
+}
+},
+"826003": {
+"content_id": "826003",
+"reference_id": 209470,
+"index_reference": "給品質檢查員的問題",
+"localizations": {
+"eng": {
+"content_id": 689650,
+"language": "eng",
+"title": "Questions for Quality Checkers"
+},
+"arb": {
+"content_id": 781789,
+"language": "arb",
+"title": "أسئلة لمدققي الجودة"
+},
+"hin": {
+"content_id": 727263,
+"language": "hin",
+"title": "स्तर तीन की जाँच के प्रश्न"
+},
+"ind": {
+"content_id": 727581,
+"language": "ind",
+"title": "Pertanyaan untuk Pemeriksa Kualitas"
+},
+"por": {
+"content_id": 800229,
+"language": "por",
+"title": "Perguntas para Verificadores de Qualidade"
+},
+"spa": {
+"content_id": 728005,
+"language": "spa",
+"title": "Questions for Quality Checkers"
+},
+"nep": {
+"content_id": 727773,
+"language": "nep",
+"title": "तह तीनको जाँचका निम्ती प्रश्‍नहरू"
+}
+}
+},
+"826001": {
+"content_id": "826001",
+"reference_id": 26840,
+"index_reference": "引文和引語標記",
+"localizations": {
+"eng": {
+"content_id": 33426,
+"language": "eng",
+"title": "Quotations and Quote Margins"
+},
+"arb": {
+"content_id": 781765,
+"language": "arb",
+"title": "الاقتباسات وحواشي الاقتباس"
+},
+"hin": {
+"content_id": 727473,
+"language": "hin",
+"title": "उद्धरण एवं उद्धरण हासिये"
+},
+"ind": {
+"content_id": 727633,
+"language": "ind",
+"title": "Kutipan dan Margin Kutipan"
+},
+"por": {
+"content_id": 800205,
+"language": "por",
+"title": "Citações e margens de citação"
+},
+"spa": {
+"content_id": 728109,
+"language": "spa",
+"title": "Quotations and Quote Margins"
+},
+"nep": {
+"content_id": 727874,
+"language": "nep",
+"title": "उद्धारण र उद्धारण मार्जिनहरू"
+},
+"guj": {
+"content_id": 884335,
+"language": "guj",
+"title": "અવતરણો અને અવતરણ શબ્દો"
+}
+}
+},
+"825974": {
+"content_id": "825974",
+"reference_id": 26720,
+"index_reference": "引語標記",
+"localizations": {
+"eng": {
+"content_id": 33306,
+"language": "eng",
+"title": "Quote Markings"
+},
+"arb": {
+"content_id": 781645,
+"language": "arb",
+"title": "علامات الاقتباس "
+},
+"hin": {
+"content_id": 727347,
+"language": "hin",
+"title": "उद्धरण चिन्ह"
+},
+"ind": {
+"content_id": 727547,
+"language": "ind",
+"title": "Tanda Kutipan"
+},
+"por": {
+"content_id": 800085,
+"language": "por",
+"title": "Marcações de citação"
+},
+"spa": {
+"content_id": 727950,
+"language": "spa",
+"title": "Quote Markings"
+},
+"nep": {
+"content_id": 727718,
+"language": "nep",
+"title": "उद्धरण चिन्हहरू"
+},
+"guj": {
+"content_id": 884218,
+"language": "guj",
+"title": "અવતરણ ચિહ્નો"
+}
+}
+},
+"825975": {
+"content_id": "825975",
+"reference_id": 26721,
+"index_reference": "引語中的引語",
+"localizations": {
+"eng": {
+"content_id": 33307,
+"language": "eng",
+"title": "Quotes within Quotes"
+},
+"arb": {
+"content_id": 781646,
+"language": "arb",
+"title": "اقتباسات داخل اقتباسات"
+},
+"hin": {
+"content_id": 727348,
+"language": "hin",
+"title": "उद्धरणों में उद्धरण"
+},
+"por": {
+"content_id": 800086,
+"language": "por",
+"title": "Citações dentro de citações"
+},
+"spa": {
+"content_id": 727951,
+"language": "spa",
+"title": "Citas dentro de Citas"
+},
+"nep": {
+"content_id": 727719,
+"language": "nep",
+"title": "उद्धरणभित्रका उद्धरणहरू"
+},
+"guj": {
+"content_id": 884219,
+"language": "guj",
+"title": "અવતરણોની અંદર અવતરણો"
+}
+}
+},
+"825995": {
+"content_id": "825995",
+"reference_id": 26812,
+"index_reference": "重述意義",
+"localizations": {
+"eng": {
+"content_id": 33398,
+"language": "eng",
+"title": "Re-telling the Meaning"
+},
+"arb": {
+"content_id": 781737,
+"language": "arb",
+"title": "إعادة صياغة المعنى"
+},
+"hin": {
+"content_id": 727447,
+"language": "hin",
+"title": "अर्थ को पुन: बताना"
+},
+"por": {
+"content_id": 800177,
+"language": "por",
+"title": "Recontando o significado"
+},
+"spa": {
+"content_id": 728071,
+"language": "spa",
+"title": "Re-telling the Meaning"
+},
+"nep": {
+"content_id": 727835,
+"language": "nep",
+"title": "अर्थलाई पुनः बताउने"
+},
+"guj": {
+"content_id": 884307,
+"language": "guj",
+"title": "અર્થને ફરીથી કહેવું"
+}
+}
+},
+"825976": {
+"content_id": "825976",
+"reference_id": 26722,
+"index_reference": "重複",
+"localizations": {
+"eng": {
+"content_id": 33308,
+"language": "eng",
+"title": "Reduplication"
+},
+"arb": {
+"content_id": 781647,
+"language": "arb",
+"title": "التكرار اللفظي (Reduplication)"
+},
+"hin": {
+"content_id": 799943,
+"language": "hin",
+"title": "पुनरावृत्ति"
+},
+"por": {
+"content_id": 800087,
+"language": "por",
+"title": "Reduplicação"
+}
+}
+},
+"825977": {
+"content_id": "825977",
+"reference_id": 26723,
+"index_reference": "反身代名詞",
+"localizations": {
+"eng": {
+"content_id": 33309,
+"language": "eng",
+"title": "Reflexive Pronouns"
+},
+"arb": {
+"content_id": 781648,
+"language": "arb",
+"title": "الضمائر المنعكسة"
+},
+"hin": {
+"content_id": 727349,
+"language": "hin",
+"title": "कर्मकर्त्ता सर्वनाम"
+},
+"ind": {
+"content_id": 727548,
+"language": "ind",
+"title": "Kata Ganti yang Bersifat Refleksi"
+},
+"por": {
+"content_id": 800088,
+"language": "por",
+"title": "Pronomes reflexivos"
+},
+"spa": {
+"content_id": 727952,
+"language": "spa",
+"title": "Reflexive Pronouns"
+},
+"nep": {
+"content_id": 727720,
+"language": "nep",
+"title": "निजवाचक सर्वनाम"
+},
+"guj": {
+"content_id": 884220,
+"language": "guj",
+"title": "સ્વવાચક સર્વનામો"
+}
+}
+},
+"825978": {
+"content_id": "825978",
+"reference_id": 26724,
+"index_reference": "修辭性問句",
+"localizations": {
+"eng": {
+"content_id": 33310,
+"language": "eng",
+"title": "Rhetorical Question"
+},
+"arb": {
+"content_id": 781649,
+"language": "arb",
+"title": "السؤال البلاغي"
+},
+"hin": {
+"content_id": 727350,
+"language": "hin",
+"title": "उत्तर की अपेक्ष किए बिना प्रभावोत्पादक प्रश्न"
+},
+"ind": {
+"content_id": 727549,
+"language": "ind",
+"title": "Pertanyaan Retoris"
+},
+"por": {
+"content_id": 800089,
+"language": "por",
+"title": "Pergunta retórica"
+},
+"spa": {
+"content_id": 727953,
+"language": "spa",
+"title": "Pregunta retórica"
+},
+"nep": {
+"content_id": 727721,
+"language": "nep",
+"title": "आलङ्‍कारिक प्रश्‍न"
+},
+"guj": {
+"content_id": 884221,
+"language": "guj",
+"title": "આલંકારિક પ્રશ્ન"
 }
 }
 }
