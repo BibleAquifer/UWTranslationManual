@@ -8,6 +8,10 @@ _unfoldingWord® Translation Academy_ © 2022 [unfoldingWord](https://unfoldingw
 
 This resource is licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) license.
 
+**unfoldingWord® Translation Academy** © 2022 unfoldingWord. Released under CC BY\-SA 4\.0 license. *unfoldingWord® Translation Academy* has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from *unfoldingWord® Translation Academy* © 2022 unfoldingWord. Released under CC BY\-SA 4\.0 license by Mission Mutual
+
+
+
 ## Structure
 
 The repository is organized by language codes, with each language folder containing subfolders for JSON and Markdown content.
@@ -15,3 +19,9 @@ The repository is organized by language codes, with each language folder contain
 ## Documentation
 
 For more information about the Aquifer platform, data, and metadata formats, visit the [Aquifer Documentation repository](https://github.com/BibleAquifer/UWTranslationManual).
+
+## Sources
+
+This edition of _unfoldingWord Translation Academy_ is built on release `v89` of the unfoldingWord family of translation resources.
+
+It is available for download at https://git.door43.org/unfoldingWord/en_ta

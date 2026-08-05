@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>unfoldingWord® Translation Academy</b> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license. <cite>unfoldingWord® Translation Academy</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from <cite>unfoldingWord® Translation Academy</cite> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license by Mission Mutual",
 "resource_code": "UWTranslationManual",
-"date_created": "2026-06-29",
+"date_created": "2026-08-05",
 "language": "zht",
 "localizations": [
 "eng",
@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-06-29T12:05:43.784585"
+"dateCreated": "2026-08-05T06:23:40.504031"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "UWTranslationManual": {
-"timestamp": "2026-06-29T12:05:43.784585"
+"timestamp": "2026-08-05T06:23:40.504031"
 }
 }
 },
@@ -6749,11 +6749,6 @@
 "reference_id": 26699,
 "index_reference": "第三人稱命令句",
 "localizations": {
-"eng": {
-"content_id": 33285,
-"language": "eng",
-"title": "Third-Person Imperatives"
-},
 "arb": {
 "content_id": 781624,
 "language": "arb",
@@ -8629,11 +8624,6 @@
 "reference_id": 26834,
 "index_reference": "誓言公式",
 "localizations": {
-"eng": {
-"content_id": 33420,
-"language": "eng",
-"title": "Oath Formulas"
-},
 "arb": {
 "content_id": 781759,
 "language": "arb",
@@ -9766,11 +9756,6 @@
 "reference_id": 26722,
 "index_reference": "重複",
 "localizations": {
-"eng": {
-"content_id": 33308,
-"language": "eng",
-"title": "Reduplication"
-},
 "arb": {
 "content_id": 781647,
 "language": "arb",
