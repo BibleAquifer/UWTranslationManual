@@ -3,9 +3,9 @@
 "aquifer_type": "Guide",
 "resource_type": "Bible Translation Manual",
 "title": "unfoldingWord® Translation Academy",
-"aquifer_name": "Translation Manual (unfoldingWord)",
+"aquifer_name": "unfoldingWord® Translation Academy",
 "version": "1.1.2",
-"collection_title": "Translation Manual (unfoldingWord)",
+"collection_title": "unfoldingWord® Translation Academy",
 "short_name": "UWTM",
 "license_info": {
 "title": "unfoldingWord® Translation Academy",
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>unfoldingWord® Translation Academy</b> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license. <cite>unfoldingWord® Translation Academy</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from <cite>unfoldingWord® Translation Academy</cite> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license by Mission Mutual",
 "resource_code": "UWTranslationManual",
-"date_created": "2026-08-24",
+"date_created": "2026-09-18",
 "language": "nep",
 "localizations": [
 "eng",
@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-08-24T08:58:37.784133"
+"dateCreated": "2026-09-18T12:05:32.353812"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "UWTranslationManual": {
-"timestamp": "2026-08-24T08:58:37.784133"
+"timestamp": "2026-09-18T12:05:32.353812"
 }
 }
 },
@@ -95,11 +95,11 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 2398865
+"size": 2395985
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 2172552
+"size": 2172541
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
