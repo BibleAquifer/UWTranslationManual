@@ -50,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-28T18:16:25.144753"
+"dateCreated": "2026-09-28T19:38:18.369175"
 },
 "idAuthorities": {
 "aquifer": {
@@ -64,7 +64,7 @@
 "primary": {
 "aquifer": {
 "UWTranslationManual": {
-"timestamp": "2026-09-28T18:16:25.144753"
+"timestamp": "2026-09-28T19:38:18.369175"
 }
 }
 },
