@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>unfoldingWord® Translation Academy</b> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license. <cite>unfoldingWord® Translation Academy</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from <cite>unfoldingWord® Translation Academy</cite> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license by Mission Mutual",
 "resource_code": "UWTranslationManual",
-"date_created": "2026-11-02",
+"date_created": "2026-11-11",
 "language": "eng",
 "localizations": [
 "arb",
@@ -38,7 +38,8 @@
 "nep",
 "por",
 "zht",
-"guj"
+"guj",
+"fas"
 ],
 "order": "monograph",
 "content_type": "Html"
@@ -49,7 +50,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-11-02T12:59:18.034465"
+"dateCreated": "2026-11-11T10:57:34.895200"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +64,7 @@
 "primary": {
 "aquifer": {
 "UWTranslationManual": {
-"timestamp": "2026-11-02T12:59:18.034465"
+"timestamp": "2026-11-11T10:57:34.895200"
 }
 }
 },
@@ -1267,6 +1268,11 @@
 "content_id": 781688,
 "language": "arb",
 "title": "ترجمة الابن والآب"
+},
+"fas": {
+"content_id": "fa_ta_translate_guidelines-sonofgodprinciples",
+"language": "fas",
+"title": "ترجمه پسر و پدر"
 },
 "guj": {
 "content_id": 884259,
@@ -3178,6 +3184,11 @@
 "language": "arb",
 "title": "المتغيرات النصية"
 },
+"fas": {
+"content_id": "fa_ta_translate_translate-textvariants",
+"language": "fas",
+"title": "انواع متن"
+},
 "guj": {
 "content_id": 884313,
 "language": "guj",
@@ -3341,6 +3352,11 @@
 "language": "arb",
 "title": "البركات"
 },
+"fas": {
+"content_id": "fa_ta_translate_translate-blessing",
+"language": "fas",
+"title": "بَرکت"
+},
 "guj": {
 "content_id": 884281,
 "language": "guj",
@@ -3414,6 +3430,11 @@
 "content_id": 781621,
 "language": "arb",
 "title": "المواقف الافتراضية"
+},
+"fas": {
+"content_id": "fa_ta_translate_figs-hypo",
+"language": "fas",
+"title": "شرایط فرضی"
 },
 "guj": {
 "content_id": 884195,
@@ -3573,6 +3594,11 @@
 "content_id": 781761,
 "language": "arb",
 "title": "الشِّعْر"
+},
+"fas": {
+"content_id": "fa_ta_translate_writing-poetry",
+"language": "fas",
+"title": "شعر"
 },
 "guj": {
 "content_id": 884331,
@@ -3737,6 +3763,11 @@
 "language": "arb",
 "title": "بنية المعلومات"
 },
+"fas": {
+"content_id": "fa_ta_translate_figs-infostructure",
+"language": "fas",
+"title": "ساختار اطلاعات"
+},
 "guj": {
 "content_id": 884200,
 "language": "guj",
@@ -3778,6 +3809,11 @@
 "content_id": 781651,
 "language": "arb",
 "title": "أنواع الجُمل"
+},
+"fas": {
+"content_id": "fa_ta_translate_figs-sentencetypes",
+"language": "fas",
+"title": "انواع جمله"
 },
 "guj": {
 "content_id": 884223,
@@ -3974,6 +4010,11 @@
 "language": "arb",
 "title": "الربط — لإظهار علاقة زمنية متتابعة"
 },
+"fas": {
+"content_id": "fa_ta_translate_grammar-connect-time-sequential",
+"language": "fas",
+"title": "حروف ربط و زمان‌های متوالی"
+},
 "guj": {
 "content_id": 884244,
 "language": "guj",
@@ -4016,6 +4057,11 @@
 "language": "arb",
 "title": "الربط — لإظهار علاقة زمنية متزامنة"
 },
+"fas": {
+"content_id": "fa_ta_translate_grammar-connect-time-simultaneous",
+"language": "fas",
+"title": "حروف ربط - رابطه همزمان"
+},
 "guj": {
 "content_id": 884245,
 "language": "guj",
@@ -4053,6 +4099,11 @@
 "language": "arb",
 "title": "الربط — المعلومات الأساسية"
 },
+"fas": {
+"content_id": "fa_ta_translate_grammar-connect-time-background",
+"language": "fas",
+"title": "حروف ربط و اطلاعات پیش‌زمینه"
+},
 "guj": {
 "content_id": 884243,
 "language": "guj",
@@ -4089,6 +4140,11 @@
 "content_id": 781669,
 "language": "arb",
 "title": "الربط — لإظهار الهدف (الغرض)"
+},
+"fas": {
+"content_id": "fa_ta_translate_grammar-connect-logic-goal",
+"language": "fas",
+"title": "حروف ربط نشان‌دهندهٔ هدف"
 },
 "guj": {
 "content_id": 884241,
@@ -4132,6 +4188,11 @@
 "language": "arb",
 "title": "الربط — لإظهار علاقة السبب والنتيجة"
 },
+"fas": {
+"content_id": "fa_ta_translate_grammar-connect-logic-result",
+"language": "fas",
+"title": "حروف ربط - رابطه علت و معلولی"
+},
 "guj": {
 "content_id": 884242,
 "language": "guj",
@@ -4174,6 +4235,11 @@
 "language": "arb",
 "title": "الربط — لإظهار التضاد والتباين"
 },
+"fas": {
+"content_id": "fa_ta_translate_grammar-connect-logic-contrast",
+"language": "fas",
+"title": "حروف ربط - رابطه تضاد"
+},
 "guj": {
 "content_id": 884240,
 "language": "guj",
@@ -4215,6 +4281,11 @@
 "content_id": 781665,
 "language": "arb",
 "title": "الربط — الشروط الفعلية"
+},
+"fas": {
+"content_id": "fa_ta_translate_grammar-connect-condition-fact",
+"language": "fas",
+"title": "حروف ربط  —شرطی‌های حقیقی"
 },
 "guj": {
 "content_id": 884237,
@@ -4332,6 +4403,11 @@
 "language": "arb",
 "title": "الربط — عبارات لإظهار الاستثناء"
 },
+"fas": {
+"content_id": "fa_ta_translate_grammar-connect-exceptions",
+"language": "fas",
+"title": "حروف ربط نشان‌دهندهٔ استثنا"
+},
 "guj": {
 "content_id": 884239,
 "language": "guj",
@@ -4411,6 +4487,11 @@
 "language": "arb",
 "title": "الأسماء المجردة"
 },
+"fas": {
+"content_id": "fa_ta_translate_figs-abstractnouns",
+"language": "fas",
+"title": "اسم معنی"
+},
 "guj": {
 "content_id": 884172,
 "language": "guj",
@@ -4452,6 +4533,11 @@
 "content_id": 781597,
 "language": "arb",
 "title": "المبني للمعلوم أو المبني للمجهول"
+},
+"fas": {
+"content_id": "fa_ta_translate_figs-activepassive",
+"language": "fas",
+"title": "فعل معلوم و مجهول"
 },
 "guj": {
 "content_id": 884173,
@@ -4537,6 +4623,11 @@
 "language": "arb",
 "title": "التمييز مقابل الإخبار أو التذكير"
 },
+"fas": {
+"content_id": "fa_ta_translate_figs-distinguish",
+"language": "fas",
+"title": "تشخیص میان اطلاع‌رسانی و یادآوری"
+},
 "guj": {
 "content_id": 884177,
 "language": "guj",
@@ -4578,6 +4669,11 @@
 "content_id": 781604,
 "language": "arb",
 "title": "النفي المزدوج"
+},
+"fas": {
+"content_id": "fa_ta_translate_figs-doublenegatives",
+"language": "fas",
+"title": "نفی مضاعف (منفی در منفی)"
 },
 "guj": {
 "content_id": 884178,
@@ -4621,6 +4717,11 @@
 "language": "arb",
 "title": "الحذف"
 },
+"fas": {
+"content_id": "fa_ta_translate_figs-ellipsis",
+"language": "fas",
+"title": "حذف به قرینه"
+},
 "guj": {
 "content_id": 884180,
 "language": "guj",
@@ -4662,6 +4763,11 @@
 "content_id": 781656,
 "language": "arb",
 "title": "أشكال الضمير \"أنت\""
+},
+"fas": {
+"content_id": "fa_ta_translate_figs-you",
+"language": "fas",
+"title": "انواع ضمیر دوم شخص"
 },
 "guj": {
 "content_id": 884228,
@@ -4741,6 +4847,11 @@
 "content_id": 781660,
 "language": "arb",
 "title": "أشكال الضمير \"أنت\" — المفرد"
+},
+"fas": {
+"content_id": "fa_ta_translate_figs-yousingular",
+"language": "fas",
+"title": "انواع ضمیر دوم شخص"
 },
 "guj": {
 "content_id": 884232,
@@ -4826,6 +4937,11 @@
 "language": "arb",
 "title": "اذهب وتعال "
 },
+"fas": {
+"content_id": "fa_ta_translate_figs-go",
+"language": "fas",
+"title": "برو و بیا"
+},
 "guj": {
 "content_id": 884191,
 "language": "guj",
@@ -4867,6 +4983,11 @@
 "content_id": 781633,
 "language": "arb",
 "title": "الصفات الاسمية"
+},
+"fas": {
+"content_id": "fa_ta_translate_figs-nominaladj",
+"language": "fas",
+"title": "صفات اسمی"
 },
 "guj": {
 "content_id": 884208,
@@ -5248,6 +5369,11 @@
 "language": "arb",
 "title": "الاقتباسات المباشرة وغير المباشرة"
 },
+"fas": {
+"content_id": "fa_ta_translate_figs-quotations",
+"language": "fas",
+"title": "نقل قول مستقیم و غیرمستقیم"
+},
 "guj": {
 "content_id": 884217,
 "language": "guj",
@@ -5411,6 +5537,11 @@
 "language": "arb",
 "title": "صيغة المتكلم والمخاطب والغائب"
 },
+"fas": {
+"content_id": "fa_ta_translate_figs-123person",
+"language": "fas",
+"title": "اول، دوم یا سوم شخص"
+},
 "guj": {
 "content_id": 884171,
 "language": "guj",
@@ -5452,6 +5583,11 @@
 "content_id": 781610,
 "language": "arb",
 "title": "ضمير \"نحن\" الحصري والشامل"
+},
+"fas": {
+"content_id": "fa_ta_translate_figs-exclusive",
+"language": "fas",
+"title": "\"ما\" فراگیر و انحصاری"
 },
 "guj": {
 "content_id": 884184,
@@ -5616,6 +5752,11 @@
 "language": "arb",
 "title": "الضمائر - متى تستخدمها"
 },
+"fas": {
+"content_id": "fa_ta_translate_writing-pronouns",
+"language": "fas",
+"title": "کاربرد ضمایر"
+},
 "guj": {
 "content_id": 884333,
 "language": "guj",
@@ -5657,6 +5798,11 @@
 "content_id": 781747,
 "language": "arb",
 "title": "ترجمة المجهولات"
+},
+"fas": {
+"content_id": "fa_ta_translate_translate-unknown",
+"language": "fas",
+"title": "ترجمهٔ ناشناخته‌ها"
 },
 "guj": {
 "content_id": 884316,
@@ -5736,6 +5882,11 @@
 "content_id": 781730,
 "language": "arb",
 "title": "كيفية ترجمة الأسماء"
+},
+"fas": {
+"content_id": "fa_ta_translate_translate-names",
+"language": "fas",
+"title": "چگونه نام ها را ترجمه کنیم"
 },
 "guj": {
 "content_id": 884301,
@@ -5820,6 +5971,11 @@
 "content_id": 781612,
 "language": "arb",
 "title": "المعرفة المفترضة والمعلومات الضمنية"
+},
+"fas": {
+"content_id": "fa_ta_translate_figs-explicit",
+"language": "fas",
+"title": "دانش فرضی و اطلاعات ضمنی"
 },
 "guj": {
 "content_id": 884186,
@@ -6248,6 +6404,11 @@
 "language": "arb",
 "title": "الحركات الرمزية"
 },
+"fas": {
+"content_id": "fa_ta_translate_translate-symaction",
+"language": "fas",
+"title": "عملکرد نمادین"
+},
 "guj": {
 "content_id": 884311,
 "language": "guj",
@@ -6401,6 +6562,11 @@
 "language": "arb",
 "title": "النظير اللغوي"
 },
+"fas": {
+"content_id": "fa_ta_translate_figs-doublet",
+"language": "fas",
+"title": "قرینه"
+},
 "guj": {
 "content_id": 884179,
 "language": "guj",
@@ -6485,6 +6651,11 @@
 "language": "arb",
 "title": "عطف البيان"
 },
+"fas": {
+"content_id": "fa_ta_translate_figs-hendiadys",
+"language": "fas",
+"title": "Hendiadys"
+},
 "guj": {
 "content_id": 884193,
 "language": "guj",
@@ -6526,6 +6697,11 @@
 "content_id": 781620,
 "language": "arb",
 "title": "أسلوب المبالغة"
+},
+"fas": {
+"content_id": "fa_ta_translate_figs-hyperbole",
+"language": "fas",
+"title": "مبالغه"
 },
 "guj": {
 "content_id": 884194,
@@ -6569,6 +6745,11 @@
 "language": "arb",
 "title": "تعبير اصطلاحي "
 },
+"fas": {
+"content_id": "fa_ta_translate_figs-idiom",
+"language": "fas",
+"title": "اصطلاح"
+},
 "guj": {
 "content_id": 884196,
 "language": "guj",
@@ -6610,6 +6791,11 @@
 "content_id": 781627,
 "language": "arb",
 "title": "أسلوب السخرية"
+},
+"fas": {
+"content_id": "fa_ta_translate_figs-irony",
+"language": "fas",
+"title": "کنایه"
 },
 "guj": {
 "content_id": 884202,
@@ -6690,6 +6876,11 @@
 "language": "arb",
 "title": "التوكيد بالنفي"
 },
+"fas": {
+"content_id": "fa_ta_translate_figs-litotes",
+"language": "fas",
+"title": "کم‌نمایی"
+},
 "guj": {
 "content_id": 884204,
 "language": "guj",
@@ -6731,6 +6922,11 @@
 "content_id": 781630,
 "language": "arb",
 "title": "التقسيم المتضاد"
+},
+"fas": {
+"content_id": "fa_ta_translate_figs-merism",
+"language": "fas",
+"title": "تکرار تشابهات"
 },
 "guj": {
 "content_id": 884205,
@@ -6774,6 +6970,11 @@
 "language": "arb",
 "title": "الاستعارة"
 },
+"fas": {
+"content_id": "fa_ta_translate_figs-metaphor",
+"language": "fas",
+"title": "استعاره"
+},
 "guj": {
 "content_id": 884206,
 "language": "guj",
@@ -6815,6 +7016,11 @@
 "content_id": 781632,
 "language": "arb",
 "title": "مجاز مُرسل"
+},
+"fas": {
+"content_id": "fa_ta_translate_figs-metonymy",
+"language": "fas",
+"title": "دگرنامی"
 },
 "guj": {
 "content_id": 884207,
@@ -6858,6 +7064,11 @@
 "language": "arb",
 "title": "التوازي"
 },
+"fas": {
+"content_id": "fa_ta_translate_figs-parallelism",
+"language": "fas",
+"title": "تشابه"
+},
 "guj": {
 "content_id": 884211,
 "language": "guj",
@@ -6899,6 +7110,11 @@
 "content_id": 781641,
 "language": "arb",
 "title": "التشخيص"
+},
+"fas": {
+"content_id": "fa_ta_translate_figs-personification",
+"language": "fas",
+"title": "شخصیت پردازی"
 },
 "guj": {
 "content_id": 884214,
@@ -6984,6 +7200,11 @@
 "language": "arb",
 "title": "السؤال البلاغي"
 },
+"fas": {
+"content_id": "fa_ta_translate_figs-rquestion",
+"language": "fas",
+"title": "پرسش بدیهی"
+},
 "guj": {
 "content_id": 884221,
 "language": "guj",
@@ -7026,6 +7247,11 @@
 "language": "arb",
 "title": "التشبيه"
 },
+"fas": {
+"content_id": "fa_ta_translate_figs-simile",
+"language": "fas",
+"title": "تشبیه"
+},
 "guj": {
 "content_id": 884224,
 "language": "guj",
@@ -7067,6 +7293,11 @@
 "content_id": 781654,
 "language": "arb",
 "title": "المجاز الجزئي"
+},
+"fas": {
+"content_id": "fa_ta_translate_figs-synecdoche",
+"language": "fas",
+"title": "بخش‌گویی یا مجاز"
 },
 "guj": {
 "content_id": 884225,
@@ -9073,6 +9304,11 @@
 "content_id": 781781,
 "language": "arb",
 "title": "عناوين الأقسام"
+},
+"fas": {
+"content_id": "fa_ta_checking_headings",
+"language": "fas",
+"title": "عنوان های باب"
 },
 "hin": {
 "content_id": 727257,

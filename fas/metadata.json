@@ -1,0 +1,2310 @@
+{
+"resource_metadata": {
+"aquifer_type": "Guide",
+"resource_type": "Bible Translation Manual",
+"title": "unfoldingWord® Translation Academy",
+"aquifer_name": "unfoldingWord® Translation Academy",
+"version": "1.1.2",
+"collection_title": "unfoldingWord® Translation Academy",
+"short_name": "UWTM",
+"license_info": {
+"title": "Persian Translation Academy",
+"copyright": {
+"dates": "2023",
+"holder": {
+"name": "Transform Iran",
+"url": "https://transformiran.com"
+}
+},
+"licenses": [
+{
+"eng": {
+"name": "CC BY-SA 4.0 license",
+"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+}
+}
+],
+"showAdaptationNoticeForEnglish": false,
+"showAdaptationNoticeForNonEnglish": true
+},
+"adaptation_notice": "<p><b>unfoldingWord® Translation Academy</b> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license. <cite>unfoldingWord® Translation Academy</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from <cite>unfoldingWord® Translation Academy</cite> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license by Mission Mutual",
+"resource_code": "UWTranslationManual",
+"date_created": "2026-11-11",
+"language": "fas",
+"localizations": [
+"eng",
+"arb",
+"hin",
+"ind",
+"por",
+"zht",
+"nep",
+"guj"
+],
+"order": "monograph",
+"content_type": "Html"
+},
+"scripture_burrito": {
+"format": "scripture burrito",
+"meta": {
+"version": "1.0.0",
+"category": "source",
+"defaultLocale": "en",
+"dateCreated": "2026-11-11T10:57:36.849208"
+},
+"idAuthorities": {
+"aquifer": {
+"id": "https://aquifer.bible",
+"name": {
+"en": "Bible Aquifer"
+}
+}
+},
+"identification": {
+"primary": {
+"aquifer": {
+"UWTranslationManual": {
+"timestamp": "2026-11-11T10:57:36.849208"
+}
+}
+},
+"name": {
+"fa": "Persian Translation Academy"
+},
+"abbreviation": {
+"fa": "UWTM"
+}
+},
+"languages": [
+{
+"tag": "fa",
+"name": {
+"fa": "Farsi (Persian)"
+}
+}
+],
+"type": {
+"flavorType": {
+"name": "peripheral",
+"flavor": {
+"name": "textAquiferMonograph",
+"audience": "common"
+},
+"currentScope": {}
+}
+},
+"ingredients": {
+"json/001.content.json": {
+"mimeType": "text/json",
+"size": 653401
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 475814
+},
+"docx/001.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 157502
+},
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 3736633
+}
+},
+"copyright": {
+"licenses": [
+{
+"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+}
+],
+"shortStatements": [
+{
+"statement": "<p>Persian Translation Academy © 2023 Transform Iran.</p>",
+"mimetype": "text/html",
+"lang": "fa"
+}
+]
+}
+},
+"article_metadata": {
+"fa_ta_translate_guidelines-sonofgodprinciples": {
+"content_id": "fa_ta_translate_guidelines-sonofgodprinciples",
+"reference_id": 26763,
+"index_reference": "ترجمه پسر و پدر",
+"localizations": {
+"eng": {
+"content_id": 33349,
+"language": "eng",
+"title": "Translating Son and Father"
+},
+"arb": {
+"content_id": 781688,
+"language": "arb",
+"title": "ترجمة الابن والآب"
+},
+"hin": {
+"content_id": 727388,
+"language": "hin",
+"title": "पुत्र और पिता का अनुवाद करना"
+},
+"ind": {
+"content_id": 727572,
+"language": "ind",
+"title": "Menerjemahkan Anak (Allah) dan (Allah) Bapa"
+},
+"por": {
+"content_id": 800128,
+"language": "por",
+"title": "Traduzindo Filho e Pai"
+},
+"zht": {
+"content_id": 831911,
+"language": "zht",
+"title": "翻譯聖子與聖父"
+},
+"nep": {
+"content_id": 727759,
+"language": "nep",
+"title": "पुत्र र पिताको अनुवाद"
+},
+"guj": {
+"content_id": 884259,
+"language": "guj",
+"title": "પુત્ર અને પિતા અંગે નો અનુવાદ"
+}
+}
+},
+"fa_ta_translate_translate-textvariants": {
+"content_id": "fa_ta_translate_translate-textvariants",
+"reference_id": 26819,
+"index_reference": "انواع متن",
+"localizations": {
+"eng": {
+"content_id": 33405,
+"language": "eng",
+"title": "Textual Variants"
+},
+"arb": {
+"content_id": 781744,
+"language": "arb",
+"title": "المتغيرات النصية"
+},
+"hin": {
+"content_id": 727453,
+"language": "hin",
+"title": "लेखों के भेद"
+},
+"ind": {
+"content_id": 727612,
+"language": "ind",
+"title": "Varian Tekstual"
+},
+"por": {
+"content_id": 800184,
+"language": "por",
+"title": "Variantes textuais"
+},
+"zht": {
+"content_id": 831925,
+"language": "zht",
+"title": "文本異文"
+},
+"nep": {
+"content_id": 727841,
+"language": "nep",
+"title": "खण्‍डमा भएका भिन्‍नताहरू"
+},
+"guj": {
+"content_id": 884313,
+"language": "guj",
+"title": "શાબ્દિક ભિન્નતા"
+}
+}
+},
+"fa_ta_translate_figs-hypo": {
+"content_id": "fa_ta_translate_figs-hypo",
+"reference_id": 26696,
+"index_reference": "شرایط فرضی",
+"localizations": {
+"eng": {
+"content_id": 33282,
+"language": "eng",
+"title": "Hypothetical Situations"
+},
+"arb": {
+"content_id": 781621,
+"language": "arb",
+"title": "المواقف الافتراضية"
+},
+"hin": {
+"content_id": 727326,
+"language": "hin",
+"title": "काल्पनिक परिस्थितियाँ"
+},
+"ind": {
+"content_id": 727530,
+"language": "ind",
+"title": "Situasi yang Bersifat Dugaan (Hypothetical)"
+},
+"por": {
+"content_id": 800061,
+"language": "por",
+"title": "Situações hipotéticas"
+},
+"zht": {
+"content_id": 817710,
+"language": "zht",
+"title": "假設情況"
+},
+"nep": {
+"content_id": 727695,
+"language": "nep",
+"title": "काल्पनिक परिस्थितिहरू (प्राक्कल्पना)"
+},
+"guj": {
+"content_id": 884195,
+"language": "guj",
+"title": "આનુમાનિત પરિસ્થિતિઓ"
+}
+}
+},
+"fa_ta_translate_writing-poetry": {
+"content_id": "fa_ta_translate_writing-poetry",
+"reference_id": 26836,
+"index_reference": "شعر",
+"localizations": {
+"eng": {
+"content_id": 33422,
+"language": "eng",
+"title": "Poetry"
+},
+"arb": {
+"content_id": 781761,
+"language": "arb",
+"title": "الشِّعْر"
+},
+"hin": {
+"content_id": 727470,
+"language": "hin",
+"title": "काव्य"
+},
+"ind": {
+"content_id": 727630,
+"language": "ind",
+"title": "Puisi"
+},
+"por": {
+"content_id": 800201,
+"language": "por",
+"title": "Poesia"
+},
+"zht": {
+"content_id": 825997,
+"language": "zht",
+"title": "詩歌"
+},
+"nep": {
+"content_id": 727871,
+"language": "nep",
+"title": "कविता"
+},
+"guj": {
+"content_id": 884331,
+"language": "guj",
+"title": "કવિતા"
+}
+}
+},
+"fa_ta_translate_translate-blessing": {
+"content_id": "fa_ta_translate_translate-blessing",
+"reference_id": 26785,
+"index_reference": "بَرکت",
+"localizations": {
+"eng": {
+"content_id": 33371,
+"language": "eng",
+"title": "Blessings"
+},
+"arb": {
+"content_id": 781710,
+"language": "arb",
+"title": "البركات"
+},
+"hin": {
+"content_id": 799947,
+"language": "hin",
+"title": "आशीष "
+},
+"ind": {
+"content_id": 727605,
+"language": "ind",
+"title": "Berkat"
+},
+"por": {
+"content_id": 800150,
+"language": "por",
+"title": "Bênçãos"
+},
+"zht": {
+"content_id": 806703,
+"language": "zht",
+"title": "祝福"
+},
+"guj": {
+"content_id": 884281,
+"language": "guj",
+"title": "આશીર્વાદ"
+}
+}
+},
+"fa_ta_translate_figs-infostructure": {
+"content_id": "fa_ta_translate_figs-infostructure",
+"reference_id": 26700,
+"index_reference": "ساختار اطلاعات",
+"localizations": {
+"eng": {
+"content_id": 33286,
+"language": "eng",
+"title": "Information Structure"
+},
+"arb": {
+"content_id": 781625,
+"language": "arb",
+"title": "بنية المعلومات"
+},
+"hin": {
+"content_id": 727329,
+"language": "hin",
+"title": "सूचना संरचना"
+},
+"ind": {
+"content_id": 727533,
+"language": "ind",
+"title": "Struktur Informasi"
+},
+"por": {
+"content_id": 800065,
+"language": "por",
+"title": "Estrutura de informação"
+},
+"zht": {
+"content_id": 817713,
+"language": "zht",
+"title": "資訊結構"
+},
+"nep": {
+"content_id": 727700,
+"language": "nep",
+"title": "जानकारी संरचना"
+},
+"guj": {
+"content_id": 884200,
+"language": "guj",
+"title": "માહિતી માળખું"
+}
+}
+},
+"fa_ta_translate_figs-sentencetypes": {
+"content_id": "fa_ta_translate_figs-sentencetypes",
+"reference_id": 26726,
+"index_reference": "انواع جمله",
+"localizations": {
+"eng": {
+"content_id": 33312,
+"language": "eng",
+"title": "Sentence Types"
+},
+"arb": {
+"content_id": 781651,
+"language": "arb",
+"title": "أنواع الجُمل"
+},
+"hin": {
+"content_id": 727352,
+"language": "hin",
+"title": "वाक्य के प्रकार"
+},
+"por": {
+"content_id": 800091,
+"language": "por",
+"title": "Tipos de frases"
+},
+"zht": {
+"content_id": 831903,
+"language": "zht",
+"title": "句子類型"
+},
+"nep": {
+"content_id": 727723,
+"language": "nep",
+"title": "वाक्यका प्रकारहरू"
+},
+"guj": {
+"content_id": 884223,
+"language": "guj",
+"title": "વાક્યોના પ્રકારો"
+}
+}
+},
+"fa_ta_translate_grammar-connect-time-sequential": {
+"content_id": "fa_ta_translate_grammar-connect-time-sequential",
+"reference_id": 26747,
+"index_reference": "حروف ربط و زمان‌های متوالی",
+"localizations": {
+"eng": {
+"content_id": 33333,
+"language": "eng",
+"title": "Connect — Sequential Time Relationship"
+},
+"arb": {
+"content_id": 781672,
+"language": "arb",
+"title": "الربط — لإظهار علاقة زمنية متتابعة"
+},
+"hin": {
+"content_id": 727373,
+"language": "hin",
+"title": "संयोजक - अनुक्रमिक समय संबंध"
+},
+"ind": {
+"content_id": 727569,
+"language": "ind",
+"title": "Menghubungkan - Hubungan Waktu Berurutan"
+},
+"por": {
+"content_id": 800112,
+"language": "por",
+"title": "Conectar — Relação de tempo sequencial"
+},
+"zht": {
+"content_id": 806696,
+"language": "zht",
+"title": "連接-連續時間關係"
+},
+"nep": {
+"content_id": 727746,
+"language": "nep",
+"title": "जडान - अनुक्रमिक समय सम्बन्ध"
+},
+"guj": {
+"content_id": 884244,
+"language": "guj",
+"title": "સંયોજક - ક્રમિક સમયનો સંબંધ"
+}
+}
+},
+"fa_ta_translate_grammar-connect-time-simultaneous": {
+"content_id": "fa_ta_translate_grammar-connect-time-simultaneous",
+"reference_id": 26748,
+"index_reference": "حروف ربط  رابطه همزمان",
+"localizations": {
+"eng": {
+"content_id": 33334,
+"language": "eng",
+"title": "Connect — Simultaneous Time Relationship"
+},
+"arb": {
+"content_id": 781673,
+"language": "arb",
+"title": "الربط — لإظهار علاقة زمنية متزامنة"
+},
+"hin": {
+"content_id": 727374,
+"language": "hin",
+"title": "संयोजक - समकालीन समय संबंध"
+},
+"ind": {
+"content_id": 727570,
+"language": "ind",
+"title": "Hubungan - Keterkaitan Waktu secara Bersamaan"
+},
+"por": {
+"content_id": 800113,
+"language": "por",
+"title": "Conectar — Relação de tempo simultâneo"
+},
+"zht": {
+"content_id": 806697,
+"language": "zht",
+"title": "連接-同步時間關係"
+},
+"guj": {
+"content_id": 884245,
+"language": "guj",
+"title": "સમકાલીન સંબંધ"
+}
+}
+},
+"fa_ta_translate_grammar-connect-time-background": {
+"content_id": "fa_ta_translate_grammar-connect-time-background",
+"reference_id": 26746,
+"index_reference": "حروف ربط و اطلاعات پیش‌زمینه",
+"localizations": {
+"eng": {
+"content_id": 33332,
+"language": "eng",
+"title": "Connect — Background Information"
+},
+"arb": {
+"content_id": 781671,
+"language": "arb",
+"title": "الربط — المعلومات الأساسية"
+},
+"hin": {
+"content_id": 727372,
+"language": "hin",
+"title": "संयोजक - पृष्ठभूमि की जानकारी"
+},
+"ind": {
+"content_id": 727568,
+"language": "ind",
+"title": "Menghubungkan - Informasi Latar Belakang"
+},
+"por": {
+"content_id": 800111,
+"language": "por",
+"title": "Conectar — Informações de pano de fundo"
+},
+"zht": {
+"content_id": 806695,
+"language": "zht",
+"title": "連接-背景資訊"
+},
+"guj": {
+"content_id": 884243,
+"language": "guj",
+"title": "પૃષ્ઠભૂમિ અંગેની માહિતી સાંકળવી"
+}
+}
+},
+"fa_ta_translate_grammar-connect-logic-goal": {
+"content_id": "fa_ta_translate_grammar-connect-logic-goal",
+"reference_id": 26744,
+"index_reference": "حروف ربط نشان‌دهندهٔ هدف",
+"localizations": {
+"eng": {
+"content_id": 33330,
+"language": "eng",
+"title": "Connect — Goal (Purpose) Relationship"
+},
+"arb": {
+"content_id": 781669,
+"language": "arb",
+"title": "الربط — لإظهار الهدف (الغرض)"
+},
+"hin": {
+"content_id": 727370,
+"language": "hin",
+"title": "संयोजक - लक्ष्य (उद्देश्य) संबंध"
+},
+"ind": {
+"content_id": 727566,
+"language": "ind",
+"title": "Menghubungkan - Maksud (Tujuan) Hubungan"
+},
+"por": {
+"content_id": 800109,
+"language": "por",
+"title": "Conectar — Relação de meta (propósito)"
+},
+"zht": {
+"content_id": 806693,
+"language": "zht",
+"title": "連接-目標（目的）關係"
+},
+"nep": {
+"content_id": 727744,
+"language": "nep",
+"title": "जडान - लक्ष्य (उद्देश्य) सम्बन्ध"
+},
+"guj": {
+"content_id": 884241,
+"language": "guj",
+"title": "જોડાણ - ધ્યેય (હેતુ) સબંધ"
+}
+}
+},
+"fa_ta_translate_grammar-connect-logic-result": {
+"content_id": "fa_ta_translate_grammar-connect-logic-result",
+"reference_id": 26745,
+"index_reference": "حروف ربط  رابطه علت و معلولی",
+"localizations": {
+"eng": {
+"content_id": 33331,
+"language": "eng",
+"title": "Connect — Reason-and-Result Relationship"
+},
+"arb": {
+"content_id": 781670,
+"language": "arb",
+"title": "الربط — لإظهار علاقة السبب والنتيجة"
+},
+"hin": {
+"content_id": 727371,
+"language": "hin",
+"title": "संयोजक - कारण और परिणाम संबंध"
+},
+"ind": {
+"content_id": 727567,
+"language": "ind",
+"title": "Keterhubungan - Hubungan Sebab dan Akibat"
+},
+"por": {
+"content_id": 800110,
+"language": "por",
+"title": "Conectar — Relação de razão e resultado"
+},
+"zht": {
+"content_id": 806694,
+"language": "zht",
+"title": "連接-因果關係"
+},
+"nep": {
+"content_id": 727745,
+"language": "nep",
+"title": "जडान - कारण र परिणाम सम्बन्ध"
+},
+"guj": {
+"content_id": 884242,
+"language": "guj",
+"title": "જોડાણ - કારણ-અને-પરિણામ સબંધ"
+}
+}
+},
+"fa_ta_translate_grammar-connect-logic-contrast": {
+"content_id": "fa_ta_translate_grammar-connect-logic-contrast",
+"reference_id": 26743,
+"index_reference": "حروف ربط  رابطه تضاد",
+"localizations": {
+"eng": {
+"content_id": 33329,
+"language": "eng",
+"title": "Connect — Contrast Relationship"
+},
+"arb": {
+"content_id": 781668,
+"language": "arb",
+"title": "الربط — لإظهار التضاد والتباين"
+},
+"hin": {
+"content_id": 727369,
+"language": "hin",
+"title": "संयोजक - तुलनात्मक संबंध"
+},
+"ind": {
+"content_id": 727565,
+"language": "ind",
+"title": "Hubungkan — Hubungan Kontras"
+},
+"por": {
+"content_id": 800108,
+"language": "por",
+"title": "Conectar — Relação de contraste"
+},
+"zht": {
+"content_id": 806692,
+"language": "zht",
+"title": "連接-對比關係"
+},
+"nep": {
+"content_id": 727743,
+"language": "nep",
+"title": "जडान - विरोधावास सम्बन्ध"
+},
+"guj": {
+"content_id": 884240,
+"language": "guj",
+"title": "જોડાણ-વિરોધાભાસ સબંધ"
+}
+}
+},
+"fa_ta_translate_grammar-connect-condition-fact": {
+"content_id": "fa_ta_translate_grammar-connect-condition-fact",
+"reference_id": 26740,
+"index_reference": "حروف ربط  شرطی‌های حقیقی",
+"localizations": {
+"eng": {
+"content_id": 33326,
+"language": "eng",
+"title": "Connect — Factual Conditions"
+},
+"arb": {
+"content_id": 781665,
+"language": "arb",
+"title": "الربط — الشروط الفعلية"
+},
+"hin": {
+"content_id": 727366,
+"language": "hin",
+"title": "संयोजन – तथ्य गर्भित स्थितियां"
+},
+"ind": {
+"content_id": 727562,
+"language": "ind",
+"title": "Penghubung - Kondisi Faktual"
+},
+"por": {
+"content_id": 800105,
+"language": "por",
+"title": "Conectar — Condições factuais"
+},
+"zht": {
+"content_id": 806689,
+"language": "zht",
+"title": "連接-事實條件"
+},
+"guj": {
+"content_id": 884237,
+"language": "guj",
+"title": "વાસ્તવિક સ્થિતિઓને – જોડવા"
+}
+}
+},
+"fa_ta_translate_grammar-connect-exceptions": {
+"content_id": "fa_ta_translate_grammar-connect-exceptions",
+"reference_id": 26742,
+"index_reference": "حروف ربط نشان‌دهندهٔ استثنا",
+"localizations": {
+"eng": {
+"content_id": 33328,
+"language": "eng",
+"title": "Connect — Exception Clauses"
+},
+"arb": {
+"content_id": 781667,
+"language": "arb",
+"title": "الربط — عبارات لإظهار الاستثناء"
+},
+"hin": {
+"content_id": 727368,
+"language": "hin",
+"title": "संयोजक - अपवाद खण्ड"
+},
+"ind": {
+"content_id": 727564,
+"language": "ind",
+"title": "Kata Penghubung - Klausa Pengecualian"
+},
+"por": {
+"content_id": 800107,
+"language": "por",
+"title": "Conectar — Cláusulas de exceção"
+},
+"zht": {
+"content_id": 806691,
+"language": "zht",
+"title": "連接-例外子句"
+},
+"nep": {
+"content_id": 727742,
+"language": "nep",
+"title": "जडान - अपवाद खण्डहरू"
+},
+"guj": {
+"content_id": 884239,
+"language": "guj",
+"title": "અપવાદરૂપ ઉપવાક્યો – જોડવા"
+}
+}
+},
+"fa_ta_translate_figs-abstractnouns": {
+"content_id": "fa_ta_translate_figs-abstractnouns",
+"reference_id": 26671,
+"index_reference": "اسم معنی",
+"localizations": {
+"eng": {
+"content_id": 33257,
+"language": "eng",
+"title": "Abstract Nouns"
+},
+"arb": {
+"content_id": 781596,
+"language": "arb",
+"title": "الأسماء المجردة"
+},
+"hin": {
+"content_id": 727303,
+"language": "hin",
+"title": "भाववाचक संज्ञा"
+},
+"ind": {
+"content_id": 727510,
+"language": "ind",
+"title": "Kata Benda Abstrak"
+},
+"por": {
+"content_id": 800036,
+"language": "por",
+"title": "Substantivos abstratos"
+},
+"zht": {
+"content_id": 806680,
+"language": "zht",
+"title": "抽象名詞"
+},
+"nep": {
+"content_id": 727672,
+"language": "nep",
+"title": "भाववाचक नाम"
+},
+"guj": {
+"content_id": 884172,
+"language": "guj",
+"title": "﻿﻿﻿અમૂર્ત નામો"
+}
+}
+},
+"fa_ta_translate_figs-activepassive": {
+"content_id": "fa_ta_translate_figs-activepassive",
+"reference_id": 26672,
+"index_reference": "فعل معلوم و مجهول",
+"localizations": {
+"eng": {
+"content_id": 33258,
+"language": "eng",
+"title": "Active or Passive"
+},
+"arb": {
+"content_id": 781597,
+"language": "arb",
+"title": "المبني للمعلوم أو المبني للمجهول"
+},
+"hin": {
+"content_id": 727304,
+"language": "hin",
+"title": "कर्तृवाच्य एवं कर्मवाच्य"
+},
+"ind": {
+"content_id": 727511,
+"language": "ind",
+"title": "Aktif atau Pasif"
+},
+"por": {
+"content_id": 800037,
+"language": "por",
+"title": "Ativo ou passivo"
+},
+"zht": {
+"content_id": 806681,
+"language": "zht",
+"title": "主動或被動"
+},
+"nep": {
+"content_id": 727673,
+"language": "nep",
+"title": "कर्तृवाच्य र कर्मवाच्य"
+},
+"guj": {
+"content_id": 884173,
+"language": "guj",
+"title": "﻿﻿સક્રિય (પ્રત્યક્ષ) અથવા નિષ્ક્રિય (પરોક્ષ)"
+}
+}
+},
+"fa_ta_translate_figs-distinguish": {
+"content_id": "fa_ta_translate_figs-distinguish",
+"reference_id": 26678,
+"index_reference": "تشخیص میان اطلاع‌رسانی و یادآوری",
+"localizations": {
+"eng": {
+"content_id": 33264,
+"language": "eng",
+"title": "Distinguishing Versus Informing or Reminding"
+},
+"arb": {
+"content_id": 781603,
+"language": "arb",
+"title": "التمييز مقابل الإخبار أو التذكير"
+},
+"hin": {
+"content_id": 727308,
+"language": "hin",
+"title": "सूचना देने बनाम याद दिलाने वाले शब्दों में अंतर करना"
+},
+"ind": {
+"content_id": 727513,
+"language": "ind",
+"title": "Membedakan antara Menginformasikan atau Mengingatkan"
+},
+"por": {
+"content_id": 800043,
+"language": "por",
+"title": "Distinguir versus informar ou lembrar"
+},
+"zht": {
+"content_id": 817697,
+"language": "zht",
+"title": "區分相對於告知或提醒"
+},
+"nep": {
+"content_id": 727677,
+"language": "nep",
+"title": "जानकारी दिने वा स्मरण गराउने वाक्यांश बिच फरक"
+},
+"guj": {
+"content_id": 884177,
+"language": "guj",
+"title": "માહિતી આપવી કે યાદ દેવડાવવું વચ્ચેનો તફાવત"
+}
+}
+},
+"fa_ta_translate_figs-doublenegatives": {
+"content_id": "fa_ta_translate_figs-doublenegatives",
+"reference_id": 26679,
+"index_reference": "نفی مضاعف منفی در منفی",
+"localizations": {
+"eng": {
+"content_id": 33265,
+"language": "eng",
+"title": "Double Negatives"
+},
+"arb": {
+"content_id": 781604,
+"language": "arb",
+"title": "النفي المزدوج"
+},
+"hin": {
+"content_id": 727309,
+"language": "hin",
+"title": "दोहरे नकारात्मक"
+},
+"ind": {
+"content_id": 727514,
+"language": "ind",
+"title": "Negatif Ganda"
+},
+"por": {
+"content_id": 800044,
+"language": "por",
+"title": "Negativos duplos"
+},
+"zht": {
+"content_id": 817698,
+"language": "zht",
+"title": "雙重否定"
+},
+"nep": {
+"content_id": 727678,
+"language": "nep",
+"title": "दोहोरो नकारात्मक"
+},
+"guj": {
+"content_id": 884178,
+"language": "guj",
+"title": "﻿બમણી નકારાત્મકતા/બેવડા નકારત્મકો"
+}
+}
+},
+"fa_ta_translate_figs-ellipsis": {
+"content_id": "fa_ta_translate_figs-ellipsis",
+"reference_id": 26681,
+"index_reference": "حذف به قرینه",
+"localizations": {
+"eng": {
+"content_id": 33267,
+"language": "eng",
+"title": "Ellipsis"
+},
+"arb": {
+"content_id": 781606,
+"language": "arb",
+"title": "الحذف"
+},
+"hin": {
+"content_id": 727311,
+"language": "hin",
+"title": "पदन्यूनता"
+},
+"ind": {
+"content_id": 727516,
+"language": "ind",
+"title": "Elipsis (Penghilangan Kata)"
+},
+"por": {
+"content_id": 800046,
+"language": "por",
+"title": "Elipse"
+},
+"zht": {
+"content_id": 817700,
+"language": "zht",
+"title": "省略"
+},
+"nep": {
+"content_id": 727680,
+"language": "nep",
+"title": "शब्दलोप"
+},
+"guj": {
+"content_id": 884180,
+"language": "guj",
+"title": "અનુક્ત શબ્દ (વાક્યમાં કરેલો શબ્દનો લોપ)"
+}
+}
+},
+"fa_ta_translate_figs-you": {
+"content_id": "fa_ta_translate_figs-you",
+"reference_id": 26731,
+"index_reference": "انواع ضمیر دوم شخص",
+"localizations": {
+"eng": {
+"content_id": 33317,
+"language": "eng",
+"title": "Forms of You"
+},
+"arb": {
+"content_id": 781656,
+"language": "arb",
+"title": "أشكال الضمير \"أنت\""
+},
+"hin": {
+"content_id": 727356,
+"language": "hin",
+"title": "तुम के प्रारूप"
+},
+"ind": {
+"content_id": 727552,
+"language": "ind",
+"title": "Bentuk dari Kamu"
+},
+"por": {
+"content_id": 800096,
+"language": "por",
+"title": "Formas de 'você'"
+},
+"zht": {
+"content_id": 817720,
+"language": "zht",
+"title": "你的形式"
+},
+"nep": {
+"content_id": 727728,
+"language": "nep",
+"title": "तिमीका रूपहरू"
+},
+"guj": {
+"content_id": 884228,
+"language": "guj",
+"title": "તમેનાં સ્વરૂપો"
+}
+}
+},
+"fa_ta_translate_figs-yousingular": {
+"content_id": "fa_ta_translate_figs-yousingular",
+"reference_id": 26735,
+"index_reference": "انواع ضمیر دوم شخص",
+"localizations": {
+"eng": {
+"content_id": 33321,
+"language": "eng",
+"title": "Forms of ‘You’ — Singular"
+},
+"arb": {
+"content_id": 781660,
+"language": "arb",
+"title": "أشكال الضمير \"أنت\" — المفرد"
+},
+"hin": {
+"content_id": 727360,
+"language": "hin",
+"title": "‘तुम’ के रूप - एकवचन"
+},
+"ind": {
+"content_id": 727554,
+"language": "ind",
+"title": "Bentuk kata ‘Kamu’ — Tunggal"
+},
+"por": {
+"content_id": 800100,
+"language": "por",
+"title": "Formas de 'você' — Singular"
+},
+"zht": {
+"content_id": 817723,
+"language": "zht",
+"title": "「你」的形式-單數"
+},
+"nep": {
+"content_id": 727732,
+"language": "nep",
+"title": "\"तिमी\" का रूपहरू - एकवचन"
+},
+"guj": {
+"content_id": 884232,
+"language": "guj",
+"title": "'તમે' ના સ્વરૂપો - એકવચન"
+}
+}
+},
+"fa_ta_translate_figs-go": {
+"content_id": "fa_ta_translate_figs-go",
+"reference_id": 26692,
+"index_reference": "برو و بیا",
+"localizations": {
+"eng": {
+"content_id": 33278,
+"language": "eng",
+"title": "Go and Come"
+},
+"arb": {
+"content_id": 781617,
+"language": "arb",
+"title": "اذهب وتعال "
+},
+"hin": {
+"content_id": 727322,
+"language": "hin",
+"title": "जाओ और आओ"
+},
+"ind": {
+"content_id": 727527,
+"language": "ind",
+"title": "Pergi dan Datang"
+},
+"por": {
+"content_id": 800057,
+"language": "por",
+"title": "Ir e vir"
+},
+"zht": {
+"content_id": 817706,
+"language": "zht",
+"title": "去和來"
+},
+"nep": {
+"content_id": 727691,
+"language": "nep",
+"title": "जानु र आउनु"
+},
+"guj": {
+"content_id": 884191,
+"language": "guj",
+"title": "જાઓ અને આવો"
+}
+}
+},
+"fa_ta_translate_figs-nominaladj": {
+"content_id": "fa_ta_translate_figs-nominaladj",
+"reference_id": 26708,
+"index_reference": "صفات اسمی",
+"localizations": {
+"eng": {
+"content_id": 33294,
+"language": "eng",
+"title": "Nominal Adjectives"
+},
+"arb": {
+"content_id": 781633,
+"language": "arb",
+"title": "الصفات الاسمية"
+},
+"hin": {
+"content_id": 727337,
+"language": "hin",
+"title": "आम विशेषण"
+},
+"ind": {
+"content_id": 727539,
+"language": "ind",
+"title": "Kata Sifat Nominal"
+},
+"por": {
+"content_id": 800073,
+"language": "por",
+"title": "Adjetivos nominais"
+},
+"zht": {
+"content_id": 825966,
+"language": "zht",
+"title": "名詞形容詞"
+},
+"nep": {
+"content_id": 727708,
+"language": "nep",
+"title": "नामको काम गर्ने विशेषण"
+},
+"guj": {
+"content_id": 884208,
+"language": "guj",
+"title": "નામવાચક વિશેષણો"
+}
+}
+},
+"fa_ta_translate_figs-quotations": {
+"content_id": "fa_ta_translate_figs-quotations",
+"reference_id": 26719,
+"index_reference": "نقل قول مستقیم و غیرمستقیم",
+"localizations": {
+"eng": {
+"content_id": 33305,
+"language": "eng",
+"title": "Direct and Indirect Quotations"
+},
+"arb": {
+"content_id": 781644,
+"language": "arb",
+"title": "الاقتباسات المباشرة وغير المباشرة"
+},
+"hin": {
+"content_id": 727346,
+"language": "hin",
+"title": "प्रत्यक्ष एवं अप्रत्यक्ष उद्धरण"
+},
+"ind": {
+"content_id": 727546,
+"language": "ind",
+"title": "Kutipan Langsung dan Tidak Langsung"
+},
+"por": {
+"content_id": 800084,
+"language": "por",
+"title": "Citações diretas e indiretas"
+},
+"zht": {
+"content_id": 817719,
+"language": "zht",
+"title": "直接和間接引文"
+},
+"nep": {
+"content_id": 727717,
+"language": "nep",
+"title": "प्रत्यक्ष र अप्रत्यक्ष कथनहरू"
+},
+"guj": {
+"content_id": 884217,
+"language": "guj",
+"title": "પ્રત્યક્ષ અને પરોક્ષ અવતરણો"
+}
+}
+},
+"fa_ta_translate_figs-123person": {
+"content_id": "fa_ta_translate_figs-123person",
+"reference_id": 26670,
+"index_reference": "اول دوم یا سوم شخص",
+"localizations": {
+"eng": {
+"content_id": 33256,
+"language": "eng",
+"title": "First, Second or Third Person"
+},
+"arb": {
+"content_id": 781595,
+"language": "arb",
+"title": "صيغة المتكلم والمخاطب والغائب"
+},
+"hin": {
+"content_id": 727302,
+"language": "hin",
+"title": "प्रथम, द्वितीय एवं तृतीय पुरुष"
+},
+"ind": {
+"content_id": 727509,
+"language": "ind",
+"title": "Orang Pertama, Kedua atau Ketiga"
+},
+"por": {
+"content_id": 800035,
+"language": "por",
+"title": "Primeira, segunda ou terceira pessoa"
+},
+"zht": {
+"content_id": 817695,
+"language": "zht",
+"title": "第一、第二或第三人稱"
+},
+"nep": {
+"content_id": 727671,
+"language": "nep",
+"title": "प्रथम, दोस्रो वा तेस्रो पुरुष"
+},
+"guj": {
+"content_id": 884171,
+"language": "guj",
+"title": "પ્રથમ, બીજો અને ત્રીજો પુરુષ"
+}
+}
+},
+"fa_ta_translate_figs-exclusive": {
+"content_id": "fa_ta_translate_figs-exclusive",
+"reference_id": 26685,
+"index_reference": "ما فراگیر و انحصاری",
+"localizations": {
+"eng": {
+"content_id": 33271,
+"language": "eng",
+"title": "Exclusive and Inclusive ‘We’"
+},
+"arb": {
+"content_id": 781610,
+"language": "arb",
+"title": "ضمير \"نحن\" الحصري والشامل"
+},
+"hin": {
+"content_id": 727315,
+"language": "hin",
+"title": "विशिष्ट एवं संयुक्त ‘‘हम’’"
+},
+"ind": {
+"content_id": 727520,
+"language": "ind",
+"title": "\"Kami\" yang Eksklusif dan Inklusif"
+},
+"por": {
+"content_id": 800050,
+"language": "por",
+"title": "‘Nós’ exclusivo e inclusivo"
+},
+"zht": {
+"content_id": 817703,
+"language": "zht",
+"title": "排他性和包容性的「我們」"
+},
+"nep": {
+"content_id": 727684,
+"language": "nep",
+"title": "\"हामी\" को समावेशी र असमावेशी रूप"
+},
+"guj": {
+"content_id": 884184,
+"language": "guj",
+"title": "વિશિષ્ટ અને સમાવેશક “અમે”"
+}
+}
+},
+"fa_ta_translate_writing-pronouns": {
+"content_id": "fa_ta_translate_writing-pronouns",
+"reference_id": 26838,
+"index_reference": "کاربرد ضمایر",
+"localizations": {
+"eng": {
+"content_id": 33424,
+"language": "eng",
+"title": "Pronouns — When to Use Them"
+},
+"arb": {
+"content_id": 781763,
+"language": "arb",
+"title": "الضمائر - متى تستخدمها"
+},
+"hin": {
+"content_id": 727471,
+"language": "hin",
+"title": "सर्वनाम - उनका कब उपयोग करें"
+},
+"ind": {
+"content_id": 727631,
+"language": "ind",
+"title": "Kata Ganti — Kapan Menggunakannya"
+},
+"por": {
+"content_id": 800203,
+"language": "por",
+"title": "Pronomes — Quando usá-los"
+},
+"zht": {
+"content_id": 825999,
+"language": "zht",
+"title": "代名詞-何時使用"
+},
+"nep": {
+"content_id": 727872,
+"language": "nep",
+"title": "सर्वनामहरू - यिनीहरूको प्रयोग कहिले गर्ने"
+},
+"guj": {
+"content_id": 884333,
+"language": "guj",
+"title": "સર્વનામ - તેનો ઉપયોગ ક્યારે કરવો"
+}
+}
+},
+"fa_ta_translate_translate-unknown": {
+"content_id": "fa_ta_translate_translate-unknown",
+"reference_id": 26822,
+"index_reference": "ترجمهٔ ناشناخته‌ها",
+"localizations": {
+"eng": {
+"content_id": 33408,
+"language": "eng",
+"title": "Translate Unknowns"
+},
+"arb": {
+"content_id": 781747,
+"language": "arb",
+"title": "ترجمة المجهولات"
+},
+"hin": {
+"content_id": 727456,
+"language": "hin",
+"title": "अज्ञात का अनुवाद"
+},
+"ind": {
+"content_id": 727613,
+"language": "ind",
+"title": "Terjemahkan Hal yang Tidak Diketahui"
+},
+"por": {
+"content_id": 800187,
+"language": "por",
+"title": "Traduzir desconhecidos"
+},
+"zht": {
+"content_id": 831927,
+"language": "zht",
+"title": "翻譯未知詞"
+},
+"nep": {
+"content_id": 727844,
+"language": "nep",
+"title": "अज्ञातहरूको अनुवाद गर्नुहोस्"
+},
+"guj": {
+"content_id": 884316,
+"language": "guj",
+"title": "અજાણી બાબતો નો અનુવાદ"
+}
+}
+},
+"fa_ta_translate_translate-names": {
+"content_id": "fa_ta_translate_translate-names",
+"reference_id": 26805,
+"index_reference": "چگونه نام ها را ترجمه کنیم",
+"localizations": {
+"eng": {
+"content_id": 33391,
+"language": "eng",
+"title": "How to Translate Names"
+},
+"arb": {
+"content_id": 781730,
+"language": "arb",
+"title": "كيفية ترجمة الأسماء"
+},
+"hin": {
+"content_id": 727441,
+"language": "hin",
+"title": "नामों का अनुवाद कैसे करें"
+},
+"ind": {
+"content_id": 727608,
+"language": "ind",
+"title": "Cara Menerjemahkan Nama"
+},
+"por": {
+"content_id": 800170,
+"language": "por",
+"title": "Como traduzir nomes"
+},
+"zht": {
+"content_id": 817749,
+"language": "zht",
+"title": "如何翻譯名字"
+},
+"nep": {
+"content_id": 727829,
+"language": "nep",
+"title": "नाउँहरूको अनुवाद कसरी गर्ने"
+},
+"guj": {
+"content_id": 884301,
+"language": "guj",
+"title": "નામોનો અનુવાદ કેવી રીતે કરવો"
+}
+}
+},
+"fa_ta_translate_figs-explicit": {
+"content_id": "fa_ta_translate_figs-explicit",
+"reference_id": 26687,
+"index_reference": "دانش فرضی و اطلاعات ضمنی",
+"localizations": {
+"eng": {
+"content_id": 33273,
+"language": "eng",
+"title": "Assumed Knowledge and Implicit Information"
+},
+"arb": {
+"content_id": 781612,
+"language": "arb",
+"title": "المعرفة المفترضة والمعلومات الضمنية"
+},
+"hin": {
+"content_id": 727317,
+"language": "hin",
+"title": "अनुमानित ज्ञान एवं अंतर्निहित सूचना"
+},
+"ind": {
+"content_id": 727522,
+"language": "ind",
+"title": "Asumsi Pengetahuan dan Informasi Tersirat"
+},
+"por": {
+"content_id": 800052,
+"language": "por",
+"title": "Conhecimento presumido e informações implícitas"
+},
+"zht": {
+"content_id": 806686,
+"language": "zht",
+"title": "預設的知識和隱含的資訊"
+},
+"nep": {
+"content_id": 727686,
+"language": "nep",
+"title": "ग्रहण गरिएको ज्ञान र अन्तर्निहित जानकारी"
+},
+"guj": {
+"content_id": 884186,
+"language": "guj",
+"title": "અનુમાનિત જ્ઞાન અને ગર્ભિત માહિતી"
+}
+}
+},
+"fa_ta_translate_translate-symaction": {
+"content_id": "fa_ta_translate_translate-symaction",
+"reference_id": 26816,
+"index_reference": "عملکرد نمادین",
+"localizations": {
+"eng": {
+"content_id": 33402,
+"language": "eng",
+"title": "Symbolic Action"
+},
+"arb": {
+"content_id": 781741,
+"language": "arb",
+"title": "الحركات الرمزية"
+},
+"hin": {
+"content_id": 727451,
+"language": "hin",
+"title": "प्रतीकात्मक कार्य"
+},
+"ind": {
+"content_id": 727610,
+"language": "ind",
+"title": "Tindakan Simbolis"
+},
+"por": {
+"content_id": 800181,
+"language": "por",
+"title": "Ação simbólica"
+},
+"zht": {
+"content_id": 831923,
+"language": "zht",
+"title": "象徵性的動作"
+},
+"nep": {
+"content_id": 727839,
+"language": "nep",
+"title": "प्रतीकात्मक कार्य"
+},
+"guj": {
+"content_id": 884311,
+"language": "guj",
+"title": "સાંકેતિક પગલું"
+}
+}
+},
+"fa_ta_translate_figs-doublet": {
+"content_id": "fa_ta_translate_figs-doublet",
+"reference_id": 26680,
+"index_reference": "قرینه",
+"localizations": {
+"eng": {
+"content_id": 33266,
+"language": "eng",
+"title": "Doublet"
+},
+"arb": {
+"content_id": 781605,
+"language": "arb",
+"title": "النظير اللغوي"
+},
+"hin": {
+"content_id": 727310,
+"language": "hin",
+"title": "दोहरात्मक"
+},
+"ind": {
+"content_id": 727515,
+"language": "ind",
+"title": "Doublet (Jamak)"
+},
+"por": {
+"content_id": 800045,
+"language": "por",
+"title": "Dupla"
+},
+"zht": {
+"content_id": 817699,
+"language": "zht",
+"title": "同義連用"
+},
+"nep": {
+"content_id": 727679,
+"language": "nep",
+"title": "प्रतिरूपी"
+},
+"guj": {
+"content_id": 884179,
+"language": "guj",
+"title": "﻿બેવડું/બમણાં"
+}
+}
+},
+"fa_ta_translate_figs-hendiadys": {
+"content_id": "fa_ta_translate_figs-hendiadys",
+"reference_id": 26694,
+"index_reference": "Hendiadys",
+"localizations": {
+"eng": {
+"content_id": 33280,
+"language": "eng",
+"title": "Hendiadys"
+},
+"arb": {
+"content_id": 781619,
+"language": "arb",
+"title": "عطف البيان"
+},
+"hin": {
+"content_id": 727324,
+"language": "hin",
+"title": "हेन्डियडिस"
+},
+"ind": {
+"content_id": 727528,
+"language": "ind",
+"title": "Hendiadis"
+},
+"por": {
+"content_id": 800059,
+"language": "por",
+"title": "Hendíade"
+},
+"zht": {
+"content_id": 817708,
+"language": "zht",
+"title": "二詞一義"
+},
+"nep": {
+"content_id": 727693,
+"language": "nep",
+"title": "दुई शब्दको बिचमा 'र' राखेर एउटै विचार व्यक्त गर्ने अभिव्यञ्‍जना"
+},
+"guj": {
+"content_id": 884193,
+"language": "guj",
+"title": "સંયોજકો"
+}
+}
+},
+"fa_ta_translate_figs-hyperbole": {
+"content_id": "fa_ta_translate_figs-hyperbole",
+"reference_id": 26695,
+"index_reference": "مبالغه",
+"localizations": {
+"eng": {
+"content_id": 33281,
+"language": "eng",
+"title": "Hyperbole"
+},
+"arb": {
+"content_id": 781620,
+"language": "arb",
+"title": "أسلوب المبالغة"
+},
+"hin": {
+"content_id": 727325,
+"language": "hin",
+"title": "अतिशयोक्ति"
+},
+"ind": {
+"content_id": 727529,
+"language": "ind",
+"title": "Hiperbola"
+},
+"por": {
+"content_id": 800060,
+"language": "por",
+"title": "Hipérbole"
+},
+"zht": {
+"content_id": 817709,
+"language": "zht",
+"title": "誇張法"
+},
+"nep": {
+"content_id": 727694,
+"language": "nep",
+"title": "अतिशयोक्ति र सामान्यीकरण"
+},
+"guj": {
+"content_id": 884194,
+"language": "guj",
+"title": "અત્યુક્તિ અને સામાન્યીકરણ"
+}
+}
+},
+"fa_ta_translate_figs-idiom": {
+"content_id": "fa_ta_translate_figs-idiom",
+"reference_id": 26697,
+"index_reference": "اصطلاح",
+"localizations": {
+"eng": {
+"content_id": 33283,
+"language": "eng",
+"title": "Idiom"
+},
+"arb": {
+"content_id": 781622,
+"language": "arb",
+"title": "تعبير اصطلاحي "
+},
+"hin": {
+"content_id": 727327,
+"language": "hin",
+"title": "मुहावरे"
+},
+"ind": {
+"content_id": 727531,
+"language": "ind",
+"title": "Ungkapan"
+},
+"por": {
+"content_id": 800062,
+"language": "por",
+"title": "Expressão idiomática"
+},
+"zht": {
+"content_id": 817711,
+"language": "zht",
+"title": "慣用語"
+},
+"nep": {
+"content_id": 727696,
+"language": "nep",
+"title": "टुक्काहरू"
+},
+"guj": {
+"content_id": 884196,
+"language": "guj",
+"title": "રૂઢિપ્રયોગ"
+}
+}
+},
+"fa_ta_translate_figs-irony": {
+"content_id": "fa_ta_translate_figs-irony",
+"reference_id": 26702,
+"index_reference": "کنایه",
+"localizations": {
+"eng": {
+"content_id": 33288,
+"language": "eng",
+"title": "Irony"
+},
+"arb": {
+"content_id": 781627,
+"language": "arb",
+"title": "أسلوب السخرية"
+},
+"hin": {
+"content_id": 727331,
+"language": "hin",
+"title": "व्यंग्यात्मक"
+},
+"ind": {
+"content_id": 727534,
+"language": "ind",
+"title": "Ironi"
+},
+"por": {
+"content_id": 800067,
+"language": "por",
+"title": "Ironia"
+},
+"zht": {
+"content_id": 817715,
+"language": "zht",
+"title": "諷刺"
+},
+"nep": {
+"content_id": 727702,
+"language": "nep",
+"title": "व्यङ्ग्य"
+},
+"guj": {
+"content_id": 884202,
+"language": "guj",
+"title": "વક્રોક્તિ /કટાક્ષવચન"
+}
+}
+},
+"fa_ta_translate_figs-litotes": {
+"content_id": "fa_ta_translate_figs-litotes",
+"reference_id": 26704,
+"index_reference": "کم‌نمایی",
+"localizations": {
+"eng": {
+"content_id": 33290,
+"language": "eng",
+"title": "Litotes"
+},
+"arb": {
+"content_id": 781629,
+"language": "arb",
+"title": "التوكيد بالنفي"
+},
+"hin": {
+"content_id": 727333,
+"language": "hin",
+"title": "विडंबना"
+},
+"ind": {
+"content_id": 727535,
+"language": "ind",
+"title": "Litotes"
+},
+"por": {
+"content_id": 800069,
+"language": "por",
+"title": "Litotes"
+},
+"zht": {
+"content_id": 817717,
+"language": "zht",
+"title": "間接肯定法"
+},
+"nep": {
+"content_id": 727704,
+"language": "nep",
+"title": "निषेधात्मक"
+},
+"guj": {
+"content_id": 884204,
+"language": "guj",
+"title": "વક્રોક્તિ"
+}
+}
+},
+"fa_ta_translate_figs-merism": {
+"content_id": "fa_ta_translate_figs-merism",
+"reference_id": 26705,
+"index_reference": "تکرار تشابهات",
+"localizations": {
+"eng": {
+"content_id": 33291,
+"language": "eng",
+"title": "Merism"
+},
+"arb": {
+"content_id": 781630,
+"language": "arb",
+"title": "التقسيم المتضاد"
+},
+"hin": {
+"content_id": 727334,
+"language": "hin",
+"title": "विभज्योतक"
+},
+"ind": {
+"content_id": 727536,
+"language": "ind",
+"title": "Merisme"
+},
+"por": {
+"content_id": 800070,
+"language": "por",
+"title": "Merismo"
+},
+"zht": {
+"content_id": 817718,
+"language": "zht",
+"title": "兩極統詞"
+},
+"nep": {
+"content_id": 727705,
+"language": "nep",
+"title": "मेरिज्म"
+},
+"guj": {
+"content_id": 884205,
+"language": "guj",
+"title": "મેરિઝમ"
+}
+}
+},
+"fa_ta_translate_figs-metaphor": {
+"content_id": "fa_ta_translate_figs-metaphor",
+"reference_id": 26706,
+"index_reference": "استعاره",
+"localizations": {
+"eng": {
+"content_id": 33292,
+"language": "eng",
+"title": "Metaphor"
+},
+"arb": {
+"content_id": 781631,
+"language": "arb",
+"title": "الاستعارة"
+},
+"hin": {
+"content_id": 727335,
+"language": "hin",
+"title": "रूपक"
+},
+"ind": {
+"content_id": 727537,
+"language": "ind",
+"title": "Metafora"
+},
+"por": {
+"content_id": 800071,
+"language": "por",
+"title": "Metáfora"
+},
+"zht": {
+"content_id": 825964,
+"language": "zht",
+"title": "隱喻"
+},
+"nep": {
+"content_id": 727706,
+"language": "nep",
+"title": "रूपक"
+},
+"guj": {
+"content_id": 884206,
+"language": "guj",
+"title": "રૂપક"
+}
+}
+},
+"fa_ta_translate_figs-metonymy": {
+"content_id": "fa_ta_translate_figs-metonymy",
+"reference_id": 26707,
+"index_reference": "دگرنامی",
+"localizations": {
+"eng": {
+"content_id": 33293,
+"language": "eng",
+"title": "Metonymy"
+},
+"arb": {
+"content_id": 781632,
+"language": "arb",
+"title": "مجاز مُرسل"
+},
+"hin": {
+"content_id": 727336,
+"language": "hin",
+"title": "लक्षणालंकार"
+},
+"ind": {
+"content_id": 727538,
+"language": "ind",
+"title": "Metonimi"
+},
+"por": {
+"content_id": 800072,
+"language": "por",
+"title": "Metonímia"
+},
+"zht": {
+"content_id": 825965,
+"language": "zht",
+"title": "轉喻"
+},
+"nep": {
+"content_id": 727707,
+"language": "nep",
+"title": "लक्षणा"
+},
+"guj": {
+"content_id": 884207,
+"language": "guj",
+"title": "﻿ઉપનામ"
+}
+}
+},
+"fa_ta_translate_figs-parallelism": {
+"content_id": "fa_ta_translate_figs-parallelism",
+"reference_id": 26713,
+"index_reference": "تشابه",
+"localizations": {
+"eng": {
+"content_id": 33299,
+"language": "eng",
+"title": "Parallelism"
+},
+"arb": {
+"content_id": 781638,
+"language": "arb",
+"title": "التوازي"
+},
+"hin": {
+"content_id": 727340,
+"language": "hin",
+"title": "समरूपता"
+},
+"ind": {
+"content_id": 727541,
+"language": "ind",
+"title": "Paralelisme"
+},
+"por": {
+"content_id": 800078,
+"language": "por",
+"title": "Paralelismo"
+},
+"zht": {
+"content_id": 825968,
+"language": "zht",
+"title": "平行"
+},
+"nep": {
+"content_id": 727711,
+"language": "nep",
+"title": "समान्तरता"
+},
+"guj": {
+"content_id": 884211,
+"language": "guj",
+"title": "સમાંતરણ"
+}
+}
+},
+"fa_ta_translate_figs-personification": {
+"content_id": "fa_ta_translate_figs-personification",
+"reference_id": 26716,
+"index_reference": "شخصیت پردازی",
+"localizations": {
+"eng": {
+"content_id": 33302,
+"language": "eng",
+"title": "Personification"
+},
+"arb": {
+"content_id": 781641,
+"language": "arb",
+"title": "التشخيص"
+},
+"hin": {
+"content_id": 727343,
+"language": "hin",
+"title": "मानवीकरण"
+},
+"ind": {
+"content_id": 727543,
+"language": "ind",
+"title": "Personifikasi"
+},
+"por": {
+"content_id": 800081,
+"language": "por",
+"title": "Personificação"
+},
+"zht": {
+"content_id": 825971,
+"language": "zht",
+"title": "擬人化"
+},
+"nep": {
+"content_id": 727714,
+"language": "nep",
+"title": "मानवीकरण"
+},
+"guj": {
+"content_id": 884214,
+"language": "guj",
+"title": "વ્યક્તિનો અવતાર"
+}
+}
+},
+"fa_ta_translate_figs-rquestion": {
+"content_id": "fa_ta_translate_figs-rquestion",
+"reference_id": 26724,
+"index_reference": "پرسش بدیهی",
+"localizations": {
+"eng": {
+"content_id": 33310,
+"language": "eng",
+"title": "Rhetorical Question"
+},
+"arb": {
+"content_id": 781649,
+"language": "arb",
+"title": "السؤال البلاغي"
+},
+"hin": {
+"content_id": 727350,
+"language": "hin",
+"title": "उत्तर की अपेक्ष किए बिना प्रभावोत्पादक प्रश्न"
+},
+"ind": {
+"content_id": 727549,
+"language": "ind",
+"title": "Pertanyaan Retoris"
+},
+"por": {
+"content_id": 800089,
+"language": "por",
+"title": "Pergunta retórica"
+},
+"zht": {
+"content_id": 825978,
+"language": "zht",
+"title": "修辭性問句"
+},
+"nep": {
+"content_id": 727721,
+"language": "nep",
+"title": "आलङ्‍कारिक प्रश्‍न"
+},
+"guj": {
+"content_id": 884221,
+"language": "guj",
+"title": "આલંકારિક પ્રશ્ન"
+}
+}
+},
+"fa_ta_translate_figs-simile": {
+"content_id": "fa_ta_translate_figs-simile",
+"reference_id": 26728,
+"index_reference": "تشبیه",
+"localizations": {
+"eng": {
+"content_id": 33314,
+"language": "eng",
+"title": "Simile"
+},
+"arb": {
+"content_id": 781653,
+"language": "arb",
+"title": "التشبيه"
+},
+"hin": {
+"content_id": 727353,
+"language": "hin",
+"title": "उपमा"
+},
+"ind": {
+"content_id": 727550,
+"language": "ind",
+"title": "Pembandingan"
+},
+"por": {
+"content_id": 800093,
+"language": "por",
+"title": "Símile"
+},
+"zht": {
+"content_id": 831905,
+"language": "zht",
+"title": "明喻"
+},
+"nep": {
+"content_id": 727724,
+"language": "nep",
+"title": "उपमा"
+},
+"guj": {
+"content_id": 884224,
+"language": "guj",
+"title": "ઉપમા"
+}
+}
+},
+"fa_ta_translate_figs-synecdoche": {
+"content_id": "fa_ta_translate_figs-synecdoche",
+"reference_id": 26729,
+"index_reference": "بخش‌گویی یا مجاز",
+"localizations": {
+"eng": {
+"content_id": 33315,
+"language": "eng",
+"title": "Synecdoche"
+},
+"arb": {
+"content_id": 781654,
+"language": "arb",
+"title": "المجاز الجزئي"
+},
+"hin": {
+"content_id": 727354,
+"language": "hin",
+"title": "उपलक्षण अलंकार"
+},
+"ind": {
+"content_id": 727551,
+"language": "ind",
+"title": "Sinekdok"
+},
+"por": {
+"content_id": 800094,
+"language": "por",
+"title": "Sinédoque"
+},
+"zht": {
+"content_id": 831906,
+"language": "zht",
+"title": "提喻法"
+},
+"nep": {
+"content_id": 727725,
+"language": "nep",
+"title": "उपलक्षण"
+},
+"guj": {
+"content_id": 884225,
+"language": "guj",
+"title": "અભિવ્યક્ત અલંકાર"
+}
+}
+},
+"fa_ta_checking_headings": {
+"content_id": "fa_ta_checking_headings",
+"reference_id": 209462,
+"index_reference": "عنوان های باب",
+"localizations": {
+"eng": {
+"content_id": 689642,
+"language": "eng",
+"title": "Section Headings"
+},
+"arb": {
+"content_id": 781781,
+"language": "arb",
+"title": "عناوين الأقسام"
+},
+"hin": {
+"content_id": 727257,
+"language": "hin",
+"title": "भागों के शीर्षक"
+},
+"ind": {
+"content_id": 727573,
+"language": "ind",
+"title": "Judul Perikop"
+},
+"por": {
+"content_id": 800221,
+"language": "por",
+"title": "Títulos de seções"
+},
+"zht": {
+"content_id": 831935,
+"language": "zht",
+"title": "章節標題"
+},
+"nep": {
+"content_id": 727760,
+"language": "nep",
+"title": "खण्डका शीर्षकहरू"
+}
+}
+}
+}
+}
